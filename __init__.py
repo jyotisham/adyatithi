@@ -142,7 +142,7 @@ class HinduCalendarEventOld(common.JsonObject):
       event.anchor_festival_id = legacy_event_dict["Relative Festival"]
     return event
 
-  def get_description_string(self, script, include_url=False):
+  def get_description_string(self, script, include_url=False, include_images=False):
     description_string = ""
     if hasattr(self, "description"):
       # description_string = json.dumps(self.description)
@@ -159,8 +159,12 @@ class HinduCalendarEventOld(common.JsonObject):
           logging.warning('Unmatched backquotes in description string: %s' % description_string)
     if hasattr(self, "shlokas"):
       description_string = description_string + '\n\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
+    if include_images:
+      if hasattr(self, "image"):
+          description_string += '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % self.image
+
     if include_url:
-      base_url = 'https://github.com/sanskrit-coders/jyotisha/tree/master/jyotisha/panchangam/temporal/festival/data'
+      base_url = 'https://github.com/sanskrit-coders/adyatithi/tree/master/data'
       if hasattr(self, "angam_type"):
         url = "%(base_dir)s/%(month_type)s/%(angam_type)s/%(month_number)02d/%(angam_number)02d#%(id)s" % dict(
             base_dir=base_url,
@@ -182,9 +186,9 @@ class HinduCalendarEventOld(common.JsonObject):
             tags=tag_list,
             id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').strip('{}').lower())
 
-      return description_string + ('\n\n<a href="%s">more ...</a>\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
-    else:
-      return description_string
+      description_string += ('\n\n[+++](%s)</a>\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+
+    return description_string
 
 
 # noinspection PyUnresolvedReferences
