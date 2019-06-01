@@ -94,7 +94,7 @@ def write_event_README(event, event_file_name):
         readme_file.write(blurb)
         description_string = ""
         if "image" in event_dict:
-          description_string = '![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/%s)\n\n' % event_dict['image']
+          description_string = '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % event_dict['image']
 
         if "description" in event_dict:
           # description_string = json.dumps(event_dict.description)
@@ -118,7 +118,7 @@ def write_event_README(event, event_file_name):
 
 
 def migrate_relative_db():
-  old_style_events = HinduCalendarEventOld.read_from_file(os.path.join(CODE_ROOT, 'panchangam/data/relative_festival_rules.json'))
+  old_style_events = HinduCalendarEventOld.read_from_file(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/legacy/relative_festival_rules.json'))
   for old_style_event in old_style_events:
     event = HinduCalendarEvent.from_old_style_event(old_style_event=old_style_event)
     logging.debug(str(event))
@@ -141,11 +141,7 @@ def legacy_dict_to_HinduCalendarEventOld_list(old_db_file, new_db_file):
 
 
 if __name__ == '__main__':
-  # legacy_dict_to_HinduCalendarEventOld_list(os.path.join(CODE_ROOT, 'panchangam/data/legacy/festival_rules.json'), os.path.join(CODE_ROOT, 'panchangam/data/festival_rules.json'))
-  # legacy_dict_to_HinduCalendarEventOld_list(os.path.join(CODE_ROOT, 'panchangam/data/legacy/festival_rules_desc_only.json'), os.path.join(CODE_ROOT, 'panchangam/data/festival_rules_desc_only.json'))
-  # legacy_dict_to_HinduCalendarEventOld_list(os.path.join(CODE_ROOT, 'panchangam/data/legacy/relative_festival_rules.json'), os.path.join(CODE_ROOT, 'panchangam/data/relative_festival_rules.json'))
-  migrate_db(os.path.join(CODE_ROOT, 'panchangam/data/festival_rules.json'))
-  migrate_db(os.path.join(CODE_ROOT, 'panchangam/data/festival_rules_desc_only.json'), only_descriptions=True)
-  # migrate_db(os.path.join(CODE_ROOT, 'panchangam/data/kanchi_aradhana_rules.json'))
+  migrate_db(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/legacy/festival_rules.json'))
+  migrate_db(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/legacy/festival_rules_desc_only.json'), only_descriptions=True)
   migrate_relative_db()
   pass
