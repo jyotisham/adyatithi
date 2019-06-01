@@ -1,0 +1,17 @@
+{
+  "id": "vinAyakASTamI",
+  "jsonClass": "HinduCalendarEvent",
+  "references_primary": [
+    "Nilamata Puranam"
+  ],
+  "tags": [
+    "less-common-festivals"
+  ],
+  "timing": {
+    "angam_number": 23,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "month_number": 3,
+    "month_type": "lunar_month"
+  }
+}
