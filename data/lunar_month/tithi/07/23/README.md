@@ -13,6 +13,7 @@ _In North India, for progeny_
 
 ### References
 * Chaturvarga Chintamani
+* Kielhorn (1897)
 
 
 ---

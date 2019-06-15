@@ -14,6 +14,7 @@ _Born as the son of Kāmeśvara and Kamalāmbā of Kāñci, the one named Kupann
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

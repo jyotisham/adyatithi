@@ -13,6 +13,7 @@ _Daanam of Dadhyodanam, Vyanjanam, Chatram, Paduka, Udaka Kumbham, Mangos, Jackf
 ```
 ### References
 * Nirnaya Sindhu p.71
+* Kielhorn (1897)
 
 
 ---
@@ -52,7 +53,7 @@ _Goddess Raja Matangi is 9th of the Dasha Maha Vidyas._
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

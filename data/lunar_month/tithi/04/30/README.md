@@ -28,6 +28,7 @@ _This preceptor was the son of Viśvajit of Cidambaram through viśiṣṭā; li
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -49,6 +50,7 @@ _He, Soma, initiated with the title Bodhendra by the preceptor Paraśivendra ado
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -70,6 +72,7 @@ _He, Soma, initiated with the title Bodhendra by the preceptor Paraśivendra ado
 
 ### References
 * Skanda Puranam
+* https://hindupad.com/pathi-sanjeevani-vrata/
 
 
 ---

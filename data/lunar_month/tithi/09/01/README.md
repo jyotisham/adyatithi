@@ -14,6 +14,7 @@ _The austere preceptor Surendra after defeating boldly in debate the materialist
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

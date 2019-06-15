@@ -28,6 +28,7 @@ _Gaṅgādharagīṣpatiḥ, known as Subhadra, son of Kāñci Bhadragiri, got i
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -45,6 +46,7 @@ _Then the preceptor Cidvilāsa, who was Harikeśava (before initiation), son of 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -72,6 +74,7 @@ _He, as per the suggestions of the Sāyaṇa Mādhava, having commissioned the e
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

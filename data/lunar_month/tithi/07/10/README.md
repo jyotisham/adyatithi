@@ -27,6 +27,7 @@ _Perform puja to Shami tree. Arjuna and Pandavas had left their weapons on this 
 ```
 ### References
 * Vrata Mahima
+* Vaidikasri Sep 2009
 
 
 ---

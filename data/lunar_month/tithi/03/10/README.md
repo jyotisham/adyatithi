@@ -43,6 +43,7 @@ _The one who was born to a brahmin Śrīdeva Miśrā; soon after the birth utter
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -62,6 +63,7 @@ _This preceptor Sadāśivendra, son of Nāganātha of Nāgāraṇya, having got 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

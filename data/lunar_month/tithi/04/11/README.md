@@ -10,6 +10,7 @@ _Perform puja of Mahalakshmi-Mahavishnu_
 ```
 ### References
 * Vrata Chudamani 173
+* Vaidikasri Aug 2015
 
 
 ---

@@ -42,6 +42,7 @@ _Perform snana four ghatikas before sunrise (during अरुणोदयम्,
 ```
 ### References
 * Satyavrata Smriti
+* Vaidikasri
 
 
 ---

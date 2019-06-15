@@ -18,6 +18,7 @@ _Preceptor by name Mahādevendra adorning Pīṭha attained siddhi on the first 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

@@ -26,6 +26,7 @@ _Then Narasambhaṭṭa, son of Subrahmanya, having been initiated by Gaṅgādh
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -43,6 +44,7 @@ _Son of Chāyāvana Acyuta, He was Gurumūrthi by name (before initiation); havi
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -64,6 +66,7 @@ _Viśveśvara was the son of Viśvamakhindra; resorting to the fact of Paraśiv�
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

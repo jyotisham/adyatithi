@@ -12,6 +12,7 @@ _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -20,7 +21,7 @@ _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

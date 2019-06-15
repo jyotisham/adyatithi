@@ -21,6 +21,7 @@ _Have to play Aksha kreeda only on this day and Ko-jagarti-Vratam (Lakshmi will 
 ```
 ### References
 * Dharma Sindhu 142
+* Vaidikasri Oct 2015
 
 
 ---
@@ -73,6 +74,7 @@ _Son of Somagiri, dwelling on the banks of river Pālār (Kṣīrapagā), known 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

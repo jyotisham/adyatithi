@@ -27,7 +27,7 @@ _Daanam of Varaha Puran_
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

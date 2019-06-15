@@ -16,6 +16,21 @@ logging.basicConfig(
 )
 
 
+def transliterate_quoted_text(text, script):
+  transliterated_text = text
+  pieces = transliterated_text.split('`')
+  if len(pieces) > 1:
+    if len(pieces) % 2 == 1:
+      # We much have matching backquotes, the contents of which can be neatly transliterated
+      for i, piece in enumerate(pieces):
+        if (i % 2) == 1:
+          pieces[i] = custom_transliteration.tr(piece, script, titled=True)
+      transliterated_text = ''.join(pieces)
+    else:
+      logging.warning('Unmatched backquotes in string: %s' % transliterated_text)
+  return transliterated_text
+
+
 def migrate_db(old_db_file, only_descriptions=False):
   old_style_events = HinduCalendarEventOld.read_from_file(old_db_file)
   # TODO: Reset all README files in the folder here?
@@ -110,10 +125,10 @@ def write_event_README(event, event_file_name):
           readme_file.write('### References\n')
           if "references_primary" in event_dict:
             for ref in event_dict["references_primary"]:
-              readme_file.write('* %s\n' % ref)
-          elif "references_secondary" in event_dict:
+              readme_file.write('* %s\n' % transliterate_quoted_text(ref, sanscript.IAST))
+          if "references_secondary" in event_dict:
             for ref in event_dict["references_secondary"]:
-              readme_file.write('* %s\n' % ref)
+              readme_file.write('* %s\n' % transliterate_quoted_text(ref, sanscript.IAST))
         readme_file.write('\n\n---\n')
 
 

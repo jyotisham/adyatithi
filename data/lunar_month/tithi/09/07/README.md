@@ -12,6 +12,7 @@ _Born of a brahmin called Nāgeśa in the village called Maṅgala of the Chola 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -32,6 +33,7 @@ _Birth of Surya to Aditya-Kashyapa on this day._
 
 ### References
 * Bhavishyottara Puranam
+* Chaturvarga Chintamani
 
 
 ---

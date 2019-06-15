@@ -16,6 +16,7 @@ _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -24,7 +25,7 @@ _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind 
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

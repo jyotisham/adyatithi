@@ -15,6 +15,7 @@ _Worship Surya Bhagavan in a vessel (कुम्भ) filled with sugar, followe
 ```
 ### References
 * Smriti Kaustubham - 112
+* Vaidikasri May 2016
 
 
 ---

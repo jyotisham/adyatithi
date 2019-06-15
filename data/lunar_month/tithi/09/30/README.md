@@ -16,6 +16,7 @@ _Having entered the peak named Agastya after established Gaṅgādharagīṣpati
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -35,6 +36,7 @@ _The preceptor, son of Mahādeva, who lived on the banks of river Vegavati, know
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

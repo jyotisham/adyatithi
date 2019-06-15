@@ -29,7 +29,7 @@ _Do दानम् of salt, सुन्दररूपत्वसिद्ध
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

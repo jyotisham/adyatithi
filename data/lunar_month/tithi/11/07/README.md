@@ -15,7 +15,7 @@ _Adi Shankara founded Dwaraka Mutt in Sadharana year with HastamalakaAcharya as 
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

@@ -20,6 +20,7 @@ _Born on the banks of river Garuḍa (Kaḍilam in Tamil) in the Draviḍa deśa
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -39,6 +40,7 @@ _Preceptor Śrī Mahādevendra governed the preceptorship for thirty-one years, 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

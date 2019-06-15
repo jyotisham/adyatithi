@@ -22,6 +22,7 @@ _Sarvajñaviṣṇu (name of Śrī Vidyātīrtha before initiation), son of Śā
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

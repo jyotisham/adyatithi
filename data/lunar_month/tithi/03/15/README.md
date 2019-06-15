@@ -4,6 +4,7 @@
 _Perform puja of banyan tree; begets सौमङ्गल्यम् and सौभाग्यम्._
 ### References
 * Bhavishyottara Puranam
+* Vaidikasri June 2017
 
 
 ---
@@ -30,7 +31,7 @@ _Danam of Padma Puranam_
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

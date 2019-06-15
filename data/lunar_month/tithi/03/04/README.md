@@ -20,6 +20,7 @@ _Perform puja of Shiva-Parvati under a banana tree or on a banana leaf, do naive
 ```
 ### References
 * Bhavishyottara Puranam
+* Vaidikasri June 2017
 
 
 ---

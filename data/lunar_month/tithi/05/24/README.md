@@ -32,6 +32,7 @@ _Well-known as Śiva earlier, this Citsukhendra the governor (of the maṭh) rem
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

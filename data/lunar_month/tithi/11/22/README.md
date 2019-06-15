@@ -10,6 +10,7 @@
 
 ### References
 * Bhavisyat Purana
+* Chaturvarga Chintamani
 
 
 ---

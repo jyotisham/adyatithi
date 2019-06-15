@@ -14,6 +14,7 @@ _Son of Bālacandrasuta named Sūryanārāyaṇa, Śrī Vidyāghanadeśika was t
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -37,6 +38,7 @@ _Preceptor Śrī Chandraśekharendra having remained in the Pīṭha for thirty-
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

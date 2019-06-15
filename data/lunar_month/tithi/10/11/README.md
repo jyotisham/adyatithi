@@ -17,6 +17,7 @@ _Heaps of merits embodied as the son of Purāri and Śrīmati of the town Aśma�
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -31,7 +32,7 @@ _Paramahamsa described Him as "walking Shiva of Varanasi"_
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

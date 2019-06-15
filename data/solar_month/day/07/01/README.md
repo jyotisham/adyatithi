@@ -35,6 +35,7 @@ _Offer Akasha Dipam for this entire month, in the evening, on a high place (pill
 ```
 ### References
 * Nirnaya Sindhu 146
+* Vaidikasri Oct 2009
 
 
 ---

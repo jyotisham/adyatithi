@@ -24,6 +24,7 @@ _Śrī Viśvanātha, son of Vaidyabharva of Vedāraṇya, received initiation fr
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -41,6 +42,7 @@ _Then the preceptor Chandracūḍa, son of Aruṇagiri, by name Gaṅgeśa (befo
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

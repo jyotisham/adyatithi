@@ -47,6 +47,7 @@ _Sītāpati, son of Premeśa, on the banks of river Pinākinī, received at the 
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -55,7 +56,7 @@ _Sītāpati, son of Premeśa, on the banks of river Pinākinī, received at the 
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

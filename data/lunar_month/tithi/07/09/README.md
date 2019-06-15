@@ -35,6 +35,7 @@ _The preceptor Śrīkaṇṭha, son of Umeśa Śaṅkara, suffering from leprosy
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

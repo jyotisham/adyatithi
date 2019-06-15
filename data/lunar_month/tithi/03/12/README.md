@@ -9,6 +9,7 @@ _Perform puja of Lord Trivikrama (Sahasranamarchana), do naivedyam of mangoes an
 ```
 ### References
 * Mahabharata
+* Vaidikasri June 2017
 
 
 ---

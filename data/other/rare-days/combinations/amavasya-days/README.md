@@ -24,6 +24,7 @@ _If, on a Sunday, अमावस्या and one of the stars—श्रव�
 ```
 ### References
 * Mahabharatam
+* Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga
 
 
 ---

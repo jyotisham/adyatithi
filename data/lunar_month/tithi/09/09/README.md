@@ -3,7 +3,7 @@
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

@@ -10,6 +10,7 @@ from jyotisha import custom_transliteration
 from jyotisha.panchangam.spatio_temporal import CODE_ROOT
 from sanskrit_data.schema import common
 from indic_transliteration import xsanscript as sanscript
+from jyotisha.panchangam.temporal import get_chandra_masa, NAMES
 
 logging.basicConfig(
   level=logging.DEBUG,
@@ -17,6 +18,21 @@ logging.basicConfig(
 )
 
 festival_id_to_json = {}
+
+
+def transliterate_quoted_text(text, script):
+  transliterated_text = text
+  pieces = transliterated_text.split('`')
+  if len(pieces) > 1:
+    if len(pieces) % 2 == 1:
+      # We much have matching backquotes, the contents of which can be neatly transliterated
+      for i, piece in enumerate(pieces):
+        if (i % 2) == 1:
+          pieces[i] = custom_transliteration.tr(piece, script, titled=True)
+      transliterated_text = ''.join(pieces)
+    else:
+      logging.warning('Unmatched backquotes in string: %s' % transliterated_text)
+  return transliterated_text
 
 
 class HinduCalendarEventTiming(common.JsonObject):
@@ -143,27 +159,55 @@ class HinduCalendarEventOld(common.JsonObject):
       event.anchor_festival_id = legacy_event_dict["Relative Festival"]
     return event
 
-  def get_description_string(self, script, include_url=False, include_images=False):
-    description_string = ""
-    if hasattr(self, "description"):
-      # description_string = json.dumps(self.description)
-      description_string = self.description["en"]
-      pieces = description_string.split('`')
-      if len(pieces) > 1:
-        if len(pieces) % 2 == 1:
-          # We much have matching backquotes, the contents of which can be neatly transliterated
-          for i, piece in enumerate(pieces):
-            if (i % 2) == 1:
-              pieces[i] = custom_transliteration.tr(piece, script, False)
-          description_string = ''.join(pieces)
+  def get_description_string(self, script, include_url=False, include_images=False, use_markup=False, include_shlokas=False, is_brief=False):
+    # Get the Blurb
+    blurb = ''
+    month = ''
+    angam = ''
+    if hasattr(self, "month_type"):
+      if self.month_type == 'lunar_month':
+        if self.month_number == 0:
+          month = ' of every lunar month'
         else:
-          logging.warning('Unmatched backquotes in description string: %s' % description_string)
-    if hasattr(self, "shlokas"):
-      description_string = description_string + '\n\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
-    if include_images:
-      if hasattr(self, "image"):
-          description_string += '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % self.image
+          month = ' of ' + get_chandra_masa(self.month_number, NAMES, sanscript.IAST) + ' (lunar) month'
+      elif self.month_type == 'solar_month':
+        if self.month_number == 0:
+          month = ' of every solar month'
+        else:
+          month = ' of ' + NAMES['RASHI_NAMES'][sanscript.IAST][self.month_number] + ' (solar) month'
+    if hasattr(self, "angam_type"):
+      # logging.debug(self.id)
+      if self.id.startswith("ta:"):
+        angam = custom_transliteration.tr(self.id[3:], sanscript.TAMIL).replace("~", " ").strip("{}") + ' is observed on '
+      else:
+        angam = custom_transliteration.tr(self.id, sanscript.DEVANAGARI).replace("~", " ") + ' is observed on '
 
+      if self.angam_type == 'tithi':
+          angam += NAMES['TITHI_NAMES'][sanscript.IAST][self.angam_number] + ' tithi'
+      elif self.angam_type == 'nakshatram':
+          angam += NAMES['NAKSHATRAM_NAMES'][sanscript.IAST][self.angam_number] + ' nakṣhatram day'
+      elif self.angam_type == 'day':
+          angam += 'day %d' % self.angam_number
+    else:
+      if not hasattr(self, "description"):
+        logging.debug("No angam_type in %s or description even!!", self.id)
+    if hasattr(self, "kaala"):
+      kaala = self.kaala
+    else:
+      kaala = "sunrise (default)"
+    if hasattr(self, "priority"):
+      priority = self.priority
+    else:
+      priority = 'puurvaviddha (default)'
+    if angam is not None:
+        blurb += angam
+    if month is not None:
+        blurb += month
+    if blurb != '':
+        blurb += ' (%s/%s).\n' % (kaala, priority)
+        # logging.debug(blurb)
+
+    # Get the URL
     if include_url:
       base_url = 'https://github.com/sanskrit-coders/adyatithi/tree/master/data'
       if hasattr(self, "angam_type"):
@@ -181,15 +225,72 @@ class HinduCalendarEventOld(common.JsonObject):
             offset=self.offset,
             id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').strip('{}').lower())
       else:
-        tag_list = ('/'.join(self.tags.split(',')))
+        tag_list = '/'.join([re.sub('([a-z])([A-Z])', r'\1-\2', t).lower() for t in self.tags.split(',')])
         url = "%(base_dir)s/other/%(tags)s#%(id)s" % dict(
             base_dir=base_url,
             tags=tag_list,
             id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').strip('{}').lower())
 
-      description_string += ('\n\n[+++](%s)</a>\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+    # Get the description
+    description_string = ''
+    if hasattr(self, "description"):
+      # description_string = json.dumps(self.description)
+      description_string += self.description["en"]
+      pieces = description_string.split('`')
+      if len(pieces) > 1:
+        if len(pieces) % 2 == 1:
+          # We much have matching backquotes, the contents of which can be neatly transliterated
+          for i, piece in enumerate(pieces):
+            if (i % 2) == 1:
+              pieces[i] = custom_transliteration.tr(piece, script, False)
+          description_string = ''.join(pieces)
+        else:
+          logging.warning('Unmatched backquotes in description string: %s' % description_string)
 
-    return description_string
+    if hasattr(self, "shlokas") and include_shlokas:
+      if use_markup:
+        description_string = description_string + '\n\n```\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n```'
+      else:
+        description_string = description_string + '\n\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
+
+    if include_images:
+      if hasattr(self, "image"):
+          image_string = '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % self.image
+
+    if hasattr(self, "references_primary") or hasattr(self, "references_secondary"):
+      ref_list = '### References\n'
+      if hasattr(self, "references_primary"):
+        for ref in self.references_primary:
+          ref_list += '* %s\n' % transliterate_quoted_text(ref, sanscript.IAST)
+      elif hasattr(self, "references_secondary"):
+        for ref in self.references_secondary:
+          ref_list += '* %s\n' % transliterate_quoted_text(ref, sanscript.IAST)
+
+    # Now compose the description string based on the values of
+    # include_url, include_images, use_markup, is_brief
+    if not is_brief:
+      final_description_string = blurb
+    else:
+      if include_url:
+        final_description_string = url
+      else:
+        final_description_string = ''
+
+    final_description_string += description_string
+
+    if include_images:
+      final_description_string += image_string
+
+    if not is_brief and include_url:
+      # if use_markup:
+        final_description_string += ('\n\n[+++](%s)\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+      # else:
+      #   final_description_string += ('\n\n%s\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+
+    # if use_markup:
+    #   final_description_string = final_description_string.replace('\n', '<br/><br/>')
+
+    return final_description_string
 
 
 # noinspection PyUnresolvedReferences
@@ -282,13 +383,82 @@ class HinduCalendarEvent(common.JsonObject):
     event.validate_schema()
     return event
 
-  def get_description_string(self, script, includeShloka=False):
-    # When used for README.md generation, shloka is included differently
-    # When used for ICS generation, shloka can be included right here
-    description_string = ""
+  def get_description_string(self, script, include_url=False, include_images=False, use_markup=False, include_shlokas=False, is_brief=False):
+    # Get the Blurb
+    blurb = ''
+    month = ''
+    angam = ''
+    if hasattr(self, "month_type"):
+      if self.month_type == 'lunar_month':
+        if self.month_number == 0:
+          month = ' of every lunar month'
+        else:
+          month = ' of ' + get_chandra_masa(self.month_number, NAMES, sanscript.IAST) + ' (lunar) month'
+      elif self.month_type == 'solar_month':
+        if self.month_number == 0:
+          month = ' of every solar month'
+        else:
+          month = ' of ' + NAMES['RASHI_NAMES'][sanscript.IAST][self.month_number] + ' (solar) month'
+    if hasattr(self, "angam_type"):
+      logging.debug(self.id)
+      if self.id[:4] == "ta__":
+        angam = custom_transliteration.tr(self.id[4:], sanscript.TAMIL).replace("~", " ").strip("{}") + ' is observed on '
+      else:
+        angam = custom_transliteration.tr(self.id, sanscript.DEVANAGARI).replace("~", " ") + ' is observed on '
+
+      if self.angam_type == 'tithi':
+          angam += NAMES['TITHI_NAMES'][sanscript.IAST][self.angam_number] + ' tithi'
+      elif self.angam_type == 'nakshatram':
+          angam += NAMES['NAKSHATRAM_NAMES'][sanscript.IAST][self.angam_number] + ' nakṣhatram day'
+      elif self.angam_type == 'day':
+          angam += 'day %d' % self.angam_number
+    else:
+      if not hasattr(self, "description"):
+        logging.debug("No angam_type in %s or description even!!", self.id)
+    if hasattr(self, "kaala"):
+      kaala = self.kaala
+    else:
+      kaala = "sunrise (default)"
+    if hasattr(self, "priority"):
+      priority = self.priority
+    else:
+      priority = 'puurvaviddha (default)'
+    if angam is not None:
+        blurb += angam
+    if month is not None:
+        blurb += month
+    if blurb != '':
+        blurb += ' (%s/%s).\n' % (kaala, priority)
+
+    # Get the URL
+    if include_url:
+      base_url = 'https://github.com/sanskrit-coders/adyatithi/tree/master/data'
+      if hasattr(self, "angam_type"):
+        url = "%(base_dir)s/%(month_type)s/%(angam_type)s/%(month_number)02d/%(angam_number)02d#%(id)s" % dict(
+            base_dir=base_url,
+            month_type=self.month_type,
+            angam_type=self.angam_type,
+            month_number=self.month_number,
+            angam_number=self.angam_number,
+            id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').replace('(', '').replace(')', '').strip('{}').lower())
+      elif hasattr(self, "anchor_festival_id"):
+        url = "%(base_dir)s/relative_event/%(anchor_festival_id)s/offset__%(offset)02d#%(id)s" % dict(
+            base_dir=base_url,
+            anchor_festival_id=self.anchor_festival_id.replace('/', '__'),
+            offset=self.offset,
+            id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').strip('{}').lower())
+      else:
+        tag_list = '/'.join([re.sub('([a-z])([A-Z])', r'\1-\2', t).lower() for t in self.tags.split(',')])
+        url = "%(base_dir)s/other/%(tags)s#%(id)s" % dict(
+            base_dir=base_url,
+            tags=tag_list,
+            id=custom_transliteration.tr(self.id, sanscript.IAST).replace('Ta__', '').replace('~', ' ').replace(' ', '-').strip('{}').lower())
+
+    # Get the description
+    description_string = ''
     if hasattr(self, "description"):
       # description_string = json.dumps(self.description)
-      description_string = self.description["en"]
+      description_string += self.description["en"]
       pieces = description_string.split('`')
       if len(pieces) > 1:
         if len(pieces) % 2 == 1:
@@ -299,10 +469,76 @@ class HinduCalendarEvent(common.JsonObject):
           description_string = ''.join(pieces)
         else:
           logging.warning('Unmatched backquotes in description string: %s' % description_string)
-    if includeShloka and hasattr(self, "shlokas"):
-      description_string = description_string + '\n\n' + \
-                           custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
-    return description_string
+
+    if hasattr(self, "shlokas") and include_shlokas:
+      if use_markup:
+        description_string = description_string + '\n\n```\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n```'
+      else:
+        description_string = description_string + '\n\n' + custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
+
+    if include_images:
+      if hasattr(self, "image"):
+          image_string = '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % self.image
+
+    if hasattr(self, "references_primary") or hasattr(self, "references_secondary"):
+      ref_list = '### References\n'
+      if hasattr(self, "references_primary"):
+        for ref in self.references_primary:
+          ref_list += '* %s\n' % transliterate_quoted_text(ref, sanscript.IAST)
+      elif hasattr(self, "references_secondary"):
+        for ref in self.references_secondary:
+          ref_list += '* %s\n' % transliterate_quoted_text(ref, sanscript.IAST)
+
+    # Now compose the description string based on the values of
+    # include_url, include_images, use_markup, is_brief
+    if not is_brief:
+      final_description_string = blurb
+    else:
+      if include_url:
+        final_description_string = url
+      else:
+        final_description_string = ''
+
+    final_description_string += description_string
+
+    if include_images:
+      final_description_string += image_string
+
+    if not is_brief and include_url:
+      if use_markup:
+        final_description_string += ('\n\n[+++](%s)\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+      else:
+        final_description_string += ('\n\n%s\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+
+    # if use_markup:
+    #   final_description_string = final_description_string.replace('\n', '<br/><br/>')
+
+    return final_description_string
+
+
+  # def get_description_string(self, script, includeShloka=False):
+  #   # When used for README.md generation, shloka is included differently
+  #   # When used for ICS generation, shloka can be included right here
+  #   description_string = ""
+  #   logging.debug('get_description_string')
+  #   if hasattr(self, "description"):
+  #     # description_string = json.dumps(self.description)
+  #     description_string = self.description["en"]
+  #     pieces = description_string.split('`')
+  #     if len(pieces) > 1:
+  #       if len(pieces) % 2 == 1:
+  #         # We much have matching backquotes, the contents of which can be neatly transliterated
+  #         for i, piece in enumerate(pieces):
+  #           if (i % 2) == 1:
+  #             pieces[i] = custom_transliteration.tr(piece, script, False)
+  #         description_string = ''.join(pieces)
+  #       else:
+  #         logging.warning('Unmatched backquotes in description string: %s' % description_string)
+  #   if includeShloka and hasattr(self, "shlokas"):
+  #     description_string = description_string + '\n\n' + \
+  #                          custom_transliteration.tr(", ".join(self.shlokas), script, False) + '\n\n'
+  #   return description_string
+
 
   def get_storage_file_name(self, base_dir, only_descriptions=False):
     if hasattr(self.timing, "anchor_festival_id"):

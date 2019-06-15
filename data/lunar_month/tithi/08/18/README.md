@@ -18,6 +18,7 @@ _Kṛpāśaṅkara, son of Ātmasomayāji in Andhra in the lineage of Garga, wit
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---

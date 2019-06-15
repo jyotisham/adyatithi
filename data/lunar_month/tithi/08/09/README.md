@@ -26,6 +26,7 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 ```
 ### References
 * Punya Shloka Manjari
+* www.kamakoti.org
 
 
 ---
@@ -34,7 +35,7 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 
 
 ### References
-* `vaidyanAtha-dIkSitIyam`
+* Vaidyanātha-Dīkṣitīyam
 
 
 ---

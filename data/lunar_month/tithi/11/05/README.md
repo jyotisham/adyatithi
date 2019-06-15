@@ -21,6 +21,7 @@ _Worship Mahavishnu and Mahalakshmi, Rati Devi and Manmatha with jasmine flowers
 ```
 ### References
 * Smriti Kaustubham 479
+* Vaidikasri Feb 2016
 
 
 ---
