@@ -1,5 +1,5 @@
-## Manvādi (Rudra [12])
-मन्वादि (रुद्र [१२]) is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Rudraḥ [12])
+मन्वादि (रुद्रः [१२]) is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

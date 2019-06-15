@@ -22,8 +22,8 @@
 
 
 ---
-## Manvādi (Uttama [3])
-मन्वादि (उत्तम [३]) is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Uttamaḥ [3])
+मन्वादि (उत्तमः [३]) is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

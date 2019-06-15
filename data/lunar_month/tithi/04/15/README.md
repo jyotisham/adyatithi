@@ -53,8 +53,8 @@ _Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adheri
 
 
 ---
-## Manvādi (Brahma [10])
-मन्वादि (ब्रह्म [१०]) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Brahmaḥ [10])
+मन्वादि (ब्रह्मः [१०]) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

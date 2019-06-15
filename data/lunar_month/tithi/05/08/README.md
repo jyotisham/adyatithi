@@ -1,5 +1,5 @@
-## Manvādi (Dakṣa [9])
-मन्वादि (दक्ष [९]) is observed on Śukla-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Dakṣaḥ [9])
+मन्वादि (दक्षः [९]) is observed on Śukla-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

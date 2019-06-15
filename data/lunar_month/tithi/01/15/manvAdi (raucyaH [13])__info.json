@@ -1,5 +1,5 @@
 {
-  "id": "manvAdi (dharma [11])",
+  "id": "manvAdi (raucyaH [13])",
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "references_primary": [
@@ -13,7 +13,7 @@
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 9,
+    "month_number": 1,
     "month_type": "lunar_month"
   }
 }

@@ -10,8 +10,8 @@
 _Adi Shankara founded Dwaraka Mutt in Sadharana year with HastamalakaAcharya as first_
 
 ---
-## Manvādi (Sāvarṇi [8])
-मन्वादि (सावर्णि [८]) is observed on Śukla-Saptamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Sāvarṇiḥ [8])
+मन्वादि (सावर्णिः [८]) is observed on Śukla-Saptamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

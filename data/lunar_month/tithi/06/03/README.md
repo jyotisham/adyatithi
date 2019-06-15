@@ -19,8 +19,8 @@ _Puja of Gauri-Maheshwara on Vrishabham, esp. for girls desirous of getting marr
 
 
 ---
-## Manvādi (Tāmasa [4])
-मन्वादि (तामस [४]) is observed on Śukla-Tṛtīyā tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Tāmasaḥ [4])
+मन्वादि (तामसः [४]) is observed on Śukla-Tṛtīyā tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

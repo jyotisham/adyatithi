@@ -25,8 +25,8 @@ _Danam of Padma Puranam_
 
 
 ---
-## Manvādi (Bhautya [14])
-मन्वादि (भौत्य [१४]) is observed on Paurṇamāsī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Bhautyaḥ [14])
+मन्वादि (भौत्यः [१४]) is observed on Paurṇamāsī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

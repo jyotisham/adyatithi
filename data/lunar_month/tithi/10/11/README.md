@@ -26,8 +26,8 @@ _Heaps of merits embodied as the son of Purāri and Śrīmati of the town Aśma�
 _Paramahamsa described Him as "walking Shiva of Varanasi"_
 
 ---
-## Manvādi (Chākṣuṣa [6])
-मन्वादि (चाक्षुष [६]) is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+## Manvādi (Chākṣuṣaḥ [6])
+मन्वादि (चाक्षुषः [६]) is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References
