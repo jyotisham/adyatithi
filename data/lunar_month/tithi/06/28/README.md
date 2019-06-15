@@ -1,13 +1,7 @@
-## Kaliyugādi
-कलियुगादि is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_Perform Samudra Snanam and Shraddha._
-
----
 ## Kāñchī 44 Jagadguru Śrī Pūrṇabodhendra Sarasvatī 2 Ārādhanā
 काञ्ची ४४ जगद्गुरु श्री पूर्णबोधेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-44.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-44.jpg)
 
 _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name Śrī Pūrṇabodha (after initiation) held the preceptorship of the Pīṭha (Jagatgurupada) for twenty-six years. This realised preceptor merged in his illustrious effulgence in the early hours on the trayodaśī of Kṛṣṇapakṣa in the month Bhādrapada of the year Pramāthī._
 
@@ -18,6 +12,15 @@ _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name
 ```
 ### References
 * Punya Shloka Manjari
+
+
+---
+## Dvāparayugādi
+द्वापरयुगादि is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
+
+_Perform समुद्रस्नानम् and श्राद्धम्._
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

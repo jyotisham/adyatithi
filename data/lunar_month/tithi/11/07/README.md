@@ -4,16 +4,19 @@
 
 
 ---
-## Manvādi (Sāvarṇi)
-मन्वादि (सावर्णि) is observed on Śukla-Saptamī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Dvārakā-Maṭha-Pratiṣṭhāpana Jayantī
 द्वारका-मठ-प्रतिष्ठापन जयन्ती is observed on Śukla-Saptamī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Adi Shankara founded Dwaraka Mutt in Sadharana year with HastamalakaAcharya as first_
+
+---
+## Manvādi (Sāvarṇi [8])
+मन्वादि (सावर्णि [८]) is observed on Śukla-Saptamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* `vaidyanAtha-dIkSitIyam`
+
 
 ---
 ## Achalā Saptamī-Vratam

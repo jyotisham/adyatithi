@@ -27,12 +27,6 @@ _Pooja of Kokila for getting good husband/wife._
 
 
 ---
-## Manvādi (Rudra-Sāvarṇi)
-मन्वादि (रुद्र-सावर्णि) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (sunset/puurvaviddha).
-
-
-
----
 ## Āṣāḍha-Pūrṇimā-Snānam
 आषाढ-पूर्णिमा-स्नानम् is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (arunodaya/paraviddha).
 
@@ -45,7 +39,7 @@ _Perform snana four ghatikas before sunrise (during अरुणोदयम्,
 ## Kāñchī 10 Jagadguru Śrī Sureśvarendra Sarasvatī Ārādhanā
 काञ्ची १० जगद्गुरु श्री सुरेश्वरेन्द्र सरस्वती आराधना is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-10.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-10.jpg)
 
 _Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adhering to austerities obtained the responsibility of governing the Kāñci Kāmakoṭi Pīṭha of the preceptor of the entire earth, He, the pure reached his imperishable state in the month of Āṣāḍha of the year Akṣaya._
 
@@ -56,6 +50,15 @@ _Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adheri
 ```
 ### References
 * Punya Shloka Manjari
+
+
+---
+## Manvādi (Brahma [10])
+मन्वादि (ब्रह्म [१०]) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

@@ -1,7 +1,7 @@
 ## Kāñchī 41 Jagadguru Śrī Gaṅgādharendra Sarasvatī 2 Ārādhanā
 काञ्ची ४१ जगद्गुरु श्री गङ्गाधरेन्द्र सरस्वती २ आराधना is observed on Śukla-Prathamā tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-41.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-41.jpg)
 
 _Appanna, son of Umeśabhaṭṭa, on the banks of river Bhīmā, engrossed in Śrīvidyā became preceptor after initiation and remained in KāmakoṭiPīṭha adorning the Śāradāpīṭhikā for thirty-five years. The noble Gaṅgādhara attained siddhi on the pratipad (first day) of bright fortnight in the month Śravaṇa of the year Saumya._
 

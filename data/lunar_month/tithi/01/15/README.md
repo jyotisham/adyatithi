@@ -22,15 +22,12 @@ _Daanam of Varaha Puran_
 
 
 ---
-## Manvādi (Rauchya)
-मन्वादि (रौच्य) is observed on Paurṇamāsī tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Manvādi (Rauchya [13])
+मन्वादि (रौच्य [१३]) is observed on Paurṇamāsī tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 
 
-
----
-## Manvādi (Svārochiṣa)
-मन्वादि (स्वारोचिष) is observed on Paurṇamāsī tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

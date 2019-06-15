@@ -17,16 +17,10 @@ MaatruNavami, NaamaNavami Vratam, DurgaNavami-Vratam, Shourya-Vratam, Mahaaphala
 
 
 ---
-## Manvādi (Svāyambhuva)
-मन्वादि (स्वायम्भुव) is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Kāñchī 19 Jagadguru Śrī Mārtāṇḍa Vidyāghanendra Sarasvatī Ārādhanā
 काञ्ची १९ जगद्गुरु श्री मार्ताण्ड विद्याघनेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-19.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-19.jpg)
 
 _The preceptor Śrīkaṇṭha, son of Umeśa Śaṅkara, suffering from leprosy, worshipped Sūrya everyday with a thousand salutations to get rid of the disease and became healthy due to the japa of Śrīvidyā, renounced at the age of eighteen and reached with a tranquil mind the holy feet of the preceptor Surendradeśika. Avowed to rigoroaus practice of adhering to silence, austere, blessed with a virtue of opting his death day at his will, governed the seat of the Chief of Preceptors for thirteen years and after deputing Śaṅkarendra with due instructions, reached the beatitude on the ninth day of the bright fortnight in the month of Bhādrapada of the year Hevilambi._
 

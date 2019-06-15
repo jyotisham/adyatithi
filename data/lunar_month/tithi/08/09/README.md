@@ -1,9 +1,3 @@
-## Kṛtayugādi
-कृतयुगादि is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (sangava/puurvaviddha).
-
-_Perform Samudra Snanam and Shraddha._
-
----
 ## Akṣayā Navamī
 अक्षया नवमी is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
@@ -19,7 +13,7 @@ _Perform Samudra Snanam and Shraddha._
 ## Kāñchī 22 Jagadguru Śrī Paripūrṇabodhendra Sarasvatī Ārādhanā
 काञ्ची २२ जगद्गुरु श्री परिपूर्णबोधेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-22.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-22.jpg)
 
 _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kartika in the year Raudri._
 
@@ -32,6 +26,15 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 ```
 ### References
 * Punya Shloka Manjari
+
+
+---
+## Manvādi (Svāyambhuva [1])
+मन्वादि (स्वायम्भुव [१]) is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

@@ -1,3 +1,12 @@
+## Kaliyugādi
+कलियुगादि is observed on Amāvāsyā tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+_Perform समुद्रस्नानम् and श्राद्धम्._
+### References
+* `vaidyanAtha-dIkSitIyam`
+
+
+---
 ## Purandaradāsa-Ārādhanā
 पुरन्दरदास-आराधना is observed on Amāvāsyā tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

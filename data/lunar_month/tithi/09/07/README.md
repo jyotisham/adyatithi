@@ -1,7 +1,7 @@
 ## Kāñchī 5 Jagadguru Śrī Jñānānandendra Sarasvatī Ārādhanā
 काञ्ची ५ जगद्गुरु श्री ज्ञानानन्देन्द्र सरस्वती आराधना is observed on Śukla-Saptamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-05.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-05.jpg)
 
 _Born of a brahmin called Nāgeśa in the village called Maṅgala of the Chola country, the erudite saint well-known as Śrī Jñānottama, foremost among logicians, having adorned the Pīṭha of preceptors for sixty-three years, attained salvation/siddhi on the seventh day of the bright fortnight in the month of Mārgaśīrṣa of the year Manmatha._
 

@@ -13,7 +13,7 @@
 ## Kāñchī 43 Jagadguru Śrī Ānandaghanendra Sarasvatī Ārādhanā
 काञ्ची ४३ जगद्गुरु श्री आनन्दघनेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-43.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-43.jpg)
 
 _Preceptor Ānandaghana, known as Śaṅkarapaṇḍita (before initiation) was the son of Sudevabhaṭṭa living on the banks of river Tuṅgabhadrā and He held the preceptorship for thirty-six years. He left his physical coil on the Navami (ninth day) of the bright fortnight in the month of Caitra of the year Pramādi._
 

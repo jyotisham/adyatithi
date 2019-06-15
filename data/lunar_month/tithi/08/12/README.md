@@ -55,9 +55,3 @@ _Avataram of Yajnavalkya Maharshi happened in kArtika shulka dwadashi in Shatabh
 
 
 ---
-## Manvādi (Svārochiṣa)
-मन्वादि (स्वारोचिष) is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----

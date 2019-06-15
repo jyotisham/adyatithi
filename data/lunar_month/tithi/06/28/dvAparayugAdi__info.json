@@ -1,9 +1,13 @@
 {
   "description": {
-    "en": "Perform Samudra Snanam and Shraddha."
+    "en": "Perform `samudrasnAnam` and `zrAddham`."
   },
-  "id": "kaliyugAdi",
+  "id": "dvAparayugAdi",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
+  "references_primary": [
+    "`vaidyanAtha-dIkSitIyam`"
+  ],
   "tags": [
     "yugadi-days"
   ],
@@ -11,6 +15,7 @@
     "angam_number": 28,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
     "month_number": 6,
     "month_type": "lunar_month"
   }

@@ -19,7 +19,7 @@
 ## Kāñchī 12 Jagadguru Śrī Chandraśekharendra Sarasvatī Ārādhanā
 काञ्ची १२ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-12.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-12.jpg)
 
 _Initiated by Śrī Cidghanendra, the preceptor Śrī Chandraśekhara, having adorned the Kāmakoṭi Pīṭha for sixty-three years, then having initiated/ imparted on e named Saccidghana, vanished with form in the midst of disciples. He attained his exalted Supreme state on the ninth day of the bright fortnight in the month of Āṣāḍha of the year Ānanda._
 

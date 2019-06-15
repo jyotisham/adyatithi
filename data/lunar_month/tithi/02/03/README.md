@@ -31,12 +31,6 @@ _Goddess Raja Matangi is 9th of the Dasha Maha Vidyas._
 
 
 ---
-## Tretāyugādi
-त्रेतायुगादि is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (sangava/puurvaviddha).
-
-_Perform Samudra Snanam and Shraddha_
-
----
 ## Paraśurāma Jayantī
 परशुराम जयन्ती is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (madhyaahna/puurvaviddha).
 
@@ -50,6 +44,15 @@ _Perform Samudra Snanam and Shraddha_
 ```
 ### References
 * Nirnaya Sindhu p.66
+
+
+---
+## Kṛtayugādi
+कृतयुगादि is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/paraviddha).
+
+_Perform समुद्रस्नानम् and श्राद्धम्._
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

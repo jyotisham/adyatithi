@@ -1,6 +1,10 @@
 {
-  "id": "manvAdi~(dharma-sAvarNi)",
+  "id": "manvAdi (dharma [11])",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
+  "references_primary": [
+    "`vaidyanAtha-dIkSitIyam`"
+  ],
   "tags": [
     "manvadi-days"
   ],
@@ -8,10 +12,8 @@
     "angam_number": 15,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "month_number": 12,
+    "kaala": "aparaahna",
+    "month_number": 9,
     "month_type": "lunar_month"
-  },
-  "titles": [
-    "gaura-pUrNimA"
-  ]
+  }
 }

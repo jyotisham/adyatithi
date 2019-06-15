@@ -22,9 +22,12 @@
 
 
 ---
-## Manvādi (Uttama)
-मन्वादि (उत्तम) is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Manvādi (Uttama [3])
+मन्वादि (उत्तम [३]) is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 
+
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

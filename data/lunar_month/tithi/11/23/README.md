@@ -1,7 +1,7 @@
 ## Kāñchī 66 Jagadguru Śrī Chandraśekharendra Sarasvatī 7 Ārādhanā
 काञ्ची ६६ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ७ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-66.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-66.jpg)
 
 _Preceptor Śrī Chandraśekhara adorned the Pīṭha for seventeen years. He reached his eternal beatitude on the eighth day of the black fortnight in the month of Māgha of the year Parābhava. The name of this preceptor before initiation was Svāminātha. Parents were well-known Maṅgalāmbikā and Sītārāmaśāstri. His place of siddhi was village Kalavai in Śalivahana era 1830._
 

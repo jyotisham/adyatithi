@@ -1,7 +1,7 @@
 ## Kāñchī 65 Jagadguru Śrī Sudarśana Mahādevendra Sarasvatī Ārādhanā
 काञ्ची ६५ जगद्गुरु श्री सुदर्शन महादेवेन्द्र सरस्वती आराधना is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-65.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-65.jpg)
 
 _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind Siddhi on the new moon day in the month of Phālguṇa of the year Virodhi. This preceptor’s name before initiation was Mahāliṅgam. His parents were well-known as Lakṣmī and Śeṣādri. His place of siddhi was a village called Ilayāttaṅguḍi. Śalivahana era 1813._
 
@@ -19,9 +19,12 @@ _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind 
 
 
 ---
-## Manvādi (Tāmasa)
-मन्वादि (तामस) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Manvādi (Raivata [5])
+मन्वादि (रैवत [५]) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
 
+
+### References
+* `vaidyanAtha-dIkSitIyam`
 
 
 ---

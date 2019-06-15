@@ -1,7 +1,7 @@
 ## Kāñchī 8 Jagadguru Śrī Kaivalyānandayogendra Sarasvatī Ārādhanā
 काञ्ची ८ जगद्गुरु श्री कैवल्यानन्दयोगेन्द्र सरस्वती आराधना is observed on Śukla-Caturdaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-08.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-08.jpg)
 
 _Son of Śivayya of Śrīśaila, known as Manganna, held that position by his directions and became well-known as Kaivalya Yogi, ascended to the status of a Rājayogi and remaining (in that position) for eighty three years accomplished realisation in the evening of Makarasaṅkrānti of the year Sarvadhāri._
 

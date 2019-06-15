@@ -1,7 +1,7 @@
 ## Kāñchī 56 Jagadguru Śrī Sarvajña Sadāśiva Bodhendra Sarasvatī Ārādhanā
 काञ्ची ५६ जगद्गुरु श्री सर्वज्ञ सदाशिव बोधेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 
-![](https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/temporal/festival/images/kanchi-jagadgurus/jagadguru-56.jpg)
+![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-56.jpg)
 
 _Then, the son of Cirutacikkadādhvari on the banks of river Uttarapinākinī, a devotee of Hari, the preceptor Bodheśvara, bearing the appellation Sadāśiva under the directions of preceptor Chandracūḍa, was Jagadguru for sixteen years adored by the King Pravīra Sethupati. The preceptor visited the sacred Sethu Rāmeśvara, having worshipped Lord Śiva for the welfare of the mankind reached eternal abode on Caitra Śukla Aṣṭamī in the year Vilambi. This preceptor is well-known as Sadāśiva Bodheśvara, author of Puṇyaślokamañjarī and attained siddhi in Rāmeśvaram._
 

@@ -10,18 +10,6 @@
 
 
 ---
-## Manvādi (Dakṣa-Sāvarṇi)
-मन्वादि (दक्ष-सावर्णि) is observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
-## Manvādi (Uttama)
-मन्वादि (उत्तम) is observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month (pradosha/puurvaviddha).
-
-
-
----
 ## Bhīṣma-Pañchaka-Vrata-Samāpanam
 भीष्म-पञ्चक-व्रत-समापनम् is observed on Paurṇamāsī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
