@@ -63,15 +63,6 @@
         "tags": "dashavataram"
     },
     {
-        "angam_number": 3,
-        "angam_type": "tithi",
-        "id": "manvAdi~(uttama)~1",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 1,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
         "angam_number": 5,
         "angam_type": "tithi",
         "id": "zAlihOtra-vrata-ArambhaH",
@@ -314,24 +305,6 @@
         "tags": "common-festivals,special-vratams"
     },
     {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(raucya)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 1,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(svArOciSa)~1",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 1,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
         "angam_number": 26,
         "angam_type": "tithi",
         "id": "vallabhAcArya~jayantI",
@@ -416,17 +389,20 @@
         "tags": "dashavataram,less-common-festivals"
     },
     {
-        "angam_number": 3,
+        "angam_number": 9,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform Samudra Snanam and Shraddha"
+            "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
         "id": "trEtAyugAdi",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "sangava",
-        "month_number": 2,
+        "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
         "tags": "yugadi-days"
     },
     {
@@ -992,7 +968,7 @@
         "angam_number": 19,
         "angam_type": "tithi",
         "id": "zravaNa-vratam",
-        "kaala": "moonrise",
+        "kaala": "sangava",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
@@ -1036,24 +1012,6 @@
         "month_number": 3,
         "month_type": "lunar_month",
         "tags": "mahapurusha-events"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(bhautya)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(tAmasa)~1",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 23,
@@ -1219,28 +1177,6 @@
         "month_number": 4,
         "month_type": "lunar_month",
         "tags": "special-pujas"
-    },
-    {
-        "angam_number": 10,
-        "angam_type": "tithi",
-        "id": "manvAdi~(cAkSuSa)~1",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sunset",
-        "month_number": 4,
-        "month_type": "lunar_month",
-        "priority": "puurvaviddha",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 10,
-        "angam_type": "tithi",
-        "id": "manvAdi~(vaivasvata)",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sunset",
-        "month_number": 4,
-        "month_type": "lunar_month",
-        "priority": "puurvaviddha",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 10,
@@ -1477,17 +1413,6 @@
         "month_number": 4,
         "month_type": "lunar_month",
         "tags": "vratam-start,special-period-start,common-festivals"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(rudra-sAvarNi)",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sunset",
-        "month_number": 4,
-        "month_type": "lunar_month",
-        "priority": "puurvaviddha",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 15,
@@ -1777,15 +1702,6 @@
     {
         "angam_number": 23,
         "angam_type": "tithi",
-        "id": "manvAdi~(brahma-sAvarNi)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 5,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 23,
-        "angam_type": "tithi",
         "id": "zrIkRSNadEvarAya-rAjyAbhiSEkaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
@@ -1962,15 +1878,6 @@
         "month_number": 5,
         "month_type": "lunar_month",
         "tags": "special-vratams"
-    },
-    {
-        "angam_number": 3,
-        "angam_type": "tithi",
-        "id": "manvAdi~(raivata)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 6,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 4,
@@ -2589,15 +2496,18 @@
         "tags": "special-pujas,common-festivals,common-festivals"
     },
     {
-        "angam_number": 28,
+        "angam_number": 30,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform Samudra Snanam and Shraddha."
+            "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
         "id": "kaliyugAdi",
         "jsonClass": "HinduCalendarEventOld",
-        "month_number": 6,
+        "month_number": 11,
         "month_type": "lunar_month",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
         "tags": "yugadi-days"
     },
     {
@@ -2807,15 +2717,6 @@
         "month_number": 7,
         "month_type": "lunar_month",
         "tags": "special-vratams"
-    },
-    {
-        "angam_number": 9,
-        "angam_type": "tithi",
-        "id": "manvAdi~(svAyambhuva)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 7,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 10,
@@ -3453,17 +3354,20 @@
         "tags": "less-common-festivals"
     },
     {
-        "angam_number": 9,
+        "angam_number": 3,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform Samudra Snanam and Shraddha."
+            "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
         "id": "kRtayugAdi",
         "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sangava",
-        "month_number": 8,
+        "kaala": "aparaahna",
+        "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
         "tags": "yugadi-days"
     },
     {
@@ -3553,15 +3457,6 @@
         "tags": "common-festivals"
     },
     {
-        "angam_number": 12,
-        "angam_type": "tithi",
-        "id": "manvAdi~(svArOciSa)~2",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 8,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
         "angam_number": 15,
         "angam_type": "tithi",
         "id": "tripurOtsavaH",
@@ -3571,26 +3466,6 @@
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
         "tags": "common-festivals"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(dakSa-sAvarNi)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 8,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(uttama)~2",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "pradosha",
-        "month_number": 8,
-        "month_type": "lunar_month",
-        "priority": "puurvaviddha",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 11,
@@ -5460,17 +5335,6 @@
     {
         "angam_number": 11,
         "angam_type": "tithi",
-        "id": "manvAdi~(cAkSuSa)~2",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sunset",
-        "month_number": 10,
-        "month_type": "lunar_month",
-        "priority": "puurvaviddha",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 11,
-        "angam_type": "tithi",
         "description": {
             "en": "Paramahamsa described Him as \"walking Shiva of Varanasi\""
         },
@@ -5478,7 +5342,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 10,
         "month_type": "lunar_month",
-        "tags": "manvadi-days"
+        "tags": "mahapurusha-events"
     },
     {
         "angam_number": 11,
@@ -5851,15 +5715,6 @@
     {
         "angam_number": 7,
         "angam_type": "tithi",
-        "id": "manvAdi~(sAvarNi)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 11,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
-    },
-    {
-        "angam_number": 7,
-        "angam_type": "tithi",
         "description": {
             "en": "Adi Shankara founded Dwaraka Mutt in Sadharana year with HastamalakaAcharya as first"
         },
@@ -6022,14 +5877,17 @@
         "angam_number": 28,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform Samudra Snanam and Shraddha"
+            "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
         "id": "dvAparayugAdi",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
-        "month_number": 11,
+        "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
         "tags": "yugadi-days"
     },
     {
@@ -6131,6 +5989,202 @@
         "tags": "kalpadi-days"
     },
     {
+        "angam_number": 9,
+        "angam_type": "tithi",
+        "id": "manvAdi (svAyambhuva [1])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 8,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 12,
+        "angam_type": "tithi",
+        "id": "manvAdi (svArOciSa [2])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 9,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 3,
+        "angam_type": "tithi",
+        "id": "manvAdi (uttama [3])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 1,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 3,
+        "angam_type": "tithi",
+        "id": "manvAdi (tAmasa [4])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 6,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 30,
+        "angam_type": "tithi",
+        "id": "manvAdi (raivata [5])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 12,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 11,
+        "angam_type": "tithi",
+        "id": "manvAdi (cAkSuSa [6])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 10,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 10,
+        "angam_type": "tithi",
+        "id": "manvAdi (vaivasvata [7])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 4,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 7,
+        "angam_type": "tithi",
+        "id": "manvAdi (sAvarNi [8])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 11,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 8,
+        "angam_type": "tithi",
+        "id": "manvAdi (dakSa [9])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 5,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "manvAdi (brahma [10])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 4,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "manvAdi (dharma [11])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 9,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "manvAdi (rudra [12])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 12,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "manvAdi (raucya [13])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 1,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "manvAdi (bhautya [14])",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 3,
+        "month_type": "lunar_month",
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
+        "references_primary": [
+            "`vaidyanAtha-dIkSitIyam`"
+        ],
+        "tags": "manvadi-days"
+    },
+    {
         "angam_number": 29,
         "angam_type": "tithi",
         "description": {
@@ -6219,17 +6273,8 @@
         "month_number": 12,
         "month_type": "lunar_month",
         "tags": "mahapurusha-events",
+        "titles": "gaura-pUrNimA",
         "year_start": 4586
-    },
-    {
-        "angam_number": 15,
-        "angam_type": "tithi",
-        "id": "manvAdi~(dharma-sAvarNi)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 12,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days",
-        "titles": "gaura-pUrNimA"
     },
     {
         "angam_number": 18,
@@ -6240,15 +6285,6 @@
         "month_type": "lunar_month",
         "tags": "mahapurusha-events,common-festivals",
         "year_start": 4730
-    },
-    {
-        "angam_number": 30,
-        "angam_type": "tithi",
-        "id": "manvAdi~(tAmasa)~2",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 12,
-        "month_type": "lunar_month",
-        "tags": "manvadi-days"
     },
     {
         "angam_number": 22,
@@ -8924,7 +8960,7 @@
         "kaala": "aparaahna",
         "month_number": 0,
         "month_type": "solar_month",
-        "priority": "puurvaviddha",
+        "priority": "paraviddha",
         "tags": "monthly-shraddha-days,shannavati-tarpana-days"
     },
     {
@@ -8938,7 +8974,7 @@
         "kaala": "aparaahna",
         "month_number": 0,
         "month_type": "solar_month",
-        "priority": "puurvaviddha",
+        "priority": "paraviddha",
         "tags": "monthly-shraddha-days,shannavati-tarpana-days"
     }    
 ]
