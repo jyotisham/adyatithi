@@ -2,7 +2,7 @@
   "id": "agninakSatra-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-period-end"
+    "SpecialPeriodEnd"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

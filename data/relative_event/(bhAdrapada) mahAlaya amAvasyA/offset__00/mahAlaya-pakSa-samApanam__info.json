@@ -2,8 +2,8 @@
   "id": "mahAlaya-pakSa-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-period-end",
-    "common-festivals"
+    "SpecialPeriodEnd",
+    "CommonFestivals"
   ],
   "timing": {
     "anchor_festival_id": "(bhAdrapada) mahAlaya amAvasyA",

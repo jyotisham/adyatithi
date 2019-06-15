@@ -1,0 +1,15 @@
+{
+  "description": {
+    "en": "Dvadashi tithi, combined with Shravana nakshatram."
+  },
+  "id": "vijayA/zravaNa-mahAdvAdazI",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "RareDays",
+    "Combinations",
+    "SpecialVratam"
+  ],
+  "timing": {
+    "jsonClass": "HinduCalendarEventTiming"
+  }
+}

@@ -5,8 +5,8 @@
   "id": "jayA~mahAdvAdazI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "rare-days",
-    "combinations"
+    "RareDays",
+    "Combinations"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

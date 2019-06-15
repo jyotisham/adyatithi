@@ -8,9 +8,9 @@
     "Kielhorn, 1897"
   ],
   "tags": [
-    "rare-days",
-    "combinations",
-    "eclipses"
+    "RareDays",
+    "Combinations",
+    "Eclipses"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

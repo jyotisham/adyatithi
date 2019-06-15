@@ -2,7 +2,7 @@
   "id": "mahAvyatIpAtam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "shraddha-days"
+    "ShraddhaDays"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

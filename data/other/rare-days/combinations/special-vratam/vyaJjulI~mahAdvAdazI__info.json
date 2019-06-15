@@ -1,0 +1,15 @@
+{
+  "description": {
+    "en": "Dvadashi tithi, which is present at sunrise on two consecutive days."
+  },
+  "id": "vyaJjulI~mahAdvAdazI",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "RareDays",
+    "Combinations",
+    "SpecialVratam"
+  ],
+  "timing": {
+    "jsonClass": "HinduCalendarEventTiming"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "gajacchAyA-yOgam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "rare-days",
-    "combinations"
+    "RareDays",
+    "Combinations"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

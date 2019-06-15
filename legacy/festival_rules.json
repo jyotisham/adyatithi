@@ -24,7 +24,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams,VratamStart,SpecialPeriodStart"
+        "tags": "SpecialVratam,VratamStart,SpecialPeriodStart"
     },
     {
         "angam_number": 3,
@@ -36,7 +36,7 @@
         "references_secondary": [
             "Kielhorn (1897)"
         ],
-        "tags": "SpecialVratams,DeviPujas"
+        "tags": "SpecialVratam,DeviPuja"
     },
     {
         "angam_number": 3,
@@ -46,7 +46,7 @@
         "kaala": "raatrimaana",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "DeviPujas"
+        "tags": "DeviPuja"
     },
     {
         "angam_number": 3,
@@ -69,7 +69,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams,VratamStart,SpecialPeriodStart"
+        "tags": "SpecialVratam,VratamStart,SpecialPeriodStart"
     },
     {
         "angam_number": 5,
@@ -193,7 +193,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams,VratamStart,SpecialPeriodStart"
+        "tags": "SpecialVratam,VratamStart,SpecialPeriodStart"
     },
     {
         "angam_number": 12,
@@ -302,7 +302,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "CommonFestivals,SpecialVratams"
+        "tags": "CommonFestivals,SpecialVratam"
     },
     {
         "angam_number": 26,
@@ -330,7 +330,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 30,
@@ -427,7 +427,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 5,
@@ -436,7 +436,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 5,
@@ -461,7 +461,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,PuranaEvents"
+        "tags": "SpecialPuja,PuranaEvents"
     },
     {
         "angam_number": 5,
@@ -493,7 +493,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "PuranaEvents,SpecialPujas,CommonFestivals"
+        "tags": "PuranaEvents,SpecialPuja,CommonFestivals"
     },
     {
         "angam_number": 7,
@@ -514,7 +514,7 @@
         "shlokas": [
             "zarkarAsaptamI caiva vAjimEdhaphalapradA.\nsarvaduHkhaprazamanI sarvasampatpradAyinI.."
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 9,
@@ -582,7 +582,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 12,
@@ -648,7 +648,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 15,
@@ -692,7 +692,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 19,
@@ -737,7 +737,7 @@
         "shlokas": [
             "karavIra viSAvAsa namastE bhAnuvallabha.\nmaulimaNDana durgAdi dEvAnAM satataM priya"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 1,
@@ -746,7 +746,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 1,
@@ -755,7 +755,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -773,7 +773,7 @@
         "shlokas": [
             "puSpamaNDapikA kAryA rambhAstambhOpazObhitA.\ntatra sampUjayEddEvIM zaktyA svarNAdinirmitAm..\n\nvEdESu sarvazAstrESu divi bhUmau rasAtalE.\nzrutO dRSTazca bahuzO na zaktyA rahitaH zivaH.\ntvaM zakstistvaM svadhA svAhA tvaM sAvitrI sarasvatI.\npatiM dEhi sutAndEhi gRhaM dEvi namO'stu tE..\n\nyOSitaH puruSO vA'pi khyAtaM rambhAvrataM bhuvi.\nbhAryAM putraM gRhaM bhOgAn kulavRddhimavApnuyuH.."
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 4,
@@ -818,7 +818,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 6,
@@ -827,7 +827,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas",
+        "tags": "SpecialPuja",
         "titles": "Nanda Devi Puja"
     },
     {
@@ -837,7 +837,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "DevataPujas"
+        "tags": "DevataPuja"
     },
     {
         "angam_number": 9,
@@ -849,7 +849,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 9,
@@ -858,7 +858,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 10,
@@ -962,7 +962,7 @@
         "references_secondary": [
             "Vaidikasri June 2017"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 19,
@@ -1047,7 +1047,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 24,
@@ -1056,7 +1056,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 23,
@@ -1074,7 +1074,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 30,
@@ -1110,7 +1110,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 5,
@@ -1119,7 +1119,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 5,
@@ -1128,7 +1128,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 7,
@@ -1140,7 +1140,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 8,
@@ -1149,7 +1149,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 9,
@@ -1176,7 +1176,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 10,
@@ -1188,7 +1188,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 10,
@@ -1200,7 +1200,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 11,
@@ -1221,7 +1221,7 @@
         "shlokas": [
             "gOpadmamiti vikhyAtaM sarvapApaharaM param.\nsarvaduHkhOpazamanaM sarvasampatpradAyakam.\nsuvAsinyAstu saubhAgyaputrapautrapravardhanam.."
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 12,
@@ -1233,7 +1233,7 @@
         "references_secondary": [
             "https://madhwafestivals.wordpress.com/2016/09/28/go-padma-vrata/"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 10,
@@ -1254,7 +1254,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 14,
@@ -1263,7 +1263,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 12,
@@ -1380,7 +1380,7 @@
         "shlokas": [
             "acaturvadanO brahmA dvibAhuraparO hariH.\naphAlalOcanO zambhurbhagavAn bAdArAyaNaH.."
         ],
-        "tags": "PurnimaDays,SpecialPujas,CommonFestivals"
+        "tags": "PurnimaDays,SpecialPuja,CommonFestivals"
     },
     {
         "angam_number": 15,
@@ -1389,7 +1389,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 15,
@@ -1403,7 +1403,7 @@
         "month_number": 4,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 15,
@@ -1448,7 +1448,7 @@
         "shlokas": [
             "lakSmyA viyujyatE dEva na kadAcit yatO bhavAn.\ntathA kalatrasambandhO dEva mA mE viyujyatAm.."
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 4,
@@ -1460,7 +1460,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 5,
@@ -1487,7 +1487,7 @@
         "shlokas": [
             "apasarpa sarpa bhadraM tE dUraM gaccha mahAyazAH.\njanamEjayasya yajJAntE astIkavacanaM smaran.."
         ],
-        "tags": "SpecialPujas,PuranaEvents"
+        "tags": "SpecialPuja,PuranaEvents"
     },
     {
         "angam_number": 6,
@@ -1571,7 +1571,7 @@
         "kaala": "moonrise",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 17,
@@ -1596,7 +1596,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 18,
@@ -1605,7 +1605,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 18,
@@ -1614,7 +1614,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 19,
@@ -1715,7 +1715,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 24,
@@ -1733,7 +1733,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 27,
@@ -1763,7 +1763,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 30,
@@ -1782,7 +1782,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -1823,7 +1823,7 @@
         "references_secondary": [
             "Vaidikasri Sep 2015"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -1832,7 +1832,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 2,
@@ -1850,7 +1850,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -1868,7 +1868,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -1877,7 +1877,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 4,
@@ -1899,7 +1899,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialVratams,CommonFestivals"
+        "tags": "SpecialVratam,CommonFestivals"
     },
     {
         "angam_number": 6,
@@ -1914,7 +1914,7 @@
         "shlokas": [
             "zuklE bhAdrapadE SaSThyAM snAnaM bhAskarapUjanam.\nprAzanaM paJcagavyasya azvamEdhaphalAdhikam.."
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 6,
@@ -1932,7 +1932,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "LessCommonFestivals,SpecialPujas",
+        "tags": "LessCommonFestivals,SpecialPuja",
         "titles": "campA SaSThI"
     },
     {
@@ -1963,7 +1963,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 7,
@@ -1972,7 +1972,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,LessCommonFestivals",
+        "tags": "SpecialPuja,LessCommonFestivals",
         "titles": "putra-saptamI\naparAjitA-saptamI\ndvAdasha-saptamI\nsantAna-saptamI"
     },
     {
@@ -2059,7 +2059,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams,LessCommonFestivals"
+        "tags": "SpecialVratam,LessCommonFestivals"
     },
     {
         "angam_number": 10,
@@ -2133,7 +2133,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 13,
@@ -2145,7 +2145,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 13,
@@ -2154,7 +2154,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 14,
@@ -2166,7 +2166,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "CommonFestivals,SpecialPujas"
+        "tags": "CommonFestivals,SpecialPuja"
     },
     {
         "angam_number": 14,
@@ -2178,7 +2178,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 15,
@@ -2210,7 +2210,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialVratams,CommonFestivals"
+        "tags": "SpecialVratam,CommonFestivals"
     },
     {
         "angam_number": 15,
@@ -2219,7 +2219,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams",
+        "tags": "SpecialVratam",
         "titles": "vandhyatvahArI-liGgArcanA-vratam/putra-vratam\nvaruNa-vratam\nbrahma-sAvitrI-vratam\nazOka-trirAtri-vratam"
     },
     {
@@ -2232,7 +2232,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 15,
@@ -2244,7 +2244,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "DevataPujas"
+        "tags": "DevataPuja"
     },
     {
         "angam_number": 16,
@@ -2287,7 +2287,7 @@
         "kaala": "moonrise",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 18,
@@ -2299,7 +2299,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 19,
@@ -2311,7 +2311,7 @@
         "references_primary": [
             "Nilamata Puranam"
         ],
-        "tags": "DevataPujas"
+        "tags": "DevataPuja"
     },
     {
         "angam_number": 20,
@@ -2320,7 +2320,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 20,
@@ -2329,7 +2329,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 21,
@@ -2341,7 +2341,7 @@
         "shlokas": [
             "prabhAkara namastubhyaM saMsArAnmAM samuddhara.\nbhuktimuktipradO yasmAt tasmAcchAntiM prayaccha mE.."
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 21,
@@ -2355,7 +2355,7 @@
         "references_secondary": [
             "Kielhorn (1897)"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 22,
@@ -2364,7 +2364,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 23,
@@ -2400,7 +2400,7 @@
         "references_secondary": [
             "Aamade Jyotishi"
         ],
-        "tags": "SpecialVratams,VratamStart,SpecialPeriodStart"
+        "tags": "SpecialVratam,VratamStart,SpecialPeriodStart"
     },
     {
         "angam_number": 23,
@@ -2410,7 +2410,7 @@
         "month_number": 8,
         "month_type": "lunar_month",
         "kaala": "pradosha",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 23,
@@ -2471,7 +2471,7 @@
         "shlokas": [
             "bharturagrE mRtA nArI sahadAhEna vA mRtA.\ntasyAH sthAnE niyuJjIta vipraiH saha suvAsinIm.."
         ],
-        "tags": "SpecialPujas,CommonFestivals",
+        "tags": "SpecialPuja,CommonFestivals",
         "titles": "avidhavA-navamI"
     },
     {
@@ -2484,7 +2484,7 @@
         "references_primary": [
             "Nilamata Puranam"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 27,
@@ -2493,7 +2493,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,CommonFestivals,CommonFestivals"
+        "tags": "SpecialPuja,CommonFestivals,CommonFestivals"
     },
     {
         "angam_number": 30,
@@ -2543,7 +2543,7 @@
         "references_primary": [
             "Hemadri Grantham"
         ],
-        "tags": "DevataPujas"
+        "tags": "DevataPuja"
     },
     {
         "angam_number": 30,
@@ -2552,7 +2552,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 1,
@@ -2594,7 +2594,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 3,
@@ -2615,7 +2615,7 @@
         "references_primary": [
             "Nilamata Puranam"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 5,
@@ -2636,7 +2636,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 7,
@@ -2645,7 +2645,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams",
+        "tags": "SpecialVratam",
         "titles": "dvAdaza-saptamI-vratam"
     },
     {
@@ -2658,7 +2658,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas",
+        "tags": "SpecialPuja",
         "titles": "dvAdaza-saptamI-vratam"
     },
     {
@@ -2686,7 +2686,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 9,
@@ -2716,7 +2716,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 10,
@@ -2880,7 +2880,7 @@
         "shlokas": [
             "nizIthE varadA lakSmIH kO jAgartIti bhASiNI.\ntasmai vittaM prayacchAmi akSaiH krIDAM karOti yaH.."
         ],
-        "tags": "SpecialVratams,CommonFestivals"
+        "tags": "SpecialVratam,CommonFestivals"
     },
     {
         "angam_number": 15,
@@ -2911,7 +2911,7 @@
         "references_primary": [
             "Purushartha Chintamani"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 15,
@@ -2932,7 +2932,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 16,
@@ -2944,7 +2944,7 @@
         "references_primary": [
             "Chaturvarga Chintamani"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 17,
@@ -2957,7 +2957,7 @@
         "references_primary": [
             "Purushartha Chintamani"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 18,
@@ -2966,7 +2966,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 18,
@@ -2975,7 +2975,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 18,
@@ -2989,7 +2989,7 @@
         "month_number": 7,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 19,
@@ -3003,7 +3003,7 @@
         "references_secondary": [
             "Kielhorn (1897)"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 20,
@@ -3030,7 +3030,7 @@
         "references_secondary": [
             "Kielhorn (1897)"
         ],
-        "tags": "SpecialPujas,LessCommonFestivals"
+        "tags": "SpecialPuja,LessCommonFestivals"
     },
     {
         "angam_number": 23,
@@ -3045,7 +3045,7 @@
         "references_secondary": [
             "Kielhorn (1897)"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 23,
@@ -3081,7 +3081,7 @@
         "references_primary": [
             "Krutyasaara samucchayam"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 24,
@@ -3113,7 +3113,7 @@
         "shlokas": [
             "gOkSIraM gOghRtaM caiva dadhi takraM ca varjayEt.\n\nsurabhi tvaM jaganmAtardEvi viSNupadE sthitA.\nsarvadEvamayE grAsaM mayA dattamidaM grasa..\n\nsarvadEvamayE dEvi sarvEdEvaizca satkRtA.\nmAtarmamA'bhilASitaM saphalaM kuru nandini..\n"
         ],
-        "tags": "SpecialVratams,CommonFestivals",
+        "tags": "SpecialVratam,CommonFestivals",
         "titles": "vizoka-dvAdazI\nekhaNDa-dvAdazI\npadmanAbha-dvAdazI"
     },
     {
@@ -3177,7 +3177,7 @@
         "references_primary": [
             "Chaturvarga Chintamani"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 28,
@@ -3271,7 +3271,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 1,
@@ -3334,7 +3334,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,PuranaEvents"
+        "tags": "SpecialPuja,PuranaEvents"
     },
     {
         "angam_number": 8,
@@ -5360,7 +5360,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 4,
@@ -5369,7 +5369,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 6,
@@ -5384,7 +5384,7 @@
         "shlokas": [
             "mArgazIrSE'malE pakSE SaSThyAM vArEM'zumAlinaH.\nzatatArAgatE candrE liGgaM syAddRSTigOcaram."
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 7,
@@ -5401,7 +5401,7 @@
         "shlokas": [
             "adityAM kazyapAjjajJE mitrO nAma divAkaraH.\nsaptamyAM tEna sA khyAtA lOkE'smin mitrasaptamI.."
         ],
-        "tags": "OtherAvatarams,SpecialPujas,CommonFestivals"
+        "tags": "OtherAvataram,SpecialPuja,CommonFestivals"
     },
     {
         "angam_number": 7,
@@ -5418,7 +5418,7 @@
         "references_secondary": [
             "Chaturvarga Chintamani"
         ],
-        "tags": "SpecialVratams,LessCommonFestivals"
+        "tags": "SpecialVratam,LessCommonFestivals"
     },
     {
         "angam_number": 2,
@@ -5443,7 +5443,7 @@
         "month_number": 12,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialVratams,LessCommonFestivals"
+        "tags": "SpecialVratam,LessCommonFestivals"
     },
     {
         "angam_number": 30,
@@ -5487,7 +5487,7 @@
         "references_secondary": [
             "Chaturvarga Chintamani"
         ],
-        "tags": "SpecialVratams,LessCommonFestivals"
+        "tags": "SpecialVratam,LessCommonFestivals"
     },
     {
         "angam_number": 15,
@@ -5546,7 +5546,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 20,
@@ -5555,7 +5555,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 10,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 20,
@@ -5640,7 +5640,7 @@
         "shlokas": [
             "mAghazuklacaturthyAM tu kundapuSpaiH sadAzivam.\nsampUjya yO hi naktA''zI samprApnOti zriyaM naraH.."
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 5,
@@ -5652,7 +5652,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,PuranaEvents"
+        "tags": "SpecialPuja,PuranaEvents"
     },
     {
         "angam_number": 5,
@@ -5685,7 +5685,7 @@
         "shlokas": [
             "mAghamAsE nRpazrESTha zuklAyAM paJcamItithau.\nratikAmau tu sampUjya kartavyaH sumahOtsavaH.."
         ],
-        "tags": "SpecialPujas",
+        "tags": "SpecialPuja",
         "titles": "madana-paJcamI"
     },
     {
@@ -5701,7 +5701,7 @@
         "references_secondary": [
             "http://hindupad.com/madana-panchami/"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 7,
@@ -5710,7 +5710,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas,MahapurushaEvents,CommonFestivals"
+        "tags": "SpecialPuja,MahapurushaEvents,CommonFestivals"
     },
     {
         "angam_number": 7,
@@ -5740,7 +5740,7 @@
         "references_secondary": [
             "Vaidikasri Feb 2016"
         ],
-        "tags": "SpecialPujas,CommonFestivals,CommonFestivals"
+        "tags": "SpecialPuja,CommonFestivals,CommonFestivals"
     },
     {
         "angam_number": 9,
@@ -5782,7 +5782,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 12,
@@ -5800,7 +5800,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 12,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 11,
@@ -5830,7 +5830,7 @@
         "shlokas": [
             "mAghE tu zukladvAdazyAM yatO hi bhagavAn pura.\ntilAn utpAdayAmAsa tapaH kRtvA sudAruNam..\ntilatailEna dIpAzcha dEyAh dEva gRhESu ca.\nnivEdayEt tilAnEva"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 15,
@@ -6241,7 +6241,7 @@
         "month_number": 12,
         "month_type": "lunar_month",
         "priority": "paraviddha",
-        "tags": "SpecialPujas,CommonFestivals"
+        "tags": "SpecialPuja,CommonFestivals"
     },
     {
         "angam_number": 15,
@@ -6371,7 +6371,7 @@
         "references_secondary": [
             "Vaidikasri Nov 2017"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 30,
@@ -6388,7 +6388,7 @@
         "references_secondary": [
             "Vaidikasri Nov 2017"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 15,
@@ -6405,7 +6405,7 @@
         "references_secondary": [
             "Vaidikasri Nov 2017"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 30,
@@ -6422,7 +6422,7 @@
         "references_secondary": [
             "Vaidikasri Nov 2017"
         ],
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 21,
@@ -6697,7 +6697,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "tags": "SpecialPujas,CommonFestivals"
+        "tags": "SpecialPuja,CommonFestivals"
     },
     {
         "angam_number": 6,
@@ -7150,7 +7150,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas",
+        "tags": "SpecialPuja",
         "titles": "Manasa Puja"
     },
     {
@@ -7172,7 +7172,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "LessCommonFestivals,SpecialPujas"
+        "tags": "LessCommonFestivals,SpecialPuja"
     },
     {
         "angam_number": 3,
@@ -7181,7 +7181,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 6,
@@ -7193,7 +7193,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 7,
@@ -7223,7 +7223,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 8,
@@ -7241,7 +7241,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "LessCommonFestivals,SpecialPujas"
+        "tags": "LessCommonFestivals,SpecialPuja"
     },
     {
         "angam_number": 10,
@@ -7253,7 +7253,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
-        "tags": "LessCommonFestivals,SpecialPujas"
+        "tags": "LessCommonFestivals,SpecialPuja"
     },
     {
         "angam_number": 10,
@@ -7265,7 +7265,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams,VratamStart,SpecialPeriodStart"
+        "tags": "SpecialVratam,VratamStart,SpecialPeriodStart"
     },
     {
         "angam_number": 12,
@@ -7277,7 +7277,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "SpecialPujas"
+        "tags": "SpecialPuja"
     },
     {
         "angam_number": 13,
@@ -7298,7 +7298,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
-        "tags": "DevataPujas",
+        "tags": "DevataPuja",
         "titles": "nAralI-pUrNimA"
     },
     {
@@ -7426,7 +7426,7 @@
         ],
         "month_number": 11,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 16,
@@ -8366,7 +8366,7 @@
         "references_secondary": [
             "https://hindupad.com/pathi-sanjeevani-vrata/"
         ],
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 30,
@@ -8652,7 +8652,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 10,
         "month_type": "lunar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 8,
@@ -8899,7 +8899,7 @@
         "kaala": "sangava",
         "month_number": 0,
         "month_type": "solar_month",
-        "tags": "SpecialVratams"
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 1,

@@ -2,7 +2,7 @@
   "id": "pauSa-amAvasyA",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "amavasya-days"
+    "AmavasyaDays"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

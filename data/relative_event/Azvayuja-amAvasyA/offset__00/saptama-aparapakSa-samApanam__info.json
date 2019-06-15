@@ -2,7 +2,7 @@
   "id": "saptama-aparapakSa-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-period-end"
+    "SpecialPeriodEnd"
   ],
   "timing": {
     "anchor_festival_id": "Azvayuja-amAvasyA",

@@ -5,8 +5,8 @@
   "id": "kRSNAGgAraka-caturdazI-puNyakAlaH/yamatarpaNam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "rare-days",
-    "combinations"
+    "RareDays",
+    "Combinations"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

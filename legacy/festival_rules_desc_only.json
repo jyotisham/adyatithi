@@ -5,7 +5,7 @@
             "en": "The Shukla-paksha Ekadashi of `caitra` month is known as `kAmadA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "mOhinI-EkAdazI",
@@ -13,7 +13,7 @@
             "en": "The Shukla-paksha Ekadashi of `vaizAkha` month is known as `mOhinI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "pANDava-nirjalA-EkAdazI",
@@ -21,7 +21,7 @@
             "en": "The Shukla-paksha Ekadashi of `jyaiSTha` month is known as `nirjalA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "zayana-EkAdazI",
@@ -32,7 +32,7 @@
         "shlokas": [
             "vAsudEva jagadyOnE prAptEyaM dvAdazI tava.\nbhujaGgazayanE'bdhau ca sukhaM svapihi mAdhava..\niyaM tu dvAdazI dEva zayanArthaM vinirmita.\nasyAM suptE jagannAthE jagatsuptaM bhavEdidam..\nvibuddhE tvayi buddhyEta sarvamEtaccarAcaram.."
         ],
-        "tags": "monthly-vratams,ekadashi-vratam-days",
+        "tags": "MonthlyVratam,EkadashiVratam",
         "titles": "padmA ekAdazI\ndevazayanI ekAdazI"
     },
     {
@@ -41,7 +41,7 @@
             "en": "The Shukla-paksha Ekadashi of `zravaNa` month is known as `pavitrOpAna-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "parivartinI-EkAdazI",
@@ -52,7 +52,7 @@
         "shlokas": [
             "vAsudEva jagannAtha prAptEyaM dvAdazI tava.\npArzvEna parivartasva sukhaM svapihi mAdhava.."
         ],
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "pApAGkuzA-EkAdazI",
@@ -60,7 +60,7 @@
             "en": "The Shukla-paksha Ekadashi of `Azvayuja` month is known as `pApAGkuzA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "utthAna-EkAdazI",
@@ -68,7 +68,7 @@
             "en": "The Shukla-paksha Ekadashi of `kArtika` month is known as `utthAna-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "mOkSadA-EkAdazI",
@@ -76,7 +76,7 @@
             "en": "The Shukla-paksha Ekadashi of `mArgazIrSa` month is known as `mOkSadA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "putradA-EkAdazI",
@@ -84,7 +84,7 @@
             "en": "The Shukla-paksha Ekadashi of `pauSa` month is known as `putradA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "jayA/bhaimI-EkAdazI",
@@ -92,7 +92,7 @@
             "en": "The Jaya-paksha Ekadashi of `mAgha` month is known as `bhaimI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "AmalakI-EkAdazI",
@@ -100,7 +100,7 @@
             "en": "The Shukla-paksha Ekadashi of `phAlguna` month is known as `AmalakI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "padminI-EkAdazI",
@@ -108,7 +108,7 @@
             "en": "The Shukla-paksha Ekadashi of `adhika` month is known as `padminI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "guruvAyupura-EkAdazI",
@@ -116,7 +116,7 @@
             "en": "The Shukla-paksha Ekadashi of `vRzcikamAsa` is known as `guruvAyupura-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days,kerala-temple-festivals"
+        "tags": "MonthlyVratam,EkadashiVratam,KeralaTempleFestivals"
     },
     {
         "id": "vaikuNTha-EkAdazI",
@@ -124,7 +124,7 @@
             "en": "The Shukla-paksha Ekadashi of `dhanurmAsa` is known as `vaikuNTha-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "description": {
@@ -132,7 +132,7 @@
         },
         "id": "kaizika-EkAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "varUthinI-EkAdazI",
@@ -140,7 +140,7 @@
             "en": "The Krishna-paksha Ekadashi of `caitra` month is known as `varUthinI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "aparA-EkAdazI",
@@ -148,7 +148,7 @@
             "en": "The Krishna-paksha Ekadashi of `vaizAkha` month is known as `aparA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "yOginI-EkAdazI",
@@ -156,7 +156,7 @@
             "en": "The Krishna-paksha Ekadashi of `jyaiSTha` month is known as `yOginI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "kAmikA-EkAdazI",
@@ -164,7 +164,7 @@
             "en": "The Krishna-paksha Ekadashi of `ASADha` month is known as `kAmikA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "ajA-EkAdazI",
@@ -172,7 +172,7 @@
             "en": "The Krishna-paksha Ekadashi of `zravaNa` month is known as `ajA-EkAdazI`. Satya Harishchandra performed this to get back family and kingdom."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "indirA-EkAdazI",
@@ -180,7 +180,7 @@
             "en": "The Krishna-paksha Ekadashi of `bhAdrapada` month is known as `indirA-EkAdazI`. Indrasena's son did Ekadashi and as a result he was shifted from hell to heaven."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "ramA-EkAdazI",
@@ -188,7 +188,7 @@
             "en": "The Krishna-paksha Ekadashi of `Azvayuja` month is known as `ramA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "utpannA-EkAdazI",
@@ -196,7 +196,7 @@
             "en": "The Krishna-paksha Ekadashi of `kArtika` month is known as `utpannA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "saphalA-EkAdazI",
@@ -204,7 +204,7 @@
             "en": "The Krishna-paksha Ekadashi of `mArgazIrSa` month is known as `saphalA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "SaTtilA-EkAdazI",
@@ -212,7 +212,7 @@
             "en": "The Krishna-paksha Ekadashi of `pauSa` month is known as `SaTtilA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "vijayA-EkAdazI",
@@ -220,7 +220,7 @@
             "en": "The Krishna-paksha Ekadashi of `mAgha` month is known as `vijayA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "pApamOcanI-EkAdazI",
@@ -228,7 +228,7 @@
             "en": "The Krishna-paksha Ekadashi of `phAlguna` month is known as `pApamOcanI-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "id": "paramA-EkAdazI",
@@ -236,7 +236,7 @@
             "en": "The Krishna-paksha Ekadashi of `adhika` month is known as `paramA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,ekadashi-vratam-days"
+        "tags": "MonthlyVratam,EkadashiVratam"
     },
     {
         "description": {
@@ -244,7 +244,7 @@
         },
         "id": "paJcAGga-paThanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "common-festivals"
+        "tags": "CommonFestivals"
     },
     {
         "description": {
@@ -252,7 +252,7 @@
         },
         "id": "SaSThI-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,shashthi-vratam-days"
+        "tags": "MonthlyVratam,ShashthiVratam"
     },
     {
         "description": {
@@ -261,7 +261,7 @@
         "id": "bhRguvAra-subrahmaNya-vratam",
         "references_primary": ["Skanda Puranam"],
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "special-vratams",
+        "tags": "SpecialVratam",
         "notes": "Pravachanam of Brahmmasri Ky. Bharaneedhara Sastrigal, https://www.youtube.com/watch?v=rgXwyo0L3i8&feature=youtu.be&t=222"
     },
     {
@@ -273,7 +273,7 @@
         "shlokas": [
             "ASADha zuklaSaSThI tu tithiH kaumArilA smRtA.\nkumAramarcayEttatra pUrvatrOpESya vai dinam.."
         ],
-        "tags": "monthly-vratams,shashthi-vratam-days"
+        "tags": "MonthlyVratam,ShashthiVratam"
     },
     {
         "description": {
@@ -284,7 +284,7 @@
         "shlokas": [
             "yO'syAM pazyati gAGgEyaM dakSiNApathavAsinam.\nbrahmahatyAdi pApaistu mucyatE nAtra saMzayaH.."
         ],
-        "tags": "monthly-vratams,shashthi-vratam-days"
+        "tags": "MonthlyVratam,ShashthiVratam"
     },
     {
         "id": "skandaSaSThI-vratam",
@@ -295,7 +295,7 @@
             "asyAM hi zrIH samAyuktaH yasmAt skandO'bhavat purA.\ntasmATSaSThyAM na bhuJjIta prApnuyAdbhArgavI sadA..\n\nsaptarSidAraja skanda sEnAdhipa mahAbala.\nrudrOmAgnija SaDvaktra gaGgAgarbha namO'stu tE.."
         ],
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,shashthi-vratam-days"
+        "tags": "MonthlyVratam,ShashthiVratam"
     },
     {
         "description": {
@@ -306,7 +306,7 @@
         "shlokas": [
             "sEnAvidAraka skanda mahAsEna mahAbala.\nrudrOmAgnija SaDvaktra gaGgAgarbha namO'stu tE.."
         ],
-        "tags": "monthly-vratams,shashthi-vratam-days"
+        "tags": "MonthlyVratam,ShashthiVratam"
     },
     {
         "description": {
@@ -317,7 +317,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -328,7 +328,7 @@
         "shlokas": [
             "chAyAyAM kariNaH zrAddhaM tatkarma parivIjitam.\ndazakalpAyutAnIha na kSIyEta yudhiSThira..3-203-121..\nmahAbhAratE vanaparvaNi trayOttaradvizatatamE'dhyAyE"
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -339,7 +339,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -350,7 +350,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -361,7 +361,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -369,7 +369,7 @@
         },
         "id": "kRSNAGgAraka-caturdazI-puNyakAlaH/yamatarpaNam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -380,7 +380,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH..\n\nmUlatO brahmarUpAya madhyatO viSNurUpiNE.\nagrataH zivarUpAya vRkSarAjAya tE namaH..\nakSispandaM bhujaspandaM duHsvapnaM durvicintanam.\nzatrUnAm ca samutpannam azvattha zamayasva mE.."
         ],
-        "tags": "rare-days,combinations,amavasya-days"
+        "tags": "RareDays,Combinations,AmavasyaDays"
     },
     {
         "description": {
@@ -391,57 +391,57 @@
         "shlokas": [
             "zvEtAmbaraH zvEtavibhUSaNazca zvEtadyutirdaNDadharO dvibAhuH.\ncandrO'mRtAtmA varadaH kirITI mayi prasAdaM vidadhAtu dEvaH.."
         ],
-        "tags": "chandra-darshanam"
+        "tags": "ChandraDarshanam"
     },
     {
         "id": "(bhAdrapada) mahAlaya amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "Azvayuja-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "Azvayuja-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "ASADha-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "zrAvaNa-(adhika) (kaTaka) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "bhAdrapada-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "caitra-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "vaizAkha-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "zrAvaNa-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "jyaiSTha-(adhika)-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "description": {
@@ -452,37 +452,37 @@
             "yO dadyAccaitradarzE tu kumbhaM pUrNaM tu pAnakaiH.\ngayAzrAddhazataM tEna kRtamEva na saMzayaH..52..\nkastUrI karpurOpEtaM mallikOzIrasaMyutam.\nkalazaM pAnakaiH pUrNaM caitradarzE tu mAnavaH.\ndadyAtpitRRnsamuddizya sa SaNNavatidO bhavEt..53..\n-- skandapurANE dvitIyE vaiSNavakhaNDE vaizAkhamAhAtmyE tRtIyE adhyAyE"
         ],
         "references_primary": ["Skanda Puranam"],
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "candra-grahaNam~(rAhugrasta)",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,eclipses"
+        "tags": "RareDays,Eclipses"
     },
     {
         "id": "candra-grahaNam~(kEtugrasta)",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,eclipses"
+        "tags": "RareDays,Eclipses"
     },
     {
         "id": "★cUDAmaNi-candra-grahaNam~(rAhugrasta)",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,eclipses"
+        "tags": "RareDays,Eclipses"
     },
     {
         "id": "★cUDAmaNi-candra-grahaNam~(kEtugrasta)",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,eclipses"
+        "tags": "RareDays,Eclipses"
     },
     {
         "id": "jyaiSTha-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "kArtika-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "description": {
@@ -490,52 +490,52 @@
         },
         "id": "kucEla-dinam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "purana-events"
+        "tags": "PuranaEvents"
     },
     {
         "id": "mAgha-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "mahAdhanurvyatIpAtam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "shraddha-days"
+        "tags": "ShraddhaDays"
     },
     {
         "id": "mahAvyatIpAtam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "shraddha-days"
+        "tags": "ShraddhaDays"
     },
     {
         "id": "makarAyaNa-puNyakAlaH/mitrOtsavaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "sun-sankranti"
+        "tags": "SunSankranti"
     },
     {
         "id": "mArgazIrSa-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "mauni (pauSa/makara) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "mauni (mAgha/makara) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "phAlguna-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "pradOSa-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,pradosha-vratam-days"
+        "tags": "MonthlyVratam,PradoshaVratam"
     },
     {
         "description": {
@@ -546,7 +546,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -557,7 +557,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -568,7 +568,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -579,7 +579,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -590,7 +590,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -601,7 +601,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -612,7 +612,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -623,7 +623,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -634,7 +634,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -645,7 +645,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -656,7 +656,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -667,7 +667,7 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "description": {
@@ -678,27 +678,27 @@
         "shlokas": [
             "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAn mAM mOcayEzAna sarvamiSTaM ca dEhi mE.."
         ],
-        "tags": "monthly-vratams,sankatahara-chaturthi-vratam-days"
+        "tags": "MonthlyVratam,SankataharaChaturthiVratam"
     },
     {
         "id": "sOma-pradOSa-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,pradosha-vratam-days"
+        "tags": "MonthlyVratam,PradoshaVratam"
     },
     {
         "id": "sukhA~aGgAraka-caturthI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "vaizAkha-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "varalakSmI-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "common-festivals,special-vratams"
+        "tags": "CommonFestivals,SpecialVratam"
     },
     {
         "description": {
@@ -709,7 +709,7 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -720,27 +720,27 @@
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH.."
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "zani-pradOSa-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "monthly-vratams,pradosha-vratam-days"
+        "tags": "MonthlyVratam,PradoshaVratam"
     },
     {
         "id": "zrAvaNa-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "pauSa (makara) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "sUrya-grahaNam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,eclipses"
+        "tags": "RareDays,Eclipses"
     },
     {
         "description": {
@@ -748,7 +748,7 @@
         },
         "id": "bhaumAzvinI-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -756,7 +756,7 @@
         },
         "id": "Adityahasta-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -764,7 +764,7 @@
         },
         "id": "ravipuSyayOga-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -772,7 +772,7 @@
         },
         "id": "sOmazrAvaNI-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -780,7 +780,7 @@
         },
         "id": "gurupuSya-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -788,7 +788,7 @@
         },
         "id": "bhRgurEvatI-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -796,44 +796,44 @@
         },
         "id": "zanirOhiNI-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "ASADha (kaTaka) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "id": "zrAvaNa (kaTaka) amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "description": {
             "en": "When `anUrAdhA` nakshatram falls on a Wednesday, it is a special `puNyakAlaH` for performing `dAnam`. One can do `dAnaM` of `dadhyOdanam` in Vishnu temples on this day."        },
         "id": "budhAnUrAdhA-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "gajacchAyA-yOgam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "agninakSatra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "special-period-start"
+        "tags": "SpecialPeriodStart"
     },
     {
         "id": "agninakSatra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "special-period-end"
+        "tags": "SpecialPeriodEnd"
     },
     {
         "id": "ta:kAraDaiyAn2 nOn2bu",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "common-festivals-tamilnadu"
+        "tags": "CommonFestivalsTamilnadu"
     },
     {
         "description": {
@@ -841,7 +841,7 @@
         },
         "id": "ta:AvaNi~JAyir2r2ukkizhamai",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "description": {
@@ -849,7 +849,7 @@
         },
         "id": "ta:kArttigai~JAyir2r2ukkizhamai",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "id": "kRttikA~sOmavAsaraH",
@@ -858,18 +858,18 @@
         },
         "jsonClass": "HinduCalendarEventOld",
         "references_primary": ["Skanda Puranam"],
-        "tags": "month-weekday-festivals",
+        "tags": "MonthWeekdayFestivals",
         "notes": "Pravachanam of Brahmmasri Ky. Bharaneedhara Sastrigal, https://youtu.be/JYNM0zzULPc?t=4289"
     },
     {
         "id": "ta:ADi~veLLikkizhamai",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "id": "ta:tai~veLLikkizhamai",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "description": {
@@ -877,7 +877,7 @@
         },
         "id": "ta:mAci~cevvAy",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "description": {
@@ -885,7 +885,7 @@
         },
         "id": "ta:puraTTAci~can2ikkizhamai",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "month-weekday-festivals"
+        "tags": "MonthWeekdayFestivals"
     },
     {
         "description": {
@@ -896,7 +896,7 @@
         "references_secondary": [
             "Kielhorn, 1897"
         ],
-        "tags": "rare-days,combinations,eclipses"
+        "tags": "RareDays,Combinations,Eclipses"
     },
     {
         "description": {
@@ -907,12 +907,12 @@
         "references_secondary": [
             "Kielhorn, 1897"
         ],
-        "tags": "rare-days,combinations,eclipses"
+        "tags": "RareDays,Combinations,Eclipses"
     },
     {
         "id": "ASADha-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "description": {
@@ -923,7 +923,7 @@
         "references_secondary": [
             "Maha Periva / Deivattin Kural"
         ],
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -931,7 +931,7 @@
         },
         "id": "jayantI~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -939,7 +939,7 @@
         },
         "id": "jayA~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -947,7 +947,7 @@
         },
         "id": "mahAjayA~saptamI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -955,7 +955,7 @@
         },
         "id": "bhadrA~saptamI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -963,7 +963,7 @@
         },
         "id": "mahOdaya-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -971,7 +971,7 @@
         },
         "id": "ardhOdaya-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -979,12 +979,12 @@
         },
         "id": "pApanAzinI~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "id": "pauSa-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "amavasya-days"
+        "tags": "AmavasyaDays"
     },
     {
         "description": {
@@ -992,7 +992,7 @@
         },
         "id": "vAruNI~trayOdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -1000,7 +1000,7 @@
         },
         "id": "mahAvAruNI~trayOdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -1008,7 +1008,7 @@
         },
         "id": "mahAmahAvAruNI~trayOdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations"
+        "tags": "RareDays,Combinations"
     },
     {
         "description": {
@@ -1016,7 +1016,7 @@
         },
         "id": "vijayA/zravaNa-mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,special-vratams"
+        "tags": "RareDays,Combinations,SpecialVratam"
     },
     {
         "description": {
@@ -1024,7 +1024,7 @@
         },
         "id": "pakSavardhinI~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,special-vratams"
+        "tags": "RareDays,Combinations,SpecialVratam"
     },
     {
         "description": {
@@ -1032,7 +1032,7 @@
         },
         "id": "trisparzA~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,special-vratams"
+        "tags": "RareDays,Combinations,SpecialVratam"
     },
     {
         "description": {
@@ -1040,7 +1040,7 @@
         },
         "id": "vyaJjulI~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,special-vratams"
+        "tags": "RareDays,Combinations,SpecialVratam"
     },
     {
         "description": {
@@ -1048,7 +1048,7 @@
         },
         "id": "gOvinda~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,special-vratams"
+        "tags": "RareDays,Combinations,SpecialVratam"
     },
     {
         "description": {
@@ -1061,7 +1061,7 @@
         "references_primary": ["Mahabharatam"],
         "references_secondary": ["Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga"],
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,amavasya-days"
+        "tags": "RareDays,Combinations,AmavasyaDays"
     },
     {
         "description": {
@@ -1073,7 +1073,7 @@
         ],
         "references_secondary": ["Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga"],
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,combinations,amavasya-days"
+        "tags": "RareDays,Combinations,AmavasyaDays"
     },
     {
         "description": {
@@ -1081,17 +1081,17 @@
         },
         "id": "mESa-saGkrAntiH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "sun-sankranti,common-festivals"
+        "tags": "SunSankranti,CommonFestivals"
     },
     {
         "id": "guru-saGkrAntiH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "sankranti"
+        "tags": "Sankranti"
     },
     {
         "id": "zani-saGkrAntiH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "sankranti"
+        "tags": "Sankranti"
     },
     {
         "description": {
@@ -1102,7 +1102,7 @@
         ],
         "id": "gaGgA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1113,7 +1113,7 @@
         ],
         "id": "gaGgA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1124,7 +1124,7 @@
         ],
         "id": "gaGgA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1135,7 +1135,7 @@
         ],
         "id": "gaGgA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1146,7 +1146,7 @@
         ],
         "id": "narmadA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1157,7 +1157,7 @@
         ],
         "id": "narmadA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1168,7 +1168,7 @@
         ],
         "id": "narmadA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1179,7 +1179,7 @@
         ],
         "id": "narmadA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1190,7 +1190,7 @@
         ],
         "id": "sarasvatI-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1201,7 +1201,7 @@
         ],
         "id": "sarasvatI-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1212,7 +1212,7 @@
         ],
         "id": "sarasvatI-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1223,7 +1223,7 @@
         ],
         "id": "sarasvatI-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1234,7 +1234,7 @@
         ],
         "id": "yamunA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1245,7 +1245,7 @@
         ],
         "id": "yamunA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1256,7 +1256,7 @@
         ],
         "id": "yamunA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1267,7 +1267,7 @@
         ],
         "id": "yamunA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1278,7 +1278,7 @@
         ],
         "id": "gOdAvarI-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1289,7 +1289,7 @@
         ],
         "id": "gOdAvarI-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1300,7 +1300,7 @@
         ],
         "id": "gOdAvarI-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1311,7 +1311,7 @@
         ],
         "id": "gOdAvarI-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1322,7 +1322,7 @@
         ],
         "id": "kRSNA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1333,7 +1333,7 @@
         ],
         "id": "kRSNA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1344,7 +1344,7 @@
         ],
         "id": "kRSNA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1355,7 +1355,7 @@
         ],
         "id": "kRSNA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1366,7 +1366,7 @@
         ],
         "id": "kAvErI-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1377,7 +1377,7 @@
         ],
         "id": "kAvErI-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1388,7 +1388,7 @@
         ],
         "id": "kAvErI-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1399,7 +1399,7 @@
         ],
         "id": "kAvErI-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1410,7 +1410,7 @@
         ],
         "id": "tAmraparNI-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1421,7 +1421,7 @@
         ],
         "id": "tAmraparNI-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1432,7 +1432,7 @@
         ],
         "id": "tAmraparNI-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1443,7 +1443,7 @@
         ],
         "id": "tAmraparNI-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1454,7 +1454,7 @@
         ],
         "id": "sindhu-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1465,7 +1465,7 @@
         ],
         "id": "sindhu-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1476,7 +1476,7 @@
         ],
         "id": "sindhu-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1487,7 +1487,7 @@
         ],
         "id": "sindhu-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1498,7 +1498,7 @@
         ],
         "id": "bhadrA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1509,7 +1509,7 @@
         ],
         "id": "bhadrA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1520,7 +1520,7 @@
         ],
         "id": "bhadrA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1531,7 +1531,7 @@
         ],
         "id": "bhadrA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1542,7 +1542,7 @@
         ],
         "id": "bhImarathI-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1553,7 +1553,7 @@
         ],
         "id": "bhImarathI-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1564,7 +1564,7 @@
         ],
         "id": "bhImarathI-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1575,7 +1575,7 @@
         ],
         "id": "bhImarathI-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1586,7 +1586,7 @@
         ],
         "id": "prANahitA-Adi-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1597,7 +1597,7 @@
         ],
         "id": "prANahitA-antya-puSkara-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1608,7 +1608,7 @@
         ],
         "id": "prANahitA-Adi-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     },
     {
         "description": {
@@ -1619,6 +1619,6 @@
         ],
         "id": "prANahitA-antya-puSkara-samApanam",
         "jsonClass": "HinduCalendarEventOld",
-        "tags": "rare-days,pushkara"
+        "tags": "RareDays,Pushkara"
     }    
 ]

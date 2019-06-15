@@ -5,7 +5,7 @@
   "id": "ta__mAci~cevvAy",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "month-weekday-festivals"
+    "MonthWeekdayFestivals"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

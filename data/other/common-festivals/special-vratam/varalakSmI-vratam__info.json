@@ -1,0 +1,11 @@
+{
+  "id": "varalakSmI-vratam",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "CommonFestivals",
+    "SpecialVratam"
+  ],
+  "timing": {
+    "jsonClass": "HinduCalendarEventTiming"
+  }
+}

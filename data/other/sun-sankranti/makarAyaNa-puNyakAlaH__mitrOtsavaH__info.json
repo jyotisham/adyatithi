@@ -2,7 +2,7 @@
   "id": "makarAyaNa-puNyakAlaH/mitrOtsavaH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "sun-sankranti"
+    "SunSankranti"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

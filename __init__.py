@@ -2,6 +2,7 @@ import json
 import logging
 
 import os
+import re
 
 import sys
 
@@ -313,7 +314,7 @@ class HinduCalendarEvent(common.JsonObject):
       )
     else:
       if only_descriptions:
-        tag_list = '/'.join(self.tags)
+        tag_list = '/'.join([re.sub('([a-z])([A-Z])', r'\1-\2', t).lower() for t in self.tags])
         return "%(base_dir)s/other/%(tags)s/%(id)s__info.json" % dict(
           base_dir=base_dir,
           tags=tag_list,

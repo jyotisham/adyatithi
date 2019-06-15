@@ -5,7 +5,7 @@
   "id": "kucEla-dinam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purana-events"
+    "PuranaEvents"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

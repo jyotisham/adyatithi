@@ -5,7 +5,7 @@
   "id": "paJcAGga-paThanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "common-festivals"
+    "CommonFestivals"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

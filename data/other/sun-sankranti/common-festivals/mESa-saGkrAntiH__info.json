@@ -5,8 +5,8 @@
   "id": "mESa-saGkrAntiH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "sun-sankranti",
-    "common-festivals"
+    "SunSankranti",
+    "CommonFestivals"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"

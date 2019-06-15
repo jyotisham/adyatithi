@@ -2,7 +2,7 @@
   "id": "jyaiSTha-(adhika)-amAvasyA",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "amavasya-days"
+    "AmavasyaDays"
   ],
   "timing": {
     "jsonClass": "HinduCalendarEventTiming"
