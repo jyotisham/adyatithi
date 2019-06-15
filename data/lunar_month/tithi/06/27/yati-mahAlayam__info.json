@@ -2,9 +2,9 @@
   "id": "yati-mahAlayam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-pujas",
-    "common-festivals",
-    "common-festivals"
+    "SpecialPujas",
+    "CommonFestivals",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 27,

@@ -3,7 +3,7 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "purana-events"
+    "PuranaEvents"
   ],
   "timing": {
     "angam_number": 19,

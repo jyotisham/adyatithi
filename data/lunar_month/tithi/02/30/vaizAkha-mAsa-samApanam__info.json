@@ -5,8 +5,8 @@
   "id": "vaizAkha-mAsa-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-days",
-    "special-period-end"
+    "SpecialDays",
+    "SpecialPeriodEnd"
   ],
   "timing": {
     "angam_number": 30,

@@ -2,9 +2,9 @@
   "id": "ratha-saptamI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-pujas",
-    "mahapurusha-events",
-    "common-festivals"
+    "SpecialPujas",
+    "MahapurushaEvents",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 7,

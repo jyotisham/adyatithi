@@ -2,8 +2,8 @@
   "id": "cAturmAsyavrata-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-period-end",
-    "common-festivals"
+    "SpecialPeriodEnd",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

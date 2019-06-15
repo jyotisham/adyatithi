@@ -5,9 +5,9 @@
   "id": "gaGgA-saptamI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purana-events",
-    "special-pujas",
-    "common-festivals"
+    "PuranaEvents",
+    "SpecialPujas",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 7,

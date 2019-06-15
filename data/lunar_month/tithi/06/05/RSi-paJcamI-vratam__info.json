@@ -3,8 +3,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
   "tags": [
-    "special-vratams",
-    "common-festivals"
+    "SpecialVratams",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 5,

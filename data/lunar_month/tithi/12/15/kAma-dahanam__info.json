@@ -3,8 +3,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
   "tags": [
-    "common-festivals",
-    "purana-events"
+    "CommonFestivals",
+    "PuranaEvents"
   ],
   "timing": {
     "angam_number": 15,

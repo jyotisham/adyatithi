@@ -2,8 +2,8 @@
   "id": "zuka~maharSi~jayantI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "mahapurusha-events",
-    "common-festivals"
+    "MahapurushaEvents",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 30,

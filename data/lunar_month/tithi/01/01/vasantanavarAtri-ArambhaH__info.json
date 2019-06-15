@@ -2,9 +2,9 @@
   "id": "vasantanavarAtri-ArambhaH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "common-festivals",
-    "navaratri",
-    "special-period-start"
+    "CommonFestivals",
+    "Navaratri",
+    "SpecialPeriodStart"
   ],
   "timing": {
     "angam_number": 1,

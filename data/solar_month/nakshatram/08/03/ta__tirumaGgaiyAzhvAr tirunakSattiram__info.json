@@ -3,8 +3,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "mahapurusha-events",
-    "azhwar-jayanti"
+    "MahapurushaEvents",
+    "AzhwarJayanti"
   ],
   "timing": {
     "angam_number": 3,

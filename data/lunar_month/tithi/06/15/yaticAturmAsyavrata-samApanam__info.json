@@ -2,10 +2,10 @@
   "id": "yaticAturmAsyavrata-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-period-end",
-    "vratam-end",
-    "common-festivals",
-    "common-festivals"
+    "SpecialPeriodEnd",
+    "VratamEnd",
+    "CommonFestivals",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

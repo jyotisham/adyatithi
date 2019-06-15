@@ -5,7 +5,7 @@
   "id": "pUrNimA~vratam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "monthly-festivals"
+    "MonthlyFestivals"
   ],
   "timing": {
     "angam_number": 15,

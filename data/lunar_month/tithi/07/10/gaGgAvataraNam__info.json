@@ -5,7 +5,7 @@
   "id": "gaGgAvataraNam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purana-events"
+    "PuranaEvents"
   ],
   "timing": {
     "angam_number": 10,

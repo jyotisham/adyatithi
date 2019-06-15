@@ -5,8 +5,8 @@
   "id": "ananta-caturdazI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "common-festivals",
-    "special-pujas"
+    "CommonFestivals",
+    "SpecialPujas"
   ],
   "timing": {
     "angam_number": 14,

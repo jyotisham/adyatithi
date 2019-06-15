@@ -2,8 +2,8 @@
   "id": "citragupta-vratam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "common-festivals",
-    "special-vratams"
+    "CommonFestivals",
+    "SpecialVratams"
   ],
   "timing": {
     "angam_number": 15,

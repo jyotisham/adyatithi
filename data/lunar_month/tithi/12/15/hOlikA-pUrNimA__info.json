@@ -3,8 +3,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "special-pujas",
-    "common-festivals"
+    "SpecialPujas",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

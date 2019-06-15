@@ -2,9 +2,9 @@
   "id": "zarannavarAtri-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "navaratri",
-    "special-period-end",
-    "common-festivals"
+    "Navaratri",
+    "SpecialPeriodEnd",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 9,

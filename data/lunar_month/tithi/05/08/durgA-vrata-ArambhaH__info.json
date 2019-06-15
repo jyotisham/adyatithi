@@ -2,8 +2,8 @@
   "id": "durgA-vrata-ArambhaH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "vratam-start",
-    "special-period-start"
+    "VratamStart",
+    "SpecialPeriodStart"
   ],
   "timing": {
     "angam_number": 8,

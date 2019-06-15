@@ -2,9 +2,9 @@
   "id": "yaticAturmAsyavrata-ArambhaH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "vratam-start",
-    "special-period-start",
-    "common-festivals"
+    "VratamStart",
+    "SpecialPeriodStart",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

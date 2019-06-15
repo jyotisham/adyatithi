@@ -6,7 +6,7 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "monthly-festivals"
+    "MonthlyFestivals"
   ],
   "timing": {
     "angam_number": 29,

@@ -6,7 +6,7 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
   "tags": [
-    "kalpadi-days"
+    "KalpadiDays"
   ],
   "timing": {
     "angam_number": 5,

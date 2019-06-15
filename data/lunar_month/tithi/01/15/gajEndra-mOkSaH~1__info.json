@@ -2,8 +2,8 @@
   "id": "gajEndra-mOkSaH~1",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purana-events",
-    "common-festivals"
+    "PuranaEvents",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

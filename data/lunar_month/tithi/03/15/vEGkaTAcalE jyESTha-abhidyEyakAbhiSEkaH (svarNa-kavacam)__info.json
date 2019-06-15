@@ -2,9 +2,9 @@
   "id": "vEGkaTAcalE jyESTha-abhidyEyakAbhiSEkaH (svarNa-kavacam)",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purnima-days",
-    "less-common-festivals",
-    "danam-days"
+    "PurnimaDays",
+    "LessCommonFestivals",
+    "DanamDays"
   ],
   "timing": {
     "angam_number": 15,

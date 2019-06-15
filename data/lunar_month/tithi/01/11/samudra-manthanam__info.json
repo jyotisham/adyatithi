@@ -5,8 +5,8 @@
   "id": "samudra-manthanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purana-events",
-    "less-common-festivals"
+    "PuranaEvents",
+    "LessCommonFestivals"
   ],
   "timing": {
     "angam_number": 11,

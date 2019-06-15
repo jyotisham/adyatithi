@@ -5,8 +5,8 @@
   "id": "AzA~dazamI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "less-common-festivals",
-    "special-pujas"
+    "LessCommonFestivals",
+    "SpecialPujas"
   ],
   "timing": {
     "angam_number": 10,

@@ -5,9 +5,9 @@
   "id": "zaGkara~jayantI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "common-festivals",
-    "adi-shankara-history",
-    "mahapurusha-events"
+    "CommonFestivals",
+    "AdiShankaraHistory",
+    "MahapurushaEvents"
   ],
   "timing": {
     "angam_number": 5,

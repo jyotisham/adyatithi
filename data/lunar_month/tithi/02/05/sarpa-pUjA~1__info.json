@@ -5,8 +5,8 @@
   "id": "sarpa-pUjA~1",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-pujas",
-    "purana-events"
+    "SpecialPujas",
+    "PuranaEvents"
   ],
   "timing": {
     "angam_number": 5,

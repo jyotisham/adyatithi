@@ -2,8 +2,8 @@
   "id": "mAgha-pUrNimA",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purnima-days",
-    "common-festivals"
+    "PurnimaDays",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

@@ -3,8 +3,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "tamilnadu-temple-festivals",
-    "common-festivals"
+    "TamilnaduTempleFestivals",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 15,

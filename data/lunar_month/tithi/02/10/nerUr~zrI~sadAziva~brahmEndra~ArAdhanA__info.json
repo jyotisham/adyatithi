@@ -3,7 +3,7 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
   "tags": [
-    "mahapurusha-events"
+    "MahapurushaEvents"
   ],
   "timing": {
     "angam_number": 10,

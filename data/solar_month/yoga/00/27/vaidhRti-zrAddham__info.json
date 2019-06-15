@@ -6,8 +6,8 @@
   "jsonClass": "HinduCalendarEvent",
   "priority": "paraviddha",
   "tags": [
-    "monthly-shraddha-days",
-    "shannavati-tarpana-days"
+    "MonthlyShraddhaDays",
+    "ShannavatiTarpanaDays"
   ],
   "timing": {
     "angam_number": 27,

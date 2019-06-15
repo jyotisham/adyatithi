@@ -2,8 +2,8 @@
   "id": "anantaphala-saptamI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-pujas",
-    "less-common-festivals"
+    "SpecialPujas",
+    "LessCommonFestivals"
   ],
   "timing": {
     "angam_number": 7,

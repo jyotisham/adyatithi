@@ -2,7 +2,7 @@
   "id": "kumAra-pUrNimA/mahA-azvini",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "purnima-days"
+    "PurnimaDays"
   ],
   "timing": {
     "angam_number": 15,

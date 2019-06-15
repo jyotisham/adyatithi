@@ -5,8 +5,8 @@
   "id": "ta__kUDAravallI",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "tamil-festivals",
-    "common-festivals"
+    "TamilFestivals",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 27,

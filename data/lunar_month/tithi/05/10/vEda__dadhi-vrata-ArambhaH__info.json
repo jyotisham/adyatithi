@@ -5,9 +5,9 @@
   "id": "vEda/dadhi-vrata-ArambhaH",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "special-vratams",
-    "vratam-start",
-    "special-period-start"
+    "SpecialVratams",
+    "VratamStart",
+    "SpecialPeriodStart"
   ],
   "timing": {
     "angam_number": 10,
