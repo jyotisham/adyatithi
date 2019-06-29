@@ -159,7 +159,7 @@ class HinduCalendarEventOld(common.JsonObject):
       event.anchor_festival_id = legacy_event_dict["Relative Festival"]
     return event
 
-  def get_description_string(self, script, include_url=False, include_images=False, use_markup=False, include_shlokas=False, is_brief=False):
+  def get_description_string(self, script, include_url=False, include_images=False, use_markup=False, include_shlokas=False, is_brief=False, truncate=False):
     # Get the Blurb
     blurb = ''
     month = ''
@@ -177,10 +177,11 @@ class HinduCalendarEventOld(common.JsonObject):
           month = ' of ' + NAMES['RASHI_NAMES'][sanscript.IAST][self.month_number] + ' (solar) month'
     if hasattr(self, "angam_type"):
       # logging.debug(self.id)
-      if self.id.startswith("ta:"):
-        angam = custom_transliteration.tr(self.id[3:], sanscript.TAMIL).replace("~", " ").strip("{}") + ' is observed on '
-      else:
-        angam = custom_transliteration.tr(self.id, sanscript.DEVANAGARI).replace("~", " ") + ' is observed on '
+      # if self.id.startswith("ta:"):
+      #   angam = custom_transliteration.tr(self.id[3:], sanscript.TAMIL).replace("~", " ").strip("{}") + ' is observed on '
+      # else:
+      #   angam = custom_transliteration.tr(self.id, sanscript.DEVANAGARI).replace("~", " ") + ' is observed on '
+      angam = 'Observed on '
 
       if self.angam_type == 'tithi':
           angam += NAMES['TITHI_NAMES'][sanscript.IAST][self.angam_number] + ' tithi'
@@ -257,8 +258,9 @@ class HinduCalendarEventOld(common.JsonObject):
       if hasattr(self, "image"):
           image_string = '![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/%s)\n\n' % self.image
 
+    ref_list = ''
     if hasattr(self, "references_primary") or hasattr(self, "references_secondary"):
-      ref_list = '### References\n'
+      ref_list = '\n### References\n'
       if hasattr(self, "references_primary"):
         for ref in self.references_primary:
           ref_list += '* %s\n' % transliterate_quoted_text(ref, sanscript.IAST)
@@ -281,9 +283,17 @@ class HinduCalendarEventOld(common.JsonObject):
     if include_images:
       final_description_string += image_string
 
+    if truncate:
+      if len(final_description_string) > 450:
+        # Truncate
+        final_description_string = ' '.join(final_description_string[:450].split(' ')[:-1]) + ' ...\n'
+
+    if not is_brief:
+      final_description_string += ref_list
+
     if not is_brief and include_url:
       # if use_markup:
-        final_description_string += ('\n\n[+++](%s)\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
+        final_description_string += ('\n\n%s\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
       # else:
       #   final_description_string += ('\n\n%s\n' % url) + '\n' + ' '.join(['#' + x for x in self.tags.split(',')])
 
