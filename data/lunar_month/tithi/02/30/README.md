@@ -1,9 +1,3 @@
-## Vṛṣabha-Saṅkramaṇam
-वृषभ-सङ्क्रमणम् is observed on Amāvāsyā tithi of Vaiśākhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_Perform Krishna Pooja_
-
----
 ## Vaiśākha-Snānapūrtiḥ
 वैशाख-स्नानपूर्तिः is observed on Amāvāsyā tithi of Vaiśākhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

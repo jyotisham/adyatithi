@@ -1,5 +1,5 @@
 ## Gopadma-Vrata-Samāpanam
-गोपद्म-व्रत-समापनम् is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+गोपद्म-व्रत-समापनम् is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 ### References
@@ -8,7 +8,7 @@
 
 ---
 ## Dvidala-Vrata-Samāpanam
-द्विदल-व्रत-समापनम् is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+द्विदल-व्रत-समापनम् is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
@@ -21,15 +21,15 @@
 
 ---
 ## Tulasī-Vivāhaḥ
-तुलसी-विवाहः is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (madhyaahna/puurvaviddha).
+तुलसी-विवाहः is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (madhyaahna/puurvaviddha).
 
 
 
 ---
 ## Yājñavalkya Jayantī
-याज्ञवल्क्य जयन्ती is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+याज्ञवल्क्य जयन्ती is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
-_Avataram of Yajnavalkya Maharshi happened in kArtika shulka dwadashi in Shatabhishak Nakshatram/Dhanurlagnam._
+_Avataram of याज्ञवल्क्य महर्षि happened on कार्त्तिक स्हुक्ल द्wआदशी in षतभिषक् नक्षत्रम्/धनुर्लग्नम्._
 
 ```
 वन्देऽहं  मङ्गळात्मानं  भास्वन्तं  वेदविग्रहम्।
@@ -44,13 +44,13 @@ _Avataram of Yajnavalkya Maharshi happened in kArtika shulka dwadashi in Shatabh
 
 ---
 ## Bṛndāvana-Dvādaśī
-बृन्दावन-द्वादशी is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+बृन्दावन-द्वादशी is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
 ---
 ## Prabodhotsavaḥ
-प्रबोधोत्सवः is observed on Śukla-Dvādaśī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+प्रबोधोत्सवः is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

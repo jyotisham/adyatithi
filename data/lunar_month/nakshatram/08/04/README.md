@@ -1,5 +1,5 @@
-## Mahā Kārtikī
-महा कार्तिकी is observed on Rohiṇī nakṣhatram day of Kārtikaḥ (lunar) month (pradosha/puurvaviddha).
+## Mahā Kārttikī
+महा कार्त्तिकी is observed on Rohiṇī nakṣhatram day of Kārttikaḥ (lunar) month (pradosha/puurvaviddha).
 
 
 

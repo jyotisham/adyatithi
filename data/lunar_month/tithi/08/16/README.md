@@ -1,11 +1,11 @@
 ## Navama-Aparapakṣa-Ārambhaḥ
-नवम-अपरपक्ष-आरम्भः is observed on Kṛṣṇa-Prathamā tithi of Kārtikaḥ (lunar) month (aparaahna/puurvaviddha).
+नवम-अपरपक्ष-आरम्भः is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/puurvaviddha).
 
 
 
 ---
 ## Kāñchī 64 Jagadguru Śrī Chandraśekharendra Sarasvatī 6 Ārādhanā
-काञ्ची ६४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ६ आराधना is observed on Kṛṣṇa-Prathamā tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ६४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ६ आराधना is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-64.jpg)
 
@@ -15,7 +15,7 @@ _Devoted to Lord Chandramauli, preceptor Śrī Chandraśekhara too remaining in 
 श्रीमठपार्श्वे सद्मनि जातो वेङ्कटसुब्रह्मण्यतपस्वी।
 श्रीगुरुपार्श्वे संस्थितिम् आगाद् उत्तरवृन्दावनविख्यातः॥१४॥
 श्रीचन्द्रशेखरगुरुः श्रितचन्द्रमौलिस्त्रिंशत्समा अपि च सप्त वसन् नु पीठे।
-साधारणे शरदि कार्तिककृष्णपक्षस्याद्ये तिथावुपगतः स्थिरम् आत्मधाम॥१५॥
+साधारणे शरदि कार्त्तिककृष्णपक्षस्याद्ये तिथावुपगतः स्थिरम् आत्मधाम॥१५॥
 —पुण्यश्लोकमञ्जरी
 ```
 ### References

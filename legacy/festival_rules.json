@@ -654,7 +654,7 @@
         "angam_number": 15,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
         },
         "id": "vaizAkha-pUrNimA-snAnam",
         "jsonClass": "HinduCalendarEventOld",
@@ -711,18 +711,6 @@
         "month_number": 11,
         "month_type": "lunar_month",
         "tags": "MahapurushaEvents"
-    },
-    {
-        "angam_number": 30,
-        "angam_type": "tithi",
-        "description": {
-            "en": "Perform Krishna Pooja"
-        },
-        "id": "vRSabha-saGkramaNam",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 2,
-        "month_type": "lunar_month",
-        "tags": "MoonSankranti"
     },
     {
         "angam_number": 1,
@@ -1077,15 +1065,6 @@
         "tags": "SpecialPuja"
     },
     {
-        "angam_number": 30,
-        "angam_type": "tithi",
-        "id": "mithuna-saGkramaNam",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "lunar_month",
-        "tags": "MoonSankranti"
-    },
-    {
         "angam_number": 1,
         "angam_type": "tithi",
         "id": "vArAhI-navarAtri-ArambhaH",
@@ -1418,7 +1397,7 @@
         "angam_number": 15,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
         },
         "id": "ASADha-pUrNimA-snAnam",
         "jsonClass": "HinduCalendarEventOld",
@@ -2527,15 +2506,6 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "kanyA-saGkramaNam",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 6,
-        "month_type": "lunar_month",
-        "tags": "MoonSankranti"
-    },
-    {
-        "angam_number": 30,
-        "angam_type": "tithi",
         "id": "azvazirO-dEva-pUjA",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
@@ -3345,7 +3315,7 @@
             "en": "Perform `pUjA` of cow with calf, and offer `ta:agattikIrai` and grass/water, and perform 16 `pradakSiNam`."
         },
         "shlokas": [
-            "kArtikE  yA'STamI  zuklA  jJEyA  gOpASTamI  budhai.\ntatra  kuryAdgavAM  pUjAM  gOgrAsaM  gOpradakSiNam.."
+            "kArttikE  yA'STamI  zuklA  jJEyA  gOpASTamI  budhai.\ntatra  kuryAdgavAM  pUjAM  gOgrAsaM  gOpradakSiNam.."
         ],
         "kaala": "madhyaahna",
         "month_number": 8,
@@ -3425,7 +3395,7 @@
         "angam_type": "tithi",
         "id": "yAjJavalkya~jayantI",
         "description": {
-            "en": "Avataram of Yajnavalkya Maharshi happened in kArtika shulka dwadashi in Shatabhishak Nakshatram/Dhanurlagnam."
+            "en": "Avataram of `yAjJavalkya maharSi` happened on `kArttika shukla dwAdazI` in `SatabhiSak nakSatram`/`dhanurlagnam`."
         },
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
@@ -3495,9 +3465,9 @@
         "angam_number": 15,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
         },
-        "id": "kArtika-pUrNimA-snAnam",
+        "id": "kArttika-pUrNimA-snAnam",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "arunodaya",
         "month_number": 8,
@@ -4154,7 +4124,7 @@
             "putrO ramEzamakhinO madhurO'gadaGkRd\ngrAvAbhilApaka iti prathitazca mantrE.\nzrIzAradAmaThaguruH paripUrNabOdhO\nraudryUrjazuklanavamIm anu siddhim Arcchat..47..\n—puNyazlOkamaJjarI"
         ],
         "description": {
-            "en": "Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kartika in the year Raudri."
+            "en": "Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kārttika in the year Raudri."
         },
         "image": "kanchi-jagadgurus/jagadguru-22.jpg",
         "references_primary": [
@@ -5201,7 +5171,7 @@
         "month_type": "lunar_month",
         "priority": "paraviddha",
         "shlokas": [
-            "zrImaThapArzvE sadmani jAtO vEGkaTasubrahmaNyatapasvI.\nzrIgurupArzvE saMsthitim AgAd uttaravRndAvanavikhyAtaH..14..\nzrIcandrazEkharaguruH zritacandramaulistriMzatsamA api ca sapta vasan nu pIThE.\nsAdhAraNE zaradi kArtikakRSNapakSasyAdyE tithAvupagataH sthiram AtmadhAma..15..\n—puNyazlOkamaJjarI"
+            "zrImaThapArzvE sadmani jAtO vEGkaTasubrahmaNyatapasvI.\nzrIgurupArzvE saMsthitim AgAd uttaravRndAvanavikhyAtaH..14..\nzrIcandrazEkharaguruH zritacandramaulistriMzatsamA api ca sapta vasan nu pIThE.\nsAdhAraNE zaradi kArttikakRSNapakSasyAdyE tithAvupagataH sthiram AtmadhAma..15..\n—puNyazlOkamaJjarI"
         ],
         "description": {
             "en": "Devoted to Lord Chandramauli, preceptor Śrī Chandraśekhara too remaining in the Pīṭha for thirtyseven years reached his eternal abode on the first day of Kṛṣṇapakṣa in the month of Kārthika of the year Sādhāraṇa. The name of this preceptor before initiation was Veñkatasubrahmaṇya Dīkṣita. He was a descendant of the family of Govinda Dīkṣita, wellknown as “Ayyan” who carried out many righteous acts of “pūrta” and adorned the ministerial post in the assembly of King Sevappa Nāyaka of the Nāyaka dynasty ruling Thanjavur. This preceptor was well-versed in Mantra Śāstra. Only during the period of this preceptor, the renovation or reinstallation of the pair of ear-rings (taṭaṅka yugala) symbolic of Sricakra, of Goddess Akhilāṇdeśvarī of Jambukeśvara, renovation of Sricakra in theKāmākṣī temple at Kāñci were carried out. During his visit ot Tanjavur, the preceptor was reverentially coronated with gold or offered Kanakābhiṣeka by the monarch who was ruling Tanjavur. Śalivahana era 1773."
@@ -5857,7 +5827,7 @@
         "angam_number": 15,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArtika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+            "en": "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` \u2013 hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
         },
         "id": "mAgha-pUrNimA-snAnam",
         "jsonClass": "HinduCalendarEventOld",
@@ -5991,7 +5961,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "manvAdi (svAyambhuvaH [1])",
+        "id": "manvAdi~(svAyambhuvaH~[1])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
@@ -6005,7 +5975,7 @@
     {
         "angam_number": 12,
         "angam_type": "tithi",
-        "id": "manvAdi (svArOciSaH [2])",
+        "id": "manvAdi~(svArOciSaH~[2])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
@@ -6019,7 +5989,7 @@
     {
         "angam_number": 3,
         "angam_type": "tithi",
-        "id": "manvAdi (uttamaH [3])",
+        "id": "manvAdi~(uttamaH~[3])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -6033,7 +6003,7 @@
     {
         "angam_number": 3,
         "angam_type": "tithi",
-        "id": "manvAdi (tAmasaH [4])",
+        "id": "manvAdi~(tAmasaH~[4])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
@@ -6047,7 +6017,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "manvAdi (raivataH [5])",
+        "id": "manvAdi~(raivataH~[5])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 12,
         "month_type": "lunar_month",
@@ -6061,7 +6031,7 @@
     {
         "angam_number": 11,
         "angam_type": "tithi",
-        "id": "manvAdi (cAkSuSaH [6])",
+        "id": "manvAdi~(cAkSuSaH~[6])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 10,
         "month_type": "lunar_month",
@@ -6075,7 +6045,7 @@
     {
         "angam_number": 10,
         "angam_type": "tithi",
-        "id": "manvAdi (vaivasvataH [7])",
+        "id": "manvAdi~(vaivasvataH~[7])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -6089,7 +6059,7 @@
     {
         "angam_number": 7,
         "angam_type": "tithi",
-        "id": "manvAdi (sAvarNiH [8])",
+        "id": "manvAdi~(sAvarNiH~[8])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
@@ -6103,7 +6073,7 @@
     {
         "angam_number": 8,
         "angam_type": "tithi",
-        "id": "manvAdi (dakSaH [9])",
+        "id": "manvAdi~(dakSaH~[9])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
@@ -6117,7 +6087,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi (brahmaH [10])",
+        "id": "manvAdi~(brahmaH~[10])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -6131,7 +6101,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi (dharmaH [11])",
+        "id": "manvAdi~(dharmaH~[11])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
@@ -6145,7 +6115,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi (rudraH [12])",
+        "id": "manvAdi~(rudraH~[12])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 12,
         "month_type": "lunar_month",
@@ -6159,7 +6129,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi (raucyaH [13])",
+        "id": "manvAdi~(raucyaH~[13])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -6173,7 +6143,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi (bhautyaH [14])",
+        "id": "manvAdi~(bhautyaH~[14])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
@@ -6315,7 +6285,7 @@
     {
         "angam_number": 4,
         "angam_type": "nakshatram",
-        "id": "mahA~kArtikI",
+        "id": "mahA~kArttikI",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "pradosha",
         "month_number": 8,
@@ -8387,7 +8357,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "kArtika-snAnapUrtiH",
+        "id": "kArttika-snAnapUrtiH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",

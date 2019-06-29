@@ -1,17 +1,17 @@
 ## Kālabhairavāṣṭamī
-कालभैरवाष्टमी is observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (lunar) month (pradosha/puurvaviddha (default)).
+कालभैरवाष्टमी is observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lunar) month (pradosha/puurvaviddha (default)).
 
 
 
 ---
 ## Mahādevāṣṭamī
-महादेवाष्टमी is observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+महादेवाष्टमी is observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Very famously celebrated in Vaikom Mahadeva Temple._
 
 ---
 ## Kāñchī 42 Jagadguru Śrī Brahmānandaghanendra Sarasvatī 2 Ārādhanā
-काञ्ची ४२ जगद्गुरु श्री ब्रह्मानन्दघनेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४२ जगद्गुरु श्री ब्रह्मानन्दघनेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-42.jpg)
 
@@ -31,7 +31,7 @@ _Then Narasambhaṭṭa, son of Subrahmanya, having been initiated by Gaṅgādh
 
 ---
 ## Kāñchī 49 Jagadguru Śrī Mahādevendra Sarasvatī 3 Ārādhanā
-काञ्ची ४९ जगद्गुरु श्री महादेवेन्द्र सरस्वती ३ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४९ जगद्गुरु श्री महादेवेन्द्र सरस्वती ३ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-49.jpg)
 
@@ -49,7 +49,7 @@ _Son of Chāyāvana Acyuta, He was Gurumūrthi by name (before initiation); havi
 
 ---
 ## Kāñchī 58 Jagadguru Śrī Ātmabodhendra Sarasvatī Ārādhanā
-काञ्ची ५८ जगद्गुरु श्री आत्मबोधेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५८ जगद्गुरु श्री आत्मबोधेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-58.jpg)
 

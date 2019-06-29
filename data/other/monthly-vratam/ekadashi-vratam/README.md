@@ -40,7 +40,7 @@ _The Shukla-paksha Ekadashi of आश्वयुज month is known as पाप
 
 ---
 ## Utthāna-Ekādaśī
-_The Shukla-paksha Ekadashi of कार्तिक month is known as उत्थान-एकादशी._
+_The Shukla-paksha Ekadashi of कार्त्तिक month is known as उत्थान-एकादशी._
 
 ---
 ## Mokṣadā-Ekādaśī
@@ -100,7 +100,7 @@ _The Krishna-paksha Ekadashi of आश्वयुज month is known as रम�
 
 ---
 ## Utpannā-Ekādaśī
-_The Krishna-paksha Ekadashi of कार्तिक month is known as उत्पन्ना-एकादशी._
+_The Krishna-paksha Ekadashi of कार्त्तिक month is known as उत्पन्ना-एकादशी._
 
 ---
 ## Saphalā-Ekādaśī

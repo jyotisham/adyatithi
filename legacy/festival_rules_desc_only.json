@@ -65,7 +65,7 @@
     {
         "id": "utthAna-EkAdazI",
         "description": {
-            "en": "The Shukla-paksha Ekadashi of `kArtika` month is known as `utthAna-EkAdazI`."
+            "en": "The Shukla-paksha Ekadashi of `kArttika` month is known as `utthAna-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
         "tags": "MonthlyVratam,EkadashiVratam"
@@ -193,7 +193,7 @@
     {
         "id": "utpannA-EkAdazI",
         "description": {
-            "en": "The Krishna-paksha Ekadashi of `kArtika` month is known as `utpannA-EkAdazI`."
+            "en": "The Krishna-paksha Ekadashi of `kArttika` month is known as `utpannA-EkAdazI`."
         },
         "jsonClass": "HinduCalendarEventOld",
         "tags": "MonthlyVratam,EkadashiVratam"
@@ -480,7 +480,7 @@
         "tags": "AmavasyaDays"
     },
     {
-        "id": "kArtika-amAvasyA",
+        "id": "kArttika-amAvasyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },

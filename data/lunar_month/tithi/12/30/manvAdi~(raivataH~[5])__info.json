@@ -1,14 +1,19 @@
 {
-  "id": "kArtika-snAnapUrtiH",
+  "id": "manvAdi~(raivataH~[5])",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
+  "references_primary": [
+    "`vaidyanAtha-dIkSitIyam`"
+  ],
   "tags": [
-    "SpecialSnanam"
+    "ManvadiDays"
   ],
   "timing": {
     "angam_number": 30,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "month_number": 8,
+    "kaala": "aparaahna",
+    "month_number": 12,
     "month_type": "lunar_month"
   }
 }

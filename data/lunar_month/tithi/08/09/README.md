@@ -1,21 +1,21 @@
 ## Akṣayā Navamī
-अक्षया नवमी is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+अक्षया नवमी is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
 ---
 ## Jagaddhātrī-Pūjā
-जगद्धात्री-पूजा is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+जगद्धात्री-पूजा is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
 ---
 ## Kāñchī 22 Jagadguru Śrī Paripūrṇabodhendra Sarasvatī Ārādhanā
-काञ्ची २२ जगद्गुरु श्री परिपूर्णबोधेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची २२ जगद्गुरु श्री परिपूर्णबोधेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-22.jpg)
 
-_Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kartika in the year Raudri._
+_Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kārttika in the year Raudri._
 
 ```
 पुत्रो रमेशमखिनो मधुरोऽगदङ्कृद्
@@ -31,7 +31,7 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 
 ---
 ## Manvādi (Svāyambhuvaḥ [1])
-मन्वादि (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 
 ### References

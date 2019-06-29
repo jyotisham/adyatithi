@@ -1,9 +1,3 @@
-## Kanyā-Saṅkramaṇam
-कन्या-सङ्क्रमणम् is observed on Amāvāsyā tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Aśvaśiro-Deva-Pūjā
 अश्वशिरो-देव-पूजा is observed on Amāvāsyā tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

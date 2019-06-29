@@ -4,9 +4,3 @@
 
 
 ---
-## Mithuna-Saṅkramaṇam
-मिथुन-सङ्क्रमणम् is observed on Amāvāsyā tithi of Jyaiṣṭhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----

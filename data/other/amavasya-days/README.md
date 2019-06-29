@@ -58,7 +58,7 @@ _On Chaitra Amavasya, who gives a pot filled with पानकम्, he has ind
 
 
 ---
-## Kārtika-Amāvasyā
+## Kārttika-Amāvasyā
 
 
 ---

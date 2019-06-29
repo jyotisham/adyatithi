@@ -1,5 +1,5 @@
 ## Kāñchī 9 Jagadguru Śrī Kṛpāśaṅkarendra Sarasvatī Ārādhanā
-काञ्ची ९ जगद्गुरु श्री कृपाशङ्करेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Tṛtīyā tithi of Kārtikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ९ जगद्गुरु श्री कृपाशङ्करेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Tṛtīyā tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-09.jpg)
 
@@ -23,7 +23,7 @@ _Kṛpāśaṅkara, son of Ātmasomayāji in Andhra in the lineage of Garga, wit
 
 ---
 ## Saubhāgya-Sundarī-Vratam
-सौभाग्य-सुन्दरी-व्रतम् is observed on Kṛṣṇa-Tṛtīyā tithi of Kārtikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+सौभाग्य-सुन्दरी-व्रतम् is observed on Kṛṣṇa-Tṛtīyā tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
