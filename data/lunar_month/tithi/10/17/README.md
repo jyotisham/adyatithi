@@ -18,8 +18,8 @@ _Son of Bālacandrasuta named Sūryanārāyaṇa, Śrī Vidyāghanadeśika was t
 
 
 ---
-## Kāñchī 62 Jagadguru Śrī Chandraśekharendra Sarasvatī 5 Ārādhanā
-काञ्ची ६२ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ५ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+## Kāñchī 62 Jagadguru Śrī Chandraśekharendra Sarasvatī 4 Ārādhanā
+काञ्ची ६२ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ४ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-62.jpg)
 

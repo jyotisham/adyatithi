@@ -4,8 +4,8 @@
 
 
 ---
-## Kāñchī 64 Jagadguru Śrī Chandraśekharendra Sarasvatī 6 Ārādhanā
-काञ्ची ६४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ६ आराधना is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
+## Kāñchī 64 Jagadguru Śrī Chandraśekharendra Sarasvatī 5 Ārādhanā
+काञ्ची ६४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ५ आराधना is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-64.jpg)
 

@@ -28,8 +28,8 @@ _Śrī Viśvanātha, son of Vaidyabharva of Vedāraṇya, received initiation fr
 
 
 ---
-## Kāñchī 50 Jagadguru Śrī Chandrachūḍendra Sarasvatī 1 Ārādhanā
-काञ्ची ५० जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती १ आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
+## Kāñchī 50 Jagadguru Śrī Chandrachūḍendra Sarasvatī 2 Ārādhanā
+काञ्ची ५० जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती २ आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-50.jpg)
 

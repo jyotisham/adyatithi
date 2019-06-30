@@ -4089,7 +4089,7 @@
     {
         "angam_number": 23,
         "angam_type": "tithi",
-        "id": "kAJcI 21 jagadguru zrI~candrazEkharEndra sarasvatI 2 ArAdhanA",
+        "id": "kAJcI 21 jagadguru zrI~sArvabhaumaguruH candracUDEndra sarasvatI ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 5,
@@ -4414,7 +4414,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "kAJcI 34 jagadguru zrI~candrazEkharEndra sarasvatI 3 ArAdhanA",
+        "id": "kAJcI 34 jagadguru zrI~candrazEkharEndra sarasvatI 2 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 9,
@@ -4739,7 +4739,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "kAJcI 47 jagadguru zrI~candrazEkharEndra sarasvatI 4 ArAdhanA",
+        "id": "kAJcI 47 jagadguru zrI~candrazEkharEndra sarasvatI 3 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 1,
@@ -4814,7 +4814,7 @@
     {
         "angam_number": 6,
         "angam_type": "tithi",
-        "id": "kAJcI 50 jagadguru zrI~candracUDEndra sarasvatI 1 ArAdhanA",
+        "id": "kAJcI 50 jagadguru zrI~candracUDEndra sarasvatI 2 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 3,
@@ -4939,7 +4939,7 @@
     {
         "angam_number": 11,
         "angam_type": "tithi",
-        "id": "kAJcI 55 jagadguru zrI~candracUDEndra sarasvatI 2 ArAdhanA",
+        "id": "kAJcI 55 jagadguru zrI~candracUDEndra sarasvatI 3 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 10,
@@ -5114,7 +5114,7 @@
     {
         "angam_number": 17,
         "angam_type": "tithi",
-        "id": "kAJcI 62 jagadguru zrI~candrazEkharEndra sarasvatI 5 ArAdhanA",
+        "id": "kAJcI 62 jagadguru zrI~candrazEkharEndra sarasvatI 4 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 10,
@@ -5164,7 +5164,7 @@
     {
         "angam_number": 16,
         "angam_type": "tithi",
-        "id": "kAJcI 64 jagadguru zrI~candrazEkharEndra sarasvatI 6 ArAdhanA",
+        "id": "kAJcI 64 jagadguru zrI~candrazEkharEndra sarasvatI 5 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 8,
@@ -5214,7 +5214,7 @@
     {
         "angam_number": 23,
         "angam_type": "tithi",
-        "id": "kAJcI 66 jagadguru zrI~candrazEkharEndra sarasvatI 7 ArAdhanA",
+        "id": "kAJcI 66 jagadguru zrI~candrazEkharEndra sarasvatI 6 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 11,
@@ -5264,7 +5264,7 @@
     {
         "angam_number": 27,
         "angam_type": "tithi",
-        "id": "kAJcI 68 jagadguru zrI~candrazEkharEndra sarasvatI 8 ArAdhanA",
+        "id": "kAJcI 68 jagadguru zrI~candrazEkharEndra sarasvatI 7 ArAdhanA",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 9,
@@ -6486,7 +6486,7 @@
     {
         "angam_number": 17,
         "angam_type": "nakshatram",
-        "id": "kAJcI jagadguru zrI~candrazEkharEndra sarasvatI 8 jayantI",
+        "id": "kAJcI jagadguru zrI~candrazEkharEndra sarasvatI 7 jayantI",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "praatah",
         "month_number": 2,

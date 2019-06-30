@@ -20,8 +20,8 @@ _Having entered the peak named Agastya after established Gaṅgādharagīṣpati
 
 
 ---
-## Kāñchī 34 Jagadguru Śrī Chandraśekharendra Sarasvatī 3 Ārādhanā
-काञ्ची ३४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ३ आराधना is observed on Amāvāsyā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
+## Kāñchī 34 Jagadguru Śrī Chandraśekharendra Sarasvatī 2 Ārādhanā
+काञ्ची ३४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती २ आराधना is observed on Amāvāsyā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-34.jpg)
 
