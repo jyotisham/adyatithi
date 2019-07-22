@@ -5418,22 +5418,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "darbha-saGgrahaH~2",
-        "jsonClass": "HinduCalendarEventOld",
-        "kaala": "madhyaahna",
-        "month_number": 10,
-        "month_type": "solar_month",
-        "priority": "puurvaviddha",
-        "references_secondary": [
-            "Vaidikasri Feb 2010"
-        ],
-        "tags": "SpecialDays",
-        "notes": "Must check timings from some pravachanam? Based on time of sangraha?"
-    },
-    {
-        "angam_number": 30,
-        "angam_type": "tithi",
-        "id": "darbha-saGgrahaH~1",
+        "id": "darbha-saGgrahaH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "madhyaahna",
         "month_number": 5,
