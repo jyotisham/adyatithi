@@ -7421,6 +7421,8 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "solar_month",
+        "kaala": "sunset",
+        "priority": "puurvaviddha", 
         "tags": "TamilnaduTempleFestivals"
     },
     {
@@ -7429,6 +7431,8 @@
         "id": "ta:naTarAjar mahAbhiSEkam~6",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
+        "kaala": "sunset",
+        "priority": "puurvaviddha", 
         "month_type": "solar_month",
         "tags": "TamilnaduTempleFestivals"
     },
@@ -8851,7 +8855,7 @@
         },
         "id": "kRttikA-vratam",
         "jsonClass": "HinduCalendarEventOld",
-        "kaala": "sangava",
+        "kaala": "sunset",
         "month_number": 0,
         "month_type": "solar_month",
         "tags": "SpecialVratam"
