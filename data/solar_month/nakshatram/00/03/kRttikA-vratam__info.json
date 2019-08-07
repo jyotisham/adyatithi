@@ -11,7 +11,7 @@
     "angam_number": 3,
     "angam_type": "nakshatram",
     "jsonClass": "HinduCalendarEventTiming",
-    "kaala": "sangava",
+    "kaala": "sunset",
     "month_number": 0,
     "month_type": "solar_month"
   }

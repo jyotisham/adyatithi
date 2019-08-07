@@ -1,15 +1,15 @@
 {
-  "id": "ta__naTarAjar mahAbhiSEkam~2",
+  "id": "darbha-saGgrahaH",
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
   "tags": [
-    "TamilnaduTempleFestivals"
+    "SpecialDays"
   ],
   "timing": {
-    "angam_number": 14,
+    "angam_number": 30,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "kaala": "sunset",
+    "kaala": "madhyaahna",
     "month_number": 5,
     "month_type": "solar_month"
   }

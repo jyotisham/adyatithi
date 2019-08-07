@@ -2191,7 +2191,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
-        "references_primary": "VrataNirnayaKalpavalli",
+        "references_primary": ["VrataNirnayaKalpavalli"],
         "tags": "SpecialVratam,CommonFestivals"
     },
     {

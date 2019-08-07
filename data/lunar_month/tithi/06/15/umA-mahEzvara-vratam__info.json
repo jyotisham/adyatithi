@@ -2,6 +2,9 @@
   "id": "umA-mahEzvara-vratam",
   "jsonClass": "HinduCalendarEvent",
   "priority": "puurvaviddha",
+  "references_primary": [
+    "VrataNirnayaKalpavalli"
+  ],
   "tags": [
     "SpecialVratam",
     "CommonFestivals"

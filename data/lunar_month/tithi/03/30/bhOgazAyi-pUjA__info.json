@@ -1,16 +1,14 @@
 {
-  "id": "amuktAbharaNa-saptamI",
+  "id": "bhOgazAyi-pUjA",
   "jsonClass": "HinduCalendarEvent",
-  "priority": "paraviddha",
   "tags": [
-    "LessCommonFestivals"
+    "SpecialPuja"
   ],
   "timing": {
-    "angam_number": 7,
+    "angam_number": 30,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "kaala": "madhyaahna",
-    "month_number": 6,
+    "month_number": 3,
     "month_type": "lunar_month"
   }
 }
