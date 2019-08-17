@@ -63,8 +63,8 @@ _Dumb boy, as He was named born of Khalvāṭavīra, the gem in the family of ga
 _Offer coconut to sea God Varuna_
 
 ---
-## Rākṣābandhana-Pūrṇimā
-राक्षाबन्धन-पूर्णिमा is observed on Paurṇamāsī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Rakṣābandhana-Pūrṇimā
+रक्षाबन्धन-पूर्णिमा is observed on Paurṇamāsī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Rakshabandhanam_
 

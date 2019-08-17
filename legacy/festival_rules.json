@@ -7266,7 +7266,7 @@
         "description": {
             "en": "Rakshabandhanam"
         },
-        "id": "rAkSAbandhana-pUrNimA",
+        "id": "rakSAbandhana-pUrNimA",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
