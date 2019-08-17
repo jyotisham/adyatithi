@@ -40,7 +40,7 @@ def migrate_db(old_db_file, only_descriptions=False):
     event_file_name = event.get_storage_file_name(base_dir=os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data'), only_descriptions=only_descriptions)
     logging.debug(event_file_name)
     event.dump_to_file(filename=event_file_name)
-    # write_event_README(event, event_file_name)
+    write_event_README(event, event_file_name)
 
 
 # TODO:
@@ -140,7 +140,7 @@ def migrate_relative_db():
     event_file_name = event.get_storage_file_name(base_dir=os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data'))
     logging.debug(event_file_name)
     event.dump_to_file(filename=event_file_name)
-    # write_event_README(event, event_file_name)
+    write_event_README(event, event_file_name)
 
 
 def legacy_dict_to_HinduCalendarEventOld_list(old_db_file, new_db_file):
