@@ -1560,7 +1560,7 @@
         "month_number": 5,
         "month_type": "lunar_month",
         "shlokas": [
-            "pujyAya rAghavEndrAya satyadharmaratAya ca.\nbhajatAM kalavRkSAya namatAM kAmadhEnavE.."
+            "pUjyAya rAghavEndrAya satyadharmaratAya ca.\nbhajatAM kalpavRkSAya namatAM kAmadhEnavE.."
         ],
         "tags": "MahapurushaEvents,CommonFestivals",
         "year_start": 4773
@@ -6250,6 +6250,7 @@
         "id": "RgvEda-upAkarma",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
+        "priority": "paraviddha",
         "month_type": "lunar_month",
         "tags": "CommonFestivals"
     },
@@ -7265,7 +7266,7 @@
         "description": {
             "en": "Rakshabandhanam"
         },
-        "id": "rAkhI-pUrNimA",
+        "id": "rAkSAbandhana-pUrNimA",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
@@ -8905,7 +8906,7 @@
         "angam_number": 1,
         "angam_type": "day",
         "description": {
-            "en": "Nadha Sharma (`ta:muDavan2{}`, i.e. lame man) and his wife Anavidyambikai came to Mayavaram in order to perform a `tulA snAnam` in Kaveri. However, by the time they arrived, it was the last day of `tulA mAsa` and they could not complete the `snAnam`. They were disappointed yet spent their time doing Puja of the Lord, who appeared in their dreams and asked them to take a bath next morning (1st day of Vrschika) and reap full benefits of the Tula Kaveri Snanam iteself!"
+            "en": "Nadha Sharma (`ta:muDavan2{}`, i.e. lame man) and his wife Anavidyambikai came to Mayavaram in order to perform a `tulA snAnam` in Kaveri. However, by the time they arrived, it was the last day of `tulA mAsa` and they could not complete the `snAnam`. They were disappointed yet spent their time doing Puja of the Lord, who appeared in their dreams and asked them to take a bath next morning (1st day of Vrschika) and reap full benefits of the Tula Kaveri Snanam itself!"
         },
         "id": "ta:muDavan2 muzhukku",
         "jsonClass": "HinduCalendarEventOld",

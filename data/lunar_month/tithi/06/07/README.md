@@ -1,5 +1,5 @@
 ## Amuktābharaṇa-Saptamī
-अमुक्ताभरण-सप्तमी is observed on Śukla-Saptamī tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+अमुक्ताभरण-सप्तमी is observed on Śukla-Saptamī tithi of Bhādrapadaḥ (lunar) month (madhyaahna/paraviddha).
 
 
 

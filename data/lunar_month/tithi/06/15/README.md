@@ -14,6 +14,9 @@ _Shankaracharyas will resume their travel, after being stationed for Chaturmasya
 उमा-महेश्वर-व्रतम् is observed on Paurṇamāsī tithi of Bhādrapadaḥ (lunar) month (sunrise/puurvaviddha).
 
 
+### References
+* VrataNirnayaKalpavalli
+
 
 ---
 ## Upāṅga-Lalitā-Gaurī-Vratam
