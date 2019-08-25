@@ -7076,6 +7076,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "solar_month",
+        "kaala": "arunodaya",
         "tags": "CommonFestivals,SunSankranti"
     },
     {
@@ -8912,6 +8913,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "solar_month",
+        "kaala": "arunodaya",
         "tags": "CommonFestivals"
     },
     {
