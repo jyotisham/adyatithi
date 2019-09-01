@@ -1,0 +1,10 @@
+{
+  "id": "(bhAdrapada) mahAlaya amAvAsyA",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "AmavasyaDays"
+  ],
+  "timing": {
+    "jsonClass": "HinduCalendarEventTiming"
+  }
+}

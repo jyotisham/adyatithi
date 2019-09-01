@@ -1,0 +1,10 @@
+{
+  "id": "zrAvaNa-amAvAsyA",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "AmavasyaDays"
+  ],
+  "timing": {
+    "jsonClass": "HinduCalendarEventTiming"
+  }
+}
