@@ -373,9 +373,9 @@
     },
     {
         "description": {
-            "en": "`amAvasyA` on a Monday is as sacred as a solar eclipse. Particularly good for performing pradakshinam of Pippala tree."
+            "en": "`amAvAsyA` on a Monday is as sacred as a solar eclipse. Particularly good for performing pradakshinam of Pippala tree."
         },
-        "id": "sOmavatI amAvasyA",
+        "id": "sOmavatI amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "shlokas": [
             "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH..\n\nmUlatO brahmarUpAya madhyatO viSNurUpiNE.\nagrataH zivarUpAya vRkSarAjAya tE namaH..\nakSispandaM bhujaspandaM duHsvapnaM durvicintanam.\nzatrUnAm ca samutpannam azvattha zamayasva mE.."
@@ -394,59 +394,59 @@
         "tags": "ChandraDarshanam"
     },
     {
-        "id": "(bhAdrapada) mahAlaya amAvasyA",
+        "id": "(bhAdrapada) mahAlaya amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "Azvayuja-amAvasyA",
+        "id": "Azvayuja-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "Azvayuja-(adhika)-amAvasyA",
+        "id": "Azvayuja-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "ASADha-(adhika)-amAvasyA",
+        "id": "ASADha-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "zrAvaNa-(adhika) (kaTaka) amAvasyA",
+        "id": "zrAvaNa-(adhika) (kaTaka) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "bhAdrapada-(adhika)-amAvasyA",
+        "id": "bhAdrapada-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "caitra-(adhika)-amAvasyA",
+        "id": "caitra-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "vaizAkha-(adhika)-amAvasyA",
+        "id": "vaizAkha-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "zrAvaNa-(adhika)-amAvasyA",
+        "id": "zrAvaNa-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "jyaiSTha-(adhika)-amAvasyA",
+        "id": "jyaiSTha-(adhika)-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
         "description": {
             "en": "On Chaitra Amavasya, who gives a pot filled with `pAnakam`, he has indeed performed a hundred `gayAzrAddham`! He also gets the benefit of performing `SaNNavatizrAddham`!"        },
-        "id": "caitra-amAvasyA",
+        "id": "caitra-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "shlokas": [
             "yO dadyAccaitradarzE tu kumbhaM pUrNaM tu pAnakaiH.\ngayAzrAddhazataM tEna kRtamEva na saMzayaH..52..\nkastUrI karpurOpEtaM mallikOzIrasaMyutam.\nkalazaM pAnakaiH pUrNaM caitradarzE tu mAnavaH.\ndadyAtpitRRnsamuddizya sa SaNNavatidO bhavEt..53..\n-- skandapurANE dvitIyE vaiSNavakhaNDE vaizAkhamAhAtmyE tRtIyE adhyAyE"
@@ -475,12 +475,12 @@
         "tags": "RareDays,Eclipses"
     },
     {
-        "id": "jyaiSTha-amAvasyA",
+        "id": "jyaiSTha-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "kArttika-amAvasyA",
+        "id": "kArttika-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -493,7 +493,7 @@
         "tags": "PuranaEvents"
     },
     {
-        "id": "mAgha-amAvasyA",
+        "id": "mAgha-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -513,22 +513,22 @@
         "tags": "SunSankranti"
     },
     {
-        "id": "mArgazIrSa-amAvasyA",
+        "id": "mArgazIrSa-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "mauni (pauSa/makara) amAvasyA",
+        "id": "mauni (pauSa/makara) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "mauni (mAgha/makara) amAvasyA",
+        "id": "mauni (mAgha/makara) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "phAlguna-amAvasyA",
+        "id": "phAlguna-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -691,7 +691,7 @@
         "tags": "RareDays,Combinations"
     },
     {
-        "id": "vaizAkha-amAvasyA",
+        "id": "vaizAkha-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -728,12 +728,12 @@
         "tags": "MonthlyVratam,PradoshaVratam"
     },
     {
-        "id": "zrAvaNa-amAvasyA",
+        "id": "zrAvaNa-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "pauSa (makara) amAvasyA",
+        "id": "pauSa (makara) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -799,12 +799,12 @@
         "tags": "RareDays,Combinations"
     },
     {
-        "id": "ASADha (kaTaka) amAvasyA",
+        "id": "ASADha (kaTaka) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
     {
-        "id": "zrAvaNa (kaTaka) amAvasyA",
+        "id": "zrAvaNa (kaTaka) amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -910,7 +910,7 @@
         "tags": "RareDays,Combinations,Eclipses"
     },
     {
-        "id": "ASADha-amAvasyA",
+        "id": "ASADha-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -982,7 +982,7 @@
         "tags": "RareDays,Combinations"
     },
     {
-        "id": "pauSa-amAvasyA",
+        "id": "pauSa-amAvAsyA",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "AmavasyaDays"
     },
@@ -1020,7 +1020,7 @@
     },
     {
         "description": {
-            "en": "Dvadashi tithi, which is followed by an `amAvasyA` or `paurNamAsI` that touches two consecutive days at sunrise."
+            "en": "Dvadashi tithi, which is followed by an `amAvAsyA` or `paurNamAsI` that touches two consecutive days at sunrise."
         },
         "id": "pakSavardhinI~mahAdvAdazI",
         "jsonClass": "HinduCalendarEventOld",
@@ -1052,7 +1052,7 @@
     },
     {
         "description": {
-            "en": "If, on a Sunday, `amAvasyA` and one of the stars—`zravaNam`, `azvinI`, `zraviSThA`, `ArdrA` or `AzrESA`—occurs, then it is called `vyatIpAta yOGaH`, equal to a hundred _Surya grahanas_ in merit."
+            "en": "If, on a Sunday, `amAvAsyA` and one of the stars—`zravaNam`, `azvinI`, `zraviSThA`, `ArdrA` or `AzrESA`—occurs, then it is called `vyatIpAta yOGaH`, equal to a hundred _Surya grahanas_ in merit."
         },
         "id": "vyatIpAta-yOgaH (alabhyam)",
         "shlokas": [
@@ -1065,9 +1065,9 @@
     },
     {
         "description": {
-            "en": "If, `amAvasyA` occurs on a Monday, Tuesday or Thursday, the combination gives the tithi the name `puSkalA` and is equal to a solar eclipse."
+            "en": "If, `amAvAsyA` occurs on a Monday, Tuesday or Thursday, the combination gives the tithi the name `puSkalA` and is equal to a solar eclipse."
         },
-        "id": "puSkalA amAvasyA (alabhyam)",
+        "id": "puSkalA amAvAsyA (alabhyam)",
         "shlokas": [
             "amA sOmEna bhaumEna guruNA vA yutA yadi.\nsA tithiH puSkalA nAma sUryagrahaNasannibhA..\n"
         ],

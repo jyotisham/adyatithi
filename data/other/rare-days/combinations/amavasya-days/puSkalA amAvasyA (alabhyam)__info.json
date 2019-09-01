@@ -1,8 +1,8 @@
 {
   "description": {
-    "en": "If, `amAvasyA` occurs on a Monday, Tuesday or Thursday, the combination gives the tithi the name `puSkalA` and is equal to a solar eclipse."
+    "en": "If, `amAvAsyA` occurs on a Monday, Tuesday or Thursday, the combination gives the tithi the name `puSkalA` and is equal to a solar eclipse."
   },
-  "id": "puSkalA amAvasyA (alabhyam)",
+  "id": "puSkalA amAvAsyA (alabhyam)",
   "jsonClass": "HinduCalendarEvent",
   "references_secondary": [
     "Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga"

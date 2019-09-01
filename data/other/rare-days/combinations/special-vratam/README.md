@@ -3,7 +3,7 @@ _Dvadashi tithi, combined with Shravana nakshatram._
 
 ---
 ## Pakṣavardhinī Mahādvādaśī
-_Dvadashi tithi, which is followed by an अमावस्या or पौर्णमासी that touches two consecutive days at sunrise._
+_Dvadashi tithi, which is followed by an अमावास्या or पौर्णमासी that touches two consecutive days at sunrise._
 
 ---
 ## Trisparśā Mahādvādaśī

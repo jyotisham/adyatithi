@@ -6,7 +6,7 @@
     "CommonFestivals"
   ],
   "timing": {
-    "anchor_festival_id": "(bhAdrapada) mahAlaya amAvasyA",
+    "anchor_festival_id": "(bhAdrapada) mahAlaya amAvAsyA",
     "jsonClass": "HinduCalendarEventTiming",
     "offset": 0
   }

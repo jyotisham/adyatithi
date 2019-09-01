@@ -34,7 +34,7 @@
         "tags": "SpecialPuja"
     },
     {
-        "anchor_festival_id": "(bhAdrapada) mahAlaya amAvasyA",
+        "anchor_festival_id": "(bhAdrapada) mahAlaya amAvAsyA",
         "id": "mahAlaya-pakSa-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "offset": 0,
@@ -48,14 +48,14 @@
         "tags": "NorthIndiaTempleFestivals"
     },
     {
-        "anchor_festival_id": "kArttika-amAvasyA",
+        "anchor_festival_id": "kArttika-amAvAsyA",
         "id": "navama-aparapakSa-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "offset": 0,
         "tags": "SpecialPeriodEnd"
     },
     {
-        "anchor_festival_id": "Azvayuja-amAvasyA",
+        "anchor_festival_id": "Azvayuja-amAvAsyA",
         "id": "saptama-aparapakSa-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "offset": 0,
