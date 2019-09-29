@@ -2,7 +2,7 @@
     {
         "angam_number": 1,
         "angam_type": "tithi",
-        "id": "vasantanavarAtri-ArambhaH",
+        "id": "vasantanavarAtra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -149,7 +149,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "vasantanavarAtri-samApanam",
+        "id": "vasantanavarAtra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -1067,7 +1067,7 @@
     {
         "angam_number": 1,
         "angam_type": "tithi",
-        "id": "vArAhI-navarAtri-ArambhaH",
+        "id": "vArAhI-navarAtra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -1133,7 +1133,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "vArAhI-navarAtri-samApanam",
+        "id": "vArAhI-navarAtra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -2532,7 +2532,7 @@
     {
         "angam_number": 1,
         "angam_type": "tithi",
-        "id": "zarannavarAtri-ArambhaH",
+        "id": "zarannavarAtra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
@@ -2666,7 +2666,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "zarannavarAtri-samApanam",
+        "id": "zarannavarAtra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
@@ -5537,7 +5537,7 @@
         "description": {
             "en": "Vanadurga Navaratri. Specially celebrated in Karthiramangalam."
         },
-        "id": "vanadurgAnavarAtri-ArambhaH",
+        "id": "vanadurgAnavarAtra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
@@ -5549,7 +5549,7 @@
         "description": {
             "en": "Shyamala Devi specially blesses musicians; honour musicians in this period."
         },
-        "id": "zyAmaLAnavarAtri-ArambhaH",
+        "id": "zyAmaLAnavarAtra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
@@ -5699,7 +5699,7 @@
         "description": {
             "en": "Vanadurga Navaratri. Specially celebrated in Karthiramangalam."
         },
-        "id": "vanadurgAnavarAtri-samApanam",
+        "id": "vanadurgAnavarAtra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
@@ -5708,7 +5708,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "zyAmaLAnavarAtri-samApanam",
+        "id": "zyAmaLAnavarAtra-samApanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
