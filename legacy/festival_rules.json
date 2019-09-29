@@ -3564,15 +3564,6 @@
         "tags": "MahapurushaEvents"
     },
     {
-        "angam_number": 27,
-        "angam_type": "tithi",
-        "id": "zrI~bOdhEndra sarasvatI ArAdhanA",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 6,
-        "month_type": "lunar_month",
-        "tags": "MahapurushaEvents,CommonFestivals"
-    },
-    {
         "angam_number": 15,
         "angam_type": "tithi",
         "id": "zrI~gOvinda bhagavatpAda ArAdhanA",
