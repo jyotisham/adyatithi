@@ -2474,6 +2474,8 @@
         "id": "yati-mahAlayam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
+        "kaala": "aparaahna",
+        "priority": "paraviddha",
         "month_type": "lunar_month",
         "tags": "SpecialPuja,CommonFestivals,CommonFestivals"
     },
