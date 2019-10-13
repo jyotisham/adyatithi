@@ -1,5 +1,5 @@
-## Śarannavarātri-Samāpanam
-शरन्नवरात्रि-समापनम् is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Śarannavarātra-Samāpanam
+शरन्नवरात्र-समापनम् is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

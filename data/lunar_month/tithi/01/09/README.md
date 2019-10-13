@@ -4,8 +4,8 @@
 
 
 ---
-## Vasantanavarātri-Samāpanam
-वसन्तनवरात्रि-समापनम् is observed on Śukla-Navamī tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vasantanavarātra-Samāpanam
+वसन्तनवरात्र-समापनम् is observed on Śukla-Navamī tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

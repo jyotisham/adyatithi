@@ -1,6 +1,7 @@
 {
   "id": "yati-mahAlayam",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
   "tags": [
     "SpecialPuja",
     "CommonFestivals",
@@ -10,6 +11,7 @@
     "angam_number": 27,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
     "month_number": 6,
     "month_type": "lunar_month"
   }

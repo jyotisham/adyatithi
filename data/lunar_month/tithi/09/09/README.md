@@ -7,8 +7,8 @@ _Perform समुद्रस्नानम् and श्राद्धम्
 
 
 ---
-## Vanadurgānavarātri-Samāpanam
-वनदुर्गानवरात्रि-समापनम् is observed on Śukla-Navamī tithi of Mārgaśīrṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vanadurgānavarātra-Samāpanam
+वनदुर्गानवरात्र-समापनम् is observed on Śukla-Navamī tithi of Mārgaśīrṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Vanadurga Navaratri. Specially celebrated in Karthiramangalam._
 

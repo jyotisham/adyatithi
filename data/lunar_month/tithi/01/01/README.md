@@ -1,5 +1,5 @@
-## Vasantanavarātri-Ārambhaḥ
-वसन्तनवरात्रि-आरम्भः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vasantanavarātra-Ārambhaḥ
+वसन्तनवरात्र-आरम्भः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

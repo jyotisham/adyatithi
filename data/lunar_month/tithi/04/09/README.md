@@ -1,5 +1,5 @@
-## Vārāhī-Navarātri-Samāpanam
-वाराही-नवरात्रि-समापनम् is observed on Śukla-Navamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vārāhī-Navarātra-Samāpanam
+वाराही-नवरात्र-समापनम् is observed on Śukla-Navamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

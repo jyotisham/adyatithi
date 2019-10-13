@@ -7,8 +7,8 @@
     "CommonFestivals"
   ],
   "timing": {
-    "angam_number": 26,
-    "angam_type": "nakshatram",
+    "angam_number": 16,
+    "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "praatah",
     "month_number": 6,

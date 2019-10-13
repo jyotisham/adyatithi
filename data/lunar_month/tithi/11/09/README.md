@@ -1,5 +1,5 @@
-## Śyāmaḻānavarātri-Samāpanam
-श्यामळानवरात्रि-समापनम् is observed on Śukla-Navamī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Śyāmaḻānavarātra-Samāpanam
+श्यामळानवरात्र-समापनम् is observed on Śukla-Navamī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

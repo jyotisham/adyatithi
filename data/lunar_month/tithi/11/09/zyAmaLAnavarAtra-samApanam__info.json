@@ -1,8 +1,5 @@
 {
-  "description": {
-    "en": "Vanadurga Navaratri. Specially celebrated in Karthiramangalam."
-  },
-  "id": "vanadurgAnavarAtri-samApanam",
+  "id": "zyAmaLAnavarAtra-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
     "Navaratri",
@@ -12,7 +9,7 @@
     "angam_number": 9,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "month_number": 9,
+    "month_number": 11,
     "month_type": "lunar_month"
   }
 }

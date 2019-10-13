@@ -1,5 +1,5 @@
-## Śarannavarātri-Ārambhaḥ
-शरन्नवरात्रि-आरम्भः is observed on Śukla-Prathamā tithi of Āśvayujaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Śarannavarātra-Ārambhaḥ
+शरन्नवरात्र-आरम्भः is observed on Śukla-Prathamā tithi of Āśvayujaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

@@ -1,5 +1,5 @@
-## Vārāhī-Navarātri-Ārambhaḥ
-वाराही-नवरात्रि-आरम्भः is observed on Śukla-Prathamā tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vārāhī-Navarātra-Ārambhaḥ
+वाराही-नवरात्र-आरम्भः is observed on Śukla-Prathamā tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

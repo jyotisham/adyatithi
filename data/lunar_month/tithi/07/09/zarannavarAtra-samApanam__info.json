@@ -1,16 +1,16 @@
 {
-  "id": "vasantanavarAtri-samApanam",
+  "id": "zarannavarAtra-samApanam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "CommonFestivals",
     "Navaratri",
-    "SpecialPeriodEnd"
+    "SpecialPeriodEnd",
+    "CommonFestivals"
   ],
   "timing": {
     "angam_number": 9,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "month_number": 1,
+    "month_number": 7,
     "month_type": "lunar_month"
   }
 }

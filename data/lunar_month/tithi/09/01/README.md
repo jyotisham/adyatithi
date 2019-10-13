@@ -18,8 +18,8 @@ _The austere preceptor Surendra after defeating boldly in debate the materialist
 
 
 ---
-## Vanadurgānavarātri-Ārambhaḥ
-वनदुर्गानवरात्रि-आरम्भः is observed on Śukla-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Vanadurgānavarātra-Ārambhaḥ
+वनदुर्गानवरात्र-आरम्भः is observed on Śukla-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Vanadurga Navaratri. Specially celebrated in Karthiramangalam._
 
