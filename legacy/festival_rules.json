@@ -1252,7 +1252,7 @@
         "month_number": 5,
         "month_type": "lunar_month",
         "shlokas": [
-            "vAsudEva namastubhyaM prathamE mAsi matkRtam.\nzAkavrataM mayA tEna saMtuSTO bhava mAdhava..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdajjanArdana.."
+            "vAsudEva namastubhyaM prathamE mAsi matkRtam.\nzAkavrataM mayA tEna saMtuSTO bhava mAdhava..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdAjjanArdana.."
         ],
         "tags": "VratamEnd,SpecialPeriodEnd,CommonFestivals"
     },
@@ -1279,7 +1279,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "shlokas": [
-            "saGkarSaNa namastubhyaM zravaNE matkRtEna ca.\ndadhivratEna dEvEza tuSTO bhava janArdana..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdajjanArdana.."
+            "saGkarSaNa namastubhyaM zravaNE matkRtEna ca.\ndadhivratEna dEvEza tuSTO bhava janArdana..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdAjjanArdana.."
         ],
         "tags": "VratamEnd,SpecialPeriodEnd,CommonFestivals"
     },
@@ -1306,7 +1306,7 @@
         "month_number": 7,
         "month_type": "lunar_month",
         "shlokas": [
-            "zrIpradyumna namastubhyaM mAsamArabhya yatkRtam.\niSTadO bhava sarvEza gRhItvA tu payOvratam..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdajjanArdana.."
+            "zrIpradyumna namastubhyaM mAsamArabhya yatkRtam.\niSTadO bhava sarvEza gRhItvA tu payOvratam..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdAjjanArdana.."
         ],
         "tags": "VratamEnd,SpecialPeriodEnd,CommonFestivals"
     },
@@ -1330,7 +1330,7 @@
         "month_number": 8,
         "month_type": "lunar_month",
         "shlokas": [
-            "aniruddha namastubhyaM dvidalAkhyavratEna ca.\nmatkRtEnAzvinE mAsE prItyarthaM phaladO bhava..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdajjanArdana.."
+            "aniruddha namastubhyaM dvidalAkhyavratEna ca.\nmatkRtEnAzvinE mAsE prItyarthaM phaladO bhava..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdAjjanArdana.."
         ],
         "tags": "VratamEnd,SpecialPeriodEnd,CommonFestivals"
     },
@@ -2891,7 +2891,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "kumAra-pUrNimA/mahA-azvini",
+        "id": "kumAra-pUrNimA/mahA-azvinI",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "lunar_month",
@@ -7291,8 +7291,8 @@
         "tags": "LessCommonFestivals"
     },
     {
-        "angam_number": 26,
-        "angam_type": "nakshatram",
+        "angam_number": 16,
+        "angam_type": "tithi",
         "id": "appayya-dIkSita-jayantI",
         "kaala": "praatah",
         "jsonClass": "HinduCalendarEventOld",
