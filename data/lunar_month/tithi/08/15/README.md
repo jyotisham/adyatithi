@@ -10,6 +10,15 @@
 
 
 ---
+## Kārttika-Māsa-Antimatrayatithi-Vrata-Samāpanam
+कार्त्तिक-मास-अन्तिमत्रयतिथि-व्रत-समापनम् is observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+_Last three days of कार्त्तिक-मासः. अनन्तफलदम्! Perform Shiva/Vishnu Puja, Bhagavata Parayanam, BhagavadGita Parayanam, Vishnu Sahasranama Parayanam etc._
+### References
+* skAnda mahApurANe vaiSNavakhaNDE SaDtriMzO.adhyAyaH
+
+
+---
 ## Bhīṣma-Pañchaka-Vrata-Samāpanam
 भीष्म-पञ्चक-व्रत-समापनम् is observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

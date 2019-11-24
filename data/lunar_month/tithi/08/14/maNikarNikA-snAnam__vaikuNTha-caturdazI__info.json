@@ -1,9 +1,12 @@
 {
   "description": {
-    "en": "Perform `snAnam` at `maNikarNikA` ghat in Varanasi."
+    "en": "Perform `snAnam` at `maNikarNikA` ghat in Varanasi. Perform BhagavadGita Parayanam, Vishnu Sahasranama Parayanam."
   },
-  "id": "maNikarNikA-snAnam",
+  "id": "maNikarNikA-snAnam/vaikuNTha-caturdazI",
   "jsonClass": "HinduCalendarEvent",
+  "references_primary": [
+    "skAnda mahApurANe vaiSNavakhaNDE paJcatriMzO.adhyAyaH"
+  ],
   "tags": [
     "SpecialSnanam"
   ],

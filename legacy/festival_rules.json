@@ -2420,12 +2420,15 @@
         "angam_number": 14,
         "angam_type": "tithi",
         "description": {
-            "en": "Perform `snAnam` at `maNikarNikA` ghat in Varanasi."
+            "en": "Perform `snAnam` at `maNikarNikA` ghat in Varanasi. Perform BhagavadGita Parayanam, Vishnu Sahasranama Parayanam."
         },
-        "id": "maNikarNikA-snAnam",
+        "id": "maNikarNikA-snAnam/vaikuNTha-caturdazI",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
+        "references_primary": [
+            "skAnda mahApurANe vaiSNavakhaNDE paJcatriMzO.adhyAyaH"
+        ],
         "tags": "SpecialSnanam"
     },
     {
@@ -3452,6 +3455,36 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
+        "tags": "LessCommonFestivals"
+    },
+    {
+        "angam_number": 15,
+        "angam_type": "tithi",
+        "id": "kArttika-mAsa-antimatrayatithi-vrata-samApanam",
+        "description": {
+            "en": "Last three days of `kArttika-mAsaH`. `anantaphaladam`! Perform Shiva/Vishnu Puja, Bhagavata Parayanam, BhagavadGita Parayanam, Vishnu Sahasranama Parayanam etc."
+        },
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 8,
+        "month_type": "lunar_month",
+        "references_primary": [
+            "skAnda mahApurANe vaiSNavakhaNDE SaDtriMzO.adhyAyaH"
+        ],
+        "tags": "LessCommonFestivals"
+    },
+    {
+        "angam_number": 13,
+        "angam_type": "tithi",
+        "id": "kArttika-mAsa-antimatrayatithi-vrata-ArambhaH",
+        "description": {
+            "en": "Last three days of `kArttika-mAsaH`. `anantaphaladam`! Perform Shiva/Vishnu Puja, Bhagavata Parayanam, BhagavadGita Parayanam, Vishnu Sahasranama Parayanam etc."
+        },
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 8,
+        "month_type": "lunar_month",
+        "references_primary": [
+            "skAnda mahApurANe vaiSNavakhaNDE SaDtriMzO.adhyAyaH"
+        ],
         "tags": "LessCommonFestivals"
     },
     {
@@ -7017,7 +7050,7 @@
         "description": {
             "en": "Perform danam of rice/wheat/grains and cow ghee/curd etc."
         },
-        "id": "tulA-viSu-puNyakAlaH",
+        "id": "tulA-puNyakAlaH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 7,
         "month_type": "solar_month",

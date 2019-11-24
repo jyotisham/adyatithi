@@ -1,5 +1,5 @@
-## Tulā-Viṣu-Puṇyakālaḥ
-तुला-विषु-पुण्यकालः is observed on day 1 of Tulā (solar) month (sunrise (default)/puurvaviddha (default)).
+## Tulā-Puṇyakālaḥ
+तुला-पुण्यकालः is observed on day 1 of Tulā (solar) month (sunrise (default)/puurvaviddha (default)).
 
 _Perform danam of rice/wheat/grains and cow ghee/curd etc._
 
