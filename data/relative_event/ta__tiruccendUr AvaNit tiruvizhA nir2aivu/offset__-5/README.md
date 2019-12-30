@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Āvaṇit Tiruviḷā 7M Nāḻ—Chigappu Chātti Alaṅkāram
+## Tiruchchêndūr Murugaṉa Āvaṇit Tiruviḽaā 7M Nāḻ—Chigappu Chātti Alaṅkāram
 
 
 ---

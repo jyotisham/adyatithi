@@ -1,9 +1,3 @@
-## Daśāvatāra-Vratam
-दशावतार-व्रतम् is observed on Śukla-Daśamī tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Vitastotsavaḥ
 वितस्तोत्सवः is observed on Śukla-Daśamī tithi of Bhādrapadaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

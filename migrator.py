@@ -49,6 +49,9 @@ def migrate_db(old_db_file, only_descriptions=False):
 def write_event_README(event, event_file_name):
     with open(event_file_name) as event_data:
       readme_file_name = os.path.join(os.path.dirname(event_file_name), 'README.md')
+      # Clear the README first.
+      with open(readme_file_name, 'w') as readme_file:
+        readme_file.write("")
       event_dict = json.load(event_data)
       with open(readme_file_name, 'a+') as readme_file:
         headline = custom_transliteration.tr(event_dict["id"], sanscript.IAST).replace('Ta__', '').replace('~', ' ').strip('{}')

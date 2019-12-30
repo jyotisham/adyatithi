@@ -1,18 +1,3 @@
-## Devasenā Pañchamī
-देवसेना पञ्चमी is observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) month (madhyaahna/puurvaviddha).
-
-
-### References
-* https://twitter.com/blog_supplement/status/923044462229671936
-
-
----
-## Pāṇḍava (Lābha)-Pañchamī
-पाण्डव (लाभ)-पञ्चमी is observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) month (madhyaahna/puurvaviddha).
-
-
-
----
 ## Sarpa-Pūjā
 सर्प-पूजा is observed on Śukla-Pañcamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

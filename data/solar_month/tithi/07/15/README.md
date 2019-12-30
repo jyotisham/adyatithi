@@ -1,9 +1,3 @@
-## Mahā Annābhiṣekaḥ
-महा अन्नाभिषेकः is observed on Paurṇamāsī tithi of Tulā (solar) month (sunset/puurvaviddha).
-
-
-
----
 ## Āgrayaṇa Homaḥ
 आग्रयण होमः is observed on Paurṇamāsī tithi of Tulā (solar) month (sunrise/puurvaviddha).
 

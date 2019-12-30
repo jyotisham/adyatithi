@@ -1,11 +1,3 @@
-## Garuḍa-Pañchamī
-गरुड-पञ्चमी is observed on Śukla-Pañcamī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_
-* Day Garuda brought Amrutam for Nagas
-* Day Garuda and Takshaka fought and compromise was struck with Takshaka as garland in Garuda's neck (peace treaty :) _
-
----
 ## Nāga-Pañchamī
 नाग-पञ्चमी is observed on Śukla-Pañcamī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

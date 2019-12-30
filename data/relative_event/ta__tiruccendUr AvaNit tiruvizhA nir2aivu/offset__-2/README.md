@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Āvaṇit Tiruviḷā 10M Nāḻ—Ter
+## Tiruchchêndūr Murugaṉa Āvaṇit Tiruviḽaā 10M Nāḻ—Ter
 
 
 ---

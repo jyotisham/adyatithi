@@ -1,15 +1,3 @@
-## Vahni-Vratam
-वह्नि-व्रतम् is observed on Amāvāsyā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
-## Bhārgava-Rāma-Pūjā
-भार्गव-राम-पूजा is observed on Amāvāsyā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Kāñchī 47 Jagadguru Śrī Chandraśekharendra Sarasvatī 3 Ārādhanā
 काञ्ची ४७ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ३ आराधना is observed on Amāvāsyā tithi of Caitraḥ (lunar) month (aparaahna/paraviddha).
 

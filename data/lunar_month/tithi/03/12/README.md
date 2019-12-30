@@ -1,30 +1,3 @@
-## Gavāmayana-Dvādaśī
-गवामयन-द्वादशी is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_Perform puja of Lord Trivikrama (Sahasranamarchana), do naivedyam of mangoes and offer annadanam to needy._
-
-```
-अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।
-गवामयनमाप्नोति अप्सरोभिश्च मोदते॥
-```
-### References
-* Mahabharata
-* Vaidikasri June 2017
-
-
----
-## Rāmalakṣmaṇa-Dvādaśī
-रामलक्ष्मण-द्वादशी is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
-## Champaka-Dvādaśī
-चम्पक-द्वादशी is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Kāñchī 2 Jagadguru Śrī Sureśvarāchārya Ārādhanā
 काञ्ची २ जगद्गुरु श्री सुरेश्वराचार्य आराधना is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
 

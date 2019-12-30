@@ -1,9 +1,3 @@
-## Bahula-Pañchamī
-बहुल-पञ्चमी is observed on Kṛṣṇa-Pañcamī tithi of Pauṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
----
 ## Tyāgarāja-Ārādhanā
 त्यागराज-आराधना is observed on Kṛṣṇa-Pañcamī tithi of Pauṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

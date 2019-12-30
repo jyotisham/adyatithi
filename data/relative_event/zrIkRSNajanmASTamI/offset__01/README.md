@@ -1,8 +1,4 @@
-## Nandotsavaḥ
-
-
----
-## Varagūr Ur̂iyaḍi Utsavam
+## Varagūr Uṟaiyaḍi Utsavam
 
 
 ---

@@ -1,0 +1,12 @@
+{
+  "id": "navama-aparapakSa-samApanam",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "SpecialPeriodEnd"
+  ],
+  "timing": {
+    "anchor_festival_id": "kArttika-amAvAsyA",
+    "jsonClass": "HinduCalendarEventTiming",
+    "offset": 0
+  }
+}

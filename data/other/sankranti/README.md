@@ -1,7 +1,3 @@
-## Guru-Saṅkrāntiḥ
-
-
----
 ## Śani-Saṅkrāntiḥ
 
 

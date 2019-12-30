@@ -1,9 +1,3 @@
-## Navama-Aparapakṣa-Ārambhaḥ
-नवम-अपरपक्ष-आरम्भः is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/puurvaviddha).
-
-
-
----
 ## Kāñchī 64 Jagadguru Śrī Chandraśekharendra Sarasvatī 5 Ārādhanā
 काञ्ची ६४ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ५ आराधना is observed on Kṛṣṇa-Prathamā tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
 
