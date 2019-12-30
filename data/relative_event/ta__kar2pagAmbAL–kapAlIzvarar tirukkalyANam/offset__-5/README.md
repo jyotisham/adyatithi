@@ -1,4 +1,4 @@
-## Kapālī Riṣabha Vāhaṉaam
+## Kapālī Riṣabha Vāhanam
 
 
 ---

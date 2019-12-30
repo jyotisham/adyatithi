@@ -1,4 +1,4 @@
-## Kaṉaup Pôṅgal
+## Kanup Pôṅgal
 
 
 ---

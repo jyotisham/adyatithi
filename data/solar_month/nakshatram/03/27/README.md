@@ -1,4 +1,4 @@
-## Êyarkoṉa Kalikkāma Nāyaṉaār (28) Gurupūjai
+## Êyarkon Kalikkāma Nāyanār (28) Gurupūjai
 எயர்கோன் கலிக்காம நாயனார் (௨௮) குருபூஜை is observed on Revatī nakṣhatram day of Mithunam (solar) month (praatah/paraviddha).
 
 

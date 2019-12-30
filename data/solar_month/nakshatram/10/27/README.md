@@ -1,4 +1,4 @@
-## Kalikkamba Nāyaṉaār (42) Gurupūjai
+## Kalikkamba Nāyanār (42) Gurupūjai
 கலிக்கம்ப நாயனார் (௪௨) குருபூஜை is observed on Revatī nakṣhatram day of Makaraḥ (solar) month (praatah/paraviddha).
 
 
