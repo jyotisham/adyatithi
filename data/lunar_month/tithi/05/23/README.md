@@ -1,3 +1,21 @@
+## Śrīkṛṣṇajanmāṣṭamī
+श्रीकृष्णजन्माष्टमी is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (nishita/paraviddha).
+
+
+
+---
+## Mahākālī Jayantī
+महाकाली जयन्ती is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (nishita/paraviddha).
+
+_Goddess Mahakali is 1st of the Dasha Maha Vidyas._
+
+---
+## Śrīkṛṣṇadevarāya-Rājyābhiṣekaḥ
+श्रीकृष्णदेवराय-राज्याभिषेकः is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+---
 ## Kāñchī 21 Jagadguru Śrī Sārvabhaumaguruḥ Chandrachūḍendra Sarasvatī Ārādhanā
 काञ्ची २१ जगद्गुरु श्री सार्वभौमगुरुः चन्द्रचूडेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
 

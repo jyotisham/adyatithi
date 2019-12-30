@@ -1,3 +1,12 @@
+## Kārtavīryārjuna Jayantī
+कार्तवीर्यार्जुन जयन्ती is observed on Śukla-Aṣṭamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+### References
+* http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/
+
+
+---
 ## Gopāṣṭamī
 गोपाष्टमी is observed on Śukla-Aṣṭamī tithi of Kārttikaḥ (lunar) month (madhyaahna/puurvaviddha).
 

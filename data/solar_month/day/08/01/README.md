@@ -1,3 +1,15 @@
+## Kṛttikā-Maṇḍala-Pārāyaṇam
+कृत्तिका-मण्डल-पारायणम् is observed on day 1 of Vṛścikaḥ (solar) month (sunrise (default)/puurvaviddha (default)).
+
+_Conduct veda parayanam in the evening, on one of these 48 days._
+
+---
+## Viṣṇupadī-Vṛśchikaraviḥ
+विष्णुपदी-वृश्चिकरविः is observed on day 1 of Vṛścikaḥ (solar) month (sunrise (default)/puurvaviddha (default)).
+
+_Do danam of deepam._
+
+---
 ## Muḍavan Muḽukku
 முடவன் முழுக்கு is observed on day 1 of Vṛścikaḥ (solar) month (arunodaya/puurvaviddha (default)).
 

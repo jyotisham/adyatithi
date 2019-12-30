@@ -1,3 +1,15 @@
+## Māgha-Pūrṇimā
+माघ-पूर्णिमा is observed on Paurṇamāsī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+---
+## Lalitā Jayantī
+ललिता जयन्ती is observed on Paurṇamāsī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+_Goddess Lalita is 3rd of the Dasha Maha Vidyas._
+
+---
 ## Māgha-Pūrṇimā-Snānam
 माघ-पूर्णिमा-स्नानम् is observed on Paurṇamāsī tithi of Māghaḥ (lunar) month (arunodaya/paraviddha).
 

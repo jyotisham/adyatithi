@@ -1,3 +1,15 @@
+## Bhīṣma-Dvādaśī
+भीष्म-द्वादशी is observed on Śukla-Dvādaśī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+---
+## Varāha-Dvādaśī
+वराह-द्वादशी is observed on Śukla-Dvādaśī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+---
 ## Tilapadma-Dvādaśī/Tilotpatti
 तिलपद्म-द्वादशी/तिलोत्पत्ति is observed on Śukla-Dvādaśī tithi of Māghaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

@@ -1,3 +1,30 @@
+## Manvādi (Rudraḥ [12])
+मन्वादि (रुद्रः [१२]) is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---
+## Holikā-Pūrṇimā
+होलिका-पूर्णिमा is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (pradosha/paraviddha).
+
+
+
+---
+## Kāma-Dahanam
+काम-दहनम् is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (pradosha/puurvaviddha).
+
+
+
+---
+## Chaitanya-Mahāprabhu Jayantī
+चैतन्य-महाप्रभु जयन्ती is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+---
 ## Veṅkaṭāchale Plavotsava-Samāpanam
 वेङ्कटाचले प्लवोत्सव-समापनम् is observed on Paurṇamāsī tithi of Phālgunaḥ (lunar) month (moonrise/puurvaviddha (default)).
 
