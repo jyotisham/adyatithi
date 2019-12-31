@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugaṉa Têppam
+## Tiruchchêndūr Murugan Têppam
 
 
 ---

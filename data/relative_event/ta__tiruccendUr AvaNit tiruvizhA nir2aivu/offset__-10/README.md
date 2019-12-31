@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugaṉa Āvaṇit Tiruviḽaā 2M Nāḻ
+## Tiruchchêndūr Murugan Āvaṇit Tiruviḽā 2M Nāḻ
 
 
 ---

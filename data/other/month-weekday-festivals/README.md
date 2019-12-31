@@ -1,8 +1,8 @@
-## Āvaṇi Ñāyiṟaṟaukkiḽaamai
+## Āvaṇi Ñāyir̂r̂ukkiḽamai
 _Do puja to Surya/Suryanamaskaram._
 
 ---
-## Kārttigai Ñāyiṟaṟaukkiḽaamai
+## Kārttigai Ñāyir̂r̂ukkiḽamai
 _Do puja to Surya/Suryanamaskaram._
 
 ---
@@ -13,11 +13,11 @@ _Do puja to Shiva/Parvati, perform fast._
 
 
 ---
-## Āḍi Vêḻḻikkiḽaamai
+## Āḍi Vêḻḻikkiḽamai
 
 
 ---
-## Tai Vêḻḻikkiḽaamai
+## Tai Vêḻḻikkiḽamai
 
 
 ---
@@ -25,7 +25,7 @@ _Do puja to Shiva/Parvati, perform fast._
 _Do उपवासम् (at least do not take salt) and pray to Lord Shiva (Vaidyanatha Swami)._
 
 ---
-## Puraṭṭāchi Chaṉaikkiḽaamai
+## Puraṭṭāchi Chanikkiḽamai
 _Perform special puja and naivedyam (e.g. तिलान्नम्) to Lord Venkateshwara._
 
 ---

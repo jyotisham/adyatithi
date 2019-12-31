@@ -7516,7 +7516,7 @@
     {
         "angam_number": 12,
         "angam_type": "nakshatram",
-        "id": "ta:iyarpagai nAyan2Ar (2) gurupUjai",
+        "id": "ta:iyar2pagai nAyan2Ar (2) gurupUjai",
         "kaala": "praatah",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
@@ -7791,7 +7791,7 @@
     {
         "angam_number": 20,
         "angam_type": "nakshatram",
-        "id": "ta:cirappuli nAyan2Ar (34) gurupUjai",
+        "id": "ta:cir2appuli nAyan2Ar (34) gurupUjai",
         "kaala": "praatah",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
@@ -8077,7 +8077,7 @@
     {
         "angam_number": 19,
         "angam_type": "nakshatram",
-        "id": "ta:mUrkha nAyan2Ar (31) gurupUjai",
+        "id": "ta:mUrkkha nAyan2Ar (31) gurupUjai",
         "kaala": "praatah",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,

@@ -33,13 +33,11 @@ def transliterate_quoted_text(text, script):
 
 def migrate_db(old_db_file, only_descriptions=False):
   old_style_events = HinduCalendarEventOld.read_from_file(old_db_file)
-  data_path = os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data')
-  import shutil
-  shutil.rmtree(data_path)
+  # TODO: Reset all README files in the folder here?
   for old_style_event in old_style_events:
     event = HinduCalendarEvent.from_old_style_event(old_style_event=old_style_event)
     logging.debug(str(event))
-    event_file_name = event.get_storage_file_name(base_dir=data_path, only_descriptions=only_descriptions)
+    event_file_name = event.get_storage_file_name(base_dir=os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data'), only_descriptions=only_descriptions)
     logging.debug(event_file_name)
     event.dump_to_file(filename=event_file_name)
     write_event_README(event, event_file_name)
@@ -51,6 +49,9 @@ def migrate_db(old_db_file, only_descriptions=False):
 def write_event_README(event, event_file_name):
     with open(event_file_name) as event_data:
       readme_file_name = os.path.join(os.path.dirname(event_file_name), 'README.md')
+      # # Clear the README first.
+      # with open(readme_file_name, 'w') as readme_file:
+      #   readme_file.write("")
       event_dict = json.load(event_data)
       with open(readme_file_name, 'a+') as readme_file:
         headline = custom_transliteration.tr(event_dict["id"], sanscript.IAST).replace('Ta__', '').replace('~', ' ').strip('{}')
