@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugaṉa Āvaṇit Tiruviḽaā Tôḍakkam/Kôḍiyeṟaṟaam
+## Tiruchchêndūr Murugan Āvaṇit Tiruviḽā Tôḍakkam/Kôḍiyer̂r̂am
 
 
 ---
