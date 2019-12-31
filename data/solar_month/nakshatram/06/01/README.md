@@ -1,6 +1,0 @@
-## Rudra Paśupati Nāyaṉaār (16) Gurupūjai
-ருத்ர பஶுபதி நாயனார் (௧௬) குருபூஜை is observed on Aśvinī nakṣhatram day of Kanyā (solar) month (praatah/paraviddha).
-
-
-
----

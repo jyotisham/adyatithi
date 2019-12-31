@@ -1,6 +1,0 @@
-## Arivāṭṭāya Nāyaṉaār (12) Gurupūjai
-அரிவாட்டாய நாயனார் (௧௨) குருபூஜை is observed on Ārdrā nakṣhatram day of Makaraḥ (solar) month (praatah/paraviddha).
-
-
-
----
