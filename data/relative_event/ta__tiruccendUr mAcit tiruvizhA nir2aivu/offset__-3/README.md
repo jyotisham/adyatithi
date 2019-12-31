@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Māchit Tiruviḽā 9M Nāḻ—Taṅga Kailācha Vāhanam
+## Tiruchchêndūr Murugaṉa Māchit Tiruviḽaā 9M Nāḻ—Taṅga Kailācha Vāhaṉaam
 
 
 ---

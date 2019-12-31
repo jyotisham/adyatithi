@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Āvaṇit Tiruviḽā 6M Nāḻ—Vêḻḻit Ter Bhavani
+## Tiruchchêndūr Murugaṉa Āvaṇit Tiruviḽaā 6M Nāḻ—Vêḻḻit Ter Bhavaṉai
 
 
 ---

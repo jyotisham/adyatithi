@@ -1,8 +1,8 @@
-## Kapālī Umā-Maheśvara Darichanam
+## Kapālī Umā-Maheśvara Darichaṉaam
 
 
 ---
-## Kapālī Viḍaiyār̂r̂i Tôḍakkam
+## Kapālī Viḍaiyāṟaṟai Tôḍakkam
 
 
 ---

@@ -33,11 +33,13 @@ def transliterate_quoted_text(text, script):
 
 def migrate_db(old_db_file, only_descriptions=False):
   old_style_events = HinduCalendarEventOld.read_from_file(old_db_file)
-  # TODO: Reset all README files in the folder here?
+  output_dir = os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data')
+  import shutil
+  shutil.rmtree(output_dir)
   for old_style_event in old_style_events:
     event = HinduCalendarEvent.from_old_style_event(old_style_event=old_style_event)
     logging.debug(str(event))
-    event_file_name = event.get_storage_file_name(base_dir=os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data'), only_descriptions=only_descriptions)
+    event_file_name = event.get_storage_file_name(base_dir=output_dir, only_descriptions=only_descriptions)
     logging.debug(event_file_name)
     event.dump_to_file(filename=event_file_name)
     write_event_README(event, event_file_name)
