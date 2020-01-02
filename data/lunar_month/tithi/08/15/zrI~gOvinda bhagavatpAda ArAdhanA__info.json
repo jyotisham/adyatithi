@@ -1,0 +1,16 @@
+{
+  "id": "zrI~gOvinda bhagavatpAda ArAdhanA",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "puurvaviddha",
+  "tags": [
+    "KanchiAradhanaDays"
+  ],
+  "timing": {
+    "angam_number": 15,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
+    "month_number": 8,
+    "month_type": "lunar_month"
+  }
+}

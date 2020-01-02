@@ -1,0 +1,20 @@
+{
+  "description": {
+    "en": "Last three days of `kArttika-mAsaH`. `anantaphaladam`! Perform Shiva/Vishnu Puja, Bhagavata Parayanam, BhagavadGita Parayanam, Vishnu Sahasranama Parayanam etc."
+  },
+  "id": "kArttika-mAsa-antimatrayatithi-vrata-ArambhaH",
+  "jsonClass": "HinduCalendarEvent",
+  "references_primary": [
+    "skAnda mahApurANe vaiSNavakhaNDE SaDtriMzO.adhyAyaH"
+  ],
+  "tags": [
+    "LessCommonFestivals"
+  ],
+  "timing": {
+    "angam_number": 13,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "month_number": 8,
+    "month_type": "lunar_month"
+  }
+}

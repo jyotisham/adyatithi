@@ -1,0 +1,20 @@
+{
+  "id": "ta__tiruvADippUram",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
+  "shlokas": [
+    "zrIviSNucitta-kulakalpakanandavallIm\nzrIraGgarAja-hari-candana-yOga-drzyAm.\nsAkSAt kSamAM karuNayA kamalAmivAnyAM\ngOdAm ananyazaraNaH zaraNaM prapadyE.."
+  ],
+  "tags": [
+    "CommonFestivals",
+    "AzhwarJayanti"
+  ],
+  "timing": {
+    "angam_number": 11,
+    "angam_type": "nakshatram",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "praatah",
+    "month_number": 4,
+    "month_type": "solar_month"
+  }
+}

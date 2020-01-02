@@ -1,0 +1,20 @@
+{
+  "id": "umA-mahEzvara-vratam",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "puurvaviddha",
+  "references_primary": [
+    "VrataNirnayaKalpavalli"
+  ],
+  "tags": [
+    "SpecialVratam",
+    "CommonFestivals"
+  ],
+  "timing": {
+    "angam_number": 15,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "sunrise",
+    "month_number": 6,
+    "month_type": "lunar_month"
+  }
+}

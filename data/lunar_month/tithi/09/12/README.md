@@ -1,0 +1,9 @@
+## Manvādi (Svārochiṣaḥ [2])
+मन्वादि (स्वारोचिषः [२]) is observed on Śukla-Dvādaśī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---

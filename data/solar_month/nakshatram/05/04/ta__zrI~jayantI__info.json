@@ -1,0 +1,16 @@
+{
+  "id": "ta__zrI~jayantI",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "Dashavataram",
+    "CommonFestivals"
+  ],
+  "timing": {
+    "angam_number": 4,
+    "angam_type": "nakshatram",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "nishita",
+    "month_number": 5,
+    "month_type": "solar_month"
+  }
+}

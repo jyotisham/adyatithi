@@ -1,0 +1,16 @@
+{
+  "id": "ta__naTarAjar mahAbhiSEkam~3",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "puurvaviddha",
+  "tags": [
+    "TamilnaduTempleFestivals"
+  ],
+  "timing": {
+    "angam_number": 14,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "sunset",
+    "month_number": 6,
+    "month_type": "solar_month"
+  }
+}

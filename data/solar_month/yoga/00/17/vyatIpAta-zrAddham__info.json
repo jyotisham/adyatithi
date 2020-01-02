@@ -1,0 +1,20 @@
+{
+  "description": {
+    "en": "Vyatipata Shraddha day."
+  },
+  "id": "vyatIpAta-zrAddham",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "paraviddha",
+  "tags": [
+    "MonthlyShraddhaDays",
+    "ShannavatiTarpanaDays"
+  ],
+  "timing": {
+    "angam_number": 17,
+    "angam_type": "yoga",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
+    "month_number": 0,
+    "month_type": "solar_month"
+  }
+}

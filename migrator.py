@@ -34,8 +34,8 @@ def transliterate_quoted_text(text, script):
 def migrate_db(old_db_file, only_descriptions=False):
   old_style_events = HinduCalendarEventOld.read_from_file(old_db_file)
   output_dir = os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data')
-  import shutil
-  shutil.rmtree(output_dir)
+  # import shutil
+  # shutil.rmtree(output_dir)
   for old_style_event in old_style_events:
     event = HinduCalendarEvent.from_old_style_event(old_style_event=old_style_event)
     logging.debug(str(event))
@@ -161,6 +161,8 @@ def legacy_dict_to_HinduCalendarEventOld_list(old_db_file, new_db_file):
 
 
 if __name__ == '__main__':
+  import shutil
+  shutil.rmtree(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/data'))
   migrate_db(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/legacy/festival_rules.json'))
   migrate_db(os.path.join(CODE_ROOT, 'panchangam/temporal/festival/legacy/festival_rules_desc_only.json'), only_descriptions=True)
   migrate_relative_db()
