@@ -1,8 +1,8 @@
-## Kapālī Chavuḍal Vimānam
+## Kapālī Chavuḍal Vimāṉam
 
 
 ---
-## Kapālī Riṣabha Vāhanam
+## Kapālī Riṣabha Vāhaṉam
 
 
 ---

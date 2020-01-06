@@ -2,7 +2,7 @@
 
 
 ---
-## Kanup Pôṅgal
+## Kaṉup Pôṅgal
 
 
 ---

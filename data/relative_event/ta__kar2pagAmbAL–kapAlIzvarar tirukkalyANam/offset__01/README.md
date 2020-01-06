@@ -1,4 +1,4 @@
-## Kapālī Umā-Maheśvara Darichanam
+## Kapālī Umā-Maheśvara Darichaṉam
 
 
 ---

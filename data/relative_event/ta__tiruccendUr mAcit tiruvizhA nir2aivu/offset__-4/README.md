@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Māchit Tiruviḽā 8M Nāḻ—Pachchai Chātti Alaṅkāram
+## Tiruchchêndūr Murugaṉ Māchit Tiruviḽā 8M Nāḻ—Pachchai Chātti Alaṅkāram
 
 
 ---

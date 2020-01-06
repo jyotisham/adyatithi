@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugan Māchit Tiruviḽā Tôḍakkam
+## Tiruchchêndūr Murugaṉ Māchit Tiruviḽā Tôḍakkam
 
 
 ---
