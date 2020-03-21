@@ -5991,7 +5991,7 @@
         "angam_type": "tithi",
         "id": "manvAdi~(svArOciSaH~[2])",
         "jsonClass": "HinduCalendarEventOld",
-        "month_number": 9,
+        "month_number": 8,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
         "priority": "paraviddha",
@@ -6085,7 +6085,7 @@
         "tags": "ManvadiDays"
     },
     {
-        "angam_number": 8,
+        "angam_number": 23,
         "angam_type": "tithi",
         "id": "manvAdi~(dakSaH~[9])",
         "jsonClass": "HinduCalendarEventOld",
