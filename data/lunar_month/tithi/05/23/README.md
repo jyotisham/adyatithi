@@ -40,3 +40,12 @@ _Son of Śrī Acyutaśarmā of Koṅkaṇadeśa, having offered his services of 
 
 
 ---
+## Manvādi (Dakṣaḥ [9])
+मन्वादि (दक्षः [९]) is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+
+
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---

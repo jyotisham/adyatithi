@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugaṉ Māchit Tiruviḽā 3M Nāḻ—Murugaṉ Bhavaṉi
+## Tiruchchêndūr Murugan Māchit Tiruviḽā 3M Nāḻ—Murugan Bhavani
 
 
 ---

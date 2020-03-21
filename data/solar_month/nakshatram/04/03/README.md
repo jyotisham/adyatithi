@@ -4,13 +4,13 @@
 _Special puja for Subrahmanya Swami in temples._
 
 ---
-## Pugaḽchchoḽa Nāyaṉār (39) Gurupūjai
+## Pugaḽchchoḽa Nāyanār (39) Gurupūjai
 புகழ்ச்சோழ நாயனார் (39) குருபூஜை is observed on Kṛttikā nakṣhatram day of Kaṭakaḥ (solar) month (praatah/paraviddha).
 
 
 
 ---
-## Mūrtti Nāyaṉār (15) Gurupūjai
+## Mūrtti Nāyanār (15) Gurupūjai
 மூர்த்தி நாயனார் (15) குருபூஜை is observed on Kṛttikā nakṣhatram day of Kaṭakaḥ (solar) month (praatah/paraviddha).
 
 

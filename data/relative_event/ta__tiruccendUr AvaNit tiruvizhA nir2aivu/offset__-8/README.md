@@ -1,4 +1,4 @@
-## Tiruchchêndūr Murugaṉ Āvaṇit Tiruviḽā 4M Nāḻ—Yāṉai Vāhanattil Murugaṉ-Ambāḻ Bhavaṉi
+## Tiruchchêndūr Murugan Āvaṇit Tiruviḽā 4M Nāḻ—Yānai Vāhanattil Murugan-Ambāḻ Bhavani
 
 
 ---

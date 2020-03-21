@@ -14,7 +14,7 @@ _अमावास्या on a Monday is as sacred as a solar eclipse. Partic
 
 ---
 ## Vyatīpāta-Yogaḥ (Alabhyam)
-_If, on a Sunday, अमावास्या and one of the stars—श्रवणम्, अश्विनी, श्रविष्ठा, आर्द्रा or आश्रेषा—occurs, then it is called व्यतीपात योङः, equal to a hundred _Surya grahanas_ in merit._
+_If, on a Sunday, अमावास्या and one of the stars—श्रवणम्, अश्विनी, श्रविष्ठा, आर्द्रा or आश्रेषा—occurs, then it is called व्यतीपात योगः, equal to a hundred _Surya grahanas_ in merit._
 
 ```
 श्रवणाश्विधनिष्ठार्द्रानागदैवतमापतेत्।

@@ -25,7 +25,7 @@ _Do puja to Shiva/Parvati, perform fast._
 _Do उपवासम् (at least do not take salt) and pray to Lord Shiva (Vaidyanatha Swami)._
 
 ---
-## Puraṭṭāchi Chaṉikkiḽamai
+## Puraṭṭāchi Chanikkiḽamai
 _Perform special puja and naivedyam (e.g. तिलान्नम्) to Lord Venkateshwara._
 
 ---
