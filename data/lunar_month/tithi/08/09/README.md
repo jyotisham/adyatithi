@@ -1,3 +1,12 @@
+## Tretāyugādi
+त्रेतायुगादि is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sangava/paraviddha).
+
+_Perform समुद्रस्नानम् and श्राद्धम्._
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---
 ## Akṣayā Navamī
 अक्षया नवमी is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
