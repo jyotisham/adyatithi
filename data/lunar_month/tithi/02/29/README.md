@@ -1,5 +1,5 @@
 ## Kāñchī 3 Jagadguru Śrī Sarvajñātmendra Sarasvatī Ārādhanā
-काञ्ची ३ जगद्गुरु श्री सर्वज्ञात्मेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Caturdaśī tithi of Vaiśākhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ३ जगद्गुरु श्री सर्वज्ञात्मेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Caturdaśī tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-03.jpg)
 

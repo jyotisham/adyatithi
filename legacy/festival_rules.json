@@ -2478,7 +2478,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "month_type": "lunar_month",
         "tags": "SpecialPuja,CommonFestivals,CommonFestivals"
     },
@@ -2489,6 +2489,8 @@
             "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
         "id": "kaliyugAdi",
+        "kaala": "aparaahna",
+        "priority": "vyaapti",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
@@ -2505,7 +2507,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "vRkSArOhENa lOhAdyairvidyujjala-viSAgnibhiH.\nnakhi daMSTri vipannA yE tESAM zastA caturdazI.."
         ],
@@ -3342,7 +3344,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -3541,7 +3543,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "prahlAdavaradO dEvO yO nRsiMhaH parO hariH.\nnRsiMhOpAsakaM nityaM taM nRsiMhaH guruM bhajE.."
         ],
@@ -3555,7 +3557,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "sadA''tmadhyAnanirataM viSayEbhyaH paraGmukham.\nnaumi zAstrESu niSNAtaM candrazEkharabhAratIm.."
         ],
@@ -3569,6 +3571,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
+        "priority": "vyaapti",
         "shlokas": [
             "vivEkinaM mahAprAjJaM dhairyaudAryakSamAnidhim.\nsadA'bhinavapUrvaM taM vidyAtIrthaguruM bhajE.."
         ],
@@ -3606,7 +3609,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KanchiAradhanaDays"
     },
     {
@@ -3617,7 +3620,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "MahapurushaEvents",
         "year_start": 5016
     },
@@ -3629,7 +3632,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "solar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "mahEzAMzAjjAtO madhuram upadiSTAdvayanayO\nmahAmOhadhvAntaprazamanaraviH SaNmataguruH.\nphalE (32) svasmin svAyuSyapi zaracarAbdE'pi (2625) ca kalEH\nvililyE raktAkSiNyadhivRSasitaikAdazi parE..4..\n—puNyazlOkamaJjarI"
         ],
@@ -3651,7 +3654,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "gauDaH kAzmIrajanmA kalitaparicitiH pUrvatantrE kumArAd\nbrahmaNyaH sarvavEdaH sphuTazapathapathaM zrImadAcAryayOdhI.\nsannyAsaM prApitastaM tadanu paricaran yOgabhUmaikasImA\ntasyAdEzEna kAJcyAm avasadatha samAH saptatiM kAmapIThE..5..\nvarSE zuddhatarE (2695) kalEratha bhavE jyESThE sitadvAdazI-\nrAtrau citritasarvabhUH sa yazasA zrImAn surEzaH svayam.\nzritvA puNyarasAM rasEna mahatA yuJjan layAkhyE pathi\nzlakSNazrIzivaliGgabhUyam abhajat sAkSAt satAM pazyatAm..6..\n—puNyazlOkamaJjarI"
         ],
@@ -3673,7 +3676,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "tAmrArOdhasi vardhanAt samuditaH sannyAsitaH saptamAt prAgEvAtmavivAdahRSTamanasA zrIzaGkarENaiva yaH.\ntatpIThE sasurEzvaraM samanayad varSAMzca yaH saptatiM catvAriMzatam Asta sadvayam asau abdAn svayaM tanmaThE..7..\nAcAryapriyapadmapAdacaraNAmbhOjadvayIsEvanAd UDhadvAravatImaThAya munayE brahmasvarUpAtmanE.\nzraddhArAddhapadAya tattvamatulaM cinmudrayA nirdizannEvaikyaM samagAnnijEna mahasA sarvajJasaMjJO muniH..8..\nkalyabdaiH sa hayAgnilOkanayanaiH (2737) varSE nalE mAdhavE\nlilyE kRSNacaturdazImanu mahasyAmnAyazailAntikE.\ngranthairyatkalitairnyadarzi vizadaM saGkSEpazArIraka-\nprakhyairadvayasUtrabhASyagahanacchannaH padArthOccayaH..9..\n—puNyazlOkamaJjarI"
         ],
@@ -3698,7 +3701,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "AmrAvatItaTajatANDavazarmasUnuH zrIsatyabOdhaniyamI phalinIzanAmA.\nzrIbhASyavArtikakRdAdarasamprapannasarvajJasadgururavODha dhurAM gurUNAm..10..\nabdAn yastattva(96)saGkhyAn avasad adhi maThE zAradAnAmni kAJcyAM\ndRpyattautAtitArhajjinagurukaNabhukpazyadaGghryAditantram.\nniryantraM nirmimANaH padakazatahatArAtikautaskutOktiH\nsAkSAcchrIsatyabOdhO'kRta sahabahulASTamyahE nandanE svam..11..\n—puNyazlOkamaJjarI"
         ],
@@ -3723,7 +3726,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "jAtO maGgalanAmni cOlaviSayE nAgEzasaMjJAd dvijAcchrIjJAnOttama ityavAptabirudO yastArkikAgrEsaraH.\njJAnAnandamunistriSaSTizaradaH sammaNDya pIThIM gurOH siddhiM manmathamArgazIrSasitasaptamyAm avApatsudhIH..12..\n—puNyazlOkamaJjarI"
         ],
@@ -3748,7 +3751,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "vEdAraNyajavaidyabharvutanayaH zrIvizvanAthAbhidhO jJAnAnandamunEravApya niyamaM kAJcIpadE sthApitaH.\nzuddhAnandamunIzvaraH sa zaradaH saikAmazItiM dhurAm AcAryasya vahannavApa ca nalajyESThAcchaSaSThyAM layam..13..\n—puNyazlOkamaJjarI"
         ],
@@ -3773,7 +3776,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "AnandArAddhagaurIniravadhikaruNAlabdhasAhityavidyA-\nsauhityaH sUryanArAyaNamakhitanayazcErabhUzcinnayAkhyaH.\nAnandajJAnanAmA bhagavadupapadaH sambabhau bhASyakartuH\npIThE zrIkAmakOTyAM prakaTitaparamAcAryabhASyaughabhASyaH..14..\nzuddhAnandamunIndracandravimalAlOkAstacEtastamAH\nvistAryAdvayavartma saptatimathO naikAM samA gAmavan.\nzrIzailAntikam Asadan pathivazAd AnandasiddhiM yayau\nsiddhaH krOdhanarAdhakRSNanavamIsandhyAmanu brahmavit..15..\n—puNyazlOkamaJjarI"
         ],
@@ -3798,7 +3801,7 @@
         "kaala": "aparaahna",
         "month_number": 10,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIzailIyazivayyasUnuradadhAt tasyAjJayA tat padaM maGgaNNArya iti zrutaH paramahO kaivalyayOgiprathaH.\nArUDhaH zivarAjayOgapadavIM tiSThaMstryazItiM samAH siddhO'bhUt sa ca sarvadhArimakarakrAntau ca sAyAhani..16..\n—puNyazlOkamaJjarI"
         ],
@@ -3823,7 +3826,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "AndhrESvAtmaNasOmayAjitanayO gargAnvayO gaGgayA-\nbhikhyaH khyApitaSaNmataH zivahariskandAdisEvAdhvani.\ntantrAcAravidUramEva paritO vEdaikamArgOditaM\nsaMsthApyAdvayam apyadhAd dvayakathAdUraM kRpAzaGkaraH..17..\nzrIkaivalyamunIndrazAsanavazAt zrIvizvarUpAbhidhaM zRGgEryAM nihitaM vidhAya niyamAn lOkE vyavasthApya ca.\ncatvAriMzatam Ekayuktam abhimaNDyAcAryapIThIM dizaM prasthAyaiDaviDasya siddhimabhajadvindhyE kRpAzaGkaraH..18..\nvibhavE vibhurUrjitaH parOrjE paramApAnutRtIyam advitIyaH.\nparamaM padam AtmanInamEkaM paramAnandamayaM parAparAkhyam..19..\n—puNyazlOkamaJjarI"
         ],
@@ -3848,7 +3851,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "mahAbalIzvarEzvarAcyutOdbhavO mahEzvarAbhidhaH surEzvaraH parO niyamya sarvabhUgurOH.\navApa kAJcikAmakOTipIThadhUrvahakriyAM yayau svam akSayE'kSayaM zucEH zuciH sa parvaNi..20..\n—puNyazlOkamaJjarI"
         ],
@@ -3873,7 +3876,7 @@
         "kaala": "aparaahna",
         "month_number": 11,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "karNATOjjvalasUnurIzvaravaTuH zritvA surEzaM cirAt\nzrIbhASyAdyupalabhya tasya ca dhurAmAsAdya pIThE vasan.\nninyE tatra zivAH (45) samAH ziva iva zrEyO'rthinAM dEhinAM\ndAtuM zrEya upAgatO'yamiva yaH zrIcidghanAkhyO babhau..21..\nprAptaM kSIrasarittaTAd haririti khyAtaM ca vAtsyAyanaM\npIThE svE vinivEzya dattaniyamaM saJcArya ca prakriyAm.\nkalyabdE ca virOdhikRtyanutapaM(paH?) zuddhE dazamyAmagAt\nsvaM rUpaM paramaM sudhIzatanutaH zrIcidghanazcidghanam..22..\n—puNyazlOkamaJjarI"
         ],
@@ -3898,7 +3901,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIcidghanEndraniyataH zaradastriSaSTiM zrIkAmakOTim abhimaNDya tatazca kaJcit.\nsaccidghanAkhyam anuziSya vRtO'pi ziSyaiH zrIcandrazEkharaguruH savapustirO'dhAt..23..\nAnandamayam AnandE ASADhyASADhapUrvakE.\nnavamyAm anavamyaM svaM padam Apat parAtparam..24..\n—puNyazlOkamaJjarI"
         ],
@@ -3923,7 +3926,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "saptatriMzad asau samAH samanubhUyAcAryapIThIdhurAM\nzrIvidyAghanam AndhravarNinam adhAcchrInAyanAkhyaM maThE.\nbhrAmyan bAlavad antarE puravarasyA''dhUtavRttiH sthiraH\nzrIsaccidghanadEzikaH samabhajat svAntardhim anvIzvaram..25..\nsUnuH zrIdharapaNDitasya garuDasrOtasvinItIrabhUH\nzESAkhyO gurucandrazEkharamunEH ziSyazca saccidghanaH.\nvarSAn saptatim Ekavarjam anubhUyAdhyAtmabuddhyA sukhaM\ndEhAntE zivaliGgamadhyam avizat kAyAdhirOhEzituH..26..\nkharE'kharaprakRtiraghAsahaH sahE parOrajAH param aparE ca pakSakE.\nadhAd adhipratipad anApadAspadaM parAtparaM padam azarIram avyayam..27..\n—puNyazlOkamaJjarI"
         ],
@@ -3948,7 +3951,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "nivEzya gaGgAdharagISpatiM padE pravizya kUTaM tad agastyacihnitam.\npramOTayan mantrata ugrabhairavaM nivEzanaM svaM tata Eva klRptavAn..28..\nzrImadbApaNasOmayAjitanayaH zrInAyanAbhikhyayA\nkhyAtaH pUrvam udAramantravibhavaH saMyamya saccidghanAt.\nAsthAyApyadhikAmakOTi sa zivAn (45) abdAn agE'gAllayaM\ndhAtau zAli-maNIzikhIkSaNa(239)-sahE darzE ca vidyAghanaH..29..\n—puNyazlOkamaJjarI"
         ],
@@ -3973,7 +3976,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "sUnurbhadragirEH subhadra iti yaH kAJcya(kapya?)nvayO dvAdazE\nvarSE saMyamam AzritO'nucaritAd AcAryavidyAghanAt.\nzrIgaGgAdharagISpatiH sa ca caturviMzE vayasyAtmavit\nzrIvidyAzivayOrnirantaradhRtErApnOt padaM zAzvatam..30..\nsarvadhAriNi sa sarvadhArakazcitrazaktiradhicaitram arjunE.\narjunaH svayazasA''dimE dinE'nAdidhAma mahasA jagAma ha..31..\n—puNyazlOkamaJjarI"
         ],
@@ -3998,7 +4001,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "sUnuH kEzavazaGkarasya tapatItIrOdbhavO naiSThikaH\nzrImAn acyutakEzavaH zritapadO vaJcIzvarE gISpatEH.\nAdEzAt kRtasaMyamazca vimatAn AmUlam unmUlayan\nAkAzmIram agAnmahAyatiriti khyAtyOjjvalaH zaGkaraH..32..\naSTAtriMzad athAtivAhya zaradaH pIThE jagaddEzika-\nsyAsId dig-rasa-vArdhi-vahniSu (3468) kalEryAtsvakSayE'cchE vRSE.\naSTamyAm apaharSazOkam ajaraM brahmaiva yaH zAzvataM\nkAzmIrESu kalApurE yadadhunA'pyAkhyAyatE'syAkhyayA..33..\n—puNyazlOkamaJjarI"
         ],
@@ -4023,7 +4026,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "viprAcchrIdEvamizrAd ajani janita EvAptavidyAprakAzaH\nsaMskAraiH prAktanairyaH samagirata giraM sarvam AtmEti satyam.\ntannO mRSyadbhirarhajjinayugabhijanaiH pAtitaH sindhuvENyAM\ntrAtaH prEmNaiva sindhvA'pyavilayam amuyA padmapatrE nivEzya..34..\nsUnuH sO'yaM tapObhistava muditadhiyA dIyatE'dyEti vAcA\nsArdhaM dattO dvijAya sthiraniyamayujE yastayaivOhyamAnaH.\npuSTastEnAtha puSpAbhidhapurajanuSA bhUrivasvAhvayEna\ntrAtrA pitrOpanItaH samayam ayam adhAd advayaM nirdvayatvE..35..\nAcAryam ujjvalamahAyatizaGkarAryam ArAdhya saMyamam avApya tadAjJayaiva.\nzrImAn sadAzivagururvyadhitA'''bdhi yAtrAM sAndOlikaM suvihitAzramavarNadharmaH..36..\nnityaM brahmasahasrapOSaNaparaH sarvatra bhASyaM gurOH\nsaJcArya dvivivarjitAn saniyamaM vArAMzca paJcAzataH.\nadhyAsyASTa jagadgurOradhimaThaM varSAn samAdhisthalIM\njIvannEva sadAzivaH samavizat kRtvA surEndraM padE..37..\nbhavE bhavAkRtiH sO'cchE jyESThE jyESThastapasvinAm.\ndazamyAm Apa dazamIM siddhiM siddhaH sadAzivaH..38..\n—puNyazlOkamaJjarI"
         ],
@@ -4048,7 +4051,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "durdIdiviM samabhibhUya tathA'sya sAhyAsaktaM ca jIvam apavArya sadhairyam uktyA.\nsampUjitaH sadasi rAjasurEndramukhyaiH yOgI surEndraniyamI yuyujE padE svE..39..\nmahArASTraH sarvairapi ca vinutO mAthura iti prapannaH sannyAsaM rasa-vasu-jaladhyagniSu (3486) kalEH.\ndazaivAdhyuSyAbdAn adhimaTham ayaM yOgitilakaH surEndraH svaM mArgE pratipadi sitE prApa nilayam..40..\n—puNyazlOkamaJjarI"
         ],
@@ -4073,7 +4076,7 @@
         "kaala": "aparaahna",
         "month_number": 7,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIkaNThO'yam umEzazaGkarasutaH zvitrI vayasyaSTamE\nnirhantuM gadam anvahaM kRtanamaHsAhasram arkaM bhajan.\nzrIvidyAjapatazca nIrujatanurjAtastathA'STAdazE\nsannyasyan sa surEndradEzikapadaM prApat prazAntAntaraH..41..\nmaunI tapaHsvavazamRtyuradhisvapITham abdAMstrayOdaza vihRtya ca zaGkarEndram.\nnikSipya dattaguruvAcam alabdha siddhiM saddhEmalambini tathA'hni mahAnavamyAm..42..\n—puNyazlOkamaJjarI"
         ],
@@ -4098,7 +4101,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "jAtaH khalvATavIrAd gaNakakulamaNEH sAdhu vidyAvatItO\nmUkO mUkArbhanAmA bhuvanagurupadAmbhOjarENOrmahimnA.\nvyaktaprauDhOktirAptvOpanayanamakhilAmnAyajAtaM ca tAtAd\ngRhNan sannyAsam AsIt param adhijagadAcAryapIThaM sa dhIraH..43..\nzrIzaGkarEndraH zritamAtRguptam AdhAya varNAzramadharmapAlam.\nsaikOnaSaSTitrizatE zakE'bdE siddhiM gataH zrAvaNapUrNimAyAm..44..\n—puNyazlOkamaJjarI"
         ],
@@ -4123,7 +4126,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "arcAcandanapESaNAd bhagavataH zrIzaGkarEndrArcita-\nsyArUDhaH padavIM kavEranusRtErharSasya bhUtvA nRpaH.\nkAzmIrESu virajya vikrama-mRtau gRhNan gurOH prAktanAt\nsannyAsaM sa hi kOGkaNAcyutasutaH zrIcandracUDO'bhavat..45..\nabdAn dEvanadItaTE daza nayan AcAryabhUtO bhuvO\ndhanvantaryavatAram AryamadhuraM nikSipya pIThE nijE.\ndattvA'smai paripUrNabOdhabirudaM bhEjE vyayE cAvyayaM\ndhAma svaM jananASTamInizi harEH zrIcandracUDAzramI..46..\n—puNyazlOkamaJjarI"
         ],
@@ -4148,7 +4151,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "putrO ramEzamakhinO madhurO'gadaGkRd\ngrAvAbhilApaka iti prathitazca mantrE.\nzrIzAradAmaThaguruH paripUrNabOdhO\nraudryUrjazuklanavamIm anu siddhim Arcchat..47..\n—puNyazlOkamaJjarI"
         ],
@@ -4173,7 +4176,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIcikkAkulasOmaNAryatanayaH sO'yaM girIzaH purA\nsannyastaH paripUrNabOdhaguruNA saccitsukhaH SaNmukham.\ndhyAyan kAlavidaM sudUram udadhau prOSyAryabhaTTAbhidhaM\npratyAvRttam adhAd athAstikam anuSThApyOditaM niSkrayam..48..\ncitsukhaM vinivEzya svE padE saccitsukhaH sitE.\nkharE kharAMzau vRSagE saptamyAM siddhim Apa saH..49..\n—puNyazlOkamaJjarI"
         ],
@@ -4198,7 +4201,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "saccitsukhAcchiva iti prathitO'yam AdAvAdAya zAsanam avartata kOGkaNESu.\nAcArya ityabhidhayA paramAryarakSAm AdhAnna tu kvacid agAt padataH padaM saH..50..\naparAbhavO'pi ca parAbhavE sitO'pyanabhasyapIha sa nabhasyathAsitE.\nprazamI jagAma dazamIM ca sannasau navamIdinE'bhinavam IzvarAdvayam..51..\n—puNyazlOkamaJjarI"
         ],
@@ -4223,7 +4226,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrImuSNakRSNatanayaH zivasAmbanAmA yastriH pradakSiNitapuNyamahirmahAtmA.\nzrIcitsukhEndrayaminaH zritaziSyabhAvaH zrIzAradAmaThavibhuH samabhUt sa zAntaH..52..\nyadIyavRttaM nibabandha manthO nibandhanE siddhajayAbhidhAnE.\nsa viMzatiM saikasamAH svapIThE niSadya nityatvam avApa sadyaH..53..\nadhisaptatikE catuzziraskE (470) saccidAnandaghanaH sa san zakAbdE.\nprabhavE prabhavan zucizca zucyOH prathamAyAM pRthuliGgatAm avApat..54..\n—puNyazlOkamaJjarI"
         ],
@@ -4248,7 +4251,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "prabhAkarasyAtmabhavaH pinAkinItaTIbhavaH zONagirirjagadguruH.\nsvabhAnuvaizAkhasitASTamInizi prajJAghanaH prApa paraM padaM mudA..55..\n—puNyazlOkamaJjarI"
         ],
@@ -4273,7 +4276,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "atha hastizailamadhusUdanAtmajO harikEzavazca citisaukhyamEduraH.\nagamat padaM svam akhilasthirAguruH zaradaH sa durmukhina AdimE dinE..56..\n—puNyazlOkamaJjarI"
         ],
@@ -4298,7 +4301,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "bhadrAcalAbhijanabhAnusutaH sa zESaNAryO'bhimaNDya padam AdimadEzikasya.\nraudriNyanUrjadazami prazamIndragamyaM prApat padaM praNihitEH paramAmRtAkhyam..57..\n—puNyazlOkamaJjarI"
         ],
@@ -4323,7 +4326,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIpatEstanayaH kRSNaH pUrNabOdhO dinE harEH.\nbrahmabhUtO nabhasyacchE saMyamIzvara IzvarE..58..\n—puNyazlOkamaJjarI"
         ],
@@ -4348,7 +4351,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "kAlahastisutabAlayAbhidhO bOdhasadgururabOdhavarjitaH.\nApa zAzvatapadaM vizuddham AnandamAdhavacaturthyaharmukhE..59..\n—puNyazlOkamaJjarI"
         ],
@@ -4373,7 +4376,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "AnantirjyESTharudrO draviDiSu garuDahrAdinIsImni jAtO\nbOdhEndrAcAryaziSyO bhuvanagurudhurAM pAlayaJchIlayuktaH.\nkRtsnakSmAmaNDalIjinnRpavaralalitAdityanutyArcitAGghriH\nzrIbrahmAnandasAndraH prabhavazucizucidvAdazIyAhni lilyE..60..\n—puNyazlOkamaJjarI"
         ],
@@ -4398,7 +4401,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "aNNu(kaNva)zaGkaranandanaH paTupadmanAbhasamAhvayO\nlambikApathatatparO'pyavalambya sadguruzAsanam.\nkAmakOTipadE sthitaH zritakAmakOTiphalapradE\nnityadattasahasrabhaktam abhUd idaMpadabhAgasau..61..\nsakaruNam apabandhuM kannaDEzIkumAraM punarapi nijarAjyE sthApayaMstadvijEtrA.\natilaghutanuvRttirjIrNaparNAt sa yOgI padamanu caturO'bdAnEva dEvO'dhyavAtsIt..62..\nprajOtpattau mArgazIrSE sitaSaSThyAm agAd asau.\npadaM svaM paramaM sarvazOkamOhavivarjitam..63..\n—puNyazlOkamaJjarI"
         ],
@@ -4423,7 +4426,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "nAnAbhASAbhilApI prazamakuladhanaH prauDharAmaNNasUnuH\ntrailiGgastimmaNAkhyO bhuvanagururabhUccandrabhAgApratIrAt.\nkAJcyAmEvAdhipIThaM maThamapi vipulaM jIrNamuddhRtya nityaM\nkAmAkSyarcaikaniSThaH sukham avasadasau saccidAnandasAndraH..64..\nkharE prauSThapadE SaSThyAm akharO'dhimahAlayam.\nsa saccidAnandaghanO mahAn layamagAd guruH..65..\n—puNyazlOkamaJjarI"
         ],
@@ -4448,7 +4451,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "sUnurvEgavatItaTOdbhavamahAdEvAhvayasya zrutaH zambhurnAma davAgnidagdhapRthukatrANAvagADhAnalaH.\nAcAryasya nidEzataH kSititalaM sarvaM caran yazcaturvarNAn svasvapathAdvyadhAdagalitAn AcAryapIThasthitaH..66..\nzrIcandrazEkharEndrO'pyadhyuSyASTAdaza svamaTham abdAn.\nsaumyaH saumyE'ntaradhAt sahE'tisahanaH sudarzanO darzE..67..\n—puNyazlOkamaJjarI"
         ],
@@ -4473,7 +4476,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "vEdAcalAntikabhavO vimalAkSanAmnaH sUnuH suzIlakamalAkSa iti prasiddhaH.\nsaMyamya citsukhatanuH zritakAmakOTIpIThAdhipatyavibhavO'pyavasat sa sahyE..68..\ncitsukhAnandayOgIndraM nivEzya nijaviSTarE.\nsarvAtmanA tirO'dhAt sa dhAtvASADhAcchaSaSThyahE..69..\n—puNyazlOkamaJjarI"
         ],
@@ -4498,7 +4501,7 @@
         "kaala": "aparaahna",
         "month_number": 7,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "khyAtaH surEza iti sOmagirEstanUjaH kSIrApagAtaTabhavO'bhavad AzramIndraH.\nzrIcitsukhEndracaraNAnucaraH pracAradUrO'dhyuvAsa maThamEva gurOrniyOgAt..70..\nzrIcitsukhAnandaguruH saccitsukhamayaM padam.\nAlalambE hEmalambinyAzvinE sitaparvaNi..71..\n—puNyazlOkamaJjarI"
         ],
@@ -4523,7 +4526,7 @@
         "kaala": "aparaahna",
         "month_number": 10,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "bhAlacandrasutaH sUryanArAyaNasamAhvayaH.\nzrIcidAnandaziSyO'bhUcchrIvidyAghanadEzikaH..72..\nprapannaH zrIvidyAM kathamapi sa vidyAghanagurusturuSkAkrAntE'pi vyadhita dhuram AcAryasahajAm.\niha triMzadvarSAn prabhavazaradaH puSyabahuladvitIyAyAM prApat param uparamaM prauDhaniyamI..73..\n—puNyazlOkamaJjarI"
         ],
@@ -4548,7 +4551,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "jajJE vizvajitazcidambarabhuvaH zrImAn viziSTOdarAnnAthasyAsuvinirgamAt param asAvadhyardhavarSadvayE.\nvaizAkhE vibhavE sitE ca dazamImadhyE vivasvAniva svAvAsAyitakuJjapuJjitatamaskANDArbhaTIkhaNDanaH..74..\nvaidhavyaM vibudhAlayE nivasatiM vRttiM ca bhRtyAzrayAM\nbandhUnAM ca vimAnanAm anitarAsaGgAM dazAM cAtmanaH.\nkaulInAt kuladUSaNAdapi bhayAdAlOcya gatyantarA-\nbhAvAd adhyaTavi stRtE navadalE kSiptO jananyaiva yaH..75..\nyaM vyAghrapAdamahilA viruvantam ArAd AdAya gEham upanIya nivEdya patyE.\nstanyAdinA samapuSad dayayOpanIya mAdhyandinizca yam abUbudhad AtmavidyAH..76..\nvidyAkarma samApya sarvavacasAM sArArthavit saMyamaM sAkSAdApya jagadgurOratha puraH svEcchOditAcchaGkarAt.\ntatpArzvasthitapadmabhUkarayugaprAptAM dadhatpAdukAM vIrAM vyOmagatau sa saMyamadhanastilvATavIm Avasat..77..\nvEdAntadEzikacidambaranAthavEdhOvAkyairjagadgururadhiSThitakAmapIThaH.\naSTAsu dikSvapi nirastasamastavidvadvAdAvalEpavibhavO vyacaraddharitrIm..78..\nkAzmIrikAn laghu vijitya girOdbhaTAdIn sarvajJapITham adhiruhya ca zAradAgrE.\nAtrEyakandaram anuvrajitO'pi ziSyaiH antarhitaH satanurEva sa zaGkarEndraH..79..\ndvApaJcAzatam ittham advayanayaM varSAn pravRSya kSitau\npuNyAyAM paratO'pi tasya supathazcikhyAsayEva drutE.\nsiddhArthinyayanE'pyudaJcini zucau darzE'hni kAlE kalEH\nvidyAzEvadhipAvakE (3941) gururabhUt saccidvilAsO muniH..80..\n—puNyazlOkamaJjarI"
         ],
@@ -4573,7 +4576,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "kAnyakubjakamalEzvarAtmajaH zrIpatiH zritayamazca zaGkarAt.\nadhyuvAsa gurupITham azramaM bAla(33)varSadhRtizIla AzramI..81..\nAnandavardhanamukhaiH abhirUpavaryaiH ArAdhitAGghriH adhipadmapuraM cirAya.\nadhyuSya kAJcim upagamya ca nandanAbdE siddhiM gatO nizi nRsiMhajayantikAyAH..82..\n—puNyazlOkamaJjarI"
         ],
@@ -4598,7 +4601,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "karNATakaNNayasutaH zivarAmabhaTTaH saccidvilAsayaminA suhitaH svapIThE.\nadhyAsya taM ravi(42)samA bhavarAdhazuddhaSaSThIpradOSaviratau virataH svadhAmni..83..\n—puNyazlOkamaJjarI"
         ],
@@ -4623,7 +4626,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "appaNNAkhya umEzabhaTTatanayO bhImAtaTIsambhavaH zrIvidyAnirataH zritO gurupadaM zrIkAmakOTImaThE.\npaJcatriMzatam adhyuvAsa zaradaH zrIzAradApIThikAM saumyaH saumyanabhassitapratipadi prEyAya gaGgAdharaH..84..\n—puNyazlOkamaJjarI"
         ],
@@ -4648,7 +4651,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "subrahmaNyabhavO niyamya narasambhaTTO'tha gaGgAdharAd\nbrahmAnandaghanAbhidhO'dhita dhurAM dvyUnAH samAstriMzatam.\nlilyE'dhIzvaram IzvarOrjabahulASTamyAm asau saGgavE\nghuSyannEva hi sUtrabhASyaviSayAn antEvasadbhyaH paTu..85..\n—puNyazlOkamaJjarI"
         ],
@@ -4673,7 +4676,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrItuGgabhadrAtaTabhUH sudEvabhaTTAtmajaH zaGkarapaNDitAkhyaH.\nabhUd athAnandaghanazcalAbdaiH (36) pramAdicaitrAcchanavamyahE'gAt..86..\n—puNyazlOkamaJjarI"
         ],
@@ -4698,7 +4701,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "kArNATO haripaNDitaH zivasutaH zrIpUrNabOdhAkhyayA bibhrANO'nupadaM jagadgurupadaM varSAMzca SaDviMzatim.\ndhAmni svE paramE jagAma nilayaM varSE pramAthyAhvayE kRSNaprauSThapadatrayOdazatithau brAhmE kSaNE brahmavit..87..\n—puNyazlOkamaJjarI"
         ],
@@ -4723,7 +4726,7 @@
         "kaala": "aparaahna",
         "month_number": 7,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIkaNThaH zivasAmbapaNDitasutaH saikAM samA viMzatiM\nbibhrat svasya padE nivEzya sukaviM sUryAtmajaM sOmakam.\nzArvaryAzvinasaptamInizi gataH siddhiM sa pakSE sitE\nsannyAsAt prabhRti kSitidhra-vivara-sthAyI parAdiH zivaH..88..\n—puNyazlOkamaJjarI"
         ],
@@ -4748,7 +4751,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "bOdhEndrAkhyaH sa sOmO guruparamazivEndrAryavAcA'dhipIThaM\ntiSThan prApyAnyadEzAn pathipathi vinatAn prApayan advayAsthAm.\nzrIdhArAbhOjadattapracuramaNimayAndOlikAklRptayAtraH\nkAzmIrAmAtyapuSyatkaTakasamavanO'dhAnmaThaM mlEcchadUram..89..\nzaradastriMzataM saptApyadhyuSyAnvaruNAcalam(-Sya sa gurOH padam).\njagAma dhAma paramamIzvarASADhaparvaNi..90..\n—puNyazlOkamaJjarI"
         ],
@@ -4773,7 +4776,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIkaNThaH zukadEvazarmatanayaH kuNDInadIkUlabhUrvAgmI vAGmayatattvasaGgrahapaTurdhRSTO vaTurdrAviDaH.\nbOdhEndrAryakRpAgRhItaniyamaH zrIcandracUDAkhyayA tiSThan kAJcimaThE babhAra sa dhurAm AcAryakIM bhUtalE..91..\nmaGkhazrIjayadEvakRSNasuhalapraSThairmahiSThairvRtO vidvadbhiH paritaH kSitiM viracayan yAtrAM vijaitrAM vratI.\nvidyAlOlakumArapAlanRpatEH saMsatsamuttaMsitaM hEmAcAryamapi vyapAkRta girA vAgaSTakavyAkRtam..92..\ndhyAyaMstArakam ArtihArakam asau zrIcandracUDAzramI\njvAlA-bhAvavikAra-dRg-jaladhibhiH (4267) kAlE kalau kAlitE.\nAsthAyAsanam aSTaSaSTizaradaH zrIpArthivE pArthivaM\ncaitrE citram aparvaparvaNi jahaddEhaM vidEhO'bhavat..93..\n—puNyazlOkamaJjarI"
         ],
@@ -4798,7 +4801,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "prEmEzasya pinAkinItaTabhuvaH sUnuH sa sItApatiH\nsnAtvA saptadazAyurAzramam adhAcchrIcandracUDAnmunEH.\nkhaNDaMkhaNDam akhaNDa khaNDanakRdAdyauddaNDyam uccaNDavAg\nAcAryastrirahiNDatA''jalanidhiM viSvak sa vizvambharAm..94..\nvAgvarSairvizadayya vizvamabhitO'dvaitaM vidAM sammataM\nsiddhArthinyapi hAyanE zucidazamyahni zritazcitsabhAm.\narcannEva ca muktiliGgam adadhAdantaH samantAcchritE-\nSvAsIdatsvapi cidvilAsaniyamI cidvyOmni sAkSAdasau..95..\n—puNyazlOkamaJjarI"
         ],
@@ -4823,7 +4826,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "chAyAvanAcyutasutO gurumUrtinAmA sthitvA jagadgurupadE chavi(47)varSakAlam.\nprAptO'parAbhavapadaM sa parAbhavOrjakAlASTamInizi padaM paramAtmasaMjJam..96..\n—puNyazlOkamaJjarI"
         ],
@@ -4848,7 +4851,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "aruNagiritanUbhUrAryagaGgEzanAmA guruvarapadam aJcan kiJca paJcAzadabdAn.\nabhajadatha sa siddhiM durmukhijyESThaSaSThInizi nizitazivArcAniSThitazcandracUDaH..97..\n—puNyazlOkamaJjarI"
         ],
@@ -4873,7 +4876,7 @@
         "kaala": "aparaahna",
         "month_number": 11,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "bilvAraNyajazArGgapANitanayaH sarvajJaviSNuH zrayan sannyAsaM gurucandrazEkharamunErAsthAya pIThIM gurOH\nyOgEzasya ca cakrarAjavasatErdEvyAzca saktO'rcanE zrImanmAdhavabukkabhAratiyatipraSThairmahiSThairvRtaH..98..\nkAJcyAmEva sa saptatiM trisahitAM varSAn vibhUSyAsanaM\nziSyAnaSTa dizAgajAyitayatIn Adizya pIThAvanE.\nyAvatpaJcadazAbdapUrti himavacchRGgAzrayaH zaGkarA-\nnandaikAnucarazcacAra paramaM dhIrastapO duzcaram..99..\ntapasyannEvAsau taruNataraNErdhAmni paramE\nnilInO'ntarhityA nimiSati ca pArzvE paricarE.\nzritO raktAkSyabdE pratipadi tapasyESa bahulE\nzvasan ziSyO'pyArtyA nyavRtad asadat svaM ca sa maTham..100..\natrAntarE'STApi yathAniyOgam AcAryapIThIm avirOdhamAvuH.\ntaM zaGkarAnandam udIkSya hRSTAH dESTurmaThaM taM niravIvizanta..101..\n—puNyazlOkamaJjarI"
         ],
@@ -4898,7 +4901,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "AdizyASTa yamIzvarAn samavituM karNATadEzE'dvayaM\nrOddhuM sAyaNamAdhavOktavidhayA vRddhiM ca madhvAdhvanAm.\nvidyAtIrthagurOrasODhavirahO'pyAvRtya zItAcalAt\ntasyOktErbibharAmbabhUva sa dhurAM zrIkAmakOTImaThE..102..\nzrImadhyArjunabhAlacandramakhirATsUnurmahEzAhvayO\nvidyAtIrthapadAnniyamya samayESvadvaitamuddyOtayan.\nadhyAsta pratikAmakOTi zaradO dvAtriMzataM dEhinAM\ndvaitadhvAntanivAraNO navamaThInAthO navaH zaGkaraH..103..\nsa durmukhini sanmukhO madhuravAGmadhau maunirAT\npadI pratipadi pragE prasitadhIH sitE pakSakE.\nsamastabhuvanArcitaH sakRd umEzayan acyutaM\njahau tanumanuttamAm avizad Azu naijaM mahaH..104..\n—puNyazlOkamaJjarI"
         ],
@@ -4923,7 +4926,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "nAgAraNyaga-nAganAthatanujaH prAptAzramaH zaGkarAnandAdESa sadAzivEndraniyamI nEpAlabhUpAJcitaH.\npUrNAnandapadEna yO bhuvi punan sarvAMzca sAnugrahaM zrIkAJcyAmadhikAmapIThamavasat saikAmazItiM samAH..105..\npiGgalE maGgalAlOkO jyESThE jyESThaH zuciH zucau.\ndazamyAM dazamIm Arcchad dazAM dhAmnyapunarbhavE..106..\n—puNyazlOkamaJjarI"
         ],
@@ -4948,7 +4951,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "kAJcIkAmEzvarAryAt samajani kamalAmbOdarAt kuppaNAkhyO\nyaH pUrNAnandayOgipravarapadaratEH prApa pIThIm amuSya.\nbhASyaM triH saptakRtvazcaTulam acakalad yO navAbdyAM prahRSyan.\n akSayyASADhakRSNapratipadi sa mahAdEvanAmA''pa siddhim..107..\n—puNyazlOkamaJjarI"
         ],
@@ -4973,7 +4976,7 @@
         "kaala": "aparaahna",
         "month_number": 10,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "madhuritamaNimuktAmugdhatIrAzmazAlApuratilakapurArizrImatIpuNyapuJjam.\naruNagirirabhArSId advayAcAryamudrAM caturudadhipaTAyAM candracUDEndranAmA..108..\nitthaM mAmanuziSya ziSyakaNizaM tAMstAn samastAMstataH\nsandarzya kSaNataH sa siddhimasadad varSAn SaDEva sthitaH.\nkAJcyAmAGgirasE sahasyadhavalaikAdazyahE pratyuSa-\nsyApat siddhimanApadi pratipadaM saccitsukhE jyOtiSi..109..\n-\n—puNyazlOkamaJjarI"
         ],
@@ -4998,7 +5001,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "athOttarapinAkinItaTabhavaH sa bOdhEzvaraH sutazcirutacikkaNAdhvarivarasya bhaktO harEH.\nabhUt kila jagadgururniyamicandracUDAjJayA sadAzivapadAvahazcara(26)samAH pravIrArcitaH..1..\nsa sEtum adhijagmivAn adhipavitrarAmEzvaraM zritaH padam anazvaraM ca prativilambicaitrASTami.\ndadhatparamayukchivaM nijapadE pratiSThApitaM zivAya bahulE nRNAM subahulAya pakSE munim..2..\n—puNyazlOkamaJjarI"
         ],
@@ -5023,7 +5026,7 @@
         "kaala": "aparaahna",
         "month_number": 5,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "pampAsarastaTabhuvaH paramEzvarasya putraH sadAzivarataH zivarAmakRSNaH.\ntasmAdavApya niyamaM niyamI nirastasaGgO'dhyuvAsa sadanaM khalu kAmanEtryAH..3..\nzrIcakrapUjanarataH zivayOgalambI zrIdEzikEndravacasA zritakAmapIThaH.\nAcAryakaM chavi(47)samaM vidadhAvakAmaH kAmEzvarI-manu-purazcaraNaikadakSaH..4..\nsa pArthivE pArthivadEhadUraM nabhO nabhasyacchatamO'cchapakSE.\navApad ApadvidhurO dazamyAM dazamyasau dInazakE (1508) zakAbdE..5..\n—puNyazlOkamaJjarI"
         ],
@@ -5048,7 +5051,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "vRddhAcalaprabhavavizvamakhIndrasUnurvizvEzvaraH parazivAryapadaM prapannaH.\nAsEtuzItagiri kalpitajaitrayAtra AdyAt sa zaGkaragurOratihRdya AsIt..6..\nvizvAdhikasvadhiSaNatvata EnamAhurvizvAdhikEndram anaghA navazaGkaraM ca.\nzrIrudrabhASyamukhabhUritaraprabandhasandhAnakauzalam amuSya kimapyamEyam..7..\ndvApaJcAzatam udvahan gurudhurAm abdAnavAcyAM dizi prasthAnE garuDApagAtaTabhuvi prApat padaM zAzvatam.\nbOdhEndrAryavisRSTaviSTaradhurO vizvAdhikEndrastulAkRSNASTamyahanIzvarE hRdi dadhat sOmArdhacUDAmaNim..8..\n—puNyazlOkamaJjarI"
         ],
@@ -5073,7 +5076,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrIvizvAdhikadEzikEndravacasA prAptO dizaM dakSiNAM\nprAcInAmbudhirOdhasi pratijagannAthaM prapannO gRhAn.\nzrIlakSmIdharazarmaNO'sya tanujAnmlEcchIkRtAM yOSitaM\nkurvANAddvijasaGgatAM sa niyamAdadhyaiSTa bhaktEH kramAn..9..\nzrIkAJcImanuvizya dEzikapadaM sammaNDya tattvOjjvalairgranthairbhaktipathaM vidhAya vizadaM vizvasya muktyai kalau.\nmUkasyApi zizOrmahApravacanaprAvINyadAyI munirbOdhEndrO jayatAt sa bhaktajanatAkallOlinInIradhiH..10..\nzrImanmaNDananAmni kAJcinagarIkhETE kRtAvAsataH kANvAt kEzavapANDuraGgavibudhAjjAtO'bhijAtAkRtiH.\nbhaktaH zrIpuruSOttamE zritavatAM bhaktyadhvadarzI mahAn adhyAstAsanam AdizaGkaragurOrAryAtmabOdhAjJayA..11..\nAcAryatvam udUhya sAdhu sa catuSpaJcAzadabdaM maThE\npIThE kAmadRzaH sthitaH pravacanairadvaitamuddyOtayan.\nabdhi-glau-rasa-candra-sammitazakE (1614) zrIzAlivAhAhvayE\nsiddhiM prApadapAradhairyajaladhiH svasyaiva dhAmnyadvayE..12..\nprajOtpattiprauSThapadapUrNimAyAm upArjunam.\nbhagavannAmabOdhEndrO bOdhasAmrAjyam IyivAn..13..\n—puNyazlOkamaJjarI"
         ],
@@ -5098,7 +5101,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "atha vasiSThanadItaTasambhavaH parazurAmasutaH zrutipaNDitaH.\nacakalad gururAjadhurAM gurOrvacanatO racayan paritO'Tanam..\nAtmaprakAzEndrasamAkhyayA'sAvAcAryakaM dvAdazavarSam Arcchat.\ngOvindanAmA niyataH svabhAnucaitradvitIyAnizi siddhimApat..14..\n-\n—puNyazlOkamaJjarI"
         ],
@@ -5123,7 +5126,7 @@
         "kaala": "aparaahna",
         "month_number": 3,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "advaitAtmaprakAzEndrAd bAlya AzritasaMyamaH.\nnArAyaNa AdipurE lilyE'nazanatatparaH..6..\nmahAdEvEndrAkhyO guruvara ihAcAryapadavIM samAzcatvAriMzad dvizaradadhikA bibhrad atulAm.\nmahAyOgI sAkSAtkRtaparamahAH krOdhanasamE tathA jyESThE zuklE navamasutithau siddhim abhajat..7..\n—puNyazlOkamaJjarI"
         ],
@@ -5148,7 +5151,7 @@
         "kaala": "aparaahna",
         "month_number": 10,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "saMyatsu viklavE lOkE pITham ArUDhavAn mahAn.\nitihAsagarbhagUDhanAmadhAmAdipUrvakaH..8..\nanAma sarvanAmaitad brahmEtIva pradarzayan.\njayatyabhayadazcandrazEkharEndrO yatIzvaraH..9..\nzrImaThaM kumbhaghONaM yO'nayannayavid AtmavAn.\ntatraiva saMsthitO yatra maThO'bdadvizatIM sthitaH..10..\nzrIcandrazEkharEndraH saptatriMzatsamAH sthitaH pIThE.\nzubhakRti puSyE kRSNadvitIyatithyAm iyAya kaivalyam..11..\n—puNyazlOkamaJjarI"
         ],
@@ -5173,7 +5176,7 @@
         "kaala": "aparaahna",
         "month_number": 4,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "aNNAzrautIti jAtO'yaM kumbhaghONE mahAmanAH.\ntriSaSTO dEzikO lilyE svagurOrEva sannidhau..12..\nmahAdEvEndragururAD EkatriMzatsamAH sthitaH.\nzrImukhASADhamAzzukladvAdazyAM siddhim AsthitaH..13..\n—puNyazlOkamaJjarI"
         ],
@@ -5198,7 +5201,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "zrImaThapArzvE sadmani jAtO vEGkaTasubrahmaNyatapasvI.\nzrIgurupArzvE saMsthitim AgAd uttaravRndAvanavikhyAtaH..14..\nzrIcandrazEkharaguruH zritacandramaulistriMzatsamA api ca sapta vasan nu pIThE.\nsAdhAraNE zaradi kArttikakRSNapakSasyAdyE tithAvupagataH sthiram AtmadhAma..15..\n—puNyazlOkamaJjarI"
         ],
@@ -5223,7 +5226,7 @@
         "kaala": "aparaahna",
         "month_number": 12,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "madhyArjunamahAliGganAmA hArItagOtrajaH.\nzESAdrizAstriNaH subbulakSmyAM patnyAM vyajAyata..16..\nupaSaSTE svavayasi vizramagrAmam AgataH.\nzivAlayAntikE tatra zaivaM bhAvam upAgamat..17..\npIThE mahAdEvEndrAkhyastriMzannava samAH sthitaH.\nvirOdhiphAlgunAmAyAM guruH kaivalyam AsthitaH..18..\n—puNyazlOkamaJjarI"
         ],
@@ -5248,7 +5251,7 @@
         "kaala": "aparaahna",
         "month_number": 11,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "sItArAmavicakSaNasya tanayaH zrIsvAminAthAbhidhO varNI saMyamavAn sa jAta udayagrAmE pravaktA paTu.\nadvaitasya surakSaNE vinihitaprAjyaprayatnO mahAn advaitAryamahAmaThE suvihitaH pUrvENa tatsUriNA..19..\nzrIcandrazEkharaguruH samAH saptadaza sthitaH.\nparAbhavE mAghakRSNASTamyAM dhAma nijaM yayau..20..\n—puNyazlOkamaJjarI"
         ],
@@ -5273,7 +5276,7 @@
         "kaala": "aparaahna",
         "month_number": 12,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "lakSmInarasiMhayugalaputrO lakSmIkAntO guruvarasEvAm.\nEkAM kRtvA vaTurapi bhikSuH kASThAM prAptO jananam atItAm..21..\ntrivizalUr‌grAmajAtaH ziSyamAtragrajAsutaH.\ntraiviSTapairdurbhajaM sacchiSyatAmAtratO'bhajat..22..\nkalavainAmakE grAmE svagurOrEva sannidhau.\nA'ntaM tasyaiva zuzrUSAM kRtvA dEhAntam AptavAn..23..\ngururmahAdEvEndrAkhyaH saptAhI siddhim Ayayau.\nparAbhavE phAlgunE tu zuklAyAM pratipattithau..24..\n—puNyazlOkamaJjarI"
         ],
@@ -5298,7 +5301,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             "mahAsvAmIti vikhyAtastvaSTaSaSTO jagadguruH.\nhArItE'nvaya udbhUta utkRSTE nAma dhAmani..25..\npaJcOnE varSasAhasrapaJcakE vigatE kalau.\njayavarSE vRSE mAsi maitrarkSE kRSNapakSakE..26..\npratipattithimadhyAhnE svAminAthEti kIrtitaH.\nmahAlakSmIsubrahmaNyadampatyOstapasaH phalam..27..\nrujA'pahRtadEhatvE pUrvayOrgurunAthayOH.\ntadAjJayA sa sannyastO vayasyUnatrayOdazE..28..\ncandrazEkharEti puNyanAma bibhrat sa AzramI.\nsarvajJamUrtistriryAtrAM bhAratasyAcarat padA..29..\npratyakSaM daivataM bhUtvA dharmE cAkRSya mArdavAt.\nlOkAn samanujagrAha varSANAM zatakaM zubham..30..\nkAJcyAM vidEhakaivalyaM prApadyata munIzvaraH.\nzrImukhE mArgakRSNE sa dvAdazyAm aparAhNakE..31..\n—puNyazlOkamaJjarI"
         ],
@@ -5320,7 +5323,7 @@
         "kaala": "aparaahna",
         "month_number": 12,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "shlokas": [
             ""
         ],
@@ -5868,7 +5871,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -5885,7 +5888,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5899,7 +5902,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5913,7 +5916,7 @@
         "kaala": "aparaahna",
         "month_number": 2,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5927,7 +5930,7 @@
         "kaala": "aparaahna",
         "month_number": 8,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5941,7 +5944,7 @@
         "kaala": "aparaahna",
         "month_number": 9,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5955,7 +5958,7 @@
         "kaala": "aparaahna",
         "month_number": 11,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5969,7 +5972,7 @@
         "kaala": "aparaahna",
         "month_number": 12,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "KalpadiDays"
     },
     {
@@ -5980,7 +5983,7 @@
         "month_number": 8,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -5994,7 +5997,7 @@
         "month_number": 8,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6008,7 +6011,7 @@
         "month_number": 1,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6022,7 +6025,7 @@
         "month_number": 6,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6036,7 +6039,7 @@
         "month_number": 12,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6050,7 +6053,7 @@
         "month_number": 10,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6064,7 +6067,7 @@
         "month_number": 4,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6078,7 +6081,7 @@
         "month_number": 11,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6092,7 +6095,7 @@
         "month_number": 5,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6106,7 +6109,7 @@
         "month_number": 4,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6120,7 +6123,7 @@
         "month_number": 9,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6134,7 +6137,7 @@
         "month_number": 12,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6148,7 +6151,7 @@
         "month_number": 1,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6162,7 +6165,7 @@
         "month_number": 3,
         "month_type": "lunar_month",
         "kaala": "aparaahna",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "references_primary": [
             "`vaidyanAtha-dIkSitIyam`"
         ],
@@ -6420,7 +6423,7 @@
         "kaala": "aparaahna",
         "month_number": 7,
         "month_type": "solar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "references_secondary": [
             "Vaidikasri Nov 2017"
         ],
@@ -6681,7 +6684,7 @@
         "kaala": "aparaahna",
         "month_number": 6,
         "month_type": "lunar_month",
-        "priority": "puurvaviddha",
+        "priority": "vyaapti",
         "tags": "SpecialPuja,CommonFestivals"
     },
     {
@@ -6741,6 +6744,7 @@
         "kaala": "aparaahna",
         "month_number": 1,
         "month_type": "solar_month",
+        "priority": "vyaapti",        
         "tags": "MahapurushaEvents,CommonFestivals",
         "year_start": 5052
     },
@@ -6751,6 +6755,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 10,
+        "priority": "vyaapti",        
         "month_type": "solar_month",
         "tags": "MahapurushaEvents",
         "year_start": 4994
@@ -6774,9 +6779,11 @@
         "angam_number": 24,
         "angam_type": "tithi",
         "id": "zrI~zESAdri-svAmI~ArAdhanA",
+        "kaala": "aparaahna",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
+        "priority": "vyaapti",        
         "shlokas": [
             "karuNAsAgaraM zAntam aruNAcalavAsinam.\nzrIzESAdriguruM vandE brahmIbhUtaM tapOnidhim.."
         ],
@@ -8953,7 +8960,7 @@
         "kaala": "aparaahna",
         "month_number": 0,
         "month_type": "solar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
     },
     {
@@ -8967,7 +8974,7 @@
         "kaala": "aparaahna",
         "month_number": 0,
         "month_type": "solar_month",
-        "priority": "paraviddha",
+        "priority": "vyaapti",
         "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
     }    
 ]

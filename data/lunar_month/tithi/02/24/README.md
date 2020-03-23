@@ -1,5 +1,5 @@
 ## Kāñchī 7 Jagadguru Śrī Ānandajñānendra Sarasvatī Ārādhanā
-काञ्ची ७ जगद्गुरु श्री आनन्दज्ञानेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Navamī tithi of Vaiśākhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ७ जगद्गुरु श्री आनन्दज्ञानेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Navamī tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-07.jpg)
 

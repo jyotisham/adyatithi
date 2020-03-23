@@ -1,6 +1,7 @@
 {
   "id": "zrI~zESAdri-svAmI~ArAdhanA",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
   "shlokas": [
     "karuNAsAgaraM zAntam aruNAcalavAsinam.\nzrIzESAdriguruM vandE brahmIbhUtaM tapOnidhim.."
   ],
@@ -11,6 +12,7 @@
     "angam_number": 24,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
     "month_number": 9,
     "month_type": "lunar_month",
     "year_start": 5030

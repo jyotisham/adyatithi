@@ -1,5 +1,5 @@
 ## Kāñchī 11 Jagadguru Śrī Śivānanda Chidghanendra Sarasvatī Ārādhanā
-काञ्ची ११ जगद्गुरु श्री शिवानन्द चिद्घनेन्द्र सरस्वती आराधना is observed on Śukla-Daśamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ११ जगद्गुरु श्री शिवानन्द चिद्घनेन्द्र सरस्वती आराधना is observed on Śukla-Daśamī tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-11.jpg)
 

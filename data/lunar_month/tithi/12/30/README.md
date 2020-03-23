@@ -1,5 +1,5 @@
 ## Kāñchī 65 Jagadguru Śrī Sudarśana Mahādevendra Sarasvatī Ārādhanā
-काञ्ची ६५ जगद्गुरु श्री सुदर्शन महादेवेन्द्र सरस्वती आराधना is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ६५ जगद्गुरु श्री सुदर्शन महादेवेन्द्र सरस्वती आराधना is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-65.jpg)
 
@@ -21,7 +21,7 @@ _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind 
 
 ---
 ## Manvādi (Raivataḥ [5])
-मन्वादि (रैवतः [५]) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (रैवतः [५]) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

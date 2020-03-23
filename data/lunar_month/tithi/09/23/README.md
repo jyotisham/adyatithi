@@ -1,5 +1,5 @@
 ## Kāñchī 4 Jagadguru Śrī Satyabodhendra Sarasvatī Ārādhanā
-काञ्ची ४ जगद्गुरु श्री सत्यबोधेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४ जगद्गुरु श्री सत्यबोधेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-04.jpg)
 

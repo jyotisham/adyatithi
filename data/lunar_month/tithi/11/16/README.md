@@ -1,5 +1,5 @@
 ## Kāñchī 51 Jagadguru Śrī Vidyātīrthendra Sarasvatī Ārādhanā
-काञ्ची ५१ जगद्गुरु श्री विद्यातीर्थेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Prathamā tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५१ जगद्गुरु श्री विद्यातीर्थेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Prathamā tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-51.jpg)
 

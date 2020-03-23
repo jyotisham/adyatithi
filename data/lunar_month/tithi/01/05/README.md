@@ -29,7 +29,7 @@ _Celebrating the birth of उच्चैश्रवा horse, offer puja to ho
 
 ---
 ## Kalpādi
-कल्पादि is observed on Śukla-Pañcamī tithi of Caitraḥ (lunar) month (aparaahna/puurvaviddha).
+कल्पादि is observed on Śukla-Pañcamī tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

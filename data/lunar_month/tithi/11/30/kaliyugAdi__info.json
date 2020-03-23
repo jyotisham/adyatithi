@@ -4,6 +4,7 @@
   },
   "id": "kaliyugAdi",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
   "references_primary": [
     "`vaidyanAtha-dIkSitIyam`"
   ],
@@ -14,6 +15,7 @@
     "angam_number": 30,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
     "month_number": 11,
     "month_type": "lunar_month"
   }

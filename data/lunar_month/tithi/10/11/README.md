@@ -1,5 +1,5 @@
 ## Kāñchī 55 Jagadguru Śrī Chandrachūḍendra Sarasvatī 3 Ārādhanā
-काञ्ची ५५ जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती ३ आराधना is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५५ जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती ३ आराधना is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-55.jpg)
 
@@ -28,7 +28,7 @@ _Paramahamsa described Him as "walking Shiva of Varanasi"_
 
 ---
 ## Manvādi (Chākṣuṣaḥ [6])
-मन्वादि (चाक्षुषः [६]) is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (चाक्षुषः [६]) is observed on Śukla-Ekādaśī tithi of Pauṣaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

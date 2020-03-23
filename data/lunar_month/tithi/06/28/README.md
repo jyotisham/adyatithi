@@ -1,5 +1,5 @@
 ## Kāñchī 44 Jagadguru Śrī Pūrṇabodhendra Sarasvatī 2 Ārādhanā
-काञ्ची ४४ जगद्गुरु श्री पूर्णबोधेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४४ जगद्गुरु श्री पूर्णबोधेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-44.jpg)
 
@@ -17,7 +17,7 @@ _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name
 
 ---
 ## Dvāparayugādi
-द्वापरयुगादि is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
+द्वापरयुगादि is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References

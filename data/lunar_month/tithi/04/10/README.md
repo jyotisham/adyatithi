@@ -28,7 +28,7 @@ _Chaaturmasya begins; 4 months; Pradakshina to Pippala; Deeparadhana in temple; 
 
 ---
 ## Kāñchī 48 Jagadguru Śrī Advaitānandabodhendra Sarasvatī Ārādhanā
-काञ्ची ४८ जगद्गुरु श्री अद्वैतानन्दबोधेन्द्र सरस्वती आराधना is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४८ जगद्गुरु श्री अद्वैतानन्दबोधेन्द्र सरस्वती आराधना is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-48.jpg)
 
@@ -52,7 +52,7 @@ _Sītāpati, son of Premeśa, on the banks of river Pinākinī, received at the 
 
 ---
 ## Manvādi (Vaivasvataḥ [7])
-मन्वादि (वैवस्वतः [७]) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (वैवस्वतः [७]) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

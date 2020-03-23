@@ -1,5 +1,5 @@
 ## Kāñchī 37 Jagadguru Śrī Vidyāghanendra Sarasvatī 3 Ārādhanā
-काञ्ची ३७ जगद्गुरु श्री विद्याघनेन्द्र सरस्वती ३ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ३७ जगद्गुरु श्री विद्याघनेन्द्र सरस्वती ३ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-37.jpg)
 
@@ -19,7 +19,7 @@ _Son of Bālacandrasuta named Sūryanārāyaṇa, Śrī Vidyāghanadeśika was t
 
 ---
 ## Kāñchī 62 Jagadguru Śrī Chandraśekharendra Sarasvatī 4 Ārādhanā
-काञ्ची ६२ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ४ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ६२ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ४ आराधना is observed on Kṛṣṇa-Dvitīyā tithi of Pauṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-62.jpg)
 

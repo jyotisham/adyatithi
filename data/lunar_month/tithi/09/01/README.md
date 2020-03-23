@@ -1,5 +1,5 @@
 ## Kāñchī 18 Jagadguru Śrī Yogatilaka Surendra Sarasvatī Ārādhanā
-काञ्ची १८ जगद्गुरु श्री योगतिलक सुरेन्द्र सरस्वती आराधना is observed on Śukla-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची १८ जगद्गुरु श्री योगतिलक सुरेन्द्र सरस्वती आराधना is observed on Śukla-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-18.jpg)
 

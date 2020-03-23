@@ -1,5 +1,5 @@
 ## Kāñchī 57 Jagadguru Śrī Paramaśivendra Sarasvatī 2 Ārādhanā
-काञ्ची ५७ जगद्गुरु श्री परमशिवेन्द्र सरस्वती २ आराधना is observed on Śukla-Daśamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५७ जगद्गुरु श्री परमशिवेन्द्र सरस्वती २ आराधना is observed on Śukla-Daśamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-57.jpg)
 

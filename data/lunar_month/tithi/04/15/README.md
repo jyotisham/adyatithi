@@ -38,7 +38,7 @@ _Perform snana four ghatikas before sunrise (during अरुणोदयम्,
 
 ---
 ## Kāñchī 10 Jagadguru Śrī Sureśvarendra Sarasvatī Ārādhanā
-काञ्ची १० जगद्गुरु श्री सुरेश्वरेन्द्र सरस्वती आराधना is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची १० जगद्गुरु श्री सुरेश्वरेन्द्र सरस्वती आराधना is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-10.jpg)
 
@@ -56,7 +56,7 @@ _Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adheri
 
 ---
 ## Manvādi (Brahmaḥ [10])
-मन्वादि (ब्रह्मः [१०]) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (ब्रह्मः [१०]) is observed on Paurṇamāsī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

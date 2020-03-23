@@ -1,5 +1,5 @@
 ## Kāñchī 66 Jagadguru Śrī Chandraśekharendra Sarasvatī 6 Ārādhanā
-काञ्ची ६६ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ६ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Māghaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ६६ जगद्गुरु श्री चन्द्रशेखरेन्द्र सरस्वती ६ आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-66.jpg)
 

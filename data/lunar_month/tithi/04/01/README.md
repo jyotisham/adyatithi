@@ -5,7 +5,7 @@
 
 ---
 ## Kāñchī 25 Jagadguru Śrī Sachchidānandaghanendra Sarasvatī Ārādhanā
-काञ्ची २५ जगद्गुरु श्री सच्चिदानन्दघनेन्द्र सरस्वती आराधना is observed on Śukla-Prathamā tithi of Āṣāḍhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची २५ जगद्गुरु श्री सच्चिदानन्दघनेन्द्र सरस्वती आराधना is observed on Śukla-Prathamā tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-25.jpg)
 

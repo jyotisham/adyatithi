@@ -1,5 +1,5 @@
 ## Kāñchī 41 Jagadguru Śrī Gaṅgādharendra Sarasvatī 2 Ārādhanā
-काञ्ची ४१ जगद्गुरु श्री गङ्गाधरेन्द्र सरस्वती २ आराधना is observed on Śukla-Prathamā tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ४१ जगद्गुरु श्री गङ्गाधरेन्द्र सरस्वती २ आराधना is observed on Śukla-Prathamā tithi of Śrāvaṇaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-41.jpg)
 

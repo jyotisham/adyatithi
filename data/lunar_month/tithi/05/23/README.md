@@ -17,7 +17,7 @@ _Goddess Mahakali is 1st of the Dasha Maha Vidyas._
 
 ---
 ## Kāñchī 21 Jagadguru Śrī Sārvabhaumaguruḥ Chandrachūḍendra Sarasvatī Ārādhanā
-काञ्ची २१ जगद्गुरु श्री सार्वभौमगुरुः चन्द्रचूडेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची २१ जगद्गुरु श्री सार्वभौमगुरुः चन्द्रचूडेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-21.jpg)
 
@@ -41,7 +41,7 @@ _Son of Śrī Acyutaśarmā of Koṅkaṇadeśa, having offered his services of 
 
 ---
 ## Manvādi (Dakṣaḥ [9])
-मन्वादि (दक्षः [९]) is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (दक्षः [९]) is observed on Kṛṣṇa-Aṣṭamī tithi of Śrāvaṇaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

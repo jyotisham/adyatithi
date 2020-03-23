@@ -26,7 +26,7 @@ _Perform puja of Lord Trivikrama (Sahasranamarchana), do naivedyam of mangoes an
 
 ---
 ## Kāñchī 2 Jagadguru Śrī Sureśvarāchārya Ārādhanā
-काञ्ची २ जगद्गुरु श्री सुरेश्वराचार्य आराधना is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची २ जगद्गुरु श्री सुरेश्वराचार्य आराधना is observed on Śukla-Dvādaśī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-02.jpg)
 

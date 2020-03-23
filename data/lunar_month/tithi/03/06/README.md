@@ -11,7 +11,7 @@
 
 ---
 ## Kāñchī 6 Jagadguru Śrī Śuddhānandendra Sarasvatī Ārādhanā
-काञ्ची ६ जगद्गुरु श्री शुद्धानन्देन्द्र सरस्वती आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ६ जगद्गुरु श्री शुद्धानन्देन्द्र सरस्वती आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-06.jpg)
 
@@ -29,7 +29,7 @@ _Śrī Viśvanātha, son of Vaidyabharva of Vedāraṇya, received initiation fr
 
 ---
 ## Kāñchī 50 Jagadguru Śrī Chandrachūḍendra Sarasvatī 2 Ārādhanā
-काञ्ची ५० जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती २ आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५० जगद्गुरु श्री चन्द्रचूडेन्द्र सरस्वती २ आराधना is observed on Śukla-Ṣaṣṭhī tithi of Jyaiṣṭhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-50.jpg)
 

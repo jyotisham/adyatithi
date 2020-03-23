@@ -1,5 +1,5 @@
 ## Kāñchī 8 Jagadguru Śrī Kaivalyānandayogendra Sarasvatī Ārādhanā
-काञ्ची ८ जगद्गुरु श्री कैवल्यानन्दयोगेन्द्र सरस्वती आराधना is observed on Śukla-Caturdaśī tithi of Pauṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ८ जगद्गुरु श्री कैवल्यानन्दयोगेन्द्र सरस्वती आराधना is observed on Śukla-Caturdaśī tithi of Pauṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-08.jpg)
 

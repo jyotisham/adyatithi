@@ -18,7 +18,7 @@ MaatruNavami, NaamaNavami Vratam, DurgaNavami-Vratam, Shourya-Vratam, Mahaaphala
 
 ---
 ## Kāñchī 19 Jagadguru Śrī Mārtāṇḍa Vidyāghanendra Sarasvatī Ārādhanā
-काञ्ची १९ जगद्गुरु श्री मार्ताण्ड विद्याघनेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची १९ जगद्गुरु श्री मार्ताण्ड विद्याघनेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-19.jpg)
 

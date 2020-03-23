@@ -32,7 +32,7 @@ _Spend this day in Badarikashramam_
 
 ---
 ## Kāñchī 59 Jagadguru Śrī Bhagavannāma Bodhendra Sarasvatī Ārādhanā
-काञ्ची ५९ जगद्गुरु श्री भगवन्नाम बोधेन्द्र सरस्वती आराधना is observed on Paurṇamāsī tithi of Bhādrapadaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ५९ जगद्गुरु श्री भगवन्नाम बोधेन्द्र सरस्वती आराधना is observed on Paurṇamāsī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-59.jpg)
 

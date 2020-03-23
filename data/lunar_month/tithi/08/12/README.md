@@ -56,7 +56,7 @@ _Avataram of याज्ञवल्क्य महर्षि happened on �
 
 ---
 ## Manvādi (Svārochiṣaḥ [2])
-मन्वादि (स्वारोचिषः [२]) is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (स्वारोचिषः [२]) is observed on Śukla-Dvādaśī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

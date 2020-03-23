@@ -1,5 +1,5 @@
 ## Kāñchī 13 Jagadguru Śrī Sachchidghanendra Sarasvatī Ārādhanā
-काञ्ची १३ जगद्गुरु श्री सच्चिद्घनेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची १३ जगद्गुरु श्री सच्चिद्घनेन्द्र सरस्वती आराधना is observed on Kṛṣṇa-Prathamā tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-13.jpg)
 

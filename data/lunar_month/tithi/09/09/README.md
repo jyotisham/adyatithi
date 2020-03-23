@@ -5,7 +5,7 @@ _Vanadurga Navaratri. Specially celebrated in Karthiramangalam._
 
 ---
 ## Kalpādi
-कल्पादि is observed on Śukla-Navamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/puurvaviddha).
+कल्पादि is observed on Śukla-Navamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

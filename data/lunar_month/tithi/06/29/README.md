@@ -1,5 +1,5 @@
 ## Śastrahatachaturdaśī
-शस्त्रहतचतुर्दशी is observed on Kṛṣṇa-Caturdaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/puurvaviddha).
+शस्त्रहतचतुर्दशी is observed on Kṛṣṇa-Caturdaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
 
 
 

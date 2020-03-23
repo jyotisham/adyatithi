@@ -20,7 +20,7 @@ _Perform समुद्रस्नानम् and श्राद्धम्
 
 ---
 ## Kāñchī 22 Jagadguru Śrī Paripūrṇabodhendra Sarasvatī Ārādhanā
-काञ्ची २२ जगद्गुरु श्री परिपूर्णबोधेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची २२ जगद्गुरु श्री परिपूर्णबोधेन्द्र सरस्वती आराधना is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-22.jpg)
 
@@ -40,7 +40,7 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 
 ---
 ## Manvādi (Svāyambhuvaḥ [1])
-मन्वादि (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/paraviddha).
+मन्वादि (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

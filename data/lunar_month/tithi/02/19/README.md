@@ -11,7 +11,7 @@
 
 ---
 ## Kāñchī 30 Jagadguru Śrī Bodhendra Sarasvatī 2 Ārādhanā
-काञ्ची ३० जगद्गुरु श्री बोधेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Caturthī tithi of Vaiśākhaḥ (lunar) month (aparaahna/paraviddha).
+काञ्ची ३० जगद्गुरु श्री बोधेन्द्र सरस्वती २ आराधना is observed on Kṛṣṇa-Caturthī tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 ![](https://github.com/sanskrit-coders/adyatithi/blob/master/images/kanchi-jagadgurus/jagadguru-30.jpg)
 
