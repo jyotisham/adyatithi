@@ -1,0 +1,17 @@
+{
+  "id": "amAvAsyA",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
+  "tags": [
+    "MonthlyShraddhaDays",
+    "ShannavatiTarpanaDays"
+  ],
+  "timing": {
+    "angam_number": 30,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
+    "month_number": 0,
+    "month_type": "solar_month"
+  }
+}

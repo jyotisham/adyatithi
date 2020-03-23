@@ -8976,5 +8976,16 @@
         "month_type": "solar_month",
         "priority": "vyaapti",
         "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
+    },
+    {
+        "angam_number": 30,
+        "angam_type": "tithi",
+        "id": "amAvAsyA",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "aparaahna",
+        "month_number": 0,
+        "month_type": "solar_month",
+        "priority": "vyaapti",
+        "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
     }    
 ]
