@@ -8987,5 +8987,49 @@
         "month_type": "solar_month",
         "priority": "vyaapti",
         "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
-    }    
+    },
+    {
+        "angam_number": 23,
+        "angam_type": "tithi",
+        "id": "mArgazIrSa-aSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "aparaahna",
+        "month_number": 9,
+        "month_type": "lunar_month",
+        "priority": "vyaapti",
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "angam_number": 23,
+        "angam_type": "tithi",
+        "id": "pauSa-aSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "aparaahna",
+        "month_number": 10,
+        "month_type": "lunar_month",
+        "priority": "vyaapti",
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "angam_number": 23,
+        "angam_type": "tithi",
+        "id": "mAgha-aSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "aparaahna",
+        "month_number": 11,
+        "month_type": "lunar_month",
+        "priority": "vyaapti",
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "angam_number": 23,
+        "angam_type": "tithi",
+        "id": "phAlguna-aSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "aparaahna",
+        "month_number": 12,
+        "month_type": "lunar_month",
+        "priority": "vyaapti",
+        "tags": "ShannavatiTarpanaDays"
+    }
 ]

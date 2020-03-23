@@ -20,3 +20,9 @@ _The saint Satyabodha, by name Phalinīśa (before initiation into sainthood), s
 
 
 ---
+## Mārgaśīrṣa-Aṣṭakā-Śrāddham
+मार्गशीर्ष-अष्टका-श्राद्धम् is observed on Kṛṣṇa-Aṣṭamī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
+
+
+
+---

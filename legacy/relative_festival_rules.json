@@ -590,5 +590,85 @@
         "jsonClass": "HinduCalendarEventOld",
         "offset": -1,
         "tags": "AndhraTempleFestivals"
+    },
+    {
+        "anchor_festival_id": "mArgazIrSa-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "mArgazIrSa-aSTakA-pUrvEdyuH",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": -1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "pauSa-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "pauSa-aSTakA-pUrvEdyuH",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": -1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "mAgha-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "mAgha-aSTakA-pUrvEdyuH",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": -1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "phAlguna-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "phAlguna-aSTakA-pUrvEdyuH",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": -1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "mArgazIrSa-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "mArgazIrSa-anvaSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": 1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "pauSa-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "pauSa-anvaSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": 1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "mAgha-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "mAgha-anvaSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": 1,
+        "tags": "ShannavatiTarpanaDays"
+    },
+    {
+        "anchor_festival_id": "phAlguna-aSTakA-zrAddham",
+        "description": {
+            "en": "Shannavati Shraddham Day."
+        },
+        "id": "phAlguna-anvaSTakA-zrAddham",
+        "jsonClass": "HinduCalendarEventOld",
+        "offset": 1,
+        "tags": "ShannavatiTarpanaDays"
     }
 ]

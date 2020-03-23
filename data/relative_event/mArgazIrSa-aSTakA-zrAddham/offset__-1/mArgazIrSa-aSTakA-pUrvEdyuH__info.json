@@ -1,0 +1,15 @@
+{
+  "description": {
+    "en": "Shannavati Shraddham Day."
+  },
+  "id": "mArgazIrSa-aSTakA-pUrvEdyuH",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "ShannavatiTarpanaDays"
+  ],
+  "timing": {
+    "anchor_festival_id": "mArgazIrSa-aSTakA-zrAddham",
+    "jsonClass": "HinduCalendarEventTiming",
+    "offset": -1
+  }
+}

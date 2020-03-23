@@ -1,0 +1,16 @@
+{
+  "id": "pauSa-aSTakA-zrAddham",
+  "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
+  "tags": [
+    "ShannavatiTarpanaDays"
+  ],
+  "timing": {
+    "angam_number": 23,
+    "angam_type": "tithi",
+    "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
+    "month_number": 10,
+    "month_type": "lunar_month"
+  }
+}

@@ -18,3 +18,9 @@ _Preceptor Śrī Chandraśekhara adorned the Pīṭha for seventeen years. He re
 
 
 ---
+## Māgha-Aṣṭakā-Śrāddham
+माघ-अष्टका-श्राद्धम् is observed on Kṛṣṇa-Aṣṭamī tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
+
+
+
+---
