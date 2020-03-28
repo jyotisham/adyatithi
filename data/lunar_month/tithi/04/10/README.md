@@ -51,8 +51,8 @@ _Sītāpati, son of Premeśa, on the banks of river Pinākinī, received at the 
 
 
 ---
-## Manvādi (Vaivasvataḥ [7])
-मन्वादि (वैवस्वतः [७]) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
+## Manvādiḥ (Vaivasvataḥ [7])
+मन्वादिः (वैवस्वतः [७]) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

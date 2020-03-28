@@ -2,18 +2,18 @@
   "description": {
     "en": "Kalpadi"
   },
-  "id": "kalpAdi~5",
+  "id": "kalpAdiH~2",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
   "tags": [
     "KalpadiDays"
   ],
   "timing": {
-    "angam_number": 9,
+    "angam_number": 5,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 9,
+    "month_number": 1,
     "month_type": "lunar_month"
   }
 }

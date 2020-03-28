@@ -11,7 +11,7 @@
     {
         "angam_number": 1,
         "angam_type": "tithi",
-        "id": "yugAdi",
+        "id": "yugAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -394,7 +394,7 @@
         "description": {
             "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
-        "id": "trEtAyugAdi",
+        "id": "trEtAyugAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "sangava",
         "month_number": 8,
@@ -2488,7 +2488,7 @@
         "description": {
             "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
-        "id": "kaliyugAdi",
+        "id": "kaliyugAdiH",
         "kaala": "aparaahna",
         "priority": "vyaapti",
         "jsonClass": "HinduCalendarEventOld",
@@ -3339,7 +3339,7 @@
         "description": {
             "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
-        "id": "kRtayugAdi",
+        "id": "kRtayugAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 2,
@@ -5866,7 +5866,7 @@
         "description": {
             "en": "Perform `samudrasnAnam` and `zrAddham`."
         },
-        "id": "dvAparayugAdi",
+        "id": "dvAparayugAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 6,
@@ -5883,7 +5883,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~1",
+        "id": "kalpAdiH~1",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 1,
@@ -5897,7 +5897,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~2",
+        "id": "kalpAdiH~2",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 1,
@@ -5911,7 +5911,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~3",
+        "id": "kalpAdiH~3",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 2,
@@ -5925,7 +5925,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~4",
+        "id": "kalpAdiH~4",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 8,
@@ -5939,7 +5939,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~5",
+        "id": "kalpAdiH~5",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 9,
@@ -5953,7 +5953,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdi~6",
+        "id": "kalpAdiH~6",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 11,
@@ -5967,7 +5967,7 @@
         "description": {
             "en": "Brahma Kalpadi"
         },
-        "id": "brahma-kalpAdi",
+        "id": "brahma-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 12,
@@ -5978,7 +5978,7 @@
     {
         "angam_number": 9,
         "angam_type": "tithi",
-        "id": "manvAdi~(svAyambhuvaH~[1])",
+        "id": "manvAdiH~(svAyambhuvaH~[1])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
@@ -5992,7 +5992,7 @@
     {
         "angam_number": 12,
         "angam_type": "tithi",
-        "id": "manvAdi~(svArOciSaH~[2])",
+        "id": "manvAdiH~(svArOciSaH~[2])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 8,
         "month_type": "lunar_month",
@@ -6006,7 +6006,7 @@
     {
         "angam_number": 3,
         "angam_type": "tithi",
-        "id": "manvAdi~(uttamaH~[3])",
+        "id": "manvAdiH~(uttamaH~[3])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -6020,7 +6020,7 @@
     {
         "angam_number": 3,
         "angam_type": "tithi",
-        "id": "manvAdi~(tAmasaH~[4])",
+        "id": "manvAdiH~(tAmasaH~[4])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
@@ -6034,7 +6034,7 @@
     {
         "angam_number": 30,
         "angam_type": "tithi",
-        "id": "manvAdi~(raivataH~[5])",
+        "id": "manvAdiH~(raivataH~[5])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 12,
         "month_type": "lunar_month",
@@ -6048,7 +6048,7 @@
     {
         "angam_number": 11,
         "angam_type": "tithi",
-        "id": "manvAdi~(cAkSuSaH~[6])",
+        "id": "manvAdiH~(cAkSuSaH~[6])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 10,
         "month_type": "lunar_month",
@@ -6062,7 +6062,7 @@
     {
         "angam_number": 10,
         "angam_type": "tithi",
-        "id": "manvAdi~(vaivasvataH~[7])",
+        "id": "manvAdiH~(vaivasvataH~[7])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -6076,7 +6076,7 @@
     {
         "angam_number": 7,
         "angam_type": "tithi",
-        "id": "manvAdi~(sAvarNiH~[8])",
+        "id": "manvAdiH~(sAvarNiH~[8])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 11,
         "month_type": "lunar_month",
@@ -6090,7 +6090,7 @@
     {
         "angam_number": 23,
         "angam_type": "tithi",
-        "id": "manvAdi~(dakSaH~[9])",
+        "id": "manvAdiH~(dakSaH~[9])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
@@ -6104,7 +6104,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi~(brahmaH~[10])",
+        "id": "manvAdiH~(brahmaH~[10])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "lunar_month",
@@ -6118,7 +6118,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi~(dharmaH~[11])",
+        "id": "manvAdiH~(dharmaH~[11])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 9,
         "month_type": "lunar_month",
@@ -6132,7 +6132,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi~(rudraH~[12])",
+        "id": "manvAdiH~(rudraH~[12])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 12,
         "month_type": "lunar_month",
@@ -6146,7 +6146,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi~(raucyaH~[13])",
+        "id": "manvAdiH~(raucyaH~[13])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,
         "month_type": "lunar_month",
@@ -6160,7 +6160,7 @@
     {
         "angam_number": 15,
         "angam_type": "tithi",
-        "id": "manvAdi~(bhautyaH~[14])",
+        "id": "manvAdiH~(bhautyaH~[14])",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
@@ -7015,7 +7015,7 @@
     {
         "angam_number": 1,
         "angam_type": "day",
-        "id": "dakSiNAyana-puNyakAlaH",
+        "id": "kaTaka-saGkrAntiH",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 4,
         "month_type": "solar_month",

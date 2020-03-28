@@ -1,19 +1,19 @@
 {
-  "description": {
-    "en": "Kalpadi"
-  },
-  "id": "kalpAdi~2",
+  "id": "manvAdiH~(raivataH~[5])",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
+  "references_primary": [
+    "`vaidyanAtha-dIkSitIyam`"
+  ],
   "tags": [
-    "KalpadiDays"
+    "ManvadiDays"
   ],
   "timing": {
-    "angam_number": 5,
+    "angam_number": 30,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 1,
+    "month_number": 12,
     "month_type": "lunar_month"
   }
 }

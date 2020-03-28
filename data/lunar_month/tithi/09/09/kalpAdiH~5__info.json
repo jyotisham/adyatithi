@@ -1,22 +1,19 @@
 {
   "description": {
-    "en": "Perform `samudrasnAnam` and `zrAddham`."
+    "en": "Kalpadi"
   },
-  "id": "kaliyugAdi",
+  "id": "kalpAdiH~5",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
-  "references_primary": [
-    "`vaidyanAtha-dIkSitIyam`"
-  ],
   "tags": [
-    "YugadiDays"
+    "KalpadiDays"
   ],
   "timing": {
-    "angam_number": 30,
+    "angam_number": 9,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 11,
+    "month_number": 9,
     "month_type": "lunar_month"
   }
 }

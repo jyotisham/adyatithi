@@ -1,14 +1,18 @@
 {
-  "id": "yugAdi",
+  "description": {
+    "en": "Kalpadi"
+  },
+  "id": "kalpAdiH~1",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
   "tags": [
-    "Yugadi",
-    "CommonFestivals"
+    "KalpadiDays"
   ],
   "timing": {
     "angam_number": 1,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "aparaahna",
     "month_number": 1,
     "month_type": "lunar_month"
   }

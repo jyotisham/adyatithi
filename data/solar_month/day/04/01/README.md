@@ -4,8 +4,8 @@
 _Do not take bath in any river during these days._
 
 ---
-## Dakṣiṇāyana-Puṇyakālaḥ
-दक्षिणायन-पुण्यकालः is observed on day 1 of Kaṭakaḥ (solar) month (sunrise (default)/puurvaviddha (default)).
+## Kaṭaka-Saṅkrāntiḥ
+कटक-सङ्क्रान्तिः is observed on day 1 of Kaṭakaḥ (solar) month (sunrise (default)/puurvaviddha (default)).
 
 
 

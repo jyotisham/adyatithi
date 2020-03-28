@@ -20,8 +20,8 @@ _Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind 
 
 
 ---
-## Manvādi (Raivataḥ [5])
-मन्वादि (रैवतः [५]) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
+## Manvādiḥ (Raivataḥ [5])
+मन्वादिः (रैवतः [५]) is observed on Amāvāsyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

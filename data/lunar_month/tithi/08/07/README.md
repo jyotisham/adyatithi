@@ -1,5 +1,5 @@
-## Kalpādi
-कल्पादि is observed on Śukla-Saptamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
+## Kalpādiḥ
+कल्पादिः is observed on Śukla-Saptamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

@@ -1,5 +1,5 @@
-## Kaliyugādi
-कलियुगादि is observed on Amāvāsyā tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
+## Kaliyugādiḥ
+कलियुगादिः is observed on Amāvāsyā tithi of Māghaḥ (lunar) month (aparaahna/vyaapti).
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References

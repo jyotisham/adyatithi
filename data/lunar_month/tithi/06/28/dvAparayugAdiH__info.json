@@ -2,7 +2,7 @@
   "description": {
     "en": "Perform `samudrasnAnam` and `zrAddham`."
   },
-  "id": "dvAparayugAdi",
+  "id": "dvAparayugAdiH",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
   "references_primary": [

@@ -1,19 +1,22 @@
 {
-  "id": "manvAdi~(bhautyaH~[14])",
+  "description": {
+    "en": "Perform `samudrasnAnam` and `zrAddham`."
+  },
+  "id": "kRtayugAdiH",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
   "references_primary": [
     "`vaidyanAtha-dIkSitIyam`"
   ],
   "tags": [
-    "ManvadiDays"
+    "YugadiDays"
   ],
   "timing": {
-    "angam_number": 15,
+    "angam_number": 3,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 3,
+    "month_number": 2,
     "month_type": "lunar_month"
   }
 }

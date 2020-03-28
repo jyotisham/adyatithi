@@ -48,8 +48,8 @@ _Goddess Raja Matangi is 9th of the Dasha Maha Vidyas._
 
 
 ---
-## Kṛtayugādi
-कृतयुगादि is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
+## Kṛtayugādiḥ
+कृतयुगादिः is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References
@@ -57,8 +57,8 @@ _Perform समुद्रस्नानम् and श्राद्धम्
 
 
 ---
-## Kalpādi
-कल्पादि is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
+## Kalpādiḥ
+कल्पादिः is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

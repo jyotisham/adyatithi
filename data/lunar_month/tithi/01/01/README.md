@@ -4,8 +4,8 @@
 
 
 ---
-## Yugādi
-युगादि is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Yugādiḥ
+युगादिः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 
 
@@ -78,8 +78,8 @@ _He, as per the suggestions of the Sāyaṇa Mādhava, having commissioned the e
 
 
 ---
-## Kalpādi
-कल्पादि is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
+## Kalpādiḥ
+कल्पादिः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

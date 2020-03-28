@@ -1,5 +1,5 @@
-## Brahma-Kalpādi
-ब्रह्म-कल्पादि is observed on Kṛṣṇa-Tṛtīyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
+## Brahma-Kalpādiḥ
+ब्रह्म-कल्पादिः is observed on Kṛṣṇa-Tṛtīyā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
 
 _Brahma Kalpadi_
 

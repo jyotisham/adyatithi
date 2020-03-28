@@ -1,15 +1,15 @@
 {
-  "description": {
-    "en": "Kalpadi"
-  },
-  "id": "kalpAdi~1",
+  "id": "manvAdiH~(uttamaH~[3])",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
+  "references_primary": [
+    "`vaidyanAtha-dIkSitIyam`"
+  ],
   "tags": [
-    "KalpadiDays"
+    "ManvadiDays"
   ],
   "timing": {
-    "angam_number": 1,
+    "angam_number": 3,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",

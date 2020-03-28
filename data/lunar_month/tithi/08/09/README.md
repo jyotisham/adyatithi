@@ -1,5 +1,5 @@
-## Tretāyugādi
-त्रेतायुगादि is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sangava/paraviddha).
+## Tretāyugādiḥ
+त्रेतायुगादिः is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (sangava/paraviddha).
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References
@@ -39,8 +39,8 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 
 
 ---
-## Manvādi (Svāyambhuvaḥ [1])
-मन्वादि (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
+## Manvādiḥ (Svāyambhuvaḥ [1])
+मन्वादिः (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References

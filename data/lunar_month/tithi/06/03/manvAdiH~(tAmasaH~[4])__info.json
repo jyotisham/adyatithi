@@ -1,5 +1,5 @@
 {
-  "id": "manvAdi~(cAkSuSaH~[6])",
+  "id": "manvAdiH~(tAmasaH~[4])",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
   "references_primary": [
@@ -9,11 +9,11 @@
     "ManvadiDays"
   ],
   "timing": {
-    "angam_number": 11,
+    "angam_number": 3,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 10,
+    "month_number": 6,
     "month_type": "lunar_month"
   }
 }

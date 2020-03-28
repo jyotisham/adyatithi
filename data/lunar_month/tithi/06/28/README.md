@@ -16,8 +16,8 @@ _Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name
 
 
 ---
-## Dvāparayugādi
-द्वापरयुगादि is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
+## Dvāparayugādiḥ
+द्वापरयुगादिः is observed on Kṛṣṇa-Trayodaśī tithi of Bhādrapadaḥ (lunar) month (aparaahna/vyaapti).
 
 _Perform समुद्रस्नानम् and श्राद्धम्._
 ### References

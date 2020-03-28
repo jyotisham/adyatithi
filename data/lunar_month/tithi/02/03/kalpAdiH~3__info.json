@@ -1,19 +1,19 @@
 {
   "description": {
-    "en": "Brahma Kalpadi"
+    "en": "Kalpadi"
   },
-  "id": "brahma-kalpAdi",
+  "id": "kalpAdiH~3",
   "jsonClass": "HinduCalendarEvent",
   "priority": "vyaapti",
   "tags": [
     "KalpadiDays"
   ],
   "timing": {
-    "angam_number": 18,
+    "angam_number": 3,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "aparaahna",
-    "month_number": 12,
+    "month_number": 2,
     "month_type": "lunar_month"
   }
 }

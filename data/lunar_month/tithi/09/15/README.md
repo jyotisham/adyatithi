@@ -24,8 +24,8 @@ _Do दानम् of salt, सुन्दररूपत्वसिद्ध
 
 
 ---
-## Manvādi (Dharmaḥ [11])
-मन्वादि (धर्मः [११]) is observed on Paurṇamāsī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
+## Manvādiḥ (Dharmaḥ [11])
+मन्वादिः (धर्मः [११]) is observed on Paurṇamāsī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
 
 
 ### References
