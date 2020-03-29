@@ -63,10 +63,18 @@ _Dumb boy, as He was named born of Khalvāṭavīra, the gem in the family of ga
 _Offer coconut to sea God Varuna_
 
 ---
-## Rakṣābandhana-Pūrṇimā
-रक्षाबन्धन-पूर्णिमा is observed on Paurṇamāsī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+## Rakṣābandhanam
+रक्षाबन्धनम् is observed on Paurṇamāsī tithi of Śrāvaṇaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 
 _Rakshabandhanam_
+
+```
+येन बद्धो बली राजा दानवेन्द्रो महाबलः।
+तेन त्वामभिबध्नामि रक्षे मा चल मा चल॥
+```
+### References
+* Dharma Sindhu 56
+
 
 ---
 ## Sarpa-Baliḥ

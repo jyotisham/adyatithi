@@ -2,8 +2,14 @@
   "description": {
     "en": "Rakshabandhanam"
   },
-  "id": "rakSAbandhana-pUrNimA",
+  "id": "rakSAbandhanam",
   "jsonClass": "HinduCalendarEvent",
+  "references_primary": [
+    "Dharma Sindhu 56"
+  ],
+  "shlokas": [
+    "yEna baddhO balI rAjA dAnavEndrO mahAbalaH.\ntEna tvAmabhibadhnAmi rakSE mA cala mA cala.."
+  ],
   "tags": [
     "PurnimaDays",
     "CommonFestivals"

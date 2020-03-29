@@ -7300,10 +7300,17 @@
         "description": {
             "en": "Rakshabandhanam"
         },
-        "id": "rakSAbandhana-pUrNimA",
+        "id": "rakSAbandhanam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
+        "shlokas": [
+            "yEna baddhO balI rAjA dAnavEndrO mahAbalaH.\ntEna tvAmabhibadhnAmi rakSE mA cala mA cala.."
+        ],
+        "nirnaya": "atha rakSAbandhanamasyAmeva (zrAvaNyAM) pUrNimAyAM bhadrArahitAyAM trimuhUrtAdhikodayavyApinyAmaparAhNe pradoSe vA kAryam.. udayatrimuhUrttanyUnatve pUrvedyurbhadrArahite pradoSAdikAle kAryam.. idaM grahaNasaGkrAntidine'pi kartavyam..",
+        "references_primary": [
+            "Dharma Sindhu 56"
+        ],
         "tags": "PurnimaDays,CommonFestivals"
     },
     {
