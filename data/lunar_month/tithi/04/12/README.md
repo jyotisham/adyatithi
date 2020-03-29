@@ -1,3 +1,14 @@
+## Śākavrata-Ārambhaḥ
+शाकव्रत-आरम्भः is observed on Śukla-Dvādaśī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+
+
+```
+वासुदेव शुचौ मासे शाकव्रतमनुत्तमम्।
+त्वत्प्रीत्यर्थं करिष्येऽहं निर्विघ्नं कुरु माधव॥
+```
+
+---
 ## Vāsudeva-Dvādaśī
 वासुदेव-द्वादशी is observed on Śukla-Dvādaśī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

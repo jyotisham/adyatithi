@@ -1,26 +1,3 @@
-## Śāka-Vratam (Mahālakṣmī)
-शाक-व्रतम् (महालक्ष्मी) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_Do danam of leafy vegetables (but do not consume, on this day)_
-
----
-## Dadhi-Vratam (Mahālakṣmī)
-दधि-व्रतम् (महालक्ष्मी) is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-_Do danam of curd (but do not consume, on this day)_
-
----
-## Śākavrata-Ārambhaḥ
-शाकव्रत-आरम्भः is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
-
-
-
-```
-वासुदेव शुचौ मासे शाकव्रतमनुत्तमम्।
-त्वत्प्रीत्यर्थं करिष्येऽहं निर्विघ्नं कुरु माधव॥
-```
-
----
 ## Chāturmāsyavrata-Ārambhaḥ
 चातुर्मास्यव्रत-आरम्भः is observed on Śukla-Daśamī tithi of Āṣāḍhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

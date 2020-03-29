@@ -1158,30 +1158,6 @@
         "tags": "SpecialPuja"
     },
     {
-        "angam_number": 10,
-        "angam_type": "tithi",
-        "description": {
-            "en": "Do danam of leafy vegetables (but do not consume, on this day)"
-        },
-        "id": "zAka-vratam (mahAlakSmI)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 4,
-        "month_type": "lunar_month",
-        "tags": "SpecialVratam"
-    },
-    {
-        "angam_number": 10,
-        "angam_type": "tithi",
-        "description": {
-            "en": "Do danam of curd (but do not consume, on this day)"
-        },
-        "id": "dadhi-vratam (mahAlakSmI)",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 4,
-        "month_type": "lunar_month",
-        "tags": "SpecialVratam"
-    },
-    {
         "angam_number": 11,
         "angam_type": "tithi",
         "description": {
@@ -1215,7 +1191,7 @@
         "tags": "SpecialVratam"
     },
     {
-        "angam_number": 10,
+        "angam_number": 12,
         "angam_type": "tithi",
         "id": "zAkavrata-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
