@@ -1,0 +1,15 @@
+{
+  "description": {
+    "en": "Perform Vishnu Shayanotsava in the night."
+  },
+  "id": "viSNu-zayanOtsavaH",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "CommonFestivals"
+  ],
+  "timing": {
+    "anchor_festival_id": "zayana-EkAdazI",
+    "jsonClass": "HinduCalendarEventTiming",
+    "offset": 1
+  }
+}
