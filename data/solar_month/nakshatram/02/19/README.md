@@ -1,5 +1,5 @@
-## Kāñchī Jagadguru Śrī Śaṅkara Vijayendra Sarasvatī Pīṭhārohaṇa Jayantī
-काञ्ची जगद्गुरु श्री शङ्कर विजयेन्द्र सरस्वती पीठारोहण जयन्ती is observed on Mūlā nakṣhatram day of Vṛṣabhaḥ (solar) month (praatah/paraviddha).
+## Kāñchī Jagadguru Śrī Śaṅkara Vijayendra Sarasvatī Āśrama-Svīkāra-Jayantī
+काञ्ची जगद्गुरु श्री शङ्कर विजयेन्द्र सरस्वती आश्रम-स्वीकार-जयन्ती is observed on Mūlā nakṣhatram day of Vṛṣabhaḥ (solar) month (praatah/paraviddha).
 
 _जगद्गुरु श्री~शङ्कर विजयेन्द्र सरस्वती was inducted into the कामकोटि-पीठम् on 29th May 1983, रुधिरोद्गारी year, वृषभ/वैशाख मास कृष्ण तृतीया भानुवासरः मूला नक्षत्रम्._
 

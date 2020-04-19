@@ -1,5 +1,5 @@
-## Kāñchī Jagadguru Śrī Jayendra Sarasvatī Pīṭhārohaṇa Jayantī
-काञ्ची जगद्गुरु श्री जयेन्द्र सरस्वती पीठारोहण जयन्ती is observed on Svātī nakṣhatram day of Mīnaḥ (solar) month (praatah/paraviddha).
+## Kāñchī Jagadguru Śrī Jayendra Sarasvatī Āśrama-Svīkāra-Jayantī
+काञ्ची जगद्गुरु श्री जयेन्द्र सरस्वती आश्रम-स्वीकार-जयन्ती is observed on Svātī nakṣhatram day of Mīnaḥ (solar) month (praatah/paraviddha).
 
 _जगद्गुरु श्री~जयेन्द्र सरस्वती was inducted into the कामकोटि-पीठम् on 22nd March 1954, विजय year, मीन/फाल्गुन मास कृष्ण द्वितीया सोमवासरः चित्रा उपरि स्वाती नक्षत्रम्._
 
