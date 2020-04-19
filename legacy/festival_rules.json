@@ -972,7 +972,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "PurnimaDays,LessCommonFestivals,DanamDays"
+        "tags": "LessCommonFestivals,DanamDays"
     },
     {
         "angam_number": 15,
@@ -981,7 +981,7 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
         "month_type": "lunar_month",
-        "tags": "PurnimaDays,LessCommonFestivals,DanamDays"
+        "tags": "LessCommonFestivals,DanamDays"
     },
     {
         "angam_number": 18,
@@ -7287,7 +7287,7 @@
         "references_primary": [
             "Dharma Sindhu 56"
         ],
-        "tags": "PurnimaDays,CommonFestivals"
+        "tags": "CommonFestivals"
     },
     {
         "angam_number": 15,
@@ -7324,50 +7324,6 @@
         "priority": "paraviddha",
         "year_start": 4620,
         "tags": "MahapurushaEvents,CommonFestivals"
-    },
-    {
-        "angam_number": 9,
-        "angam_type": "nakshatram",
-        "kaala": "praatah",
-        "id": "ta:atipatta nAyan2Ar (41) gurupUjai",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 5,
-        "month_type": "solar_month",
-        "priority": "paraviddha",
-        "tags": "NayanarGurupujai"
-    },
-    {
-        "angam_number": 24,
-        "angam_type": "nakshatram",
-        "kaala": "praatah",
-        "id": "ta:appUdiyaDigaL nAyan2Ar (24) gurupUjai",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 10,
-        "month_type": "solar_month",
-        "priority": "paraviddha",
-        "tags": "NayanarGurupujai"
-    },
-    {
-        "angam_number": 11,
-        "angam_type": "nakshatram",
-        "kaala": "praatah",
-        "id": "ta:amaranIti nAyan2Ar (6) gurupUjai",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "solar_month",
-        "priority": "paraviddha",
-        "tags": "NayanarGurupujai"
-    },
-    {
-        "angam_number": 10,
-        "angam_type": "nakshatram",
-        "kaala": "praatah",
-        "id": "ta:mANikkavAcakar gurupUjai",
-        "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "solar_month",
-        "priority": "paraviddha",
-        "tags": "NayanarGurupujai"
     },
     {
         "angam_number": 12,
@@ -7460,6 +7416,50 @@
         "tags": "TamilnaduTempleFestivals"
     },
     {
+        "angam_number": 9,
+        "angam_type": "nakshatram",
+        "id": "ta:atipatta nAyan2Ar (41) gurupUjai",
+        "kaala": "praatah",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 5,
+        "month_type": "solar_month",
+        "priority": "paraviddha",
+        "tags": "NayanarGurupujai"
+    },
+    {
+        "angam_number": 24,
+        "angam_type": "nakshatram",
+        "id": "ta:appUdiyaDigaL nAyan2Ar (24) gurupUjai",
+        "kaala": "praatah",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 10,
+        "month_type": "solar_month",
+        "priority": "paraviddha",
+        "tags": "NayanarGurupujai"
+    },
+    {
+        "angam_number": 11,
+        "angam_type": "nakshatram",
+        "id": "ta:amaranIti nAyan2Ar (6) gurupUjai",
+        "kaala": "praatah",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 3,
+        "month_type": "solar_month",
+        "priority": "paraviddha",
+        "tags": "NayanarGurupujai"
+    },
+    {
+        "angam_number": 10,
+        "angam_type": "nakshatram",
+        "id": "ta:mANikkavAcakar gurupUjai",
+        "kaala": "praatah",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 3,
+        "month_type": "solar_month",
+        "priority": "paraviddha",
+        "tags": "NayanarGurupujai"
+    },
+    {
         "angam_number": 6,
         "angam_type": "nakshatram",
         "id": "ta:arivATTAya nAyan2Ar (12) gurupUjai",
@@ -7550,7 +7550,7 @@
     {
         "angam_number": 27,
         "angam_type": "nakshatram",
-        "id": "ta:eyarkOn2 kalikkAma nAyan2Ar (28) gurupUjai",
+        "id": "ta:EyarkOn2 kalikkAma nAyan2Ar (28) gurupUjai",
         "kaala": "praatah",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 3,
