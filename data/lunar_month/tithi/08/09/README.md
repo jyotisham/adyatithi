@@ -39,12 +39,3 @@ _Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvā
 
 
 ---
-## Manvādiḥ (Svāyambhuvaḥ [1])
-मन्वादिः (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
-
-
-### References
-* Vaidyanātha-Dīkṣitīyam
-
-
----

@@ -24,15 +24,6 @@ _Do दानम् of salt, सुन्दररूपत्वसिद्ध
 
 
 ---
-## Manvādiḥ (Dharmaḥ [11])
-मन्वादिः (धर्मः [११]) is observed on Paurṇamāsī tithi of Mārgaśīrṣaḥ (lunar) month (aparaahna/vyaapti).
-
-
-### References
-* Vaidyanātha-Dīkṣitīyam
-
-
----
 ## Sarpa-Bali-Utsarjanam
 सर्प-बलि-उत्सर्जनम् is observed on Paurṇamāsī tithi of Mārgaśīrṣaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

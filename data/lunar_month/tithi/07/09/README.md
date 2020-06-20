@@ -39,3 +39,12 @@ _The preceptor Śrīkaṇṭha, son of Umeśa Śaṅkara, suffering from leprosy
 
 
 ---
+## Manvādiḥ (Svāyambhuvaḥ [1])
+मन्वादिः (स्वायम्भुवः [१]) is observed on Śukla-Navamī tithi of Āśvayujaḥ (lunar) month (aparaahna/vyaapti).
+
+
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---

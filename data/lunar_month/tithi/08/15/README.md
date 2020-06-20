@@ -41,3 +41,12 @@ _Perform snana four ghatikas before sunrise (during अरुणोदयम्,
 
 
 ---
+## Manvādiḥ (Dharmaḥ [11])
+मन्वादिः (धर्मः [११]) is observed on Paurṇamāsī tithi of Kārttikaḥ (lunar) month (aparaahna/vyaapti).
+
+
+### References
+* Vaidyanātha-Dīkṣitīyam
+
+
+---
