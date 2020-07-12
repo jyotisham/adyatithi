@@ -1,11 +1,11 @@
 {
   "description": {
-    "en": "Puja of Veda Vyasa / Gurus; Danam of Vishnu Puran is good on this day."
+    "en": "Puja of Veda Vyasa / Gurus; Danam of Vishnu Puranam is good on this day."
   },
   "id": "guru-pUrNimA/vyAsa-pUjA",
   "jsonClass": "HinduCalendarEvent",
   "shlokas": [
-    "acaturvadanO brahmA dvibAhuraparO hariH.\naphAlalOcanO zambhurbhagavAn bAdArAyaNaH.."
+    "acaturvadanO brahmA dvibAhuraparO hariH.\naphAlalOcanO zambhurbhagavAn bAdarAyaNaH.."
   ],
   "tags": [
     "PurnimaDays",
