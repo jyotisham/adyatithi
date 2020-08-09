@@ -1,3 +1,13 @@
+## Payovrata-Ārambhaḥ
+पयोव्रत-आरम्भः is observed on Śukla-Prathamā tithi of Phālgunaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+
+_पयोव्रतम् observed by Aditi Devi begins today._
+
+```
+फाल्गुनस्यामले पक्षे द्वादशाहं पयोव्रतम्। अर्चयेदरविन्दाक्षं भक्त्या परमया।अ।अन्वितः॥
+```
+
+---
 ## Kāñchī 67 Jagadguru Śrī Mahādevendra Sarasvatī 5 Ārādhanā
 काञ्ची ६७ जगद्गुरु श्री महादेवेन्द्र सरस्वती ५ आराधना is observed on Śukla-Prathamā tithi of Phālgunaḥ (lunar) month (aparaahna/vyaapti).
 

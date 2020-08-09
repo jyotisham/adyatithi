@@ -1,5 +1,5 @@
 ## Gaṅgā-Saptamī
-गङ्गा-सप्तमी is observed on Śukla-Saptamī tithi of Vaiśākhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
+गङ्गा-सप्तमी is observed on Śukla-Saptamī tithi of Vaiśākhaḥ (lunar) month (madhyaahna/puurvaviddha).
 
 _Ganga came out of Jahnu Maharshi and became Jahnavi; perform Parjanya Pooja_
 

@@ -13,11 +13,11 @@
     "LessCommonFestivals"
   ],
   "timing": {
-    "angam_number": 15,
+    "angam_number": 27,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "saayaahna",
-    "month_number": 2,
+    "month_number": 3,
     "month_type": "lunar_month"
   }
 }

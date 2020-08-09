@@ -1,17 +1,19 @@
 {
   "description": {
-    "en": "Shiva Puja"
+    "en": "Kalpadi"
   },
-  "id": "sUpOdana-vratam",
+  "id": "sAvitrya-kalpAdiH",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "vyaapti",
   "tags": [
-    "SpecialVratam"
+    "KalpadiDays"
   ],
   "timing": {
-    "angam_number": 6,
+    "angam_number": 7,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
-    "month_number": 5,
+    "kaala": "aparaahna",
+    "month_number": 8,
     "month_type": "lunar_month"
   }
 }

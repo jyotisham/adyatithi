@@ -57,8 +57,8 @@ _Perform समुद्रस्नानम् and श्राद्धम्
 
 
 ---
-## Kalpādiḥ
-कल्पादिः is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
+## Pārthiva-Kalpādiḥ
+पार्थिव-कल्पादिः is observed on Śukla-Tṛtīyā tithi of Vaiśākhaḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

@@ -4,6 +4,7 @@
   },
   "id": "gaGgA-saptamI",
   "jsonClass": "HinduCalendarEvent",
+  "priority": "puurvaviddha",
   "tags": [
     "PuranaEvents",
     "SpecialPuja",
@@ -13,6 +14,7 @@
     "angam_number": 7,
     "angam_type": "tithi",
     "jsonClass": "HinduCalendarEventTiming",
+    "kaala": "madhyaahna",
     "month_number": 2,
     "month_type": "lunar_month"
   }

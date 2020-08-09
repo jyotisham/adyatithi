@@ -78,8 +78,8 @@ _He, as per the suggestions of the Sāyaṇa Mādhava, having commissioned the e
 
 
 ---
-## Kalpādiḥ
-कल्पादिः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
+## Śveta-Kalpādiḥ
+श्वेत-कल्पादिः is observed on Śukla-Prathamā tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
 
 _Kalpadi_
 

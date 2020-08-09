@@ -13,15 +13,6 @@
 
 
 ---
-## Matsya Jayantī
-मत्स्य जयन्ती is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (aparaahna/puurvaviddha).
-
-
-### References
-* Kielhorn (1897)
-
-
----
 ## Manvādiḥ (Uttamaḥ [3])
 मन्वादिः (उत्तमः [३]) is observed on Śukla-Tṛtīyā tithi of Caitraḥ (lunar) month (aparaahna/vyaapti).
 

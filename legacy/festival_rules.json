@@ -49,7 +49,7 @@
         "tags": "DeviPuja"
     },
     {
-        "angam_number": 3,
+        "angam_number": 28,
         "angam_type": "tithi",
         "id": "matsya~jayantI",
         "jsonClass": "HinduCalendarEventOld",
@@ -449,6 +449,8 @@
         "month_number": 2,
         "month_type": "lunar_month",
         "tags": "CommonFestivals,AdiShankaraHistory,MahapurushaEvents",
+        "priority": "paraviddha",
+        "kaala": "praatah",
         "year_start": 2593
     },
     {
@@ -484,6 +486,16 @@
         "year_start": 4118
     },
     {
+        "angam_number": 6,
+        "angam_type": "nakshatram",
+        "id": "ta:rAmAnujar~tirunakSattiram",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 1,
+        "month_type": "solar_month",
+        "tags": "MahapurushaEvents,CommonFestivals",
+        "year_start": 4118
+    },
+    {
         "angam_number": 7,
         "angam_type": "tithi",
         "description": {
@@ -493,6 +505,8 @@
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 2,
         "month_type": "lunar_month",
+        "priority": "puurvaviddha",
+        "kaala": "madhyaahna",
         "tags": "PuranaEvents,SpecialPuja,CommonFestivals"
     },
     {
@@ -594,7 +608,7 @@
         "tags": "OtherJayantis"
     },
     {
-        "angam_number": 15,
+        "angam_number": 27,
         "angam_type": "tithi",
         "description": {
             "en": "Danam of Brahma puranam"
@@ -602,7 +616,7 @@
         "id": "kUrma~jayantI",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "saayaahna",
-        "month_number": 2,
+        "month_number": 3,
         "month_type": "lunar_month",
         "priority": "puurvaviddha",
         "references_secondary": [
@@ -1287,6 +1301,36 @@
         "tags": "VratamEnd,SpecialPeriodEnd,CommonFestivals"
     },
     {
+        "angam_number": 1,
+        "angam_type": "tithi",
+        "description": {
+            "en": "`payOvratam` observed by Aditi Devi begins today."
+        },
+        "id": "payOvrata-ArambhaH",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 12,
+        "month_type": "lunar_month",
+        "shlokas": [
+            "phAlgunasyAmalE pakSE dvAdazAhaM payOvratam. arcayEdaravindAkSaM bhaktyA paramayA.a.anvitaH.."
+        ],
+        "tags": "VratamStart,SpecialPeriodStart"
+    },
+    {
+        "angam_number": 12,
+        "angam_type": "tithi",
+        "description": {
+            "en": "`payOvratam` observed by Aditi Devi ends today."
+        },
+        "id": "payOvrata-samApanam",
+        "jsonClass": "HinduCalendarEventOld",
+        "month_number": 12,
+        "month_type": "lunar_month",
+        "shlokas": [
+            "phAlgunasyAmalE pakSE dvAdazAhaM payOvratam. arcayEdaravindAkSaM bhaktyA paramayA.a.anvitaH.."
+        ],
+        "tags": "VratamEnd,SpecialPeriodEnd"
+    },
+    {
         "angam_number": 12,
         "angam_type": "tithi",
         "id": "dvidala-vrata-ArambhaH",
@@ -1960,6 +2004,7 @@
             "en": "Do `pUjA` *of* `dUrva`!"
         },
         "id": "dUrvASTamI",
+        "kaala": "aparaahna",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 6,
         "month_type": "lunar_month",
@@ -5859,7 +5904,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~1",
+        "id": "zvEta-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 1,
@@ -5873,7 +5918,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~2",
+        "id": "kUrma-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 1,
@@ -5887,7 +5932,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~3",
+        "id": "pArthiva-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 2,
@@ -5901,7 +5946,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~4",
+        "id": "sAvitrya-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 8,
@@ -5915,7 +5960,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~5",
+        "id": "pralaya-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 9,
@@ -5929,7 +5974,7 @@
         "description": {
             "en": "Kalpadi"
         },
-        "id": "kalpAdiH~6",
+        "id": "varAha-kalpAdiH",
         "jsonClass": "HinduCalendarEventOld",
         "kaala": "aparaahna",
         "month_number": 11,
@@ -7158,7 +7203,7 @@
         "description": {
             "en": "Shiva Puja"
         },
-        "id": "sUpOdana-vratam",
+        "id": "sUpaudana-vratam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 5,
         "month_type": "lunar_month",
@@ -7374,7 +7419,7 @@
     {
         "angam_number": 22,
         "angam_type": "nakshatram",
-        "kaala": "praatah",
+        "kaala": "pradosha",
         "id": "ta:naTarAjar cittirai ONam mahAbhiSEkam",
         "jsonClass": "HinduCalendarEventOld",
         "month_number": 1,

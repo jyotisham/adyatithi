@@ -1,12 +1,3 @@
-## Kūrma Jayantī
-कूर्म जयन्ती is observed on Paurṇamāsī tithi of Vaiśākhaḥ (lunar) month (saayaahna/puurvaviddha).
-
-_Danam of Brahma puranam_
-### References
-* Kielhorn (1897)
-
-
----
 ## Kāñchī Kāmakoṭi-Maṭha-Pratiṣṭhāpana Jayantī
 काञ्ची कामकोटि-मठ-प्रतिष्ठापन जयन्ती is observed on Paurṇamāsī tithi of Vaiśākhaḥ (lunar) month (sunrise (default)/puurvaviddha (default)).
 

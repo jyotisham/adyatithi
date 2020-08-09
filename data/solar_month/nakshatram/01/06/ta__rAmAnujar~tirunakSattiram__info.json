@@ -1,0 +1,16 @@
+{
+  "id": "ta__rAmAnujar~tirunakSattiram",
+  "jsonClass": "HinduCalendarEvent",
+  "tags": [
+    "MahapurushaEvents",
+    "CommonFestivals"
+  ],
+  "timing": {
+    "angam_number": 6,
+    "angam_type": "nakshatram",
+    "jsonClass": "HinduCalendarEventTiming",
+    "month_number": 1,
+    "month_type": "solar_month",
+    "year_start": 4118
+  }
+}
