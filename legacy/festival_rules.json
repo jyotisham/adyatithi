@@ -967,14 +967,14 @@
         "tags": "SpecialVratam"
     },
     {
-        "angam_number": 19,
-        "angam_type": "tithi",
+        "angam_number": 22,
+        "angam_type": "nakshatram",
         "id": "zravaNa-vratam",
         "kaala": "sangava",
         "jsonClass": "HinduCalendarEventOld",
-        "month_number": 3,
-        "month_type": "lunar_month",
-        "tags": "LessCommonFestivals"
+        "month_number": 0,
+        "month_type": "solar_month",
+        "tags": "SpecialVratam"
     },
     {
         "angam_number": 15,
