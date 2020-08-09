@@ -8992,6 +8992,20 @@
         "tags": "MonthlyShraddhaDays,ShannavatiTarpanaDays"
     },
     {
+        "angam_number": 17,
+        "angam_type": "yoga",
+        "description": {
+            "en": "Special `snAnam` on account of `mahAdhanurvyatIpAtam`."
+        },
+        "id": "mahAdhanurvyatIpAta-snAnam",
+        "jsonClass": "HinduCalendarEventOld",
+        "kaala": "arunodaya",
+        "month_number": 9,
+        "month_type": "solar_month",
+        "priority": "puurvaviddha",
+        "tags": "SpecialSnanam"
+    },
+    {
         "angam_number": 27,
         "angam_type": "yoga",
         "description": {
