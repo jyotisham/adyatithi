@@ -2,14 +2,14 @@
   "id": "zravaNa-vratam",
   "jsonClass": "HinduCalendarEvent",
   "tags": [
-    "LessCommonFestivals"
+    "SpecialVratam"
   ],
   "timing": {
-    "angam_number": 19,
-    "angam_type": "tithi",
+    "angam_number": 22,
+    "angam_type": "nakshatram",
     "jsonClass": "HinduCalendarEventTiming",
     "kaala": "sangava",
-    "month_number": 3,
-    "month_type": "lunar_month"
+    "month_number": 0,
+    "month_type": "solar_month"
   }
 }
