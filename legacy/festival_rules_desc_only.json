@@ -816,11 +816,6 @@
         "tags": "RareDays,Combinations"
     },
     {
-        "id": "gajacchAyA-yOgaH",
-        "jsonClass": "HinduCalendarEventOld",
-        "tags": "RareDays,Combinations"
-    },
-    {
         "id": "agninakSatra-ArambhaH",
         "jsonClass": "HinduCalendarEventOld",
         "tags": "SpecialPeriodStart"
