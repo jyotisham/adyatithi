@@ -108,10 +108,6 @@ _When Rohini nakshatram falls on a Saturday, it is a special पुण्यक�
 _When अनूराधा nakshatram falls on a Wednesday, it is a special पुण्यकालः for performing दानम्. One can do दानं of दध्योदनम् in Vishnu temples on this day._
 
 ---
-## Gajachchhāyā-Yogam
-
-
----
 ## Āyuṣmān-Bava-Saumya
 _A rare combination of आयुष्मान् योग, बव करण and सौम्यवासर._
 ### References
