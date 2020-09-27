@@ -4,12 +4,12 @@ id = "gOvatsa-dvAdazI"
 tags = [ "SpecialVratam", "CommonFestivals",]
 titles = [ "vizoka-dvAdazI\nekhaNDa-dvAdazI\npadmanAbha-dvAdazI",]
 shlokas = [ "gOkSIraM gOghRtaM caiva dadhi takraM ca varjayEt.\n\nsurabhi tvaM jaganmAtardEvi viSNupadE sthitA.\nsarvadEvamayE grAsaM mayA dattamidaM grasa..\n\nsarvadEvamayE dEvi sarvEdEvaizca satkRtA.\nmAtarmamA'bhilASitaM saphalaM kuru nandini..\n",]
-priority = "puurvaviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 7
 angam_type = "tithi"
 angam_number = 27

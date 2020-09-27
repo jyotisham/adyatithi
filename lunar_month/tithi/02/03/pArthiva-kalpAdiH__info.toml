@@ -2,12 +2,12 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "pArthiva-kalpAdiH"
 tags = [ "KalpadiDays",]
-priority = "vyaapti"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "vyaapti"
 month_number = 2
 angam_type = "tithi"
 angam_number = 3

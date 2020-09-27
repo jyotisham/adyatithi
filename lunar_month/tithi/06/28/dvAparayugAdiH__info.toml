@@ -2,13 +2,13 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "dvAparayugAdiH"
 tags = [ "YugadiDays",]
-priority = "vyaapti"
 references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "vyaapti"
 month_number = 6
 angam_type = "tithi"
 angam_number = 28

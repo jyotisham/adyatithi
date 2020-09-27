@@ -2,13 +2,13 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "bhISmASTamI"
 tags = [ "SpecialPuja", "CommonFestivals", "CommonFestivals",]
-priority = "puurvaviddha"
 references_secondary = [ "Vaidikasri Feb 2016",]
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 11
 angam_type = "tithi"
 angam_number = 8

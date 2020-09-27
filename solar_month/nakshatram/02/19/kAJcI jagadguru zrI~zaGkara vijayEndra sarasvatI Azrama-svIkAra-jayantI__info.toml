@@ -2,12 +2,12 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI jagadguru zrI~zaGkara vijayEndra sarasvatI Azrama-svIkAra-jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
-priority = "paraviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "solar_month"
+priority = "paraviddha"
 month_number = 2
 angam_type = "nakshatram"
 angam_number = 19

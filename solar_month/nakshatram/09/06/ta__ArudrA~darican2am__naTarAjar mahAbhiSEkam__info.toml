@@ -1,6 +1,7 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "ta__ArudrA~darican2am/naTarAjar mahAbhiSEkam"
+script_priority = "ta"
 tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
 shlokas = [ "kRpAsamudram sumukhaM trinEtraM sadAzivaM rudramanantarUpam.\njaTAdharaM pArvativAmabhAgaM cidambarEzaM hRdi bhAvayAmi..",]
 

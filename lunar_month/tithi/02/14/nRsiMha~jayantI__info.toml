@@ -2,12 +2,12 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "nRsiMha~jayantI"
 tags = [ "Dashavataram", "CommonFestivals",]
-priority = "puurvaviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 2
 angam_type = "tithi"
 angam_number = 14

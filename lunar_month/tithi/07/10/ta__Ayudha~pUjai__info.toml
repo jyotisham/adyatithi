@@ -1,6 +1,7 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "ta__Ayudha~pUjai"
+script_priority = "ta"
 tags = [ "CommonFestivals",]
 
 [timing]

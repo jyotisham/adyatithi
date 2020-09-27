@@ -2,12 +2,12 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "mAsazivarAtriH"
 tags = [ "MonthlyFestivals",]
-priority = "paraviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "paraviddha"
 month_number = 0
 angam_type = "tithi"
 angam_number = 29

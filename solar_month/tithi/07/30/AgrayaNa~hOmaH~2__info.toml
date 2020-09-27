@@ -2,13 +2,13 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "AgrayaNa~hOmaH~2"
 tags = [ "SpecialPuja",]
-priority = "puurvaviddha"
 references_secondary = [ "Vaidikasri Nov 2017",]
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "solar_month"
+priority = "puurvaviddha"
 month_number = 7
 angam_type = "tithi"
 angam_number = 30

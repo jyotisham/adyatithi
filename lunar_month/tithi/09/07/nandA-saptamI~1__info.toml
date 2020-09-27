@@ -2,7 +2,6 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "nandA-saptamI~1"
 tags = [ "SpecialVratam", "LessCommonFestivals",]
-priority = "puurvaviddha"
 references_primary = [ "Bhavishyottara Puranam",]
 references_secondary = [ "Chaturvarga Chintamani",]
 
@@ -10,6 +9,7 @@ references_secondary = [ "Chaturvarga Chintamani",]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 9
 angam_type = "tithi"
 angam_number = 7

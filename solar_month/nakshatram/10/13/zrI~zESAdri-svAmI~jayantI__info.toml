@@ -3,12 +3,12 @@ default_to_none = true
 id = "zrI~zESAdri-svAmI~jayantI"
 tags = [ "MahapurushaEvents",]
 shlokas = [ "karuNAsAgaraM zAntam aruNAcalavAsinam.\nzrIzESAdriguruM vandE brahmIbhUtaM tapOnidhim..",]
-priority = "paraviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "solar_month"
+priority = "paraviddha"
 month_number = 10
 angam_type = "nakshatram"
 angam_number = 13

@@ -2,13 +2,13 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "bahulA~caturthI"
 tags = [ "LessCommonFestivals",]
-priority = "puurvaviddha"
 references_secondary = [ "Kielhorn (1897)",]
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 5
 angam_type = "tithi"
 angam_number = 19

@@ -2,7 +2,6 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "mAgha-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
-priority = "paraviddha"
 references_primary = [ "Satyavrata Smriti",]
 references_secondary = [ "Vaidikasri",]
 
@@ -10,6 +9,7 @@ references_secondary = [ "Vaidikasri",]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "paraviddha"
 month_number = 11
 angam_type = "tithi"
 angam_number = 15

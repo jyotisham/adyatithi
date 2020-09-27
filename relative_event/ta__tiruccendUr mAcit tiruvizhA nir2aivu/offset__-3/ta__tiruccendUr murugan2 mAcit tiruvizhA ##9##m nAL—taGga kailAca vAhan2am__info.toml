@@ -1,6 +1,7 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "ta__tiruccendUr murugan2 mAcit tiruvizhA ##9##m nAL—taGga kailAca vAhan2am"
+script_priority = "ta"
 tags = [ "TamilnaduTempleFestivals",]
 
 [timing]

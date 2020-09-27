@@ -3,12 +3,12 @@ default_to_none = true
 id = "zRGgErI 35 jagadguru zrI~abhinava vidyAtIrtha mahAsvAmI ArAdhanA"
 tags = [ "MahapurushaEvents", "SringeriAradhanaDays",]
 shlokas = [ "vivEkinaM mahAprAjJaM dhairyaudAryakSamAnidhim.\nsadA'bhinavapUrvaM taM vidyAtIrthaguruM bhajE..",]
-priority = "vyaapti"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "vyaapti"
 month_number = 6
 angam_type = "tithi"
 angam_number = 22

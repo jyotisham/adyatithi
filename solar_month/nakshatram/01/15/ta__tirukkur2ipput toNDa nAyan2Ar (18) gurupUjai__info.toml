@@ -1,13 +1,14 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "ta__tirukkur2ipput toNDa nAyan2Ar (18) gurupUjai"
+script_priority = "ta"
 tags = [ "NayanarGurupujai",]
-priority = "paraviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "solar_month"
+priority = "paraviddha"
 month_number = 1
 angam_type = "nakshatram"
 angam_number = 15

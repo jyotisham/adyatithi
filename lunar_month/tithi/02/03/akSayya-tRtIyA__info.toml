@@ -3,7 +3,6 @@ default_to_none = true
 id = "akSayya-tRtIyA"
 tags = [ "CommonFestivals",]
 shlokas = [ "kaNDUya pRSThatO gAM tu snAtvA pippala-tarpaNam.\nkRtvA govindamabhyarcya na durgatimavApnuyAt..\nchatrOpAnat pradAnaM vA gO-bhU-kAJcana-vAsasI.\nyadyadiSTatamaM cAnyattaddEyam avizaGkayA..\nyasyAM snAnaM japO hOmaH svAdhyAyaH pitRtarpaNam.\ndAnaM ca kriyatE kiJcittatsarvaM syAdihAkSayam..",]
-priority = "paraviddha"
 references_primary = [ "Nirnaya Sindhu p.71",]
 references_secondary = [ "Kielhorn (1897)",]
 
@@ -11,6 +10,7 @@ references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "paraviddha"
 month_number = 2
 angam_type = "tithi"
 angam_number = 3

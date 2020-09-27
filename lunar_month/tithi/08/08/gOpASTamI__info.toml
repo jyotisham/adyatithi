@@ -3,12 +3,12 @@ default_to_none = true
 id = "gOpASTamI"
 tags = [ "LessCommonFestivals",]
 shlokas = [ "kArttikE  yA'STamI  zuklA  jJEyA  gOpASTamI  budhaiH.\ntatra  kuryAdgavAM  pUjAM  gOgrAsaM  gOpradakSiNam..",]
-priority = "puurvaviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 8
 angam_type = "tithi"
 angam_number = 8

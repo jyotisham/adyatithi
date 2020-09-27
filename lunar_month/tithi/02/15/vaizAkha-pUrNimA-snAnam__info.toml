@@ -3,7 +3,6 @@ default_to_none = true
 id = "vaizAkha-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
 shlokas = [ "balaM rUpaM yazO dharmaM jJAnamAyuH sukhaM dhRtim.\nArOgyaM paramApnOti samyak snAnEna mAnavaH..",]
-priority = "paraviddha"
 references_primary = [ "Satyavrata Smriti",]
 references_secondary = [ "Vaidikasri",]
 
@@ -11,6 +10,7 @@ references_secondary = [ "Vaidikasri",]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "paraviddha"
 month_number = 2
 angam_type = "tithi"
 angam_number = 15

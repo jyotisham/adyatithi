@@ -3,12 +3,12 @@ default_to_none = true
 id = "mitra-saptamI"
 tags = [ "OtherAvataram", "SpecialPuja", "CommonFestivals",]
 shlokas = [ "adityAM kazyapAjjajJE mitrO nAma divAkaraH.\nsaptamyAM tEna sA khyAtA lOkE'smin mitrasaptamI..",]
-priority = "puurvaviddha"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 9
 angam_type = "tithi"
 angam_number = 7

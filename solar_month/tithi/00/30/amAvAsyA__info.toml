@@ -2,12 +2,12 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "amAvAsyA"
 tags = [ "MonthlyShraddhaDays", "ShannavatiTarpanaDays",]
-priority = "vyaapti"
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "solar_month"
+priority = "vyaapti"
 month_number = 0
 angam_type = "tithi"
 angam_number = 30
