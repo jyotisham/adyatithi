@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 7 jagadguru zrI~AnandajJAnEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "AnandArAddhagaurIniravadhikaruNAlabdhasAhityavidyA-\nsauhityaH sUryanArAyaNamakhitanayazcErabhUzcinnayAkhyaH.\nAnandajJAnanAmA bhagavadupapadaH sambabhau bhASyakartuH\npIThE zrIkAmakOTyAM prakaTitaparamAcAryabhASyaughabhASyaH..14..\nzuddhAnandamunIndracandravimalAlOkAstacEtastamAH\nvistAryAdvayavartma saptatimathO naikAM samA gAmavan.\nzrIzailAntikam Asadan pathivazAd AnandasiddhiM yayau\nsiddhaH krOdhanarAdhakRSNanavamIsandhyAmanu brahmavit..15..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-07.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 24
+kaala = "aparaahna"
+year_start = 3047
+
+[description]
+en = "A native of Chera country, son of Sūryanārāyaṇamakhi, by name Chinnaya, having secured excellence in Sāhitya by the infinite or immeasurable or unbound grace of goddess Gaurī, who was pleased with worship, the sage by name Ānāndajñāna prefixed with the term ‘Bhagavat’ the author of a collection of expository texts on the works of Ācārya, lived in the Kāmakoṭi Pīṭha of the Ācārya, the author of a commentary on Brahmasūtras. This accomplished knower of Brahman having got rid of the ignorance by the immaculate splendour of the moon-like Śuddhānandamunīndra, spreading the path of non-dualism protecting the world/earth for sixty-nine years, then approaching Śrīśailā, on the way, attained blissful liberation on the ninth day of the dark fortnight in the month of Rādhā (Vaiśākha) of the year Krodhana."

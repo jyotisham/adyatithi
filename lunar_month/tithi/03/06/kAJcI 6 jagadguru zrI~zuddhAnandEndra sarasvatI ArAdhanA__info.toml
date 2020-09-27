@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 6 jagadguru zrI~zuddhAnandEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "vEdAraNyajavaidyabharvutanayaH zrIvizvanAthAbhidhO jJAnAnandamunEravApya niyamaM kAJcIpadE sthApitaH.\nzuddhAnandamunIzvaraH sa zaradaH saikAmazItiM dhurAm AcAryasya vahannavApa ca nalajyESThAcchaSaSThyAM layam..13..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-06.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+angam_type = "tithi"
+angam_number = 6
+kaala = "aparaahna"
+year_start = 2978
+
+[description]
+en = "Śrī Viśvanātha, son of Vaidyabharva of Vedāraṇya, received initiation from sage Jñānānanda, became Śuddhānandamunīśvara was established in Kāñcī; having carried on the responsibilities of the preceptor for eighty-one years, he secured union on the sixth day of the bright fortnight in the year Nala."

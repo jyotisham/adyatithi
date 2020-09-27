@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vijayadazamI"
+tags = [ "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 10
+
+[description]
+en = "Arjuna wins over all Kauravas and Karna\nSri Rama's army built tents on ocean bank before crossing on Shravana star (AnandaRamayanam)\nBest day for AksharaaBhyaasam"

@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 27 jagadguru zrI~cidvilAsEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "atha hastizailamadhusUdanAtmajO harikEzavazca citisaukhyamEduraH.\nagamat padaM svam akhilasthirAguruH zaradaH sa durmukhina AdimE dinE..56..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-27.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 1
+kaala = "aparaahna"
+year_start = 3678
+
+[description]
+en = "Then the preceptor Cidvilāsa, who was Harikeśava (before initiation), son of Madhusūdanārya of Hastiśaila (Kāñci) attained his immortal state on the first day of the Śarat ṛṭu in the year Durmukhi. The above two impeccable pontiffs Prajñāghana and Cidvilāsa attained siddhi in Kāñci itself. His (Cidvilāsa) duration of preceptorship was thirteen years."

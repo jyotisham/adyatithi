@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vijayA~bhAnusaptamI★"
+tags = [ "RareDays", "Combinations",]
+shlokas = [ "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "`saptamI tithi` on a Sunday is as sacred as a solar eclipse. Particularly good for worshipping Surya. When `zukla saptamI` is present at sunrise, it is called `vijayA`."

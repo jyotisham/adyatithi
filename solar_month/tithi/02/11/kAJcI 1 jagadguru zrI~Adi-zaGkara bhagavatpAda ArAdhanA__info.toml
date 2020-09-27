@@ -1,0 +1,21 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 1 jagadguru zrI~Adi-zaGkara bhagavatpAda ArAdhanA"
+tags = [ "KanchiAradhanaDays", "CommonFestivals",]
+shlokas = [ "mahEzAMzAjjAtO madhuram upadiSTAdvayanayO\nmahAmOhadhvAntaprazamanaraviH SaNmataguruH.\nphalE (32) svasmin svAyuSyapi zaracarAbdE'pi (2625) ca kalEH\nvililyE raktAkSiNyadhivRSasitaikAdazi parE..4..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-01.jpg"
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 11
+kaala = "aparaahna"
+year_start = 2626
+
+[description]
+en = "Born as an aṁśa of Lord Maheśa (Śiva), the sweet or lucid instructor of the principles of non-dualism, the Sun in dispelling the dense darkness (the great delusion), the preceptor of the six cults, merged in Supreme in the thirty-second year of his life span, in the Kali era 2625 on the eleventh day of the bright fortnight in the month of Vṛṣabha of the year Raktākṣi. This venerable Śri Śaṅkarābhagavatpāda established the Advaita school everywhere after winning over the scholars (of rival schools) through commentarial works on Brahmasūtra etc. His native is Kerala; belonged to Nampūthiri group; father was Śivaguru, mother Āryāmbā, preceptor - Śri Govindabhagavatpāda, life span - 32 years; realisation - on the eleventh day of the bright fortnight of the month Vṛṣabha in the year Raktākṣi of Kali era - 2625 in Kāñci itself."

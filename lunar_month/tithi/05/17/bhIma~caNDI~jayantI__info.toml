@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "bhIma~caNDI~jayantI"
+tags = [ "OtherJayantis",]
+references_secondary = [ "http://hindupad.com/bhim-chandi-jayanti/",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 17

@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "gajacchAyA-yOgaH"
+tags = [ "RareDays", "Combinations",]
+shlokas = [ "chAyAyAM kariNaH zrAddhaM tatkarma parivIjitam.\ndazakalpAyutAnIha na kSIyEta yudhiSThira..3-203-121..\nmahAbhAratE vanaparvaNi trayOttaradvizatatamE'dhyAyE",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "A very special yOga, for doing Pitru Shraddha during Mahalaya Paksham. A man that performs a sraddha in the conjunction called Gajacchaya at a place that is fanned by the leaves of the Aswattha tree enjoys the fruits thereof, O Yudhishthira, for a hundred thousand kalpas."

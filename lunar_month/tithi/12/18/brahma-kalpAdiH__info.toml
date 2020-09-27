@@ -1,0 +1,17 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "brahma-kalpAdiH"
+tags = [ "KalpadiDays",]
+priority = "vyaapti"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+angam_type = "tithi"
+angam_number = 18
+kaala = "aparaahna"
+
+[description]
+en = "Brahma Kalpadi"

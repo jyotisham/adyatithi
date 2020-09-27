@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "bRhatI-vRkSaka-pUjA"
+tags = [ "SpecialPuja",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 17
+
+[description]
+en = "VaakuduChettu Puja"

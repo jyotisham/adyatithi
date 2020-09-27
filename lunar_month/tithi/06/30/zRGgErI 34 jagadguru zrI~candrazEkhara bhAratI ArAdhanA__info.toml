@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zRGgErI 34 jagadguru zrI~candrazEkhara bhAratI ArAdhanA"
+tags = [ "MahapurushaEvents", "SringeriAradhanaDays",]
+shlokas = [ "sadA''tmadhyAnanirataM viSayEbhyaH paraGmukham.\nnaumi zAstrESu niSNAtaM candrazEkharabhAratIm..",]
+priority = "vyaapti"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 30
+kaala = "aparaahna"

@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "lakSmI-varAha~jayantI"
+tags = [ "Dashavataram",]
+shlokas = [ "jitaM jitaM tE'jita yajJabhAvana trayIM tanuM svAM paridhunvatE namaH.\nyadrOmagartESu nililyuraddhayastasmai namaH kAraNasUkarAya tE..3-13-35..\n—zrImadbhAgavatE mahApurANE tRtIyEskandhE trayOdazE'dhyAyE ",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 20

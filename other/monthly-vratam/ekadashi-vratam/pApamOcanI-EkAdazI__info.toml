@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "pApamOcanI-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "The Krishna-paksha Ekadashi of `phAlguna` month is known as `pApamOcanI-EkAdazI`."

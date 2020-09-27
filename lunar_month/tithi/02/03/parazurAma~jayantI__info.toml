@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "parazurAma~jayantI"
+tags = [ "Dashavataram",]
+shlokas = [ "vaizAkhasya sitE pakSE tRtIyAyAM punarvasau.\nnizAyAH prathamE yAmE rAmAkhyaH samayE hariH..\nsvOccagaiH SaDgrahairyuktE mithunE rAhusaMsthitE.\nrENukAyAstu yO garbhAdavatIrNO hariH svayam..",]
+priority = "puurvaviddha"
+references_primary = [ "Nirnaya Sindhu p.66",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 3
+kaala = "madhyaahna"

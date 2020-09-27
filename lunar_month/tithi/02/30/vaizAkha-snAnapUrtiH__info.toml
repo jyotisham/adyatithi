@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vaizAkha-snAnapUrtiH"
+tags = [ "SpecialSnanam",]
+shlokas = [ "mAdhavE mESagE bhAnau murArE madhusUdana.\nprAtaH snAnEna mE nAtha phaladO bhava pApahan..",]
+references_secondary = [ "Vaidikasri June 2017",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 30

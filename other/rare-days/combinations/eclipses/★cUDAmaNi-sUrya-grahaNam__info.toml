@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "★cUDAmaNi-sUrya-grahaNam"
+tags = [ "RareDays", "Combinations", "Eclipses",]
+references_secondary = [ "Kielhorn, 1897",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "When a solar eclipse occurs on a Sunday, it is even more special: `cUDAmaNi`, i.e. crest jewel."

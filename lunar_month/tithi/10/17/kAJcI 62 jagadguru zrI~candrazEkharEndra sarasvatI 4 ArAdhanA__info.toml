@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 62 jagadguru zrI~candrazEkharEndra sarasvatI 4 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "saMyatsu viklavE lOkE pITham ArUDhavAn mahAn.\nitihAsagarbhagUDhanAmadhAmAdipUrvakaH..8..\nanAma sarvanAmaitad brahmEtIva pradarzayan.\njayatyabhayadazcandrazEkharEndrO yatIzvaraH..9..\nzrImaThaM kumbhaghONaM yO'nayannayavid AtmavAn.\ntatraiva saMsthitO yatra maThO'bdadvizatIM sthitaH..10..\nzrIcandrazEkharEndraH saptatriMzatsamAH sthitaH pIThE.\nzubhakRti puSyE kRSNadvitIyatithyAm iyAya kaivalyam..11..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-62.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+angam_type = "tithi"
+angam_number = 17
+kaala = "aparaahna"
+year_start = 4884
+
+[description]
+en = "Preceptor Śrī Chandraśekharendra having remained in the Pīṭha for thirty-seven years attained Siddhi on Kṛṣṇadvitīya of Puṣya month in the year Subhakṛt. Śrī Maṭha moved to Kumbhaghona town during the period of this ācārya; his siddhi was also in Kumbhaghona. Śivāṣṭapadī, a lyrical work on the model of Gitagovinda of Śrī Jayadeva was composed only by this ācārya. His siddhi was during Śalivahana era 1705."

@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 43 jagadguru zrI~AnandaghanEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "zrItuGgabhadrAtaTabhUH sudEvabhaTTAtmajaH zaGkarapaNDitAkhyaH.\nabhUd athAnandaghanazcalAbdaiH (36) pramAdicaitrAcchanavamyahE'gAt..86..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-43.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 9
+kaala = "aparaahna"
+year_start = 4115
+
+[description]
+en = "Preceptor Ānandaghana, known as Śaṅkarapaṇḍita (before initiation) was the son of Sudevabhaṭṭa living on the banks of river Tuṅgabhadrā and He held the preceptorship for thirty-six years. He left his physical coil on the Navami (ninth day) of the bright fortnight in the month of Caitra of the year Pramādi."

@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "bhuvanEzvarI~jayantI"
+tags = [ "Dashamahavidya",]
+shlokas = [ "udyadinadyutimindukirITAm tuGgakucAM nayanatrayayuktAM \nsmEramukhIM varadAGkuzapAzAbhItikarAm prabhajE bhuvanEzIm ",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 12
+
+[description]
+en = "Goddess Bhuvaneshwari is 4th of the Dasha Maha Vidyas."

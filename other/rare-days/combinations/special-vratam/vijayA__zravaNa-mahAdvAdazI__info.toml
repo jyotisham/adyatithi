@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vijayA/zravaNa-mahAdvAdazI"
+tags = [ "RareDays", "Combinations", "SpecialVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Dvadashi tithi, combined with Shravana nakshatram."

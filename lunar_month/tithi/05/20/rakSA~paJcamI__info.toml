@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "rakSA~paJcamI"
+tags = [ "LessCommonFestivals",]
+references_secondary = [ "Kielhorn (1897)",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 20
+
+[description]
+en = "Naga (Manasa) Puja"

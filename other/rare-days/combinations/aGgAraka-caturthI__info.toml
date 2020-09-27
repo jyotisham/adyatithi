@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "aGgAraka-caturthI"
+tags = [ "RareDays", "Combinations",]
+shlokas = [ "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "`caturthI tithi` on a Tuesday is as sacred as a solar eclipse. Good day for doing puja of Ganesha/Subrahmanya with naivedyam of modakam/millet flour respectively."

@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "pati-saJjIvanI-vratam"
+tags = [ "SpecialVratam",]
+references_primary = [ "Skanda Puranam",]
+references_secondary = [ "https://hindupad.com/pathi-sanjeevani-vrata/",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 30

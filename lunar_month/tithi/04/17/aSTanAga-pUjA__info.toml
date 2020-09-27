@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "aSTanAga-pUjA"
+tags = [ "SpecialPuja",]
+titles = [ "Manasa Puja",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 17

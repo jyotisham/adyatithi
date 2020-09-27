@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vibhuvana-mahAgaNapati saGkaTahara-caturthI-vratam"
+tags = [ "MonthlyVratam", "SankataharaChaturthiVratam",]
+shlokas = [ "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAnmAM mOcayEzAna sarvamiSTaM ca dEhi mE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Special vrata day for Ganesha. In this month, Ganesha is worshipped as `vibhuvana-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, as follows:"

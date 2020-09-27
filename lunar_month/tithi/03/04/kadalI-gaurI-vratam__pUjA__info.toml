@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kadalI-gaurI-vratam/pUjA"
+tags = [ "LessCommonFestivals",]
+shlokas = [ "putrAn dEhi dhanaM dEhi saubhAgyaM sarvamaGgalE.\nsaumaGgalyaM sukhaM jJAnaM dEhi mE zivasundari..",]
+references_primary = [ "Bhavishyottara Puranam",]
+references_secondary = [ "Vaidikasri June 2017",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+angam_type = "tithi"
+angam_number = 4
+
+[description]
+en = "Perform puja of Shiva-Parvati under a banana tree or on a banana leaf, do naivedyam of 100+ bananas and give away to small girl children."

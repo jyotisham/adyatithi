@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "nArada~jayantI"
+tags = [ "LessCommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 17
+
+[description]
+en = "Avataram of `nArada muni`; perform danam of `vINA`, music"

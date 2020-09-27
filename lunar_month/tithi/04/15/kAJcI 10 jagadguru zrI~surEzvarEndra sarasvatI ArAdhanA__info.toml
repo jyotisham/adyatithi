@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 10 jagadguru zrI~surEzvarEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "mahAbalIzvarEzvarAcyutOdbhavO mahEzvarAbhidhaH surEzvaraH parO niyamya sarvabhUgurOH.\navApa kAJcikAmakOTipIThadhUrvahakriyAM yayau svam akSayE'kSayaM zucEH zuciH sa parvaNi..20..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-10.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 15
+kaala = "aparaahna"
+year_start = 3228
+
+[description]
+en = "Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adhering to austerities obtained the responsibility of governing the Kāñci Kāmakoṭi Pīṭha of the preceptor of the entire earth, He, the pure reached his imperishable state in the month of Āṣāḍha of the year Akṣaya."

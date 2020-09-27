@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kuntI~(pArvatI)-vratam"
+tags = [ "SpecialVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 15
+
+[description]
+en = "Kunti-vratam done today will remove all paapams (including Gohatya). As per Bhavishyottara Puraana. Here Kunti means Parvati. Also, some people worship Yudhisthira's mother Kunti. In AP/TEL, eldest child is given new clothes, harti and blessed \"Deerghayushman\"."

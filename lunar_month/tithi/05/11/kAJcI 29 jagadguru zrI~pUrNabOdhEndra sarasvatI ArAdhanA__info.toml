@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 29 jagadguru zrI~pUrNabOdhEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "zrIpatEstanayaH kRSNaH pUrNabOdhO dinE harEH.\nbrahmabhUtO nabhasyacchE saMyamIzvara IzvarE..58..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-29.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 11
+kaala = "aparaahna"
+year_start = 3719
+
+[description]
+en = "Son of Śrīpati, known as Kṛṣṇa before initiation, the great sage Pūrṇabodhendra, merged in Brahman on the Ekādaśi (eleventh) day of the bright fortnight of the month Śravaṇa in the year Ăśvara. His preceptorship was for seventeen years."

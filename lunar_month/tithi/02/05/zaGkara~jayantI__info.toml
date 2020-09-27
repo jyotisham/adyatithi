@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zaGkara~jayantI"
+tags = [ "CommonFestivals", "AdiShankaraHistory", "MahapurushaEvents",]
+priority = "paraviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 5
+kaala = "praatah"
+year_start = 2593
+
+[description]
+en = "Nandana year"

@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "manthana-SaSThI"
+tags = [ "LessCommonFestivals", "SpecialPuja",]
+titles = [ "campA SaSThI",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 6

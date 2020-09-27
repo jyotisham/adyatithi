@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__vaikAci~vizAkham"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 2
+angam_type = "nakshatram"
+angam_number = 16
+
+[description]
+en = "Special puja for Subrahmanya Swami in temples. Birth of Subrahmanya Swami. Worship Him with red flowers."

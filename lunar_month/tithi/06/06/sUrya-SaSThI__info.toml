@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "sUrya-SaSThI"
+tags = [ "SpecialPuja",]
+shlokas = [ "zuklE bhAdrapadE SaSThyAM snAnaM bhAskarapUjanam.\nprAzanaM paJcagavyasya azvamEdhaphalAdhikam..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 6
+
+[description]
+en = "Perform puja of Surya, eat Panchagavya -- brings merits greater than Ashvamedha!"

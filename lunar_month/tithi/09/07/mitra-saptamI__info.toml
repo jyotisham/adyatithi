@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mitra-saptamI"
+tags = [ "OtherAvataram", "SpecialPuja", "CommonFestivals",]
+shlokas = [ "adityAM kazyapAjjajJE mitrO nAma divAkaraH.\nsaptamyAM tEna sA khyAtA lOkE'smin mitrasaptamI..",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+angam_type = "tithi"
+angam_number = 7
+kaala = "aparaahna"
+
+[description]
+en = "Birth of Surya to Aditya-Kashyapa on this day."

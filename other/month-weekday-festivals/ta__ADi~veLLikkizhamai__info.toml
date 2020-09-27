@@ -1,0 +1,8 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__ADi~veLLikkizhamai"
+tags = [ "MonthWeekdayFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "makara-jyOtiH"
+tags = [ "KeralaTempleFestivals", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 10
+angam_type = "day"
+angam_number = 1
+
+[description]
+en = "Darshan of Makara Jyoti in Sabarimala Ayyappa Temple."

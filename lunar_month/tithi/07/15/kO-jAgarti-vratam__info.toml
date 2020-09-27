@@ -1,0 +1,19 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kO-jAgarti-vratam"
+tags = [ "SpecialVratam", "CommonFestivals",]
+shlokas = [ "nizIthE varadA lakSmIH kO jAgartIti bhASiNI.\ntasmai vittaM prayacchAmi akSaiH krIDAM karOti yaH..",]
+references_primary = [ "Dharma Sindhu 142",]
+references_secondary = [ "Vaidikasri Oct 2015",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 15
+kaala = "nishita"
+
+[description]
+en = "Have to play Aksha kreeda only on this day and Ko-jagarti-Vratam (Lakshmi will ask \"who are awake\"). Vaalakhilya Rushi mentioned Ko-jagarti Vratam"

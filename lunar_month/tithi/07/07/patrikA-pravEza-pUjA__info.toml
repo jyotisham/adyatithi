@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "patrikA-pravEza-pUjA"
+tags = [ "SpecialPuja",]
+titles = [ "dvAdaza-saptamI-vratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 7
+
+[description]
+en = "Pooja of Kapila cow, eat only Panchagavya, next day eat"

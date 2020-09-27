@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mahA~kArttikI"
+tags = [ "CommonFestivals",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "nakshatram"
+angam_number = 4
+kaala = "pradosha"

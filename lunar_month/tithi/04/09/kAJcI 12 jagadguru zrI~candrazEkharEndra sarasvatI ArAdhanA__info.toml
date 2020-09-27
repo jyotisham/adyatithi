@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 12 jagadguru zrI~candrazEkharEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "zrIcidghanEndraniyataH zaradastriSaSTiM zrIkAmakOTim abhimaNDya tatazca kaJcit.\nsaccidghanAkhyam anuziSya vRtO'pi ziSyaiH zrIcandrazEkharaguruH savapustirO'dhAt..23..\nAnandamayam AnandE ASADhyASADhapUrvakE.\nnavamyAm anavamyaM svaM padam Apat parAtparam..24..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-12.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 9
+kaala = "aparaahna"
+year_start = 3336
+
+[description]
+en = "Initiated by Śrī Cidghanendra, the preceptor Śrī Chandraśekhara, having adorned the Kāmakoṭi Pīṭha for sixty-three years, then having initiated/ imparted on e named Saccidghana, vanished with form in the midst of disciples. He attained his exalted Supreme state on the ninth day of the bright fortnight in the month of Āṣāḍha of the year Ānanda."

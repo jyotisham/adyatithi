@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "tulA-kAvErI-snAna-ArambhaH"
+tags = [ "TamilnaduTempleFestivals",]
+shlokas = [ "SaTSaSTikOTitIrthAni dvisaptabhuvanESu ca.\nkEzavasyA''jJayA yAnti tulAmAsE marudvRdham..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 7
+angam_type = "day"
+angam_number = 1
+
+[description]
+en = "Perform `snAnam` in Kaveri during this month."

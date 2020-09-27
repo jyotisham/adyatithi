@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "manvAdiH~(vaivasvataH~[7])"
+tags = [ "ManvadiDays",]
+priority = "vyaapti"
+references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 10
+kaala = "aparaahna"

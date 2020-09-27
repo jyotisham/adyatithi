@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zrI~gOvinda bhagavatpAda ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+priority = "vyaapti"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 15
+kaala = "aparaahna"

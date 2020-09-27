@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 28 jagadguru zrI~mahAdEvEndra sarasvatI 1 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "bhadrAcalAbhijanabhAnusutaH sa zESaNAryO'bhimaNDya padam AdimadEzikasya.\nraudriNyanUrjadazami prazamIndragamyaM prApat padaM praNihitEH paramAmRtAkhyam..57..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-28.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 25
+kaala = "aparaahna"
+year_start = 3702
+
+[description]
+en = "Son of Bhānumiśra of Bhadrācala, Śeṣanārya (before initiation), He (Bhadrācala Mahādeva), having adorned/decorated the seat of the Ādiguru, attained that Supreme state attainable by/to the great saints who were adepts in subduing senses, on the tenth day of the black fortnight in the year Raudrī. He also attained beatitude in Kāñci. His preceptorship was for twenty-four years."

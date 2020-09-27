@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "karavIra-vratam"
+tags = [ "SpecialVratam",]
+shlokas = [ "karavIra viSAvAsa namastE bhAnuvallabha.\nmaulimaNDana durgAdi dEvAnAM satataM priya",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+angam_type = "tithi"
+angam_number = 1
+
+[description]
+en = "Perform puja of `karavIra` plants/flowers and then offer them in `arcanA`."

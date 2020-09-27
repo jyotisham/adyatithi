@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kucEla-dinam"
+tags = [ "PuranaEvents",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Celebrated especially in Kerala/Guruvayur. Commemorates the incident of Kuchela visiting Lord Krishna. Offer naivedyam of `pRthukam`."

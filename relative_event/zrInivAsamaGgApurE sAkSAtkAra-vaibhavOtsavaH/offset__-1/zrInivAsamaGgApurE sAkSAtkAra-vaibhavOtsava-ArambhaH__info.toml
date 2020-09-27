@@ -1,0 +1,10 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zrInivAsamaGgApurE sAkSAtkAra-vaibhavOtsava-ArambhaH"
+tags = [ "AndhraTempleFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+anchor_festival_id = "zrInivAsamaGgApurE sAkSAtkAra-vaibhavOtsavaH"
+offset = -1

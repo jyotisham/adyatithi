@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__tiruccendUr mAcit tiruvizhA nir2aivu"
+tags = [ "TamilnaduTempleFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 11
+angam_type = "tithi"
+angam_number = 15

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "lalitA~jayantI"
+tags = [ "CommonFestivals", "Dashamahavidya",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+angam_type = "tithi"
+angam_number = 15
+
+[description]
+en = "Goddess Lalita is 3rd of the Dasha Maha Vidyas."

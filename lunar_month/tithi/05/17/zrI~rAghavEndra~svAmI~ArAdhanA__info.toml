@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zrI~rAghavEndra~svAmI~ArAdhanA"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+shlokas = [ "pUjyAya rAghavEndrAya satyadharmaratAya ca.\nbhajatAM kalpavRkSAya namatAM kAmadhEnavE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 17
+year_start = 4773

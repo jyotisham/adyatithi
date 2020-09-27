@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "dattAtrEya~jayantI"
+tags = [ "OtherAvatarams", "CommonFestivals",]
+shlokas = [ "Adau brahmA madhyE viSNurantE dEvaH sadAzivaH.\nmUrtitrayasvarUpAya dattAtrEya namO'stu tE..",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+angam_type = "tithi"
+angam_number = 15
+kaala = "pradosha"

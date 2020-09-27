@@ -1,0 +1,17 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mahAtArA~jayantI"
+tags = [ "Dashamahavidya",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 9
+kaala = "madhyaahna"
+
+[description]
+en = "Goddess Mahatara is 2nd of the Dasha Maha Vidyas."

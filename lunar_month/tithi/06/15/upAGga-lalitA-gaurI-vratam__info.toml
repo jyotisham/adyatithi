@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "upAGga-lalitA-gaurI-vratam"
+tags = [ "SpecialVratam",]
+titles = [ "vandhyatvahArI-liGgArcanA-vratam/putra-vratam\nvaruNa-vratam\nbrahma-sAvitrI-vratam\nazOka-trirAtri-vratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 15

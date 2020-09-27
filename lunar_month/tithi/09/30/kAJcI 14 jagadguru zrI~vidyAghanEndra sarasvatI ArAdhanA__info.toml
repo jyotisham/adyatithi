@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 14 jagadguru zrI~vidyAghanEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "nivEzya gaGgAdharagISpatiM padE pravizya kUTaM tad agastyacihnitam.\npramOTayan mantrata ugrabhairavaM nivEzanaM svaM tata Eva klRptavAn..28..\nzrImadbApaNasOmayAjitanayaH zrInAyanAbhikhyayA\nkhyAtaH pUrvam udAramantravibhavaH saMyamya saccidghanAt.\nAsthAyApyadhikAmakOTi sa zivAn (45) abdAn agE'gAllayaM\ndhAtau zAli-maNIzikhIkSaNa(239)-sahE darzE ca vidyAghanaH..29..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-14.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+angam_type = "tithi"
+angam_number = 30
+kaala = "aparaahna"
+year_start = 3418
+
+[description]
+en = "Having entered the peak named Agastya after established Gaṅgādharagīṣpati in the ācārya Pīṭha and after subduing the Ugrabhairava through mantra, He stayed there itself. Son of Śrī Boppanna, known as Śrī Nāyana earlier, that Vidyāghana having got initiation from Saccidghana, endowed with enormous occult powers, having adorned the principal seat of Kāmakoṭi for forty-five years, He merged (in Self) on the new moon day of the month of Mārgaśīrṣa in the year Dhātu of Śālivāhana era 239."

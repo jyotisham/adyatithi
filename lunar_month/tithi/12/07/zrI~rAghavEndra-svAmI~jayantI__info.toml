@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zrI~rAghavEndra-svAmI~jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+angam_type = "tithi"
+angam_number = 7
+year_start = 4695

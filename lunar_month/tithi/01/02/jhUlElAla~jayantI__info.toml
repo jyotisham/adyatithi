@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "jhUlElAla~jayantI"
+tags = [ "OtherJayantis",]
+references_secondary = [ "http://hindupad.com/jhulelal-jayanti-2012-date/",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 2

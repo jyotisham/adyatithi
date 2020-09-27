@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mOhinI-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "The Shukla-paksha Ekadashi of `vaizAkha` month is known as `mOhinI-EkAdazI`."

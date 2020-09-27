@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "SaDazIti-mInaraviH"
+tags = [ "SunSankranti",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 12
+angam_type = "day"
+angam_number = 1

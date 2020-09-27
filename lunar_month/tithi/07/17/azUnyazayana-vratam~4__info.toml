@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "azUnyazayana-vratam~4"
+tags = [ "SpecialVratam",]
+references_primary = [ "Purushartha Chintamani",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 17
+kaala = "moonrise"

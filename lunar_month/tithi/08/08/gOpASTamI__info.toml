@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "gOpASTamI"
+tags = [ "LessCommonFestivals",]
+shlokas = [ "kArttikE  yA'STamI  zuklA  jJEyA  gOpASTamI  budhaiH.\ntatra  kuryAdgavAM  pUjAM  gOgrAsaM  gOpradakSiNam..",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 8
+kaala = "madhyaahna"
+
+[description]
+en = "Perform `pUjA` of cow with calf, and offer `ta:agattikIrai` and grass/water, and perform 16 `pradakSiNam`."

@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 32 jagadguru zrI~cidAnandaghanEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "aNNu(kaNva)zaGkaranandanaH paTupadmanAbhasamAhvayO\nlambikApathatatparO'pyavalambya sadguruzAsanam.\nkAmakOTipadE sthitaH zritakAmakOTiphalapradE\nnityadattasahasrabhaktam abhUd idaMpadabhAgasau..61..\nsakaruNam apabandhuM kannaDEzIkumAraM punarapi nijarAjyE sthApayaMstadvijEtrA.\natilaghutanuvRttirjIrNaparNAt sa yOgI padamanu caturO'bdAnEva dEvO'dhyavAtsIt..62..\nprajOtpattau mArgazIrSE sitaSaSThyAm agAd asau.\npadaM svaM paramaM sarvazOkamOhavivarjitam..63..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-32.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+angam_type = "tithi"
+angam_number = 6
+kaala = "aparaahna"
+year_start = 3773
+
+[description]
+en = "Son of Kaṇṇūśaṅkara, the clever Padmanābha by ame, though intent on practising Lambika Yoga, this preceptor Cidānandaghanendra adhering to the injunctions of the Master, remained in the seat of Kāmakoṭi that bestows all desired things to those who resort to, fed innumerable devotees every day. He, the adept in Yoga reinstating compassionately the Kannada prince who lost kith and kin in his own kingdom through his (the prince’s) conqueror, He (Cidānandaghanendra) remained as preceptor only for four years sustaining on dry leaves. This preceptor reached his Ultimate abode which is devoid of all grief, delusion etc. on the sixty day of bright fortnight in the month of Mārgaśīrṣa of the year Prajotpati."

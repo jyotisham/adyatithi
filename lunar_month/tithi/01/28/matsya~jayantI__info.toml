@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "matsya~jayantI"
+tags = [ "Dashavataram",]
+priority = "puurvaviddha"
+references_secondary = [ "Kielhorn (1897)",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 28
+kaala = "aparaahna"

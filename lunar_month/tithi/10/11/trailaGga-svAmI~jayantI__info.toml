@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "trailaGga-svAmI~jayantI"
+tags = [ "MahapurushaEvents",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+angam_type = "tithi"
+angam_number = 11
+
+[description]
+en = "Paramahamsa described Him as \"walking Shiva of Varanasi\""

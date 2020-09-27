@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "hayagrIva~jayantI"
+tags = [ "OtherAvatarams",]
+shlokas = [ "OGkArOdgItharUpAya RgyajussAmamUrtayE.\nnamO'studEvadEvAya vAcchitArthapradAyinE..\najJAnatimiraM chindhi jJAnaM ca''zu prayaccha mE.\ndEhi mE dEva dEvEza hayazIrSa namO'stu tE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 15
+
+[description]
+en = "Lord Hayagriva did upadesham of all four vedas to Brahma."

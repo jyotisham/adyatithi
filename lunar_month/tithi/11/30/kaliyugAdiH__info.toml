@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kaliyugAdiH"
+tags = [ "YugadiDays",]
+priority = "vyaapti"
+references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+angam_type = "tithi"
+angam_number = 30
+kaala = "aparaahna"
+
+[description]
+en = "Perform `samudrasnAnam` and `zrAddham`."

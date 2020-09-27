@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "dEvasEnA~paJcamI"
+tags = [ "LessCommonFestivals",]
+priority = "puurvaviddha"
+references_secondary = [ "https://twitter.com/blog_supplement/status/923044462229671936",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 5
+kaala = "madhyaahna"

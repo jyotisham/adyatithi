@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "dhUmAvatI~jayantI"
+tags = [ "Dashamahavidya",]
+references_secondary = [ "http://hindupad.com/dhumavati-jayanti-maa-dhumavathi-jayanthi/",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+angam_type = "tithi"
+angam_number = 8
+
+[description]
+en = "Goddess Dhumavati is 7th of the Dasha Maha Vidyas."

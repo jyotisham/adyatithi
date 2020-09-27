@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "samudra-manthanam"
+tags = [ "PuranaEvents", "LessCommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 11
+
+[description]
+en = "Jyeshtha Devi (Kali wife), Varuni (Sesha wife), Sauparni (Garuda wife), Apsaras, Gandharvas, Airavata, Ucchaisrava, Dhanvantari, Parijatam, Kamadhenu born from Milk ocean"

@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 31 jagadguru zrI~brahmAnandaghanEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "AnantirjyESTharudrO draviDiSu garuDahrAdinIsImni jAtO\nbOdhEndrAcAryaziSyO bhuvanagurudhurAM pAlayaJchIlayuktaH.\nkRtsnakSmAmaNDalIjinnRpavaralalitAdityanutyArcitAGghriH\nzrIbrahmAnandasAndraH prabhavazucizucidvAdazIyAhni lilyE..60..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-31.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 12
+kaala = "aparaahna"
+year_start = 3769
+
+[description]
+en = "Born on the banks of river Garuḍa (Kaḍilam in Tamil) in the Draviḍa deśa (South India), as the son of Anantārya, He was called Jyeṣṭarudra (before initiation). Having become the disciple of Śrī Bodhendrācārya, He held with sincerity the responsibility of Preceptor-ship of the earth; worshipped by King Lalitāditya of Kashmir who conquered all rival kings on earth Śrī Brahmānandaghana attained liberation on dvādaśī(twelfth day) of the bright fortnight of Jyeṣṭa in the year Prabhava. Well-versed in the six system of philosophy and adored/worshipped by the well-known poet Bhavabhūti and Kashmir monarch Lalitāditya, this preceptor adorned the Pīṭha for thirteen years and attained liberation in Kāñci itself."

@@ -1,0 +1,12 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "subrahmaNya-SaSThI-vratam"
+tags = [ "MonthlyVratam", "ShashthiVratam",]
+shlokas = [ "sEnAvidAraka skanda mahAsEna mahAbala.\nrudrOmAgnija SaDvaktra gaGgAgarbha namO'stu tE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Also known as `campA/campaka SaSThI`"

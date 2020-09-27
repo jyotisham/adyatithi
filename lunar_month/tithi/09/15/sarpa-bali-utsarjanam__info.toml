@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "sarpa-bali-utsarjanam"
+tags = [ "LessCommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+angam_type = "tithi"
+angam_number = 15
+
+[description]
+en = "Offer `bali` to serpents on (from) this day, in the night after `sthAlIpAka`."

@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kaizika-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "The Shukla-paksha Ekadashi of `vRzcikamAsa` is also celebrated as `kaizika-EkAdazI`. Kaisika Puranam, consisting of 82 shlokas describes the story of `ta:nampADuvAn2` and a `rAkSasa` who attained mukti by `nAmasaGkIrtanam` and the fruits of `ta:nampADuvAn`'s `nAmasaGkIrtanam`, respectively!"

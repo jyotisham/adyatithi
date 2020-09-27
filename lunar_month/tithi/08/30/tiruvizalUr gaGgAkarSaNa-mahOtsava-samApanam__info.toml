@@ -1,0 +1,17 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "tiruvizalUr gaGgAkarSaNa-mahOtsava-samApanam"
+tags = [ "MahapurushaEvents", "TamilnaduTempleFestivals",]
+shlokas = [ "IzE tasya ca nAmani pravimalaM jJAnaM tayOrUrjitam\nprEma prEma ca tatparESu viratizcAnyatra sarvatra ca.\nIzEkSA karuNA ca yasya niyatA vRttiH zritasyApi yam\ntaM vandE nararUpamantakaripuM zrIvEGkaTEzaM gurum..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 30
+kaala = "aparaahna"
+
+[description]
+en = "Thiruvisanallur Sridhara Aiyyaval brought Ganga to his house well on this day! See also http://www.sriayyaval.org/ ."

@@ -1,0 +1,8 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zani-pradOSa-vratam"
+tags = [ "MonthlyVratam", "PradoshaVratam",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true

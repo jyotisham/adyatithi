@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "damanaka-caturdazI"
+tags = [ "OdishaTempleFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+angam_type = "tithi"
+angam_number = 14
+
+[description]
+en = "Celebrating the stealing of Damanaka leaves by Jagannath Prabhu from Indra's garden."

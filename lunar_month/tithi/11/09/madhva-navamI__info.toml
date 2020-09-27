@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "madhva-navamI"
+tags = [ "MahapurushaEvents",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+angam_type = "tithi"
+angam_number = 9
+
+[description]
+en = "Brahmaikyam of Madhvacharya"

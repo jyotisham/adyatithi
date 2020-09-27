@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "dvidala-vrata-ArambhaH"
+tags = [ "VratamStart", "SpecialPeriodStart", "CommonFestivals",]
+shlokas = [ "aniruddha surairvandya dvidalavratamuttamam.\nkarOmyahamiSEmAsE nirvighnaM kuru mE prabhO..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 12

@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "zayana-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+titles = [ "padmA ekAdazI\ndevazayanI ekAdazI",]
+shlokas = [ "tvayi suptE jagannAthE jagatsuptaM bhavEdidam..\nvibuddhE tvayi buddhyEta sarvamEtaccarAcaram..\nvAsudEva jagadyOnE prAptEyaM dvAdazI tava.\nbhujaGgazayanE'bdhau ca sukhaM svapihi mAdhava..\niyaM tu dvAdazI dEva zayanArthaM vinirmitA.",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "The Shukla-paksha Ekadashi of `ASADha` month is known as `zayana-EkAdazI`. Lord Vishnu goes to sleep for four months beginning today."

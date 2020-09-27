@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__pUcalAr nAyan2Ar (56) gurupUjai"
+tags = [ "NayanarGurupujai",]
+priority = "paraviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 7
+angam_type = "nakshatram"
+angam_number = 17
+kaala = "praatah"

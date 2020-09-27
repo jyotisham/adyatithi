@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mahAnavamI/sarasvatI-pUjA"
+tags = [ "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 9
+
+[description]
+en = "Daanam is good, get crore times punya.\nMaatruNavami, NaamaNavami Vratam, DurgaNavami-Vratam, Shourya-Vratam, Mahaaphala Vratam, PradeeptaNavami"

@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__AvaNi~JAyir2r2ukkizhamai"
+tags = [ "MonthWeekdayFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Do puja to Surya/Suryanamaskaram."

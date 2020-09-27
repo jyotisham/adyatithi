@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "gOpadma-vrata-ArambhaH"
+tags = [ "SpecialVratam",]
+shlokas = [ "gOpadmamiti vikhyAtaM sarvapApaharaM param.\nsarvaduHkhOpazamanaM sarvasampatpradAyakam.\nsuvAsinyAstu saubhAgyaputrapautrapravardhanam..",]
+references_primary = [ "Vrata Chudamani 173",]
+references_secondary = [ "Vaidikasri Aug 2015",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+angam_type = "tithi"
+angam_number = 11
+
+[description]
+en = "Perform puja of Mahalakshmi-Mahavishnu"

@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 30 jagadguru zrI~bOdhEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "kAlahastisutabAlayAbhidhO bOdhasadgururabOdhavarjitaH.\nApa zAzvatapadaM vizuddham AnandamAdhavacaturthyaharmukhE..59..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-30.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 19
+kaala = "aparaahna"
+year_start = 3756
+
+[description]
+en = "The preceptor Bālabodhendra was the son of Kālahasti, and was called Bālaya, bereft of ignorance, attained the Supreme state of immortality on the fourth day of the dark fortnight of the month of Vaiśāka in the year Ānanda. His preceptorship was for thirty-seven years. He attained siddhi in Kāñci."

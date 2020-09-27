@@ -1,0 +1,19 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "sEGgAlipuram anantarAma-dIkSita-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+priority = "paraviddha"
+references_secondary = [ "Vaidikasri Nov 2009",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 4
+angam_type = "nakshatram"
+angam_number = 17
+kaala = "praatah"
+year_start = 5004
+
+[description]
+en = "Jayanti Day of Sri Anantarama Dikshitar."

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "sarvanadI-rajasvalA~3"
+tags = [ "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 4
+angam_type = "day"
+angam_number = 3
+
+[description]
+en = "Do not take bath in any river during these days."

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kaMsa-vadhaH"
+tags = [ "PuranaEvents", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 10
+
+[description]
+en = "Lord Krishna killed Kamsa on this day; most popularly celebrated in Mathura and Uttar Pradesh."

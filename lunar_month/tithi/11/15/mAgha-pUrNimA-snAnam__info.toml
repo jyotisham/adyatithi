@@ -1,0 +1,19 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mAgha-pUrNimA-snAnam"
+tags = [ "SpecialSnanam",]
+priority = "paraviddha"
+references_primary = [ "Satyavrata Smriti",]
+references_secondary = [ "Vaidikasri",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+angam_type = "tithi"
+angam_number = 15
+kaala = "arunodaya"
+
+[description]
+en = "Perform snana four ghatikas before sunrise (during `aruNOdayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."

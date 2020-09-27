@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "jImUtavAhana-pUjA~1"
+tags = [ "PuranaEvents",]
+references_secondary = [ "Aamade Jyotishi",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 23
+
+[description]
+en = "Jeemuutavahana is an atma-tyagi vidyadhara Chakravarti. Saved Shankhachuda's (Naaga) life by offering himself to Garuda. From that day Garuda stopped eating snakes."

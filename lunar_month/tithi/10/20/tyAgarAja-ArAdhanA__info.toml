@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "tyAgarAja-ArAdhanA"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+shlokas = [ "kAmakrOdhAdirahitaM rAmabhaktazirOmaNim.\ntyAgarAjaguruM vandE saGgItAbdhiM kalAnidhim..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+angam_type = "tithi"
+angam_number = 20
+year_start = 4948

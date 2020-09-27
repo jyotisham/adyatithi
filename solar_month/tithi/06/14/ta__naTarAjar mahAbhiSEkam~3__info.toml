@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__naTarAjar mahAbhiSEkam~3"
+tags = [ "TamilnaduTempleFestivals",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "solar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 14
+kaala = "sunset"

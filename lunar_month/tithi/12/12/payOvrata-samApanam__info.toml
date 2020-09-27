@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "payOvrata-samApanam"
+tags = [ "VratamEnd", "SpecialPeriodEnd",]
+shlokas = [ "phAlgunasyAmalE pakSE dvAdazAhaM payOvratam. arcayEdaravindAkSaM bhaktyA paramayA.a.anvitaH..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+angam_type = "tithi"
+angam_number = 12
+
+[description]
+en = "`payOvratam` observed by Aditi Devi ends today."

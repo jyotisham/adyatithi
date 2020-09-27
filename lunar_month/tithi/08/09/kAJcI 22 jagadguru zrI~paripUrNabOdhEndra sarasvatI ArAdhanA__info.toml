@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 22 jagadguru zrI~paripUrNabOdhEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "putrO ramEzamakhinO madhurO'gadaGkRd\ngrAvAbhilApaka iti prathitazca mantrE.\nzrIzAradAmaThaguruH paripUrNabOdhO\nraudryUrjazuklanavamIm anu siddhim Arcchat..47..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-22.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 9
+kaala = "aparaahna"
+year_start = 3582
+
+[description]
+en = "Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kārttika in the year Raudri."

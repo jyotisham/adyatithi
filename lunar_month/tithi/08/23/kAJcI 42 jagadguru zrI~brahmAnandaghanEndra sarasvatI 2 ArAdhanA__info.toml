@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 42 jagadguru zrI~brahmAnandaghanEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "subrahmaNyabhavO niyamya narasambhaTTO'tha gaGgAdharAd\nbrahmAnandaghanAbhidhO'dhita dhurAM dvyUnAH samAstriMzatam.\nlilyE'dhIzvaram IzvarOrjabahulASTamyAm asau saGgavE\nghuSyannEva hi sUtrabhASyaviSayAn antEvasadbhyaH paTu..85..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-42.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 23
+kaala = "aparaahna"
+year_start = 4079
+
+[description]
+en = "Then Narasambhaṭṭa, son of Subrahmanya, having been initiated by Gaṅgādhara got the appellation Brahmānandaghana held the preceptorship of the Pīṭha for twenty-eight years. This great preceptor merged in the Lord Ăśvara as He ws teaching the disciples the Brahmasūtra, bhāṣya etc. in the early morning of Aṣṭami of Kṛṣṇapakṣa in the month of Kārtika in the year Ăśvara."

@@ -1,0 +1,8 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mauni (pauSa/makara) amAvAsyA"
+tags = [ "AmavasyaDays",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true

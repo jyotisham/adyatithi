@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ananta-dvAdazI"
+tags = [ "SpecialPuja",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 12
+
+[description]
+en = "Vanjuli (Cow giving lots of milk), dugdha (milk), Aviyoga, Ananta Dvadashi"

@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "bhadrA~saptamI"
+tags = [ "RareDays", "Combinations",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "Saptami tithi, combined with the first `pAda` of `hasta` nakshatram."

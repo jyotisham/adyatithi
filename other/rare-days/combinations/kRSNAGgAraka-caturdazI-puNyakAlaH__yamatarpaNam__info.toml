@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kRSNAGgAraka-caturdazI-puNyakAlaH/yamatarpaNam"
+tags = [ "RareDays", "Combinations",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "`kRSNa caturdazI tithi` on a Tuesday is very sacred. Perform `tarpaNam` to Yama Dharamaraja."

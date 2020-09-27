@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "(yama)-dIpa-trayOdazI"
+tags = [ "CommonFestivals",]
+shlokas = [ "AzvinasyAsitE pakSE trayOdazyAM nizAmukhE.\nyamadIpaM bahirdadyAt apamRtyurvinazyati..\n\nmRtyunA pAzadaNDAbhyAM kAlEna zyAmayA saha.\ntrayOdazyAM dIpadAnAt sUryajaH prIyatAM mama..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+angam_type = "tithi"
+angam_number = 28
+
+[description]
+en = "Do `dAnaM` of `dIpam`, light deepam outside the house."

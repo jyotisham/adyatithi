@@ -1,0 +1,17 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "rakSAbandhanam"
+tags = [ "CommonFestivals",]
+shlokas = [ "yEna baddhO balI rAjA dAnavEndrO mahAbalaH.\ntEna tvAmabhibadhnAmi rakSE mA cala mA cala..",]
+references_primary = [ "Dharma Sindhu 56",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 15
+
+[description]
+en = "Rakshabandhanam"

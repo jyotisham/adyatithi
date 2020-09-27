@@ -1,0 +1,10 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "vEGkaTAcalE jyESTha-abhidyEyakAbhiSEkaH (vajra-kavacam)"
+tags = [ "AndhraTempleFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+anchor_festival_id = "vEGkaTAcalE jyESTha-abhidyEyakAbhiSEkaH (svarNa-kavacam)"
+offset = -2

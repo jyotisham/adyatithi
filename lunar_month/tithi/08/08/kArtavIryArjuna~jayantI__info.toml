@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kArtavIryArjuna~jayantI"
+tags = [ "OtherJayantis",]
+references_secondary = [ "http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+angam_type = "tithi"
+angam_number = 8

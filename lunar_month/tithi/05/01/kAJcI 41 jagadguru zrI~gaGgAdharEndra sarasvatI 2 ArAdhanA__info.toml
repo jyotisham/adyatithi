@@ -1,0 +1,22 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 41 jagadguru zrI~gaGgAdharEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "appaNNAkhya umEzabhaTTatanayO bhImAtaTIsambhavaH zrIvidyAnirataH zritO gurupadaM zrIkAmakOTImaThE.\npaJcatriMzatam adhyuvAsa zaradaH zrIzAradApIThikAM saumyaH saumyanabhassitapratipadi prEyAya gaGgAdharaH..84..\n—puNyazlOkamaJjarI",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-41.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+angam_type = "tithi"
+angam_number = 1
+kaala = "aparaahna"
+year_start = 4051
+
+[description]
+en = "Appanna, son of Umeśabhaṭṭa, on the banks of river Bhīmā, engrossed in Śrīvidyā became preceptor after initiation and remained in KāmakoṭiPīṭha adorning the Śāradāpīṭhikā for thirty-five years. The noble Gaṅgādhara attained siddhi on the pratipad (first day) of bright fortnight in the month Śravaṇa of the year Saumya."

@@ -1,0 +1,20 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI 69 jagadguru zrI~jayEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays", "CommonFestivals",]
+shlokas = [ "",]
+priority = "vyaapti"
+image = "kanchi-jagadgurus/jagadguru-69.jpg"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+angam_type = "tithi"
+angam_number = 13
+kaala = "aparaahna"
+year_start = 5119
+
+[description]
+en = ""

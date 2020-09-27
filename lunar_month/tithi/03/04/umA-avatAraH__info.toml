@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "umA-avatAraH"
+tags = [ "OtherJayantis",]
+shlokas = [ "jyESThazuklacaturthyAM tu jAtA pUrvamumA satI.\ntasmAt sA tatra sampUjyA strIbhiH saubhAgyavRddhayE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+angam_type = "tithi"
+angam_number = 4
+
+[description]
+en = "Perform puja of Uma-Maheshvara, on the day of Uma Devi's Avataram."

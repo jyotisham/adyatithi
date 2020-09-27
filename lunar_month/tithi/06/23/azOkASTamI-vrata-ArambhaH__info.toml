@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "azOkASTamI-vrata-ArambhaH"
+tags = [ "SpecialVratam", "VratamStart", "SpecialPeriodStart",]
+references_secondary = [ "Aamade Jyotishi",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+angam_type = "tithi"
+angam_number = 23

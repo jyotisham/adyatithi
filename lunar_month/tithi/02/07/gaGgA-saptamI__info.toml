@@ -1,0 +1,17 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "gaGgA-saptamI"
+tags = [ "PuranaEvents", "SpecialPuja", "CommonFestivals",]
+priority = "puurvaviddha"
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+angam_type = "tithi"
+angam_number = 7
+kaala = "madhyaahna"
+
+[description]
+en = "Ganga came out of Jahnu Maharshi and became Jahnavi; perform Parjanya Pooja"

@@ -1,0 +1,11 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ardhOdaya-puNyakAlaH"
+tags = [ "RareDays", "Combinations",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+
+[description]
+en = "A rare combination of Pausha masam, Shravana nakshatram, Vyatipata yogam and Sunday."
