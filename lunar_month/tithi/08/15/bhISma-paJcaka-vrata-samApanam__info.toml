@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "bhISma-paJcaka-vrata-samApanam"
 tags = [ "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
 anga_type = "tithi"
 anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Bhishma, lying on `zaratalpa` performed upadesha to Yudhisthira and other Pandavas for these five days."
+
+[names]
+sa = [ "bhISma-paJcaka-vrata-samApanam",]

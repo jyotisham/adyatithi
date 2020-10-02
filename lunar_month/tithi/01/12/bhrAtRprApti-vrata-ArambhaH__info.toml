@@ -1,12 +1,15 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "bhrAtRprApti-vrata-ArambhaH"
 tags = [ "SpecialVratam", "VratamStart", "SpecialPeriodStart",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 1
 anga_type = "tithi"
 anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "bhrAtRprApti-vrata-ArambhaH",]

@@ -1,0 +1,14 @@
+default_to_none = true
+id = "ramA-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Krishna-paksha Ekadashi of `Azvayuja` month is known as `ramA-EkAdazI`."
+
+[names]
+sa = [ "ramA-EkAdazI",]

@@ -1,18 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "bagalAmukhI~jayantI"
 tags = [ "Dashamahavidya",]
-titles = [ "pItAmbara-jayantI",]
 references_secondary = [ "Ashtanga Panchangam",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 2
 anga_type = "tithi"
 anga_number = 4
 kaala = "madhyaraatri"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Goddess Bagalamukhi is 8th of the Dasha Maha Vidyas."
+
+[names]
+sa = [ "bagalAmukhI~jayantI", "pItAmbara-jayantI",]

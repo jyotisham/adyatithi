@@ -1,0 +1,14 @@
+default_to_none = true
+id = "ajA-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Krishna-paksha Ekadashi of `zravaNa` month is known as `ajA-EkAdazI`. Satya Harishchandra performed this to get back family and kingdom."
+
+[names]
+sa = [ "ajA-EkAdazI",]

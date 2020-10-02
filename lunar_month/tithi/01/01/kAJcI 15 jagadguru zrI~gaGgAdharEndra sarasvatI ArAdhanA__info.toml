@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 15 jagadguru zrI~gaGgAdharEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "sUnurbhadragirEH subhadra iti yaH kAJcya(kapya?)nvayO dvAdazE\nvarS
 image = "kanchi-jagadgurus/jagadguru-15.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 1
 kaala = "aparaahna"
 year_start = 3430
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Gaṅgādharagīṣpatiḥ, known as Subhadra, son of Kāñci Bhadragiri, got initiated in the twelfth year of age by Śrī Vidyāghana whom He had served became a realised soul when He as twenty-four years old and reached the eternal abode of Śrīvidyā and Śrī Śiva. He, the Omnipotent, omniscient and pure reached the eternal abode by his glory on the first day of the bright fortnight in the month of Caitra of the year Sarvadhari."
+
+[names]
+sa = [ "kAJcI 15 jagadguru zrI~gaGgAdharEndra sarasvatI ArAdhanA",]

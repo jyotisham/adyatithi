@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "pUrNimA~vratam"
 tags = [ "MonthlyFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 0
 anga_type = "tithi"
 anga_number = 15
 kaala = "sunrise"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "`pUrNimA vratam` is commonly observed for Lord Satyanarayana."
+
+[names]
+sa = [ "pUrNimA~vratam",]

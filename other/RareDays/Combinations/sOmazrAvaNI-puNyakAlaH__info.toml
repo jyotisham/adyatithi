@@ -1,0 +1,14 @@
+default_to_none = true
+id = "sOmazrAvaNI-puNyakAlaH"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "When Shravana nakshatra falls on a Monday, it is a special `puNyakAlaH`."
+
+[names]
+sa = [ "sOmazrAvaNI-puNyakAlaH",]

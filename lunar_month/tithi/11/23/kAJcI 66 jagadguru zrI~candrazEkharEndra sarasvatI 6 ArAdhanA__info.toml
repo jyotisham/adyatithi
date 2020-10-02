@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 66 jagadguru zrI~candrazEkharEndra sarasvatI 6 ArAdhanA"
 tags = [ "KanchiAradhanaDays", "CommonFestivals",]
@@ -6,9 +5,9 @@ shlokas = [ "sItArAmavicakSaNasya tanayaH zrIsvAminAthAbhidhO varNI saMyamavAn s
 image = "kanchi-jagadgurus/jagadguru-66.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 23
 kaala = "aparaahna"
 year_start = 5008
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Preceptor Śrī Chandraśekhara adorned the Pīṭha for seventeen years. He reached his eternal beatitude on the eighth day of the black fortnight in the month of Māgha of the year Parābhava. The name of this preceptor before initiation was Svāminātha. Parents were well-known Maṅgalāmbikā and Sītārāmaśāstri. His place of siddhi was village Kalavai in Śalivahana era 1830."
+
+[names]
+sa = [ "kAJcI 66 jagadguru zrI~candrazEkharEndra sarasvatI 6 ArAdhanA",]

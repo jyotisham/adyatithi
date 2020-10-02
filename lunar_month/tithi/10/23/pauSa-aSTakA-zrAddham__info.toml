@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "pauSa-aSTakA-zrAddham"
 tags = [ "ShannavatiTarpanaDays",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -12,3 +11,7 @@ month_number = 10
 anga_type = "tithi"
 anga_number = 23
 kaala = "aparaahna"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "pauSa-aSTakA-zrAddham",]

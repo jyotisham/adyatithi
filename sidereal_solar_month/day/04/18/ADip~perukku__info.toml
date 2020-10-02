@@ -1,0 +1,18 @@
+default_to_none = true
+id = "ADip~perukku"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 4
+anga_type = "day"
+anga_number = 18
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Offer naivedyam of citrAnnam"
+
+[names]
+ta = [ "ADip~perukku",]

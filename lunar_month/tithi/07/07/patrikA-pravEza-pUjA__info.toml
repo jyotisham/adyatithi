@@ -1,16 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "patrikA-pravEza-pUjA"
 tags = [ "SpecialPuja",]
-titles = [ "dvAdaza-saptamI-vratam",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 7
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Pooja of Kapila cow, eat only Panchagavya, next day eat"
+
+[names]
+sa = [ "patrikA-pravEza-pUjA", "dvAdaza-saptamI-vratam",]

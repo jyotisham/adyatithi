@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 65 jagadguru zrI~sudarzana mahAdEvEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "madhyArjunamahAliGganAmA hArItagOtrajaH.\nzESAdrizAstriNaH subbulak
 image = "kanchi-jagadgurus/jagadguru-65.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 30
 kaala = "aparaahna"
 year_start = 4991
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Preceptor Mahādevendra adorned the Pīṭha for thirty-nine years and attaind Siddhi on the new moon day in the month of Phālguṇa of the year Virodhi. This preceptor’s name before initiation was Mahāliṅgam. His parents were well-known as Lakṣmī and Śeṣādri. His place of siddhi was a village called Ilayāttaṅguḍi. Śalivahana era 1813."
+
+[names]
+sa = [ "kAJcI 65 jagadguru zrI~sudarzana mahAdEvEndra sarasvatI ArAdhanA",]

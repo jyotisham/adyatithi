@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "badarI jyOtirmaTha-pratiSThApana~jayantI"
 tags = [ "AdiShankaraHistory",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 10
 anga_type = "tithi"
 anga_number = 15
 year_start = 2616
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Adi Shankara founded Jyotir Mutt, Badarinath in Rakshasa year Totakacharya as first"
+
+[names]
+sa = [ "badarI jyOtirmaTha-pratiSThApana~jayantI",]

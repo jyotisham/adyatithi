@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "zvEta-kalpAdiH"
 tags = [ "KalpadiDays",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -12,6 +11,10 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 1
 kaala = "aparaahna"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Kalpadi"
+
+[names]
+sa = [ "zvEta-kalpAdiH",]

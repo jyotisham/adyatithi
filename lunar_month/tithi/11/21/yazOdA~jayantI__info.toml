@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "yazOdA~jayantI"
 tags = [ "OtherJayantis", "CommonFestivals",]
 references_secondary = [ "http://hindupad.com/mata-yashoda-jayanti/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 11
 anga_type = "tithi"
 anga_number = 21
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "yazOdA~jayantI",]

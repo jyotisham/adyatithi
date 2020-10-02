@@ -1,17 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "yAjJavalkya~jayantI"
 tags = [ "MahapurushaEvents",]
 shlokas = [ "vandE'haM  maGgaLAtmAnaM  bhAsvantaM  vEdavigraham.\nyAjJavalkyaM  munizrESThaM  jISNuM  hariharaprabham..\njitEndriyaM  jitakrOdhaM  sadA  dhyAnaparAyaNam.\nAnandanilayaM  vandE  yOgAnandamunIzvaram..\n",]
 references_secondary = [ "Vaidikasri Nov 2017",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
 anga_type = "tithi"
 anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Avataram of `yAjJavalkya maharSi` happened on `kArttika shukla dwAdazI` in `SatabhiSak nakSatram`/`dhanurlagnam`."
+
+[names]
+sa = [ "yAjJavalkya~jayantI",]

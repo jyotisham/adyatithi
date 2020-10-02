@@ -1,8 +1,0 @@
-jsonClass = "HinduCalendarEvent"
-default_to_none = true
-id = "sukhA~aGgAraka-caturthI"
-tags = [ "RareDays", "Combinations",]
-
-[timing]
-jsonClass = "HinduCalendarEventTiming"
-default_to_none = true

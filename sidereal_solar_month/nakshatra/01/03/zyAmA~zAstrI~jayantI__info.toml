@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "zyAmA~zAstrI~jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "paraviddha"
@@ -13,3 +12,7 @@ anga_type = "nakshatra"
 anga_number = 3
 kaala = "praatah"
 year_start = 4863
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "zyAmA~zAstrI~jayantI",]

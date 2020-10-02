@@ -1,13 +1,12 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "varakunda-caturthI"
 tags = [ "SpecialPuja",]
 shlokas = [ "mAghazuklacaturthyAM tu kundapuSpaiH sadAzivam.\nsampUjya yO hi naktA''zI samprApnOti zriyaM naraH..",]
 references_primary = [ "Nirnaya Sindhu 162",]
 references_secondary = [ "Vaidikasri Feb 2016",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
@@ -15,3 +14,7 @@ month_number = 11
 anga_type = "tithi"
 anga_number = 4
 kaala = "pradosha"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "varakunda-caturthI",]

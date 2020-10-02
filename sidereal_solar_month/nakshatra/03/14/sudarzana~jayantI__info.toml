@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sudarzana~jayantI"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "paraviddha"
@@ -12,3 +11,7 @@ month_number = 3
 anga_type = "nakshatra"
 anga_number = 14
 kaala = "praatah"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "sudarzana~jayantI",]

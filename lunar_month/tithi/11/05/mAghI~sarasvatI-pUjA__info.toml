@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "mAghI~sarasvatI-pUjA"
 tags = [ "SpecialPuja",]
 references_secondary = [ "http://hindupad.com/madana-panchami/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 11
 anga_type = "tithi"
 anga_number = 5
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Saraswati Puja, especially in Bengal."
+
+[names]
+sa = [ "mAghI~sarasvatI-pUjA",]

@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 23 jagadguru zrI~saccitsukhEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrIcikkAkulasOmaNAryatanayaH sO'yaM girIzaH purA\nsannyastaH paripU
 image = "kanchi-jagadgurus/jagadguru-23.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 7
 kaala = "aparaahna"
 year_start = 3613
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Son of Śrī Cikkākula Somanārya, named Girīśa earlier. initiated with the tile Saccitsukha by Paripūrṇabodha; an ardent devotee of Lord Subrahmanya, He made pious the astrologer Āryabhaṭṭa by making him carry out the expiatory rite for his long voyage (on sea). He, Saccitsukha, having instituted Citsukha in his place, attained siddhi on the seventh day of the bright fortnight of the month of Vṛṣabha in the year Khara."
+
+[names]
+sa = [ "kAJcI 23 jagadguru zrI~saccitsukhEndra sarasvatI ArAdhanA",]

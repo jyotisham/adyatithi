@@ -1,17 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "haritAlikA-vratam"
 tags = [ "SpecialVratam",]
 references_primary = [ "Bhavishyottara Puranam",]
 references_secondary = [ "Vaidikasri Sep 2015",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 3
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Puja of Gauri-Maheshwara on Vrishabham, esp. for girls desirous of getting married, like Goddess Parvati sought the hand of Maheshwara, as Himavan's daughter."
+
+[names]
+sa = [ "haritAlikA-vratam",]

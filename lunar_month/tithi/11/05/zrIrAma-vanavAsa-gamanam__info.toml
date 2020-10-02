@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "zrIrAma-vanavAsa-gamanam"
 tags = [ "PuranaEvents",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 11
 anga_type = "tithi"
 anga_number = 5
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Afternoon Shri Raama started to go to the forests/exile."
+
+[names]
+sa = [ "zrIrAma-vanavAsa-gamanam",]

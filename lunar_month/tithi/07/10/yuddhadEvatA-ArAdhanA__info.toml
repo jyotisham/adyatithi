@@ -1,13 +1,15 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "yuddhadEvatA-ArAdhanA"
 tags = [ "LessCommonFestivals",]
-titles = [ "aparAjitA-ArAdhanA",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "yuddhadEvatA-ArAdhanA", "aparAjitA-ArAdhanA",]

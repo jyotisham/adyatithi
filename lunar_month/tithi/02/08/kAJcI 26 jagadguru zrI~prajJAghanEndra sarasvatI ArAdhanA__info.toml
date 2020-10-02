@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 26 jagadguru zrI~prajJAghanEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "prabhAkarasyAtmabhavaH pinAkinItaTIbhavaH zONagirirjagadguruH.\nsva
 image = "kanchi-jagadgurus/jagadguru-26.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 8
 kaala = "aparaahna"
 year_start = 3665
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Śoṇagiri, son of Prabhākaraśarma, who lived on the banks of river Pinākinī, became Jagadguru Prajñāghana and attained blissful state on the night of the eighty day of the bright fortnight of the month of Vaiśāka in the year Subhānu/Svabhānu."
+
+[names]
+sa = [ "kAJcI 26 jagadguru zrI~prajJAghanEndra sarasvatI ArAdhanA",]

@@ -1,0 +1,14 @@
+default_to_none = true
+id = "mOkSadA-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Shukla-paksha Ekadashi of `mArgazIrSa` month is known as `mOkSadA-EkAdazI`."
+
+[names]
+sa = [ "mOkSadA-EkAdazI",]

@@ -1,0 +1,15 @@
+default_to_none = true
+id = "skandaSaSThI-vratam"
+tags = [ "MonthlyVratam", "ShashthiVratam",]
+shlokas = [ "asyAM hi zrIH samAyuktaH yasmAt skandO'bhavat purA.\ntasmATSaSThyAM na bhuJjIta prApnuyAdbhArgavI sadA..\n\nsaptarSidAraja skanda sEnAdhipa mahAbala.\nrudrOmAgnija SaDvaktra gaGgAgarbha namO'stu tE..",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "One of the most important vratams, alongside Krishnajanmashtami, Shivaratri etc. Must observe fast. Offer Arghyam facing South, using Curd, Akshata, Water and Flowers (`dadhnAkSatOdakaiH puSpaiH`) chanting the shloka below."
+
+[names]
+sa = [ "skandaSaSThI-vratam",]

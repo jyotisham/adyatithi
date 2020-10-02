@@ -1,0 +1,14 @@
+default_to_none = true
+id = "mahAjayA~saptamI"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Saptami tithi, combined with a sankranti."
+
+[names]
+sa = [ "mahAjayA~saptamI",]

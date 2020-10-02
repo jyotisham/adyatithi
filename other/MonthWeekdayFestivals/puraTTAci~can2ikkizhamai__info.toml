@@ -1,0 +1,14 @@
+default_to_none = true
+id = "puraTTAci~can2ikkizhamai"
+tags = [ "MonthWeekdayFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform special puja and naivedyam (e.g. `tilAnnam`) to Lord Venkateshwara."
+
+[names]
+ta = [ "puraTTAci~can2ikkizhamai",]

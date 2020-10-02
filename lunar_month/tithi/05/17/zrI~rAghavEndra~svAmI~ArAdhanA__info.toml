@@ -1,14 +1,17 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "zrI~rAghavEndra~svAmI~ArAdhanA"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 shlokas = [ "pUjyAya rAghavEndrAya satyadharmaratAya ca.\nbhajatAM kalpavRkSAya namatAM kAmadhEnavE..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 17
 year_start = 4773
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "zrI~rAghavEndra~svAmI~ArAdhanA",]

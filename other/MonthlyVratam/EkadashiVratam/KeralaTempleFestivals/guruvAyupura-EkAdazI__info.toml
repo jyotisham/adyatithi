@@ -1,0 +1,14 @@
+default_to_none = true
+id = "guruvAyupura-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam", "KeralaTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Shukla-paksha Ekadashi of `vRzcikamAsa` is known as `guruvAyupura-EkAdazI`."
+
+[names]
+sa = [ "guruvAyupura-EkAdazI",]

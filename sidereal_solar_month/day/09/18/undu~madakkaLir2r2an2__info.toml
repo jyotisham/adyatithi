@@ -1,0 +1,18 @@
+default_to_none = true
+id = "undu~madakkaLir2r2an2{}"
+tags = [ "TamilFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 9
+anga_type = "day"
+anga_number = 18
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Offer naivedyam of `citrAnnam` (tamarind rice) to Vishnu"
+
+[names]
+ta = [ "undu~madakkaLir2r2an2{}",]

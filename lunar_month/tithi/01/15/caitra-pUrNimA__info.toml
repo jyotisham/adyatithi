@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "caitra-pUrNimA"
 tags = [ "PurnimaDays", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 1
 anga_type = "tithi"
 anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Daanam of Varaha Puran"
+
+[names]
+sa = [ "caitra-pUrNimA",]

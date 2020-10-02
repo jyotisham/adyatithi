@@ -1,0 +1,17 @@
+default_to_none = true
+id = "tai kiruttikai"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "puurvaviddha"
+month_number = 10
+anga_type = "nakshatra"
+anga_number = 3
+kaala = "sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "tai kiruttikai",]

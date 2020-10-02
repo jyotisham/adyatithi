@@ -1,0 +1,17 @@
+default_to_none = true
+id = "bharaNI~dIpam"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 8
+anga_type = "nakshatra"
+anga_number = 2
+kaala = "sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "bharaNI~dIpam",]

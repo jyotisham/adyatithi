@@ -1,11 +1,10 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sarasvatI-AvAhanam"
 tags = [ "CommonFestivals",]
 shlokas = [ "athavA  mUlanakSatrE  samArabhya  prapUjayEt.\ntatrApyazaktO  viprEndrO  navamyAM  tu  prapUjayEt..\nnA'dhyApayEnna  ca  likhEnnA'dhIyIta  kadAcana.\npustakE  sthApitE  dEvIM  vidyAkAmO  dvijOttamaH..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
@@ -13,6 +12,10 @@ month_number = 7
 anga_type = "nakshatra"
 anga_number = 19
 kaala = "madhyaahna"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Being `mUlA` nakshatra, it is another ideal day to begin Saraswati Puja. If not, at least perform on Navami. During the Saraswati Puja days, those desirous of obtaining knowledge must not teach, learn or write anything!"
+
+[names]
+sa = [ "sarasvatI-AvAhanam",]

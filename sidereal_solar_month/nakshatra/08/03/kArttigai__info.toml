@@ -1,0 +1,17 @@
+default_to_none = true
+id = "kArttigai"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "puurvaviddha"
+month_number = 8
+anga_type = "nakshatra"
+anga_number = 3
+kaala = "raatrimaana"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "kArttigai",]

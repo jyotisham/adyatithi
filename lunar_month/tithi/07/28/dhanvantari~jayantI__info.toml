@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "dhanvantari~jayantI"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 28
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Dhanvantari Jayanti (born as Divodaas King of Kaashi) as per Brahmanda-Puraana (Dvadashi?)"
+
+[names]
+sa = [ "dhanvantari~jayantI",]

@@ -1,0 +1,14 @@
+default_to_none = true
+id = "paramA-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Krishna-paksha Ekadashi of `adhika` month is known as `paramA-EkAdazI`."
+
+[names]
+sa = [ "paramA-EkAdazI",]

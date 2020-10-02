@@ -1,0 +1,14 @@
+default_to_none = true
+id = "paJcAGga-paThanam"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Being the first day of the new year, read the `paJcAGga` today, followed by naivedyam of `pAnakam` to `gaNEzAdi trayastriMzat kOTi dEvatAH`."
+
+[names]
+sa = [ "paJcAGga-paThanam",]

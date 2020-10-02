@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kaizika-dvAdazI"
 tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 anchor_festival_id = "kaizika-EkAdazI"
 offset = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Read `kaizika purANam` on this day. Special celebrations in Thirukurungudi Divya Desham Temple."
+
+[names]
+sa = [ "kaizika-dvAdazI",]

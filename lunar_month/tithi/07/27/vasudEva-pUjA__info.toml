@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "vasudEva-pUjA"
 tags = [ "LessCommonFestivals",]
 references_primary = [ "Smriti Kaustubham",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 27
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "vasudEva-pUjA",]

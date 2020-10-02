@@ -1,17 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "rAmAnuja-janma-nakSatram"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [names]
-tamil = ["rAmAnujar~tirunakSattiram"]
-sanskrit = ["rAmAnuja-jayantI"]
+tamil = [ "rAmAnujar~tirunakSattiram",]
+sanskrit = [ "rAmAnuja-jayantI",]
+sa = [ "rAmAnuja-janma-nakSatram",]
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 1
 anga_type = "nakshatra"
 anga_number = 6
 year_start = 4118
+jsonClass = "HinduCalendarEventTiming"

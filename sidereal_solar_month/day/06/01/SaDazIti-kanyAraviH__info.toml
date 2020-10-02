@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "SaDazIti-kanyAraviH"
 tags = [ "SunSankranti",]
 shlokas = [ "kanyApravEzE vastrANAM vEzmanAM dAnamEva ca",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 6
 anga_type = "day"
 anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Perform danam of clothes/place to live."
+
+[names]
+sa = [ "SaDazIti-kanyAraviH",]

@@ -1,0 +1,17 @@
+default_to_none = true
+id = "paGgun2i~uttiram"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 12
+anga_type = "nakshatra"
+anga_number = 12
+kaala = "praatah"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "paGgun2i~uttiram",]

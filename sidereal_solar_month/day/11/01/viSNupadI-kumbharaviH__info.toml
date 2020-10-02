@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "viSNupadI-kumbharaviH"
 tags = [ "SunSankranti",]
 shlokas = [ "kumbhapravEzE dAnaM tu gavaM ambu tRNasya ca",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 11
 anga_type = "day"
 anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Perform danam of hay, grass, food and pure water to cows."
+
+[names]
+sa = [ "viSNupadI-kumbharaviH",]

@@ -1,13 +1,12 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "akSayya-tRtIyA"
 tags = [ "CommonFestivals",]
 shlokas = [ "kaNDUya pRSThatO gAM tu snAtvA pippala-tarpaNam.\nkRtvA govindamabhyarcya na durgatimavApnuyAt..\nchatrOpAnat pradAnaM vA gO-bhU-kAJcana-vAsasI.\nyadyadiSTatamaM cAnyattaddEyam avizaGkayA..\nyasyAM snAnaM japO hOmaH svAdhyAyaH pitRtarpaNam.\ndAnaM ca kriyatE kiJcittatsarvaM syAdihAkSayam..",]
 references_primary = [ "Nirnaya Sindhu p.71",]
 references_secondary = [ "Kielhorn (1897)",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "paraviddha"
@@ -15,6 +14,10 @@ month_number = 2
 anga_type = "tithi"
 anga_number = 3
 kaala = "madhyaahna"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Daanam of Dadhyodanam, Vyanjanam, Chatram, Paduka, Udaka Kumbham, Mangos, Jackfruit; Lakshmi Narayana Pooja; Gauri Pooja;"
+
+[names]
+sa = [ "akSayya-tRtIyA",]

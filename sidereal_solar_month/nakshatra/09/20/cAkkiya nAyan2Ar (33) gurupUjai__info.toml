@@ -1,0 +1,17 @@
+default_to_none = true
+id = "cAkkiya nAyan2Ar (33) gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 9
+anga_type = "nakshatra"
+anga_number = 20
+kaala = "praatah"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "cAkkiya nAyan2Ar (33) gurupUjai",]

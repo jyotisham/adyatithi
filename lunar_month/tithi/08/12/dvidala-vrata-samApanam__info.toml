@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "dvidala-vrata-samApanam"
 tags = [ "VratamEnd", "SpecialPeriodEnd", "CommonFestivals",]
 shlokas = [ "aniruddha namastubhyaM dvidalAkhyavratEna ca.\nmatkRtEnAzvinE mAsE prItyarthaM phaladO bhava..\nidaM vrataM mayA dEva kRtaM prItyai tava prabhO.\nnyUnaM sampUrNatAM yAtu tvatprasAdAjjanArdana..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
 anga_type = "tithi"
 anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "dvidala-vrata-samApanam",]

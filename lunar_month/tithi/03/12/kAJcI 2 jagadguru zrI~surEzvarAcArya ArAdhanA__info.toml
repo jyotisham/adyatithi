@@ -1,13 +1,12 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 2 jagadguru zrI~surEzvarAcArya ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
 shlokas = [ "gauDaH kAzmIrajanmA kalitaparicitiH pUrvatantrE kumArAd\nbrahmaNyaH sarvavEdaH sphuTazapathapathaM zrImadAcAryayOdhI.\nsannyAsaM prApitastaM tadanu paricaran yOgabhUmaikasImA\ntasyAdEzEna kAJcyAm avasadatha samAH saptatiM kAmapIThE..5..\nvarSE zuddhatarE (2695) kalEratha bhavE jyESThE sitadvAdazI-\nrAtrau citritasarvabhUH sa yazasA zrImAn surEzaH svayam.\nzritvA puNyarasAM rasEna mahatA yuJjan layAkhyE pathi\nzlakSNazrIzivaliGgabhUyam abhajat sAkSAt satAM pazyatAm..6..\n—puNyazlOkamaJjarI",]
 image = "kanchi-jagadgurus/jagadguru-02.jpg"
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -16,6 +15,10 @@ anga_type = "tithi"
 anga_number = 12
 kaala = "aparaahna"
 year_start = 2696
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "A native of Gauḍadeśa, born in Kashmir, pious, Śri Sureśvara, secured the knowledge of Pūrva Mīmāṁsa from Kumārila Bhaṭṭa, well-versed in Vedas, and avowed to house-holder's life; he engaged in debate with Ācārya and got initiated into asceticism. Then, attending on Ācārya, he reached the highest level in yogic practices and by the directions of the Ācārya, he lived for seventy years at the Kāmapīṭha in Kāñci. Then, in the year 2695 of the Kali era, on the night of the twelfth day of the bright fortnight in the month of Jyeṣṭha of the Bhava year that revered Sureśa, having taken the world by surprise through his fame by traversing throughout the earth, united/merged with the Supreme Being in the path known as Laya obtained the state of beautiful form of Śivaliṅga verily in the presence of on-lookers."
+
+[names]
+sa = [ "kAJcI 2 jagadguru zrI~surEzvarAcArya ArAdhanA",]

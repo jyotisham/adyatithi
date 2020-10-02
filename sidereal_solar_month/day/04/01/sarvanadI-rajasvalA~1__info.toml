@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sarvanadI-rajasvalA~1"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 4
 anga_type = "day"
 anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Do not take bath in any river during these days."
+
+[names]
+sa = [ "sarvanadI-rajasvalA",]

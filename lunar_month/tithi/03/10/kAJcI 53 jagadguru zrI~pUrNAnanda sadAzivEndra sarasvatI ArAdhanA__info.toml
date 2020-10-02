@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 53 jagadguru zrI~pUrNAnanda sadAzivEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "nAgAraNyaga-nAganAthatanujaH prAptAzramaH zaGkarAnandAdESa sadAzivE
 image = "kanchi-jagadgurus/jagadguru-53.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 10
 kaala = "aparaahna"
 year_start = 4599
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "This preceptor Sadāśivendra, son of Nāganātha of Nāgāraṇya, having got initiation into asceticism from Śaṅkarānanda, with the title Pūrṇānanda, adored by/revered by the King of Nepal, sanctifying all on earth with grace, He stayed at the KāmaPīṭha in Kāṅci for eight-one years. The auspicious, revered, pure preceptor merged in the beatitude devoid of rebirth on the tenth day of the bright fortnight of Jyeṣṭha month in the year Piṅgala. This preceptor who went upto Nepal attained Siddhi in Kāṅci itself."
+
+[names]
+sa = [ "kAJcI 53 jagadguru zrI~pUrNAnanda sadAzivEndra sarasvatI ArAdhanA",]

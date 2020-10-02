@@ -1,11 +1,10 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sItAnavamI"
 tags = [ "CommonFestivals",]
 references_secondary = [ "Kielhorn (1897)",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
@@ -13,3 +12,7 @@ month_number = 2
 anga_type = "tithi"
 anga_number = 9
 kaala = "madhyaahna"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "sItAnavamI",]

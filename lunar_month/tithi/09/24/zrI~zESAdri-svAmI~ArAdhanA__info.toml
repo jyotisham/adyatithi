@@ -1,11 +1,10 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "zrI~zESAdri-svAmI~ArAdhanA"
 tags = [ "MahapurushaEvents",]
 shlokas = [ "karuNAsAgaraM zAntam aruNAcalavAsinam.\nzrIzESAdriguruM vandE brahmIbhUtaM tapOnidhim..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -14,3 +13,7 @@ anga_type = "tithi"
 anga_number = 24
 kaala = "aparaahna"
 year_start = 5030
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "zrI~zESAdri-svAmI~ArAdhanA",]

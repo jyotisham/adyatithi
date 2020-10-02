@@ -1,17 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "tilapadma-dvAdazI/tilOtpatti"
 tags = [ "SpecialPuja",]
 shlokas = [ "mAghE tu zukladvAdazyAM yatO hi bhagavAn pura.\ntilAn utpAdayAmAsa tapaH kRtvA sudAruNam..\ntilatailEna dIpAzcha dEyAh dEva gRhESu ca.\nnivEdayEt tilAnEva",]
 references_secondary = [ "Vaidikasri Feb 2016",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 11
 anga_type = "tithi"
 anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Mahavishnu created black til by extreme `tapaH` on this day; light til deepam and offer `tilAnnam naivEdyam`."
+
+[names]
+sa = [ "tilapadma-dvAdazI/tilOtpatti",]

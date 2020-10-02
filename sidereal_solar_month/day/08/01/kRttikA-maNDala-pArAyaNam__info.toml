@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kRttikA-maNDala-pArAyaNam"
 tags = [ "SpecialPeriodStart", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 8
 anga_type = "day"
 anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Conduct veda parayanam in the evening, on one of these 48 days."
+
+[names]
+sa = [ "kRttikA-maNDala-pArAyaNam",]

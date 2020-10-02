@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 5 jagadguru zrI~jJAnAnandEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "jAtO maGgalanAmni cOlaviSayE nAgEzasaMjJAd dvijAcchrIjJAnOttama ity
 image = "kanchi-jagadgurus/jagadguru-05.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 7
 kaala = "aparaahna"
 year_start = 2897
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Born of a brahmin called Nāgeśa in the village called Maṅgala of the Chola country, the erudite saint well-known as Śrī Jñānottama, foremost among logicians, having adorned the Pīṭha of preceptors for sixty-three years, attained salvation/siddhi on the seventh day of the bright fortnight in the month of Mārgaśīrṣa of the year Manmatha."
+
+[names]
+sa = [ "kAJcI 5 jagadguru zrI~jJAnAnandEndra sarasvatI ArAdhanA",]

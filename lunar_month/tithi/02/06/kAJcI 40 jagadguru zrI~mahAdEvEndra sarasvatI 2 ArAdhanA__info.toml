@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 40 jagadguru zrI~mahAdEvEndra sarasvatI 2 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "karNATakaNNayasutaH zivarAmabhaTTaH saccidvilAsayaminA suhitaH svap
 image = "kanchi-jagadgurus/jagadguru-40.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 6
 kaala = "aparaahna"
 year_start = 4016
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Son of Kannayya of Karnataka, Śivarāmabhaṭṭa was placed in the Pīṭha by Saccidvilāsayati; resplendent like the Sun, He adorned the Pīṭha and merged in his effulgence on the sixth day of the bright fortnight of Vaiśākha in the year Bhava. This Ujjvala Mahādevendra remained in the Pīṭha for forty-two years and attained siddhi at Kāñci itself on the sixth day of Śuklapakṣa of Vaiśākha ,month in the year Bhava."
+
+[names]
+sa = [ "kAJcI 40 jagadguru zrI~mahAdEvEndra sarasvatI 2 ArAdhanA",]

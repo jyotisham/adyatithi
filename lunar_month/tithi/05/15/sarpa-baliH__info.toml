@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sarpa-baliH"
 tags = [ "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Offer `bali` to serpents on (from) this day, in the night after `sthAlIpAka`."
+
+[names]
+sa = [ "sarpa-baliH",]

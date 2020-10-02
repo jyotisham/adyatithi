@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 54 jagadguru zrI~vyAsAcala mahAdEvEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "kAJcIkAmEzvarAryAt samajani kamalAmbOdarAt kuppaNAkhyO\nyaH pUrNAna
 image = "kanchi-jagadgurus/jagadguru-54.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 16
 kaala = "aparaahna"
 year_start = 4608
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Born as the son of Kāmeśvara and Kamalāmbā of Kāñci, the one named Kupanna who having received the initiation and preceptorship with the name Mahādeva, conducted the lectures on Bhāṣya ably for twenty-one times in nine years rejoicingly, attained siddhi on the pratipad of black fortnight in the month of Āṣāḍha of the year Akṣaya. As He stayed ever in the Vyāsācala, He is known as Vyāsācala and the author of Vyāsācaliya and other works. He attained siddhi in Vyāsācala."
+
+[names]
+sa = [ "kAJcI 54 jagadguru zrI~vyAsAcala mahAdEvEndra sarasvatI ArAdhanA",]

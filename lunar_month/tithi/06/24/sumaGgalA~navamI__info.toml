@@ -1,17 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "sumaGgalA~navamI"
 tags = [ "SpecialPuja", "CommonFestivals",]
-titles = [ "avidhavA-navamI",]
 shlokas = [ "bharturagrE mRtA nArI sahadAhEna vA mRtA.\ntasyAH sthAnE niyuJjIta vipraiH saha suvAsinIm..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 24
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "In honour of Sumangalas (in the family), by holding a feast for Suvasinis and Kanyas."
+
+[names]
+sa = [ "sumaGgalA~navamI", "avidhavA-navamI",]

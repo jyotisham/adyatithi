@@ -1,14 +1,17 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "azUnyazayana-vratam~4"
 tags = [ "SpecialVratam",]
 references_primary = [ "Purushartha Chintamani",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 17
 kaala = "moonrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "azUnyazayana-vratam",]

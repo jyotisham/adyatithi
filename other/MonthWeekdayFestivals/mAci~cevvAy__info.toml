@@ -1,0 +1,14 @@
+default_to_none = true
+id = "mAci~cevvAy"
+tags = [ "MonthWeekdayFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Do `upavAsam` (at least do not take salt) and pray to Lord Shiva (Vaidyanatha Swami)."
+
+[names]
+ta = [ "mAci~cevvAy",]

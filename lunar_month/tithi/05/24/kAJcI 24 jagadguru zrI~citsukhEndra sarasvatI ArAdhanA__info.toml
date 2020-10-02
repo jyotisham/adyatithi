@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 24 jagadguru zrI~citsukhEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "saccitsukhAcchiva iti prathitO'yam AdAvAdAya zAsanam avartata kOGka
 image = "kanchi-jagadgurus/jagadguru-24.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 24
 kaala = "aparaahna"
 year_start = 3628
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Well-known as Śiva earlier, this Citsukhendra the governor (of the maṭh) remained in Koṅkaṇa; adorning the Preceptorship He was taking care of spiritual activities. He did not move a step from his place. This revered Preceptor ever victorious, the selfrestrained one, merged in the Supreme on the night in the month of Śravaṇa of the year Parābhava."
+
+[names]
+sa = [ "kAJcI 24 jagadguru zrI~citsukhEndra sarasvatI ArAdhanA",]

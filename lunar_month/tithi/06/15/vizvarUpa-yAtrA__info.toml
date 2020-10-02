@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "vizvarUpa-yAtrA"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Shankaracharyas will resume their travel, after being stationed for Chaturmasya vratam for the last four pakshas."
+
+[names]
+sa = [ "vizvarUpa-yAtrA",]

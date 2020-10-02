@@ -1,13 +1,12 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 68 jagadguru zrI~candrazEkharEndra sarasvatI 7 ArAdhanA"
 tags = [ "KanchiAradhanaDays", "CommonFestivals",]
 shlokas = [ "mahAsvAmIti vikhyAtastvaSTaSaSTO jagadguruH.\nhArItE'nvaya udbhUta utkRSTE nAma dhAmani..25..\npaJcOnE varSasAhasrapaJcakE vigatE kalau.\njayavarSE vRSE mAsi maitrarkSE kRSNapakSakE..26..\npratipattithimadhyAhnE svAminAthEti kIrtitaH.\nmahAlakSmIsubrahmaNyadampatyOstapasaH phalam..27..\nrujA'pahRtadEhatvE pUrvayOrgurunAthayOH.\ntadAjJayA sa sannyastO vayasyUnatrayOdazE..28..\ncandrazEkharEti puNyanAma bibhrat sa AzramI.\nsarvajJamUrtistriryAtrAM bhAratasyAcarat padA..29..\npratyakSaM daivataM bhUtvA dharmE cAkRSya mArdavAt.\nlOkAn samanujagrAha varSANAM zatakaM zubham..30..\nkAJcyAM vidEhakaivalyaM prApadyata munIzvaraH.\nzrImukhE mArgakRSNE sa dvAdazyAm aparAhNakE..31..\n—puNyazlOkamaJjarI",]
 image = "kanchi-jagadgurus/jagadguru-68.jpg"
 references_primary = [ "Punya Shloka Manjari",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -16,6 +15,10 @@ anga_type = "tithi"
 anga_number = 27
 kaala = "aparaahna"
 year_start = 5095
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = ""
+
+[names]
+sa = [ "kAJcI 68 jagadguru zrI~candrazEkharEndra sarasvatI 7 ArAdhanA",]

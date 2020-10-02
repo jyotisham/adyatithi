@@ -1,0 +1,18 @@
+default_to_none = true
+id = "kUDAravallI"
+tags = [ "TamilFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 9
+anga_type = "day"
+anga_number = 27
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Offer naivedyam of `guDAnnam` to Vishnu, as mentioned in the Tiruppavai 27"
+
+[names]
+ta = [ "kUDAravallI",]

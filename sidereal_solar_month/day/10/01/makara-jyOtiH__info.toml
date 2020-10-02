@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "makara-jyOtiH"
 tags = [ "KeralaTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 10
 anga_type = "day"
 anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Darshan of Makara Jyoti in Sabarimala Ayyappa Temple."
+
+[names]
+sa = [ "makara-jyOtiH",]

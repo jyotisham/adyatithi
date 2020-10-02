@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 60 jagadguru zrI~advaitAtmaprakAzEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "atha vasiSThanadItaTasambhavaH parazurAmasutaH zrutipaNDitaH.\nacak
 image = "kanchi-jagadgurus/jagadguru-60.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 17
 kaala = "aparaahna"
 year_start = 4805
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Then, son of Paraśurāma on the banks of river Vaśiṣṭha, well-versed in scriptures, touring all around bore the burden (or preceptor) on him. This sage by name Govinda with the appellation Ātmaprakāśendra carried out the responsibilities of preceptor for twelve years. He attained siddhi on the second day of Kṛṣṇapakṣa in the month Caitra of the year Svabhānu. This preceptor remained in Shahajipuram for a long period hailed as Govindajagadguru by Śrīdhara Veṅkateśa and other learned men."
+
+[names]
+sa = [ "kAJcI 60 jagadguru zrI~advaitAtmaprakAzEndra sarasvatI ArAdhanA",]

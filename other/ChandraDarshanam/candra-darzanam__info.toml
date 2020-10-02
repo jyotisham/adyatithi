@@ -1,0 +1,15 @@
+default_to_none = true
+id = "candra-darzanam"
+tags = [ "ChandraDarshanam",]
+shlokas = [ "zvEtAmbaraH zvEtavibhUSaNazca zvEtadyutirdaNDadharO dvibAhuH.\ncandrO'mRtAtmA varadaH kirITI mayi prasAdaM vidadhAtu dEvaH..",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Have darshan of Moon today, chanting the following shloka"
+
+[names]
+sa = [ "candra-darzanam",]

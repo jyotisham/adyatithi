@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "dadhi-vrata-ArambhaH"
 tags = [ "VratamStart", "SpecialPeriodStart", "CommonFestivals",]
 shlokas = [ "saGkarSaNAravindAkSa kariSyE'haM dadhivratam.\ndvitIyE mAsi dEvEza nirvighnaM kuru mE prabhO..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "dadhi-vrata-ArambhaH",]

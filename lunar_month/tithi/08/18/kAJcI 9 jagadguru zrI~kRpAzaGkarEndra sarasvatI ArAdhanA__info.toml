@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 9 jagadguru zrI~kRpAzaGkarEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "AndhrESvAtmaNasOmayAjitanayO gargAnvayO gaGgayA-\nbhikhyaH khyApita
 image = "kanchi-jagadgurus/jagadguru-09.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 18
 kaala = "aparaahna"
 year_start = 3170
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Kṛpāśaṅkara, son of Ātmasomayāji in Andhra in the lineage of Garga, with the name Gaṅgayya before initiation established six religions of worship in worshipping Śiva, Hari, Skanda and others away from Tantrik practices and establishing everywhere the non-dualism enunciated in the Vedas, drove away the notion of dualism. Kṛpāśaṅkara established Śrī Viśvarūpa at Śṛṅgeri under the directions of Śrī Kaivalya Munīndra and formulated precepts; having adorned Ācārya Pīṭha for forty-one years, he departed in the direction of Kubera, viz. North and attained siddhi at Vindhyas. The mighty omniscient (Kṛpāśaṅkara), the One without a second, attained the supreme non-dual state of the Ultimate known as parāpara which is full of Supreme Bliss on the third day of the dark fortnight in the month of Kārtika in the year Vibhava."
+
+[names]
+sa = [ "kAJcI 9 jagadguru zrI~kRpAzaGkarEndra sarasvatI ArAdhanA",]

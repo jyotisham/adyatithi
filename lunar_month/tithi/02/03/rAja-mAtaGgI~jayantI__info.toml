@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "rAja-mAtaGgI~jayantI"
 tags = [ "Dashamahavidya", "LessCommonFestivals",]
 references_secondary = [ "Kielhorn (1897); Ashtanga Panchangam",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 2
 anga_type = "tithi"
 anga_number = 3
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Goddess Raja Matangi is 9th of the Dasha Maha Vidyas."
+
+[names]
+sa = [ "rAja-mAtaGgI~jayantI",]

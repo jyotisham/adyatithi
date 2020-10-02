@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 16 jagadguru zrI~ujjvala zaGkarEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "sUnuH kEzavazaGkarasya tapatItIrOdbhavO naiSThikaH\nzrImAn acyutakE
 image = "kanchi-jagadgurus/jagadguru-16.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 8
 kaala = "aparaahna"
 year_start = 3468
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Born on the banks of river Tapati as the son of Śaṅkarakeśavasya and avowed to rigid celibacy Śrī Acyutakeśava, known as Ujjvalaśaṅkara, after being initiated by Gīṣpati, patronised by Vañcīśavara, uprooted the rival schools and with fame the great saint reached Kashmir. Then having spent thirty-eight years in the Pīṭha of the Universal Preceptor, He merged in Brahman, the eternal free from joy and sorrow and the everlasting on the eighth day of the bright fortnight in Vṛṣa month of the year Akṣaya in the Kali era 3468 in the place called Kalāpur in Kashmir."
+
+[names]
+sa = [ "kAJcI 16 jagadguru zrI~ujjvala zaGkarEndra sarasvatI ArAdhanA",]

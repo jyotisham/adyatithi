@@ -1,0 +1,15 @@
+default_to_none = true
+id = "kumAra-SaSThI-vratam"
+tags = [ "MonthlyVratam", "ShashthiVratam",]
+shlokas = [ "ASADha zuklaSaSThI tu tithiH kaumArilA smRtA.\nkumAramarcayEttatra pUrvatrOpESya vai dinam..",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`upavAsam` with only water and next day `pAraNa` gives `ArOgyam`"
+
+[names]
+sa = [ "kumAra-SaSThI-vratam",]

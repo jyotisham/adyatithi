@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "manOratha-dvitIyA"
 tags = [ "LessCommonFestivals", "SpecialPuja",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 2
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "VasudevaPooja, ChandraArghya, Naktam"
+
+[names]
+sa = [ "manOratha-dvitIyA",]

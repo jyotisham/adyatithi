@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 25 jagadguru zrI~saccidAnandaghanEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrImuSNakRSNatanayaH zivasAmbanAmA yastriH pradakSiNitapuNyamahirma
 image = "kanchi-jagadgurus/jagadguru-25.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 1
 kaala = "aparaahna"
 year_start = 3649
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "The noble son of Śrīkṛṣṇa of Śrīmuṣṇa by name Śivasāmbha who went round the earth thrice, became a disciple of Śrīcitrukha through initiation, and later became the head of Śrī Śārada maṭha. He (Śrī Citsukhendra), whose biography was composed by Mantha in his work titled Siddhajaya adorned the Pīṭha for twenty-one years and attained immortal state. He, the austere, Saccidānandaghana attained immortality in the form of Śivaliṅga on the first day of the bright fortnight in the month of Āṣāḍha of Prabhava year in the Śaka era 470."
+
+[names]
+sa = [ "kAJcI 25 jagadguru zrI~saccidAnandaghanEndra sarasvatI ArAdhanA",]

@@ -1,0 +1,19 @@
+default_to_none = true
+id = "ArudrA~darican2am/naTarAjar mahAbhiSEkam"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+shlokas = [ "kRpAsamudram sumukhaM trinEtraM sadAzivaM rudramanantarUpam.\njaTAdharaM pArvativAmabhAgaM cidambarEzaM hRdi bhAvayAmi..",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 9
+anga_type = "nakshatra"
+anga_number = 6
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Visit Chidambaram to have darshan of Nataraja, or pray to Nataraja"
+
+[names]
+ta = [ "ArudrA~darican2am/naTarAjar mahAbhiSEkam",]

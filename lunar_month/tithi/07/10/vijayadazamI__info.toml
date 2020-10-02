@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "vijayadazamI"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Arjuna wins over all Kauravas and Karna\nSri Rama's army built tents on ocean bank before crossing on Shravana star (AnandaRamayanam)\nBest day for AksharaaBhyaasam"
+
+[names]
+sa = [ "vijayadazamI",]

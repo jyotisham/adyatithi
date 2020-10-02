@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "nArAyaNIyaM~jayantI"
 tags = [ "OtherJayantis", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 8
 anga_type = "day"
 anga_number = 28
 year_start = 4687
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Celebration of completion of Narayaniyam (Kollam 762/1586 CE), in Guruvayur temple."
+
+[names]
+sa = [ "nArAyaNIyaM~jayantI",]

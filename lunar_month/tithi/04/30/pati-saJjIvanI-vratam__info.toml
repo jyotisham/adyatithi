@@ -1,14 +1,17 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "pati-saJjIvanI-vratam"
 tags = [ "SpecialVratam",]
 references_primary = [ "Skanda Puranam",]
 references_secondary = [ "https://hindupad.com/pathi-sanjeevani-vrata/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 4
 anga_type = "tithi"
 anga_number = 30
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "pati-saJjIvanI-vratam",]

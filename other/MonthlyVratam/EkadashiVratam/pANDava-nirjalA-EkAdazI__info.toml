@@ -1,0 +1,14 @@
+default_to_none = true
+id = "pANDava-nirjalA-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Shukla-paksha Ekadashi of `jyaiSTha` month is known as `nirjalA-EkAdazI`."
+
+[names]
+sa = [ "pANDava-nirjalA-EkAdazI",]

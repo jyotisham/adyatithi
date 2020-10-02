@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "satyanArAyaNa~jayantI"
 tags = [ "AndhraTempleFestivals",]
 references_secondary = [ "http://hindupad.com/satyanarayana-swamy-jayanti-in-annavaram-satyanarayana-swamy-temple/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 2
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Satyanarayana Swami Jayanti is celebrated in Annavaram Satya Narayana Temple, Andhra Pradesh"
+
+[names]
+sa = [ "satyanArAyaNa~jayantI",]

@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "madhvAcArya~jayantI"
 tags = [ "MahapurushaEvents",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 10
 year_start = 4339
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Jayanti of Madhvacharya, a proponent of Dvaita Vedanta"
+
+[names]
+sa = [ "madhvAcArya~jayantI",]

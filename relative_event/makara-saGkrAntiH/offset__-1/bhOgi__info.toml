@@ -1,0 +1,13 @@
+default_to_none = true
+id = "bhOgi"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "makara-saGkrAntiH"
+offset = -1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "bhOgi",]

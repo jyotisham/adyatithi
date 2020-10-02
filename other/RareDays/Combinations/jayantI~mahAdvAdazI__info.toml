@@ -1,0 +1,14 @@
+default_to_none = true
+id = "jayantI~mahAdvAdazI"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Dvadashi tithi, combined with Punarvasu nakshatra."
+
+[names]
+sa = [ "jayantI~mahAdvAdazI",]

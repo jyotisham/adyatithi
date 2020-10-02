@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "phUlErA~dUj"
 tags = [ "UttarPradeshTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
@@ -12,6 +11,10 @@ month_number = 12
 anga_type = "tithi"
 anga_number = 2
 kaala = "sunrise"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Very auspicious day, celebrations with flowers in temples."
+
+[names]
+sa = [ "phUlErA~dUj",]

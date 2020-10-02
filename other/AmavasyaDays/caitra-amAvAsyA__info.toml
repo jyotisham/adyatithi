@@ -1,0 +1,16 @@
+default_to_none = true
+id = "caitra-amAvAsyA"
+tags = [ "AmavasyaDays",]
+shlokas = [ "yO dadyAccaitradarzE tu kumbhaM pUrNaM tu pAnakaiH.\ngayAzrAddhazataM tEna kRtamEva na saMzayaH..52..\nkastUrI karpurOpEtaM mallikOzIrasaMyutam.\nkalazaM pAnakaiH pUrNaM caitradarzE tu mAnavaH.\ndadyAtpitRRnsamuddizya sa SaNNavatidO bhavEt..53..\n-- skandapurANE dvitIyE vaiSNavakhaNDE vaizAkhamAhAtmyE tRtIyE adhyAyE",]
+references_primary = [ "Skanda Puranam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On Chaitra Amavasya, who gives a pot filled with `pAnakam`, he has indeed performed a hundred `gayAzrAddham`! He also gets the benefit of performing `SaNNavatizrAddham`!"
+
+[names]
+sa = [ "caitra-amAvAsyA",]

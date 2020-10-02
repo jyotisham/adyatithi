@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 47 jagadguru zrI~candrazEkharEndra sarasvatI 3 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrIkaNThaH zukadEvazarmatanayaH kuNDInadIkUlabhUrvAgmI vAGmayatattv
 image = "kanchi-jagadgurus/jagadguru-47.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 30
 kaala = "aparaahna"
 year_start = 4267
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Śrīkaṇṭha, son of Śukadevaśharma on the banks of the river Kunḍī (Kunṭī) was a drāviḍa (a southerner), eloquent, wellversed in scriptures and courageous; having received the initiation into asceticism from the compassionate preceptor Bodhendra with the name Śrī Chandracūḍa, He held the responsibilities of preceptorship on earth by remaining in Kāṅci Maṭha. This preceptor surrounded by eminent scholarpoets Maṅka, Śrī Jayadeva, Kṛṣṇa, Suhala, carrying out digvijaya throughout the earth defeated in debate the exponent of Jainism Hemācārya, whose presence embellished the assembly of King Vidyālola Kumārapāla. This preceptor Śrī Chandracūḍa meditating on the mystic syllable that dispels grief/removes misery, adorning the seat (of preceptor) for sixty-eight years, became Videha by giving up the wondrous physical body on the New moon day in Caitra month of the year Pārthiva in the Kali era 4267. This renowned preceptor followed Śrī Jayadeva, Kṛṣṇamiśra, Suhala and others, adored by King Jayasimha and Kumārapāla, destroyed the arrogance of the Jaina exponent Hemācārya and attained the final beatitude at Aruṇācala."
+
+[names]
+sa = [ "kAJcI 47 jagadguru zrI~candrazEkharEndra sarasvatI 3 ArAdhanA",]

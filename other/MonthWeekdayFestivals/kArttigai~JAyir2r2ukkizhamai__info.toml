@@ -1,0 +1,14 @@
+default_to_none = true
+id = "kArttigai~JAyir2r2ukkizhamai"
+tags = [ "MonthWeekdayFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Do puja to Surya/Suryanamaskaram."
+
+[names]
+ta = [ "kArttigai~JAyir2r2ukkizhamai",]

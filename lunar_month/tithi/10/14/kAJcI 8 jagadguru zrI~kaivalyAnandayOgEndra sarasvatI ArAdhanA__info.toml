@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 8 jagadguru zrI~kaivalyAnandayOgEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrIzailIyazivayyasUnuradadhAt tasyAjJayA tat padaM maGgaNNArya iti 
 image = "kanchi-jagadgurus/jagadguru-08.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 14
 kaala = "aparaahna"
 year_start = 3130
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Son of Śivayya of Śrīśaila, known as Manganna, held that position by his directions and became well-known as Kaivalya Yogi, ascended to the status of a Rājayogi and remaining (in that position) for eighty three years accomplished realisation in the evening of Makarasaṅkrānti of the year Sarvadhāri."
+
+[names]
+sa = [ "kAJcI 8 jagadguru zrI~kaivalyAnandayOgEndra sarasvatI ArAdhanA",]

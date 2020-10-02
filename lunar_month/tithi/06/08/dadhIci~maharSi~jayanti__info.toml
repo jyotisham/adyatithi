@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "dadhIci~maharSi~jayanti"
 tags = [ "MahapurushaEvents",]
 references_secondary = [ "http://hindupad.com/dadhichi-jayanti/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 8
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "dadhIci~maharSi~jayanti",]

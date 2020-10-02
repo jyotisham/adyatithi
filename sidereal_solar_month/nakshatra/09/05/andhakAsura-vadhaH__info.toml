@@ -1,12 +1,15 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "andhakAsura-vadhaH"
 tags = [ "SringeriFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 9
 anga_type = "nakshatra"
 anga_number = 5
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "andhakAsura-vadhaH",]

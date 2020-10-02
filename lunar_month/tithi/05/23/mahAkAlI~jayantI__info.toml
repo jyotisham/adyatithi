@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "mahAkAlI~jayantI"
 tags = [ "Dashamahavidya",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "paraviddha"
@@ -12,6 +11,10 @@ month_number = 5
 anga_type = "tithi"
 anga_number = 23
 kaala = "nishita"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Goddess Mahakali is 1st of the Dasha Maha Vidyas."
+
+[names]
+sa = [ "mahAkAlI~jayantI",]

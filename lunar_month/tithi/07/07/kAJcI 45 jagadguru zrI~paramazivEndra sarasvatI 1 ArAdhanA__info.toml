@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 45 jagadguru zrI~paramazivEndra sarasvatI 1 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrIkaNThaH zivasAmbapaNDitasutaH saikAM samA viMzatiM\nbibhrat svas
 image = "kanchi-jagadgurus/jagadguru-45.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 7
 kaala = "aparaahna"
 year_start = 4162
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Śrīkaṇṭha, son of Śivasāmbapaṇḍita, known by the appellation Parāśiva (Paramaśiva) (after initiation) who remained in the caves of the mountain since initiation governed the Pīṭha for twenty-one years and having placed poet Somaka’s son, Sūrya, in his place, He attained siddhi in the night of saptami of bright fortnight in the Aśvini month of He year Śārvari. This preceptor Paramaśivendra stayed in the caves of Sahya mountain adhereing to the mode of python (ajagaravṛtti), restored to by the disciple named Bodhendra, attained siddhi in the Sahya mountain itself."
+
+[names]
+sa = [ "kAJcI 45 jagadguru zrI~paramazivEndra sarasvatI 1 ArAdhanA",]

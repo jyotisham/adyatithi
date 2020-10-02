@@ -1,0 +1,16 @@
+default_to_none = true
+id = "puSkalA amAvAsyA (alabhyam)"
+tags = [ "RareDays", "Combinations", "AmavasyaDays",]
+shlokas = [ "amA sOmEna bhaumEna guruNA vA yutA yadi.\nsA tithiH puSkalA nAma sUryagrahaNasannibhA..\n",]
+references_secondary = [ "Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "If, `amAvAsyA` occurs on a Monday, Tuesday or Thursday, the combination gives the tithi the name `puSkalA` and is equal to a solar eclipse."
+
+[names]
+sa = [ "puSkalA amAvAsyA (alabhyam)",]

@@ -1,0 +1,18 @@
+default_to_none = true
+id = "Ayudha~pUjai"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+anga_type = "tithi"
+anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Arjuna wins over all Kauravas and Karna. Worship of all weapons, or rather, tools related to one's profession."
+
+[names]
+ta = [ "Ayudha~pUjai",]

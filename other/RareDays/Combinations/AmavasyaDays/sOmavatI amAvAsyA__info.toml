@@ -1,0 +1,15 @@
+default_to_none = true
+id = "sOmavatI amAvAsyA"
+tags = [ "RareDays", "Combinations", "AmavasyaDays",]
+shlokas = [ "amAvasyA tu sOmEna saptamI bhAnunA saha.\ncaturthI bhUmiputrENa sOmaputrENa cASTamI.\ncatasrastithayastvEtAH sUryagrahaNasannibhAH..\n\nmUlatO brahmarUpAya madhyatO viSNurUpiNE.\nagrataH zivarUpAya vRkSarAjAya tE namaH..\nakSispandaM bhujaspandaM duHsvapnaM durvicintanam.\nzatrUnAm ca samutpannam azvattha zamayasva mE..",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`amAvAsyA` on a Monday is as sacred as a solar eclipse. Particularly good for performing pradakshinam of Pippala tree."
+
+[names]
+sa = [ "sOmavatI amAvAsyA",]

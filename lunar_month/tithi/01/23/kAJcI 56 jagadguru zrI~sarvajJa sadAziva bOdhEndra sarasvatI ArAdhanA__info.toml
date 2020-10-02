@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 56 jagadguru zrI~sarvajJa sadAziva bOdhEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "athOttarapinAkinItaTabhavaH sa bOdhEzvaraH sutazcirutacikkaNAdhvari
 image = "kanchi-jagadgurus/jagadguru-56.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 23
 kaala = "aparaahna"
 year_start = 4640
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Then, the son of Cirutacikkadādhvari on the banks of river Uttarapinākinī, a devotee of Hari, the preceptor Bodheśvara, bearing the appellation Sadāśiva under the directions of preceptor Chandracūḍa, was Jagadguru for sixteen years adored by the King Pravīra Sethupati. The preceptor visited the sacred Sethu Rāmeśvara, having worshipped Lord Śiva for the welfare of the mankind reached eternal abode on Caitra Śukla Aṣṭamī in the year Vilambi. This preceptor is well-known as Sadāśiva Bodheśvara, author of Puṇyaślokamañjarī and attained siddhi in Rāmeśvaram."
+
+[names]
+sa = [ "kAJcI 56 jagadguru zrI~sarvajJa sadAziva bOdhEndra sarasvatI ArAdhanA",]

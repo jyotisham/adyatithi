@@ -1,17 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "vitastOtsavaH"
 tags = [ "SpecialSnanam",]
 shlokas = [ "yAni tIrthAni bhAratavarSE tAni tIrthAni kAzmIramaNDalE.\nyAni tIrthAni kAzmIramaNDalE tAni tIrthAni vitastAyAm..",]
 references_primary = [ "Nilamata Puranam",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "This is the day when the sacred river `vitastA` was born. 2.  `nIlamata purANam` recommends taking bath in this sacred river (Jhelum, tributary of Sindhu) for 7 consecutive days starting from this day."
+
+[names]
+sa = [ "vitastOtsavaH",]

@@ -1,15 +1,18 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "naraka-caturdazI"
 tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 29
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "\n*ShriKrishna killed Muraasura and Narakaasura on this day.\n*Must do Taila-abhyangana-snaanam in early morning before sunrise, else Narakam (as per PadmaPurana) . If done, equal to GangaSnanam and avoids YamaYaatanam. Use water stored from previous day. Previous day night do pooja to water. Use this water on Chaturdashi. With plough uproot Upaamaarga-vruksham (small one) and put in the water. (DO NOT PLUCK WITH HAND). Do dhyaanam of Seeta.\n* As per KalikaPuranam, Naraka was also upraised by Janaka. He was then sent to PraajyotishaPuram."
+
+[names]
+sa = [ "naraka-caturdazI",]

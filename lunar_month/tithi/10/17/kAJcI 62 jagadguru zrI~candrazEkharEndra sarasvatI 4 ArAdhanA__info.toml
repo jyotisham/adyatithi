@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 62 jagadguru zrI~candrazEkharEndra sarasvatI 4 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "saMyatsu viklavE lOkE pITham ArUDhavAn mahAn.\nitihAsagarbhagUDhanA
 image = "kanchi-jagadgurus/jagadguru-62.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 17
 kaala = "aparaahna"
 year_start = 4884
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Preceptor Śrī Chandraśekharendra having remained in the Pīṭha for thirty-seven years attained Siddhi on Kṛṣṇadvitīya of Puṣya month in the year Subhakṛt. Śrī Maṭha moved to Kumbhaghona town during the period of this ācārya; his siddhi was also in Kumbhaghona. Śivāṣṭapadī, a lyrical work on the model of Gitagovinda of Śrī Jayadeva was composed only by this ācārya. His siddhi was during Śalivahana era 1705."
+
+[names]
+sa = [ "kAJcI 62 jagadguru zrI~candrazEkharEndra sarasvatI 4 ArAdhanA",]

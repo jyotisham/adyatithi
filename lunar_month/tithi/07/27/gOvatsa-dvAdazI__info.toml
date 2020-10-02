@@ -1,12 +1,10 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "gOvatsa-dvAdazI"
 tags = [ "SpecialVratam", "CommonFestivals",]
-titles = [ "vizoka-dvAdazI\nekhaNDa-dvAdazI\npadmanAbha-dvAdazI",]
 shlokas = [ "gOkSIraM gOghRtaM caiva dadhi takraM ca varjayEt.\n\nsurabhi tvaM jaganmAtardEvi viSNupadE sthitA.\nsarvadEvamayE grAsaM mayA dattamidaM grasa..\n\nsarvadEvamayE dEvi sarvEdEvaizca satkRtA.\nmAtarmamA'bhilASitaM saphalaM kuru nandini..\n",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
@@ -14,6 +12,10 @@ month_number = 7
 anga_type = "tithi"
 anga_number = 27
 kaala = "pradosha"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Avoid cow's milk, ghee, curd and buttermilk on this day. Give grass to cows and pray to them."
+
+[names]
+sa = [ "gOvatsa-dvAdazI", "vizoka-dvAdazI\nekhaNDa-dvAdazI\npadmanAbha-dvAdazI",]

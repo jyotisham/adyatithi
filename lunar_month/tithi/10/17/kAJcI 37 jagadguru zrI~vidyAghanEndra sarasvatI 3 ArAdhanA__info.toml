@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 37 jagadguru zrI~vidyAghanEndra sarasvatI 3 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "bhAlacandrasutaH sUryanArAyaNasamAhvayaH.\nzrIcidAnandaziSyO'bhUcch
 image = "kanchi-jagadgurus/jagadguru-37.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 17
 kaala = "aparaahna"
 year_start = 3889
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Son of Bālacandrasuta named Sūryanārāyaṇa, Śrī Vidyāghanadeśika was the disciple of Śrī Cidānanda. The preceptor Śrī Vidyāghana, mastering the Śrīvidyā held the responsibilities of the preceptor despite the atrocities of Turuṣkas for thirty years. The staunch adherent of asceticism, He reached the highest state of Bliss on the second day of the black fortnight in the month of Puṣya in the year Prabhava. This preceptor Vidyāghana, searching a worthy disciple to adorn the seat of the Pīṭha, reached Cidambaram where He handed over the responsibilities of governing (the Maṭha) to Dhīraśaṅkarendra and attained siddhi there itself. His preceptorship was for thirty years."
+
+[names]
+sa = [ "kAJcI 37 jagadguru zrI~vidyAghanEndra sarasvatI 3 ArAdhanA",]

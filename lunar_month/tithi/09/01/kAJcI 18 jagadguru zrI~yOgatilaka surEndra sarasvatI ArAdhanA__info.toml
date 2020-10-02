@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 18 jagadguru zrI~yOgatilaka surEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "durdIdiviM samabhibhUya tathA'sya sAhyAsaktaM ca jIvam apavArya sad
 image = "kanchi-jagadgurus/jagadguru-18.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 1
 kaala = "aparaahna"
 year_start = 3486
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "The austere preceptor Surendra after defeating boldly in debate the materialist Durdhivi and his companion Jīva, being honoured by King Surendra in his Court merged in his original state. Preceptor Surendra, a Maharashtrian, revered by all as Mādhura, resorted to asceticism, an adept in Yogic practices, governed the Maṭha for only ten years and reached his abode on the first day of the bright fortnight in the month of Mārgaśīrṣa of the Tāraṇa year in the Kali era 3486."
+
+[names]
+sa = [ "kAJcI 18 jagadguru zrI~yOgatilaka surEndra sarasvatI ArAdhanA",]

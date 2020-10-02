@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 33 jagadguru zrI~saccidAnandaghanEndra sarasvatI 2 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "nAnAbhASAbhilApI prazamakuladhanaH prauDharAmaNNasUnuH\ntrailiGgast
 image = "kanchi-jagadgurus/jagadguru-33.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 21
 kaala = "aparaahna"
 year_start = 3793
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "This Saccidānandaghana with a firm control over senses, conversant with various languages—was a Telugu brahmin named Timmaṇṇa, son of Prauḍha Rāmaṇṇa became the Jagadguru from region on the banks of river Chandrabhāga. Renovating the huge dilapidated maṭha, He remained happily in Kāñci itself by devoting himself every day in the worship of Goddess Kāmākṣī. He, the benevolent great preceptor Saccidānandaghana having travelled upto Himalayas attained liberation on the eighth day of bright fortnight of the month Bhādrapada in the year Khara. He was also known as Bhāṣaparameṣṭi and his preceptorship was for twenty years."
+
+[names]
+sa = [ "kAJcI 33 jagadguru zrI~saccidAnandaghanEndra sarasvatI 2 ArAdhanA",]

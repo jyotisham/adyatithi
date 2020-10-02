@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 49 jagadguru zrI~mahAdEvEndra sarasvatI 3 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "chAyAvanAcyutasutO gurumUrtinAmA sthitvA jagadgurupadE chavi(47)var
 image = "kanchi-jagadgurus/jagadguru-49.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 23
 kaala = "aparaahna"
 year_start = 4348
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Son of Chāyāvana Acyuta, He was Gurumūrthi by name (before initiation); having adorned the seat of Jagadguru for forty-seven years, He attained on the night of Kālāṣṭamī of the month Kārtika in the year Parābhava—the Supreme state denoted by the term Paramātman."
+
+[names]
+sa = [ "kAJcI 49 jagadguru zrI~mahAdEvEndra sarasvatI 3 ArAdhanA",]

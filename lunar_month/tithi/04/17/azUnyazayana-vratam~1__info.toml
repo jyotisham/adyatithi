@@ -1,17 +1,20 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "azUnyazayana-vratam~1"
 tags = [ "SpecialVratam",]
 shlokas = [ "lakSmyA viyujyatE dEva na kadAcit yatO bhavAn.\ntathA kalatrasambandhO dEva mA mE viyujyatAm..",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 4
 anga_type = "tithi"
 anga_number = 17
 kaala = "moonrise"
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. Do Puja by placing the God/Goddess on a new bed with pillow/blanket. Do danam of same after puja."
+
+[names]
+sa = [ "azUnyazayana-vratam",]

@@ -1,0 +1,18 @@
+default_to_none = true
+id = "mayilai~veLLIzvarar~brahmOtsavam"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 2
+anga_type = "day"
+anga_number = 8
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Enactment of restoration of eyesight of Shukracharya."
+
+[names]
+ta = [ "mayilai~veLLIzvarar~brahmOtsavam",]

@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 58 jagadguru zrI~AtmabOdhEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "vRddhAcalaprabhavavizvamakhIndrasUnurvizvEzvaraH parazivAryapadaM p
 image = "kanchi-jagadgurus/jagadguru-58.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 23
 kaala = "aparaahna"
 year_start = 4739
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Viśveśvara was the son of Viśvamakhindra; resorting to the fact of Paraśivārya, known as Navaśaṅkara from the first preceptor toured all places successfully, from Setu (Rāmeśvaram) to Sītāgiri (Himalayas). Since He possessed intellect more than anyone in the Universe, men of wisdom call him Viśvādhika and Navaśaṅkara. His erudition in composing works such as Rudra bhāṣya is beyond words—immeasurable. The preceptor Viśvādhikendra carrying out the responsibilities of preceptor for fifty-two years, (later) handing over the responsibilities to Bodhendrārya, and proceeding in southern direction reached eternal abode, meditating on Lord Śiva with the crescent moon in the crown, on the banks of river Garuḍa on the eighth day of the black fortnight in the month of Tulā of the year Ăśvara. This preceptor Śrī Navaśaṅkara residing on the banks of river Tridaśa was revered by eminent men, departed in the southern direction and attained siddhi on the banks of river Garuḍa after handing over the responsibilities to the disciple Śrī Bhagavannāma Bodhendra. "
+
+[names]
+sa = [ "kAJcI 58 jagadguru zrI~AtmabOdhEndra sarasvatI ArAdhanA",]

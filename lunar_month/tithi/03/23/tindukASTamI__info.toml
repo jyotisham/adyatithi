@@ -1,16 +1,19 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "tindukASTamI"
 tags = [ "LessCommonFestivals",]
 references_secondary = [ "Chaturvaga Chintamani",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 3
 anga_type = "tithi"
 anga_number = 23
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Start of one year vratam of monthly shiva pooja as per chaturvaga chintamani."
+
+[names]
+sa = [ "tindukASTamI",]

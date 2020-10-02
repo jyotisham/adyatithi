@@ -1,0 +1,14 @@
+default_to_none = true
+id = "ardhOdaya-puNyakAlaH"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "A rare combination of Pausha masa, Shravana nakshatra, Vyatipata yoga and Sunday."
+
+[names]
+sa = [ "ardhOdaya-puNyakAlaH",]

@@ -1,13 +1,16 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kArtavIryArjuna~jayantI"
 tags = [ "OtherJayantis",]
 references_secondary = [ "http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
 anga_type = "tithi"
 anga_number = 8
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "kArtavIryArjuna~jayantI",]

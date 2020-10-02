@@ -1,4 +1,3 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI 59 jagadguru zrI~bhagavannAma bOdhEndra sarasvatI ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
@@ -6,9 +5,9 @@ shlokas = [ "zrIvizvAdhikadEzikEndravacasA prAptO dizaM dakSiNAM\nprAcInAmbudhir
 image = "kanchi-jagadgurus/jagadguru-59.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
@@ -17,6 +16,10 @@ anga_type = "tithi"
 anga_number = 15
 kaala = "aparaahna"
 year_start = 4793
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "This preceptor (Śrī Bhagavannāma Bodhendra) under the directions of Śrī Viśvādhika came to south; while staying in the house of Jagannātha Kavi, son Śrī Lakṣmīdhara at Jagannātha pini on the shores of Eastern Sea. He sanctified by enjoining expiatory acts based on bhakti to the Brahmin woman polluted/molested by a mleccha. May preceptor sage Bodhendra entering into Kāñci and embellishing the preceptorship, erecting an elaborate path of devotion for the emancipation of all in the Universe by writing excellent works highlighting the concepts (of Bhakti), He who bestowed eloquence even to a dumb child, the ocean with devotees as waves, shine well. Born of Keśavapāṇduraṅga, an eminent scholar of Kaṇvaśākhā, residing in the small village called Maṇḍana near Kāñci, the virtuous devotee, noble (great) in guiding people resorted to him to the path of bhakti, adorned the seat of the great Preceptor, Śrī Śaṅkara, under the directions of Śrī Ātmabodha. He carried out preceptorship ably in the Maṭha for fifty-four years and remained in Kāmakoṭi Pīṭha highlighting Advaita through lectures/discourses, the ocean of courage, attained his own non-dual abode in the Śalivaha era 1614. Śrī Bhagavannāma Bodhendra reached the empire of enlightenment near Madhyārjuna Kṣetra on the full-moon day of the month of Bhādrapāda in the year Prajotpatti. That this revered preceptor also known as Yogīndra travelled to Rāmeśvaram and on his return attained siddhi at Govindapuram near Madhyārjuna is a well--known fact."
+
+[names]
+sa = [ "kAJcI 59 jagadguru zrI~bhagavannAma bOdhEndra sarasvatI ArAdhanA",]

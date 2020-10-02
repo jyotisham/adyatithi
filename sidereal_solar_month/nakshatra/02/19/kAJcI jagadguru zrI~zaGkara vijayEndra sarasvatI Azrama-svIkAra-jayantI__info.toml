@@ -1,10 +1,9 @@
-jsonClass = "HinduCalendarEvent"
 default_to_none = true
 id = "kAJcI jagadguru zrI~zaGkara vijayEndra sarasvatI Azrama-svIkAra-jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
-jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "paraviddha"
@@ -13,6 +12,10 @@ anga_type = "nakshatra"
 anga_number = 19
 kaala = "praatah"
 year_start = 5084
+jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "`jagadguru zrI~zaGkara vijayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 29th May 1983, `rudhirOdgArI` year, `vRSabha/vaizAkha mAsa kRSNa tRtIyA bhAnuvAsaraH mUlA nakSatram`."
+
+[names]
+sa = [ "kAJcI jagadguru zrI~zaGkara vijayEndra sarasvatI Azrama-svIkAra-jayantI",]
