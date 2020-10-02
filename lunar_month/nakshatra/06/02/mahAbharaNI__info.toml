@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "mahAbharaNI"
+tags = [ "SpecialPuja", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 6
+anga_type = "nakshatra"
+anga_number = 2
+kaala = "aparaahna"

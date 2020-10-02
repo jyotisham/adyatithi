@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__zrI~jayantI"
+script_priority = "ta"
+tags = [ "Dashavataram", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 5
+anga_type = "nakshatra"
+anga_number = 4
+kaala = "nishita"

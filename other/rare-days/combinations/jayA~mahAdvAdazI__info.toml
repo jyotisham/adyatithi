@@ -8,4 +8,4 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 
 [description]
-en = "Dvadashi tithi, combined with Pushya nakshatram."
+en = "Dvadashi tithi, combined with Pushya nakshatra."

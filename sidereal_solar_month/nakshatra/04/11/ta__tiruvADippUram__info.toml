@@ -1,0 +1,16 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__tiruvADippUram"
+script_priority = "ta"
+tags = [ "CommonFestivals", "AzhwarJayanti",]
+shlokas = [ "zrIviSNucitta-kulakalpakanandavallIm\nzrIraGgarAja-hari-candana-yOga-drzyAm.\nsAkSAt kSamAM karuNayA kamalAmivAnyAM\ngOdAm ananyazaraNaH zaraNaM prapadyE..",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 4
+anga_type = "nakshatra"
+anga_number = 11
+kaala = "praatah"

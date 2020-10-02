@@ -1,0 +1,18 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "kAJcI jagadguru zrI~jayEndra sarasvatI Azrama-svIkAra-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 12
+anga_type = "nakshatra"
+anga_number = 15
+kaala = "praatah"
+year_start = 5054
+
+[description]
+en = "`jagadguru zrI~jayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 22nd March 1954, `vijaya` year, `mIna/phAlguna mAsa kRSNa dvitIyA sOmavAsaraH citrA upari svAtI nakSatram`."

@@ -8,4 +8,4 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 
 [description]
-en = "When Shravana nakshatram falls on a Monday, it is a special `puNyakAlaH`."
+en = "When Shravana nakshatra falls on a Monday, it is a special `puNyakAlaH`."

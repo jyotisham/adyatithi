@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__aiyaDigaL kADavarkOn2 nAyan2Ar (45) gurupUjai"
+script_priority = "ta"
+tags = [ "NayanarGurupujai",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 7
+anga_type = "nakshatra"
+anga_number = 19
+kaala = "praatah"
