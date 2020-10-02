@@ -10,8 +10,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
-angam_type = "tithi"
-angam_number = 12
+anga_type = "tithi"
+anga_number = 12
 
 [description]
 en = "Avataram of `yAjJavalkya maharSi` happened on `kArttika shukla dwAdazI` in `SatabhiSak nakSatram`/`dhanurlagnam`."

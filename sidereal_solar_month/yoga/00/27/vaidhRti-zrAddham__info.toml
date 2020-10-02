@@ -9,8 +9,8 @@ default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "vyaapti"
 month_number = 0
-angam_type = "yoga"
-angam_number = 27
+anga_type = "yoga"
+anga_number = 27
 kaala = "aparaahna"
 
 [description]

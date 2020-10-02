@@ -12,8 +12,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 11
-angam_type = "tithi"
-angam_number = 5
+anga_type = "tithi"
+anga_number = 5
 
 [description]
 en = "Worship Mahavishnu and Mahalakshmi, Rati Devi and Manmatha with jasmine flowers."

@@ -9,8 +9,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
-angam_type = "tithi"
-angam_number = 14
+anga_type = "tithi"
+anga_number = 14
 
 [description]
 en = "Perform `snAnam` at `maNikarNikA` ghat in Varanasi. Perform BhagavadGita Parayanam, Vishnu Sahasranama Parayanam."

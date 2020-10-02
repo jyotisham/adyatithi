@@ -11,8 +11,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 3
-angam_type = "tithi"
-angam_number = 12
+anga_type = "tithi"
+anga_number = 12
 
 [description]
 en = "Perform puja of Lord Trivikrama (Sahasranamarchana), do naivedyam of mangoes and offer annadanam to needy."

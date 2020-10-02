@@ -9,8 +9,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 7
-angam_type = "tithi"
-angam_number = 10
+anga_type = "tithi"
+anga_number = 10
 
 [description]
 en = "Arjuna wins over all Kauravas and Karna. Worship of all weapons, or rather, tools related to one's profession."

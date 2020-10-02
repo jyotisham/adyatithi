@@ -9,8 +9,8 @@ default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
 month_number = 1
-angam_type = "tithi"
-angam_number = 9
+anga_type = "tithi"
+anga_number = 9
 kaala = "madhyaahna"
 
 [description]

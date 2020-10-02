@@ -13,8 +13,8 @@ default_to_none = true
 month_type = "lunar_month"
 priority = "vyaapti"
 month_number = 10
-angam_type = "tithi"
-angam_number = 17
+anga_type = "tithi"
+anga_number = 17
 kaala = "aparaahna"
 year_start = 3889
 

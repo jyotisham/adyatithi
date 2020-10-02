@@ -9,5 +9,5 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 11
-angam_type = "nakshatram"
-angam_number = 10
+anga_type = "nakshatram"
+anga_number = 10

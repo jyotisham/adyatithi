@@ -11,8 +11,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 7
-angam_type = "day"
-angam_number = 1
+anga_type = "day"
+anga_number = 1
 
 [description]
 en = "Offer Akasha Dipam for this entire month, in the evening, on a high place (pillar?). Light lamps using gingelly oil with eight wicks."

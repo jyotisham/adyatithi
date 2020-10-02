@@ -10,8 +10,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 9
-angam_type = "nakshatram"
-angam_number = 6
+anga_type = "nakshatram"
+anga_number = 6
 
 [description]
 en = "Visit Chidambaram to have darshan of Nataraja, or pray to Nataraja"

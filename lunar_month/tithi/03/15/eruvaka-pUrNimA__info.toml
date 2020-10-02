@@ -8,8 +8,8 @@ jsonClass = "HinduCalendarEventTiming"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 3
-angam_type = "tithi"
-angam_number = 15
+anga_type = "tithi"
+anga_number = 15
 
 [description]
 en = "Danam of Padma Puranam"
