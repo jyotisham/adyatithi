@@ -1,8 +1,11 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
-id = "ta__rAmAnujar~tirunakSattiram"
-script_priority = "ta"
+id = "rAmAnuja-janma-nakSatram"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
+
+[names]
+tamil = ["rAmAnujar~tirunakSattiram"]
+sanskrit = ["rAmAnuja-jayantI"]
 
 [timing]
 jsonClass = "HinduCalendarEventTiming"
