@@ -1,0 +1,13 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__mAci~magham"
+script_priority = "ta"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 11
+angam_type = "nakshatram"
+angam_number = 10

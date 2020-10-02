@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__viSukkan2i"
+script_priority = "ta"
+tags = [ "CommonFestivals", "SunSankranti",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 1
+angam_type = "day"
+angam_number = 1
+kaala = "arunodaya"

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "appayya-dIkSita-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 6
+angam_type = "tithi"
+angam_number = 16
+kaala = "praatah"
+year_start = 4620

@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "sEGgAlipuram~muttaNNAvAL~ArAdhanA"
+tags = [ "MahapurushaEvents",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "vyaapti"
+month_number = 10
+angam_type = "tithi"
+angam_number = 27
+kaala = "aparaahna"
+year_start = 4994

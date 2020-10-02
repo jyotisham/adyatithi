@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__mAn2akkaJcAr2a nAyan2Ar (11) gurupUjai"
+script_priority = "ta"
+tags = [ "NayanarGurupujai",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 9
+angam_type = "nakshatram"
+angam_number = 15
+kaala = "praatah"

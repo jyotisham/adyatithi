@@ -1,0 +1,14 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "gajEndra-mOkSaH~2"
+tags = [ "PuranaEvents",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 5
+angam_type = "nakshatram"
+angam_number = 19
+kaala = "praatah"

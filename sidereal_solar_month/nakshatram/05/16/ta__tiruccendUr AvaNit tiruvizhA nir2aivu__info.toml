@@ -1,0 +1,15 @@
+jsonClass = "HinduCalendarEvent"
+default_to_none = true
+id = "ta__tiruccendUr AvaNit tiruvizhA nir2aivu"
+script_priority = "ta"
+tags = [ "TamilnaduTempleFestivals",]
+
+[timing]
+jsonClass = "HinduCalendarEventTiming"
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 5
+angam_type = "nakshatram"
+angam_number = 16
+kaala = "praatah"
