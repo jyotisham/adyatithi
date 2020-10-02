@@ -1,7 +1,6 @@
 jsonClass = "HinduCalendarEvent"
 default_to_none = true
-id = "ta__zrI~jayantI"
-script_priority = "ta"
+id = "zrI-jayantI"
 tags = [ "Dashavataram", "CommonFestivals",]
 
 [timing]
