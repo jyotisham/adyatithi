@@ -9,7 +9,7 @@ month_type = "sidereal_solar_month"
 month_number = 0
 anga_type = "nakshatra"
 anga_number = 22
-kaala = "sangava"
+kaala = "saangava"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
