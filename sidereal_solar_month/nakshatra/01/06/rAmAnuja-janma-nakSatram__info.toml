@@ -4,8 +4,7 @@ tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [names]
-tamil = [ "rAmAnujar~tirunakSattiram",]
-sanskrit = [ "rAmAnuja-jayantI",]
+ta = [ "rAmAnujar~tirunakSattiram",]
 sa = [ "rAmAnuja-janma-nakSatram",]
 
 [timing]
