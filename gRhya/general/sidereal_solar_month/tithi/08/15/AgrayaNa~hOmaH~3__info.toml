@@ -1,5 +1,5 @@
 default_to_none = true
-id = "AgrayaNa~hOmaH~3"
+id = "AgrayaNa~hOmaH~draviDadeshe~3"
 tags = [ "SpecialPuja",]
 references_secondary = [ "Vaidikasri Nov 2017",]
 jsonClass = "HinduCalendarEvent"
@@ -18,4 +18,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Perform `hOma` with fresh rice from paddy."
 
 [names]
-sa = [ "AgrayaNa~hOmaH",]
+sa = [ "AgrayaNa~hOmaH drAviDESu",]

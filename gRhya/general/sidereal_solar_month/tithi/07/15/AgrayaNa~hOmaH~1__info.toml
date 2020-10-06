@@ -1,5 +1,5 @@
 default_to_none = true
-id = "AgrayaNa~hOmaH~4"
+id = "AgrayaNa~hOmaH~draviDadeshe~1"
 tags = [ "SpecialPuja",]
 references_secondary = [ "Vaidikasri Nov 2017",]
 jsonClass = "HinduCalendarEvent"
@@ -8,9 +8,9 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "puurvaviddha"
-month_number = 8
+month_number = 7
 anga_type = "tithi"
-anga_number = 30
+anga_number = 15
 kaala = "sunrise"
 jsonClass = "HinduCalendarEventTiming"
 
@@ -18,4 +18,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Perform `hOma` with fresh rice from paddy."
 
 [names]
-sa = [ "AgrayaNa~hOmaH",]
+sa = [ "AgrayaNa~hOmaH drAviDESu",]
