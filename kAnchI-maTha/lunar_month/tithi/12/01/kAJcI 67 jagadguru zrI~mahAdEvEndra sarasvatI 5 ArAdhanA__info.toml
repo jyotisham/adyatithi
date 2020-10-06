@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 67 jagadguru zrI~mahAdEvEndra sarasvatI 5 ArAdhanA"
+tags = [ "KanchiAradhanaDays", "CommonFestivals",]
+shlokas = [ "lakSmInarasiMhayugalaputrO lakSmIkAntO guruvarasEvAm.\nEkAM kRtvA vaTurapi bhikSuH kASThAM prAptO jananam atItAm..21..\ntrivizalUr\u200cgrAmajAtaH ziSyamAtragrajAsutaH.\ntraiviSTapairdurbhajaM sacchiSyatAmAtratO'bhajat..22..\nkalavainAmakE grAmE svagurOrEva sannidhau.\nA'ntaM tasyaiva zuzrUSAM kRtvA dEhAntam AptavAn..23..\ngururmahAdEvEndrAkhyaH saptAhI siddhim Ayayau.\nparAbhavE phAlgunE tu zuklAyAM pratipattithau..24..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-67.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 12
+anga_type = "tithi"
+anga_number = 1
+kaala = "aparaahna"
+year_start = 5008
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Preceptor by name Mahādevendra adorning Pīṭha attained siddhi on the first day (pratipat) of bright fortnight of Phālguna month in the year Parābhava. The name of this preceptor before initiation was Lakṣminārāyaṇa. His father was well-known as Narasimhaśāstri. This preceptor was well-versed in Ṛgveda. His place of sidhi was Kalavai village in Śalivahana era 1830."
+
+[names]
+sa = [ "kAJcI 67 jagadguru zrI~mahAdEvEndra sarasvatI 5 ArAdhanA",]

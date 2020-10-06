@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 57 jagadguru zrI~paramazivEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "pampAsarastaTabhuvaH paramEzvarasya putraH sadAzivarataH zivarAmakRSNaH.\ntasmAdavApya niyamaM niyamI nirastasaGgO'dhyuvAsa sadanaM khalu kAmanEtryAH..3..\nzrIcakrapUjanarataH zivayOgalambI zrIdEzikEndravacasA zritakAmapIThaH.\nAcAryakaM chavi(47)samaM vidadhAvakAmaH kAmEzvarI-manu-purazcaraNaikadakSaH..4..\nsa pArthivE pArthivadEhadUraM nabhO nabhasyacchatamO'cchapakSE.\navApad ApadvidhurO dazamyAM dazamyasau dInazakE (1508) zakAbdE..5..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-57.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 5
+anga_type = "tithi"
+anga_number = 10
+kaala = "aparaahna"
+year_start = 4687
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Śivarāmakṛṣṇa, son of Parameśvara on the banks of river Pampā, devoted to Sadāśiva, having got initiation into asceticism from him, devoid of any attachment indeed, He remained at the abode of goddess Kāmākṣī. Devoted to the worship of Śrī Cakrarāja, adhered to the path of Śivarāja, adhered to the path of Śivayoga, adept in worshipping the goddess Kāmeśvarī, He, free from desires, held the preceptorship for fortyseven years. This senior preceptor, courageous, reached the space that is beyond the physical body, on the tenth day of the bright fortnight of the Śravaṇa month in the year Pārthiva of the Śaka era 1508 (Dūra Śaka). According to scholars, this preceptor was the master of Sadāśivabrahmendra and attained siddhi in Śvetāraṇyam."
+
+[names]
+sa = [ "kAJcI 57 jagadguru zrI~paramazivEndra sarasvatI 2 ArAdhanA",]

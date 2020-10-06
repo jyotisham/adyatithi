@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 44 jagadguru zrI~pUrNabOdhEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "kArNATO haripaNDitaH zivasutaH zrIpUrNabOdhAkhyayA bibhrANO'nupadaM jagadgurupadaM varSAMzca SaDviMzatim.\ndhAmni svE paramE jagAma nilayaM varSE pramAthyAhvayE kRSNaprauSThapadatrayOdazatithau brAhmE kSaNE brahmavit..87..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-44.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 6
+anga_type = "tithi"
+anga_number = 28
+kaala = "aparaahna"
+year_start = 4141
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Śiva of Karnataka called Haripaṇḍita subsequently known by the name Śrī Pūrṇabodha (after initiation) held the preceptorship of the Pīṭha (Jagatgurupada) for twenty-six years. This realised preceptor merged in his illustrious effulgence in the early hours on the trayodaśī of Kṛṣṇapakṣa in the month Bhādrapada of the year Pramāthī."
+
+[names]
+sa = [ "kAJcI 44 jagadguru zrI~pUrNabOdhEndra sarasvatI 2 ArAdhanA",]

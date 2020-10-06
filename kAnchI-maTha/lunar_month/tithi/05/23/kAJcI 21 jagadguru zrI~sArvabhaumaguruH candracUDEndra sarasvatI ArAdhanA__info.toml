@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 21 jagadguru zrI~sArvabhaumaguruH candracUDEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "arcAcandanapESaNAd bhagavataH zrIzaGkarEndrArcita-\nsyArUDhaH padavIM kavEranusRtErharSasya bhUtvA nRpaH.\nkAzmIrESu virajya vikrama-mRtau gRhNan gurOH prAktanAt\nsannyAsaM sa hi kOGkaNAcyutasutaH zrIcandracUDO'bhavat..45..\nabdAn dEvanadItaTE daza nayan AcAryabhUtO bhuvO\ndhanvantaryavatAram AryamadhuraM nikSipya pIThE nijE.\ndattvA'smai paripUrNabOdhabirudaM bhEjE vyayE cAvyayaM\ndhAma svaM jananASTamInizi harEH zrIcandracUDAzramI..46..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-21.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 5
+anga_type = "tithi"
+anga_number = 23
+kaala = "aparaahna"
+year_start = 3548
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Śrī Acyutaśarmā of Koṅkaṇadeśa, having offered his services of preparing sandal paste for the worship of Śrī Chandramoulīśvara, He was offered kingship of Kashmir by King Harṣa for his poetical wisdom/merits. Having ruled Kashmir for a short period, He came back to his preceptor Arbhakaśaṅkara and got initiated into asceticism with the name Sārvabhauma Chandracūḍendra Sarasvatī. Preceptor Śrī Chandracūḍendra Sarasvatī leading for ten years a pious life on the banks of Ganges, establishing on his throne revered Madhura the incarnation of Dhanvantari and adorning him with the title Paripūrṇabodha reached/attained his Lord’s immortal abode on the night of Kṛṣṇajanmāṣṭamī in the year Vijaya."
+
+[names]
+sa = [ "kAJcI 21 jagadguru zrI~sArvabhaumaguruH candracUDEndra sarasvatI ArAdhanA",]

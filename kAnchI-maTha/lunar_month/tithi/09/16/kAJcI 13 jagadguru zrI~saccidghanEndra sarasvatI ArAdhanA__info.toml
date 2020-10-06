@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 13 jagadguru zrI~saccidghanEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "saptatriMzad asau samAH samanubhUyAcAryapIThIdhurAM\nzrIvidyAghanam AndhravarNinam adhAcchrInAyanAkhyaM maThE.\nbhrAmyan bAlavad antarE puravarasyA''dhUtavRttiH sthiraH\nzrIsaccidghanadEzikaH samabhajat svAntardhim anvIzvaram..25..\nsUnuH zrIdharapaNDitasya garuDasrOtasvinItIrabhUH\nzESAkhyO gurucandrazEkharamunEH ziSyazca saccidghanaH.\nvarSAn saptatim Ekavarjam anubhUyAdhyAtmabuddhyA sukhaM\ndEhAntE zivaliGgamadhyam avizat kAyAdhirOhEzituH..26..\nkharE'kharaprakRtiraghAsahaH sahE parOrajAH param aparE ca pakSakE.\nadhAd adhipratipad anApadAspadaM parAtparaM padam azarIram avyayam..27..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-13.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 9
+anga_type = "tithi"
+anga_number = 16
+kaala = "aparaahna"
+year_start = 3373
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Then, the preceptor Śrī Cidghana, having governed or held the responsibilities of Ācārya Pīṭha for thirtyseven years, placed his disciple Śrī Vidyāghana, who was known as Śrī Nāyana in Pūrvāśrama before initiation, in the Maṭha; adhering to ascetic principles, wandering like a child, He vanished in the divine form of Ăśvara. Śrī Sacchidānanda, named Śeṣa (before initiation), son of Śrīdhrapaṇḍita, born on the banks of river Garuḍa, disciple of Preceptor Chandraśekahara having enjoyed the bliss through spiritual practices for sixty-nine years, and at the end of life entered into the Śivaliṅga—Kāyādhirohaneśvara. The great preceptor, the transcendental, immaculate attained the supreme state devoid of pains, beyond everything, imperishable and infinite on the first day of the dark fortnight in the month of Mārgaśīrṣa in the year Khara. "
+
+[names]
+sa = [ "kAJcI 13 jagadguru zrI~saccidghanEndra sarasvatI ArAdhanA",]

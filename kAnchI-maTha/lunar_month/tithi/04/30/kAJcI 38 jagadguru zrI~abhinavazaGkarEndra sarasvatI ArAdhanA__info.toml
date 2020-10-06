@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 38 jagadguru zrI~abhinavazaGkarEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "jajJE vizvajitazcidambarabhuvaH zrImAn viziSTOdarAnnAthasyAsuvinirgamAt param asAvadhyardhavarSadvayE.\nvaizAkhE vibhavE sitE ca dazamImadhyE vivasvAniva svAvAsAyitakuJjapuJjitatamaskANDArbhaTIkhaNDanaH..74..\nvaidhavyaM vibudhAlayE nivasatiM vRttiM ca bhRtyAzrayAM\nbandhUnAM ca vimAnanAm anitarAsaGgAM dazAM cAtmanaH.\nkaulInAt kuladUSaNAdapi bhayAdAlOcya gatyantarA-\nbhAvAd adhyaTavi stRtE navadalE kSiptO jananyaiva yaH..75..\nyaM vyAghrapAdamahilA viruvantam ArAd AdAya gEham upanIya nivEdya patyE.\nstanyAdinA samapuSad dayayOpanIya mAdhyandinizca yam abUbudhad AtmavidyAH..76..\nvidyAkarma samApya sarvavacasAM sArArthavit saMyamaM sAkSAdApya jagadgurOratha puraH svEcchOditAcchaGkarAt.\ntatpArzvasthitapadmabhUkarayugaprAptAM dadhatpAdukAM vIrAM vyOmagatau sa saMyamadhanastilvATavIm Avasat..77..\nvEdAntadEzikacidambaranAthavEdhOvAkyairjagadgururadhiSThitakAmapIThaH.\naSTAsu dikSvapi nirastasamastavidvadvAdAvalEpavibhavO vyacaraddharitrIm..78..\nkAzmIrikAn laghu vijitya girOdbhaTAdIn sarvajJapITham adhiruhya ca zAradAgrE.\nAtrEyakandaram anuvrajitO'pi ziSyaiH antarhitaH satanurEva sa zaGkarEndraH..79..\ndvApaJcAzatam ittham advayanayaM varSAn pravRSya kSitau\npuNyAyAM paratO'pi tasya supathazcikhyAsayEva drutE.\nsiddhArthinyayanE'pyudaJcini zucau darzE'hni kAlE kalEH\nvidyAzEvadhipAvakE (3941) gururabhUt saccidvilAsO muniH..80..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-38.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 4
+anga_type = "tithi"
+anga_number = 30
+kaala = "aparaahna"
+year_start = 3941
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "This preceptor was the son of Viśvajit of Cidambaram through viśiṣṭā; like the Sun who dispels the dense darkness veiling his presence, He was born on the tenth day of the bright fortnight in the month of Vaiśākha in the year Vibhava twelve months after his father’s demise. One who was abandoned as a child in the midst of a forest by his mother herself without any possible solution to her deplorable plight, viz., widowhood, lack of shelter, servitude, insult of relatives fear of slander etc. Who, on crying at a distance was taken by the wife of Vyāghrapāda, to her home and was compassionately breastfed by her after informing her husband. The sage initiated him and imparted the ātmavidyā. Then, the adept in self control/ascetic principles, having completed studies, well-versed in scriptures, having received the grace bestowed by the Universal Preceptor (Śrī Śaṅkara) who manifested of his will before (him), and having received the mighty sacred sandals (of Śrī Śaṅkara) offered by Padmapāda appearing by the side of Śrī Śaṅkara, He (the Dhīraśaṅkara) stayed in Tilvaraṇya. The Universal Preceptor having adorned the seat of KāmaPīṭha, He wandered through the earth triumphant of having wiped off the arrogance of the adherents/scholars of rival schools in eight quarters (of the earth) and established the doctrine of Advaita. He Śaṅkarendra, having conquered easily the Kashmiri scholars Girodbhaṭṭa and others, ascended the SarvajñaPīṭha in Kashmir and though being followed by disciples to the Ātreya caves (in the Himalayas), disappeared alive in the embodied form itself. Thus, the preceptor sage spreading/showering the tenets of Advaya on this sacred earth for fifty-two years and with a desire to spread this noble path in the other world, He disappeared on the new moon day in the month of Āṣāḍha of the Uttarayaṇa in the year Siddhārthi of Kali era 3914. The sage Saccidvilāsa became the preceptor. This preceptor is turīyatīta-Śaṅkara. Some scholars mistake him to be Śrī Śaṅkara Bhagavadpāda and compile biography with inconsistencies."
+
+[names]
+sa = [ "kAJcI 38 jagadguru zrI~abhinavazaGkarEndra sarasvatI ArAdhanA",]

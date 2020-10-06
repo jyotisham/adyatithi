@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 39 jagadguru zrI~saccidvilAsEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = [ "kAnyakubjakamalEzvarAtmajaH zrIpatiH zritayamazca zaGkarAt.\nadhyuvAsa gurupITham azramaM bAla(33)varSadhRtizIla AzramI..81..\nAnandavardhanamukhaiH abhirUpavaryaiH ArAdhitAGghriH adhipadmapuraM cirAya.\nadhyuSya kAJcim upagamya ca nandanAbdE siddhiM gatO nizi nRsiMhajayantikAyAH..82..\n—puNyazlOkamaJjarI",]
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-39.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 2
+anga_type = "tithi"
+anga_number = 14
+kaala = "aparaahna"
+year_start = 3974
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Kamaleśvara Śrīpati, having received the initiation from Śaṅkara, the sage (preceptor) with an ability to endure heat and cold easily, remained in the guru Pīṭha. Adorned by the erudites like Ānandavardhana etc., residing at Padmapuram for a long time and then, having reached Kāñci, He attained siddhi on the night of Narasimha Jayanti in the year Nandana. This saint Saccidvilāsa, adored by Śrī Ānandavardhana, Muktākaṇa, Śivaswāmi and Rājānakaratnākara remained in the Pīṭha for thirty-three years and attained siddhi near Kāñci on the full moon day of Vaiśāka month in the year Nandana."
+
+[names]
+sa = [ "kAJcI 39 jagadguru zrI~saccidvilAsEndra sarasvatI ArAdhanA",]
