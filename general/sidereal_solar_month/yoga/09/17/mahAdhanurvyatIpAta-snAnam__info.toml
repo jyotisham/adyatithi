@@ -10,7 +10,7 @@ priority = "puurvaviddha"
 month_number = 9
 anga_type = "yoga"
 anga_number = 17
-kaala = "arunodaya"
+kaala = "preceeding_arunodaya"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

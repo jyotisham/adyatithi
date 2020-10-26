@@ -15,9 +15,9 @@ A repository to host details of many festivals/observances of Indian hindus
 
 ## Extra timing information
 - Basic information about festival timing is covered in the "Path within repository" section.
-- Festivals are associated with kaala-s (time intervals), which may be one of `arunodaya, sunrise, sunset, moonrise, puurvaahna, aparaahna` etc.. The default kaala is assumed to be `sunrise`. An `anga` (such as `tithi`) intersecting with an appropriate kaala determines a "festival".
+- Festivals are associated with kaala-s (time intervals), which may be one of `preceeding_arunodaya, sunrise, sunset, moonrise, puurvaahna, aparaahna` etc.. The default kaala is assumed to be `sunrise`. An `anga` (such as `tithi`) intersecting with an appropriate kaala determines a "festival".
 - Such an intersection may happen on two consecutive days. In that case, the priority field (with values being one of `puurvaviddha, paraviddha, vyaapti`) determines the day to be chosen for the "festival".
 
 ### Clarity about meaning of kaala values
-- `arunodaya` refers to the dawn _preceeding_ a given day.
+- `preceeding_arunodaya` refers to the dawn _preceeding_ a given day.
 - `aparaahna` refers to the second half of the day (though it is confused with a muhuurta of the same name - see [here](https://github.com/sanskrit-coders/jyotisha/issues/53)).
