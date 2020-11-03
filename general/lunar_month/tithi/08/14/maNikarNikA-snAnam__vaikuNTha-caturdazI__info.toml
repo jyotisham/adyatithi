@@ -1,5 +1,5 @@
 default_to_none = true
-id = "maNikarNikA-snAnam/vaikuNTha-caturdazI"
+id = "maNikarNikA-snAnam or vaikuNTha-caturdazI"
 tags = [ "SpecialSnanam",]
 references_primary = [ "skAnda mahApurANe vaiSNavakhaNDE paJcatriMzO.adhyAyaH",]
 jsonClass = "HinduCalendarEvent"

@@ -1,5 +1,5 @@
 default_to_none = true
-id = "vEda/dadhi-vrata-ArambhaH"
+id = "vEda or dadhi-vrata-ArambhaH"
 tags = [ "SpecialVratam", "VratamStart", "SpecialPeriodStart",]
 jsonClass = "HinduCalendarEvent"
 

@@ -1,5 +1,5 @@
 default_to_none = true
-id = "mauni (pauSa/makara) amAvAsyA"
+id = "mauni (pauSa or makara) amAvAsyA"
 tags = [ "AmavasyaDays",]
 jsonClass = "HinduCalendarEvent"
 

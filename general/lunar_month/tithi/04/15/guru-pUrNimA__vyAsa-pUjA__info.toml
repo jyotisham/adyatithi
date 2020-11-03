@@ -1,5 +1,5 @@
 default_to_none = true
-id = "guru-pUrNimA/vyAsa-pUjA"
+id = "guru-pUrNimA or vyAsa-pUjA"
 tags = [ "PurnimaDays", "SpecialPuja", "CommonFestivals",]
 shlokas = [ "acaturvadanO brahmA dvibAhuraparO hariH.\naphAlalOcanO zambhurbhagavAn bAdarAyaNaH..",]
 jsonClass = "HinduCalendarEvent"
