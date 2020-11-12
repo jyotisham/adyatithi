@@ -1,5 +1,5 @@
 default_to_none = true
-id = "amAvAsyA"
+id = "sidereal_solar_month_amAvAsyA"
 tags = [ "MonthlyShraddhaDays", "ShannavatiTarpanaDays",]
 jsonClass = "HinduCalendarEvent"
 
