@@ -1,5 +1,5 @@
 default_to_none = true
-id = "AyuSmad-bava-saumya-saMyogaH"
+id = "AyuSmad-bava-saumya-saMyOgaH"
 tags = [ "RareDays", "Combinations",]
 references_secondary = [ "Maha Periva / Deivattin Kural",]
 jsonClass = "HinduCalendarEvent"
