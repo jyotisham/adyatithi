@@ -17,7 +17,7 @@ kaala = "preceeding_arunodaya"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Perform snana four ghatikas before sunrise (during `preceeding_arunodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+en = "Perform snana four ghatikas before sunrise (during `aruNOdayaH`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
 
 [names]
 sa = [ "vaizAkha-pUrNimA-snAnam",]
