@@ -11,6 +11,7 @@ month_number = 11
 anga_type = "tithi"
 anga_number = 30
 year_start = 4665
+year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]

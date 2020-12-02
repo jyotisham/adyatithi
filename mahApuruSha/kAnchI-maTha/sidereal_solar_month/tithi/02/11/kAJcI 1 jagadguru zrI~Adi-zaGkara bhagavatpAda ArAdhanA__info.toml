@@ -15,6 +15,7 @@ anga_type = "tithi"
 anga_number = 11
 kaala = "aparaahna"
 year_start = 2626
+year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

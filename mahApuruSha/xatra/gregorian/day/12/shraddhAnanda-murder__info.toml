@@ -1,0 +1,20 @@
+default_to_none = true
+id = "shraddhAnanda-murder"
+tags = [ "MahapurushaEvents",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 23
+year_start = 1926
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Swami shraddhananda, who brought back lakhs of muslims to the deva-dharma, was shot to death by Abdul Rashid."
+
+[names]
+sa = [ "shraddhAnanda-hatyA",]

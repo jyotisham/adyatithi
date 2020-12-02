@@ -10,6 +10,7 @@ month_number = 10
 anga_type = "tithi"
 anga_number = 15
 year_start = 2616
+year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

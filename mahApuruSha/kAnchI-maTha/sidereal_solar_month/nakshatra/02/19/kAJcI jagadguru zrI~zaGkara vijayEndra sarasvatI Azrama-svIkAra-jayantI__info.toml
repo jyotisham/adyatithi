@@ -12,6 +12,7 @@ anga_type = "nakshatra"
 anga_number = 19
 kaala = "praatah"
 year_start = 5084
+year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

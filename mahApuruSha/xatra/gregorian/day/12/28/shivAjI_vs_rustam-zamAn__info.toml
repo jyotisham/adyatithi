@@ -1,0 +1,20 @@
+default_to_none = true
+id = "shivAjI_vs_rustam-zamAn"
+tags = [ "MahapurushaEvents",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 28
+year_start = 1659
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Shivaji defeated Rustam-i Zaman in an epic battle fought near Kolhapur."
+
+[names]
+sa = [ "shivarAjeNa rustam-jamAno dhvastaH",]

@@ -10,6 +10,7 @@ month_number = 8
 anga_type = "day"
 anga_number = 28
 year_start = 4687
+year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
