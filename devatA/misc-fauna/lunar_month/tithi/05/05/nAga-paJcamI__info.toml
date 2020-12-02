@@ -1,7 +1,7 @@
 default_to_none = true
 id = "nAga-paJcamI"
 tags = [ "SpecialPuja", "PuranaEvents",]
-shlokas = [ "apasarpa sarpa bhadraM tE dUraM gaccha mahAyazAH.\njanamEjayasya yajJAntE astIkavacanaM smaran..",]
+shlokas = "अपसर्प सर्प भद्रं ते दूरं गच्छ महायशाः।\nजनमेजयस्य यज्ञान्ते अस्तीकवचनं स्मरन्॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

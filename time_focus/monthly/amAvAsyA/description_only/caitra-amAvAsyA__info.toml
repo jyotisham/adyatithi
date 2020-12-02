@@ -1,7 +1,7 @@
 default_to_none = true
 id = "caitra-amAvAsyA"
 tags = [ "AmavasyaDays",]
-shlokas = [ "yO dadyAccaitradarzE tu kumbhaM pUrNaM tu pAnakaiH.\ngayAzrAddhazataM tEna kRtamEva na saMzayaH..52..\nkastUrI karpurOpEtaM mallikOzIrasaMyutam.\nkalazaM pAnakaiH pUrNaM caitradarzE tu mAnavaH.\ndadyAtpitRRnsamuddizya sa SaNNavatidO bhavEt..53..\n-- skandapurANE dvitIyE vaiSNavakhaNDE vaizAkhamAhAtmyE tRtIyE adhyAyE",]
+shlokas = "यो दद्याच्चैत्रदर्शे तु कुम्भं पूर्णं तु पानकैः।\nगयाश्राद्धशतं तेन कृतमेव न संशयः॥५२॥\nकस्तूरी कर्पुरोपेतं मल्लिकोशीरसंयुतम्।\nकलशं पानकैः पूर्णं चैत्रदर्शे तु मानवः।\nदद्यात्पितॄन्समुद्दिश्य स षण्णवतिदो भवेत्॥५३॥\n-- स्कन्दपुराणे द्वितीये वैष्णवखण्डे वैशाखमाहात्म्ये तृतीये अध्याये"
 references_primary = [ "Skanda Puranam",]
 jsonClass = "HinduCalendarEvent"
 

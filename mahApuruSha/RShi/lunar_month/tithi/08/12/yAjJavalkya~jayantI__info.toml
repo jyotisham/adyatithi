@@ -1,7 +1,7 @@
 default_to_none = true
 id = "yAjJavalkya~jayantI"
 tags = [ "MahapurushaEvents",]
-shlokas = [ "vandE'haM  maGgaLAtmAnaM  bhAsvantaM  vEdavigraham.\nyAjJavalkyaM  munizrESThaM  jISNuM  hariharaprabham..\njitEndriyaM  jitakrOdhaM  sadA  dhyAnaparAyaNam.\nAnandanilayaM  vandE  yOgAnandamunIzvaram..\n",]
+shlokas = "वन्देऽहं  मङ्गळात्मानं  भास्वन्तं  वेदविग्रहम्।\nयाज्ञवल्क्यं  मुनिश्रेष्ठं  जीष्णुं  हरिहरप्रभम्॥\nजितेन्द्रियं  जितक्रोधं  सदा  ध्यानपरायणम्।\nआनन्दनिलयं  वन्दे  योगानन्दमुनीश्वरम्॥\n"
 references_secondary = [ "Vaidikasri Nov 2017",]
 jsonClass = "HinduCalendarEvent"
 

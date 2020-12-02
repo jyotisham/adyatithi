@@ -1,7 +1,7 @@
 default_to_none = true
 id = "parivartinI-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
-shlokas = [ "vAsudEva jagannAtha prAptEyaM dvAdazI tava.\npArzvEna parivartasva sukhaM svapihi mAdhava..",]
+shlokas = "वासुदेव जगन्नाथ प्राप्तेयं द्वादशी तव।\nपार्श्वेन परिवर्तस्व सुखं स्वपिहि माधव॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

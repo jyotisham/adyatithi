@@ -1,7 +1,7 @@
 default_to_none = true
 id = "azUnyazayana-vratam~1"
 tags = [ "SpecialVratam",]
-shlokas = [ "lakSmyA viyujyatE dEva na kadAcit yatO bhavAn.\ntathA kalatrasambandhO dEva mA mE viyujyatAm..",]
+shlokas = "लक्ष्म्या वियुज्यते देव न कदाचित् यतो भवान्।\nतथा कलत्रसम्बन्धो देव मा मे वियुज्यताम्॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

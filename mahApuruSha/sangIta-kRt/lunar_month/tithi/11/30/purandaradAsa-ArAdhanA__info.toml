@@ -1,7 +1,7 @@
 default_to_none = true
 id = "purandaradAsa-ArAdhanA"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
-shlokas = [ "manmanObhISTavaradaM sarvAbhISTaphalapradam.\npurandaraguruM vandE dAsazRESThaM dayAnidhim..",]
+shlokas = "मन्मनोभीष्टवरदं सर्वाभीष्टफलप्रदम्।\nपुरन्दरगुरुं वन्दे दासशृएष्ठं दयानिधिम्॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

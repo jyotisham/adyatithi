@@ -1,7 +1,7 @@
 default_to_none = true
 id = "gaNAdhipa-mahAgaNapati saGkaTahara-caturthI-vratam"
 tags = [ "MonthlyVratam", "SankataharaChaturthiVratam",]
-shlokas = [ "gaNAdhipastvaM dEvEza caturthyAM pUjitO mayA.\nkaSTAnmAM mOcayEzAna sarvamiSTaM ca dEhi mE..",]
+shlokas = "गणाधिपस्त्वं देवेश चतुर्थ्यां पूजितो मया।\nकष्टान्मां मोचयेशान सर्वमिष्टं च देहि मे॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

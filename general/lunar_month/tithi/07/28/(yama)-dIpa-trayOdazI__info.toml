@@ -1,7 +1,7 @@
 default_to_none = true
 id = "(yama)-dIpa-trayOdazI"
 tags = [ "CommonFestivals",]
-shlokas = [ "AzvinasyAsitE pakSE trayOdazyAM nizAmukhE.\nyamadIpaM bahirdadyAt apamRtyurvinazyati..\n\nmRtyunA pAzadaNDAbhyAM kAlEna zyAmayA saha.\ntrayOdazyAM dIpadAnAt sUryajaH prIyatAM mama..",]
+shlokas = "आश्विनस्यासिते पक्षे त्रयोदश्यां निशामुखे।\nयमदीपं बहिर्दद्यात् अपमृत्युर्विनश्यति॥\n\nमृत्युना पाशदण्डाभ्यां कालेन श्यामया सह।\nत्रयोदश्यां दीपदानात् सूर्यजः प्रीयतां मम॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

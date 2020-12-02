@@ -1,7 +1,7 @@
 default_to_none = true
 id = "lakSmI-paJcamI"
 tags = [ "CommonFestivals",]
-shlokas = [ "zuklAyAMatha paJcamyAM caitrE mAsi zubhAnanA.\nzrIrviSNulOkAnmAnuSyaM samprAptA kEzavAjJayA..\ntasmAt tAM pUjayEt tatra yastaM lakSmIrna muJcati..",]
+shlokas = "शुक्लायांअथ पञ्चम्यां चैत्रे मासि शुभानना।\nश्रीर्विष्णुलोकान्मानुष्यं सम्प्राप्ता केशवाज्ञया॥\nतस्मात् तां पूजयेत् तत्र यस्तं लक्ष्मीर्न मुञ्चति॥"
 references_secondary = [ "Vaidikasri Mar 2018",]
 jsonClass = "HinduCalendarEvent"
 

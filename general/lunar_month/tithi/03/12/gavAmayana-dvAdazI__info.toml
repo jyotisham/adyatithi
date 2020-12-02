@@ -1,7 +1,7 @@
 default_to_none = true
 id = "gavAmayana-dvAdazI"
 tags = [ "LessCommonFestivals",]
-shlokas = [ "ahOrAtrENa dvAdazyAM jyESThE mAsi trivikramam.\ngavAmayanamApnOti apsarObhizca mOdatE..",]
+shlokas = "अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।\nगवामयनमाप्नोति अप्सरोभिश्च मोदते॥"
 references_primary = [ "Mahabharata",]
 references_secondary = [ "Vaidikasri June 2017",]
 jsonClass = "HinduCalendarEvent"

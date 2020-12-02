@@ -1,7 +1,7 @@
 default_to_none = true
 id = "akSayya-tRtIyA"
 tags = [ "CommonFestivals",]
-shlokas = [ "kaNDUya pRSThatO gAM tu snAtvA pippala-tarpaNam.\nkRtvA govindamabhyarcya na durgatimavApnuyAt..\nchatrOpAnat pradAnaM vA gO-bhU-kAJcana-vAsasI.\nyadyadiSTatamaM cAnyattaddEyam avizaGkayA..\nyasyAM snAnaM japO hOmaH svAdhyAyaH pitRtarpaNam.\ndAnaM ca kriyatE kiJcittatsarvaM syAdihAkSayam..",]
+shlokas = "कण्डूय पृष्ठतो गां तु स्नात्वा पिप्पल-तर्पणम्।\nकृत्वा गॊविन्दमभ्यर्च्य न दुर्गतिमवाप्नुयात्॥\nछत्रोपानत् प्रदानं वा गो-भू-काञ्चन-वाससी।\nयद्यदिष्टतमं चान्यत्तद्देयम् अविशङ्कया॥\nयस्यां स्नानं जपो होमः स्वाध्यायः पितृतर्पणम्।\nदानं च क्रियते किञ्चित्तत्सर्वं स्यादिहाक्षयम्॥"
 references_primary = [ "Nirnaya Sindhu p.71",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"

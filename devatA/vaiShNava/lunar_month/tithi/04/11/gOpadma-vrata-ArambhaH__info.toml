@@ -1,7 +1,7 @@
 default_to_none = true
 id = "gOpadma-vrata-ArambhaH"
 tags = [ "SpecialVratam",]
-shlokas = [ "gOpadmamiti vikhyAtaM sarvapApaharaM param.\nsarvaduHkhOpazamanaM sarvasampatpradAyakam.\nsuvAsinyAstu saubhAgyaputrapautrapravardhanam..",]
+shlokas = "गोपद्ममिति विख्यातं सर्वपापहरं परम्।\nसर्वदुःखोपशमनं सर्वसम्पत्प्रदायकम्।\nसुवासिन्यास्तु सौभाग्यपुत्रपौत्रप्रवर्धनम्॥"
 references_primary = [ "Vrata Chudamani 173",]
 references_secondary = [ "Vaidikasri Aug 2015",]
 jsonClass = "HinduCalendarEvent"

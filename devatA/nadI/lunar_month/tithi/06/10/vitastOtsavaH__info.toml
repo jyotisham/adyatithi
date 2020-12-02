@@ -1,7 +1,7 @@
 default_to_none = true
 id = "vitastOtsavaH"
 tags = [ "SpecialSnanam",]
-shlokas = [ "yAni tIrthAni bhAratavarSE tAni tIrthAni kAzmIramaNDalE.\nyAni tIrthAni kAzmIramaNDalE tAni tIrthAni vitastAyAm..",]
+shlokas = "यानि तीर्थानि भारतवर्षे तानि तीर्थानि काश्मीरमण्डले।\nयानि तीर्थानि काश्मीरमण्डले तानि तीर्थानि वितस्तायाम्॥"
 references_primary = [ "Nilamata Puranam",]
 jsonClass = "HinduCalendarEvent"
 

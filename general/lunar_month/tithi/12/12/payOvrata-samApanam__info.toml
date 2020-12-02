@@ -1,7 +1,7 @@
 default_to_none = true
 id = "payOvrata-samApanam"
 tags = [ "VratamEnd", "SpecialPeriodEnd",]
-shlokas = [ "phAlgunasyAmalE pakSE dvAdazAhaM payOvratam. arcayEdaravindAkSaM bhaktyA paramayA.a.anvitaH..",]
+shlokas = "फाल्गुनस्यामले पक्षे द्वादशाहं पयोव्रतम्। अर्चयेदरविन्दाक्षं भक्त्या परमया।अ।अन्वितः॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,7 @@
 default_to_none = true
 id = "prANahitA-Adi-puSkara-samApanam"
 tags = [ "RareDays", "Pushkara",]
-shlokas = [ "yadA rAzi-pravEzaH syAttadA prabhRti sarvadA.\ndvAdazAhamitE kAlE vastavyaM tu mamA''jJayA..\nAvatsaraM tu vastavyaM madhyAhnE dvimuhUrtakam.\nantE dvAdaza vastavyaM dinAni ca yathAsukham..\n",]
+shlokas = "यदा राशि-प्रवेशः स्यात्तदा प्रभृति सर्वदा।\nद्वादशाहमिते काले वस्तव्यं तु ममाऽऽज्ञया॥\nआवत्सरं तु वस्तव्यं मध्याह्ने द्विमुहूर्तकम्।\nअन्ते द्वादश वस्तव्यं दिनानि च यथासुखम्॥\n"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,7 @@
 default_to_none = true
 id = "gOvatsa-dvAdazI"
 tags = [ "SpecialVratam", "CommonFestivals",]
-shlokas = [ "gOkSIraM gOghRtaM caiva dadhi takraM ca varjayEt.\n\nsurabhi tvaM jaganmAtardEvi viSNupadE sthitA.\nsarvadEvamayE grAsaM mayA dattamidaM grasa..\n\nsarvadEvamayE dEvi sarvEdEvaizca satkRtA.\nmAtarmamA'bhilASitaM saphalaM kuru nandini..\n",]
+shlokas = "गोक्षीरं गोघृतं चैव दधि तक्रं च वर्जयेत्।\n\nसुरभि त्वं जगन्मातर्देवि विष्णुपदे स्थिता।\nसर्वदेवमये ग्रासं मया दत्तमिदं ग्रस॥\n\nसर्वदेवमये देवि सर्वेदेवैश्च सत्कृता।\nमातर्ममाऽभिलाषितं सफलं कुरु नन्दिनि॥\n"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

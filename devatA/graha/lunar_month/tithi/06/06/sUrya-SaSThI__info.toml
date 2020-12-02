@@ -1,7 +1,7 @@
 default_to_none = true
 id = "sUrya-SaSThI"
 tags = [ "SpecialPuja",]
-shlokas = [ "zuklE bhAdrapadE SaSThyAM snAnaM bhAskarapUjanam.\nprAzanaM paJcagavyasya azvamEdhaphalAdhikam..",]
+shlokas = "शुक्ले भाद्रपदे षष्ठ्यां स्नानं भास्करपूजनम्।\nप्राशनं पञ्चगव्यस्य अश्वमेधफलाधिकम्॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

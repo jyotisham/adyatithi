@@ -1,7 +1,7 @@
 default_to_none = true
 id = "subrahmaNya-SaSThI-vratam"
 tags = [ "MonthlyVratam", "ShashthiVratam",]
-shlokas = [ "sEnAvidAraka skanda mahAsEna mahAbala.\nrudrOmAgnija SaDvaktra gaGgAgarbha namO'stu tE..",]
+shlokas = "सेनाविदारक स्कन्द महासेन महाबल।\nरुद्रोमाग्निज षड्वक्त्र गङ्गागर्भ नमोऽस्तु ते॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

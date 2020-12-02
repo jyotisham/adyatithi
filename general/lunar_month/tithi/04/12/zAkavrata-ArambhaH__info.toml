@@ -1,7 +1,7 @@
 default_to_none = true
 id = "zAkavrata-ArambhaH"
 tags = [ "VratamStart", "SpecialPeriodStart", "CommonFestivals",]
-shlokas = [ "vAsudEva zucau mAsE zAkavratamanuttamam.\ntvatprItyarthaM kariSyE'haM nirvighnaM kuru mAdhava..",]
+shlokas = "वासुदेव शुचौ मासे शाकव्रतमनुत्तमम्।\nत्वत्प्रीत्यर्थं करिष्येऽहं निर्विघ्नं कुरु माधव॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

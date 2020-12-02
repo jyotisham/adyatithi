@@ -1,7 +1,7 @@
 default_to_none = true
 id = "zayana-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
-shlokas = [ "tvayi suptE jagannAthE jagatsuptaM bhavEdidam..\nvibuddhE tvayi buddhyEta sarvamEtaccarAcaram..\nvAsudEva jagadyOnE prAptEyaM dvAdazI tava.\nbhujaGgazayanE'bdhau ca sukhaM svapihi mAdhava..\niyaM tu dvAdazI dEva zayanArthaM vinirmitA.",]
+shlokas = "त्वयि सुप्ते जगन्नाथे जगत्सुप्तं भवेदिदम्॥\nविबुद्धे त्वयि बुद्ध्येत सर्वमेतच्चराचरम्॥\nवासुदेव जगद्योने प्राप्तेयं द्वादशी तव।\nभुजङ्गशयनेऽब्धौ च सुखं स्वपिहि माधव॥\nइयं तु द्वादशी देव शयनार्थं विनिर्मिता।"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

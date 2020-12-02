@@ -1,7 +1,7 @@
 default_to_none = true
 id = "umA-avatAraH"
 tags = [ "OtherJayantis",]
-shlokas = [ "jyESThazuklacaturthyAM tu jAtA pUrvamumA satI.\ntasmAt sA tatra sampUjyA strIbhiH saubhAgyavRddhayE..",]
+shlokas = "ज्येष्ठशुक्लचतुर्थ्यां तु जाता पूर्वमुमा सती।\nतस्मात् सा तत्र सम्पूज्या स्त्रीभिः सौभाग्यवृद्धये॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

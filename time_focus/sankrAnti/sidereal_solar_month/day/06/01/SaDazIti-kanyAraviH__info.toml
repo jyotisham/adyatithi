@@ -1,7 +1,7 @@
 default_to_none = true
 id = "SaDazIti-kanyAraviH"
 tags = [ "SunSankranti",]
-shlokas = [ "kanyApravEzE vastrANAM vEzmanAM dAnamEva ca",]
+shlokas = "कन्याप्रवेशे वस्त्राणां वेश्मनां दानमेव च"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
