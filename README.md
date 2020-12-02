@@ -24,3 +24,7 @@ A repository to host details of many festivals/observances of Indian hindus
 
 #### Clarity about meaning of kaala values
 - `preceeding_arunodaya` refers to the dawn _preceeding_ a given day.
+
+## Language and script
+- Names can be provided in a variety of languages. Please use the best/ common script for the language (usually the native script). 
+  - Exception to the above: Tamil names are stored in HK (because the latter differentiates between vargIya consonants!)
