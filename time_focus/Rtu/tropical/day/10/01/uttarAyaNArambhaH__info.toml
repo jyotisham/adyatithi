@@ -1,7 +1,7 @@
 default_to_none = true
 id = "uttarAyaNArambhaH"
-jsonClass = "HinduCalendarEvent"
 tags = []
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -15,4 +15,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Winter solstice."
 
 [names]
-sa = [ "uttarAyaNArambhaH",]
+sa = [ "उत्तरायणारम्भः",]

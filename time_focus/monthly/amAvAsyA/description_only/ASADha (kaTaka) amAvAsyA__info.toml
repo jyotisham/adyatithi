@@ -8,4 +8,4 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "ASADha (kaTaka) amAvAsyA",]
+sa = [ "आषाढ (कटक) अमावास्या",]

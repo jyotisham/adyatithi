@@ -1,7 +1,7 @@
 default_to_none = true
 id = "daxiNa-viSuva-dinam"
-jsonClass = "HinduCalendarEvent"
 tags = []
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -15,4 +15,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Vernal equinox"
 
 [names]
-sa = [ "daxiNa-viSuva-dinam",]
+sa = [ "दक्षिण-विषुव-दिनम्",]

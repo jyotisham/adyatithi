@@ -12,4 +12,4 @@ anga_number = 7
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "anantaphala-saptamI", "putra-saptamI\naparAjitA-saptamI\ndvAdasha-saptamI\nsantAna-saptamI",]
+sa = [ "अनन्तफल-सप्तमी", "पुत्र-सप्तमी\nअपराजिता-सप्तमी\nद्वादस्ह-सप्तमी\nसन्तान-सप्तमी",]

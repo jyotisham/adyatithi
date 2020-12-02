@@ -5,7 +5,7 @@ jsonClass = "HinduCalendarEvent"
 
 [names]
 ta = [ "rAmAnujar~tirunakSattiram",]
-sa = [ "rAmAnuja-janma-nakSatram",]
+sa = [ "रामानुज-जन्म-नक्षत्रम्",]
 
 [timing]
 default_to_none = true
