@@ -1,5 +1,5 @@
 default_to_none = true
-id = "shivAjI_vs_rustam-zamAn"
+id = "shivAjI_takes_panhaLa"
 tags = [ "Shivaji",]
 jsonClass = "HinduCalendarEvent"
 
@@ -8,13 +8,13 @@ default_to_none = true
 month_type = "gregorian"
 month_number = 12
 anga_type = "day"
-anga_number = 28
+anga_number = 8
 year_start = 1659
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Shivaji defeated Rustam-i Zaman in an epic battle fought near Kolhapur."
+en = "Panhala fell on the 2nd night of the siege! Just 18 days after the slaying of Afzal Khan!"
 
 [names]
-sa = [ "zivarAjENa rustam-jamAno dhvastaH",]
+sa = [ "zivarAjEna panhaLadurgaM gRhItam",]
