@@ -10,7 +10,7 @@ priority = "vyaapti"
 month_number = 0
 anga_type = "yoga"
 anga_number = 17
-kaala = "aparaahna"
+kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

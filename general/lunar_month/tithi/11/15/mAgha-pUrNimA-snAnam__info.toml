@@ -12,11 +12,11 @@ priority = "paraviddha"
 month_number = 11
 anga_type = "tithi"
 anga_number = 15
-kaala = "preceeding_arunodaya"
+kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Perform snana four ghatikas before sunrise (during `preceeding_arunodayam`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
+en = "Perform snana four ghatikas before sunrise (during `aruNodayaH`, when the Moon is still up, on the full-moon days of `ASADha`, `kArttika`, `mAgha` and `vaizAkha` – hence the name `A-kA-mA-vai`) bestows strength, beauty, fame, dharma, knowledge, happiness, fortitude and health."
 
 [names]
 sa = [ "माघ-पूर्णिमा-स्नानम्",]

@@ -13,7 +13,7 @@ priority = "paraviddha"
 month_number = 2
 anga_type = "tithi"
 anga_number = 15
-kaala = "preceeding_arunodaya"
+kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

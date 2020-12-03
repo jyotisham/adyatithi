@@ -11,7 +11,7 @@ priority = "puurvaviddha"
 month_number = 11
 anga_type = "tithi"
 anga_number = 8
-kaala = "madhyaahna"
+kaala = "मध्याह्नः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

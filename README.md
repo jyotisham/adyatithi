@@ -19,11 +19,11 @@ A repository to host details of many festivals/observances of Indian hindus
 
 ### Extra timing information
 - Basic information about festival timing is covered in the "Path within repository" section.
-- Festivals are associated with kaala-s (time intervals), which may be one of `preceeding_arunodaya, sunrise, sunset, moonrise, puurvaahna, aparaahna` etc.. The default kaala is assumed to be `sunrise`. An `anga` (such as `tithi`) intersecting with an appropriate kaala determines a "festival".
+- Festivals are associated with kaala-s (time intervals), which may be one of `प्राक्तनारुणोदयः`, `सूर्योदयः`, `सूर्यास्तमयः`, `चन्द्रोदयः`, `पूर्वाह्णः`, `अपराह्णः` etc.. The default kaala is assumed to be `sunrise`. An `anga` (such as `tithi`) intersecting with an appropriate kaala determines a "festival".
 - Such an intersection may happen on two consecutive days. In that case, the priority field (with values being one of `puurvaviddha, paraviddha, vyaapti`) determines the day to be chosen for the "festival".
 
 #### Clarity about meaning of kaala values
-- `preceeding_arunodaya` refers to the dawn _preceeding_ a given day.
+- `प्राक्तनारुणोदयः` refers to the dawn _preceeding_ a given day.
 
 ## Language and script
 - Names can be provided in a variety of languages. Please use the best/ common script for the language (usually the native script). 

@@ -9,7 +9,7 @@ month_type = "sidereal_solar_month"
 month_number = 1
 anga_type = "day"
 anga_number = 1
-kaala = "preceeding_arunodaya"
+kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]

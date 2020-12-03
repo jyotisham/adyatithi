@@ -9,7 +9,7 @@ month_type = "lunar_month"
 month_number = 1
 anga_type = "tithi"
 anga_number = 3
-kaala = "raatrimaana"
+kaala = "रात्रिमानम्"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
