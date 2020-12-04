@@ -1,0 +1,17 @@
+default_to_none = true
+id = "darsheShTiH"
+tags = [ "MonthlyFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "tithi"
+anga_number = 1
+priority = "puurvaviddha"
+kaala = "पूर्वाह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "दर्शेष्टिः",]

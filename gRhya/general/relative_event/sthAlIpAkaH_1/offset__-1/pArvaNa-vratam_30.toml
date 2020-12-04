@@ -1,6 +1,5 @@
 default_to_none = true
-id = "pArvaNa-upavAsaH_30"
-tags = [ "ShannavatiTarpanaDays",]
+id = "pArvaNa-vratam_30"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -11,4 +10,4 @@ jsonClass = "HinduCalendarEventTiming"
 
 
 [names]
-sa = [ "पार्वणोपवासः",]
+sa = [ "पार्वणव्रतम् अमावास्यायाम्",]
