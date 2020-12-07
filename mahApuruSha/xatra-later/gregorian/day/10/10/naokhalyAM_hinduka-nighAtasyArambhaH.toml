@@ -1,0 +1,17 @@
+id = "naokhalyAM_hinduka-nighAtasyArambhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 10
+year_start = 1946
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Naokhali massacre of hindus by muslims started"
+
+[names]
+sa = "नओखल्यां हिन्दुक-निघातस्यारम्भः"

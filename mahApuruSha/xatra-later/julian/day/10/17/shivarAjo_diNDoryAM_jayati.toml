@@ -1,0 +1,17 @@
+id = "shivarAjo_diNDoryAM_jayati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 17
+year_start = 1670
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On this day was fought the fierce battle of Vani-Dindori where Shivaji led the Marathas to a great victory against the Mughals."
+
+[names]
+sa = "शिवराजो दिण्डोर्यां जयति"

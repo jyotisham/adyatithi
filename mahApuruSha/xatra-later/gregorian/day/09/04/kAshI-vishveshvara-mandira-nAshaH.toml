@@ -1,0 +1,17 @@
+id = "kAshI-vishveshvara-mandira-nAshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 4
+year_start = 1669
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Aurangzeb informed that Kashi Vishweshwar was pulled down. Maasiri-‘ Alamgiri, 88. Julian month August."
+
+[names]
+sa = "काशी-विश्वेश्वर-मन्दिर-नाशः"

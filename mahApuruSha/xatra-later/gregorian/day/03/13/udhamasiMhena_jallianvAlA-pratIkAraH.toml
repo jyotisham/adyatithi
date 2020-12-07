@@ -1,0 +1,17 @@
+id = "udhamasiMhena_jallianvAlA-pratIkAraH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 13
+year_start = 1940
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Udham Singh dispatched Michael O'Dwyer to his maker for ordering the Jallianwala Bagh massacre."
+
+[names]
+sa = "उधमसिंहेन जल्लिअन्वाला-प्रतीकारः"

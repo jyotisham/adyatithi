@@ -1,0 +1,17 @@
+id = "throchi-durge_goraxa-sainika-nighAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 15
+year_start = 1947
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "the Muslim Major Nasrullah Khan who murdered all Hindu Gorkha soldiers of his own battalion went to the garrison of Raghubir Thapa. After killing all the Gorkhas, Major Nasrullah khan gave the Pakistani invaders a rousing welcome and joined their ranks"
+
+[names]
+sa = "थ्रोचि-दुर्गे गोरक्ष-सैनिक-निघातः"

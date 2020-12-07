@@ -1,0 +1,17 @@
+id = "bAlAjI-vishvanAtho_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 12
+year_start = 1720
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "great peshva bAlAjI vishvanAth died."
+
+[names]
+sa = "बालाजी-विश्वनाथो मृतः"

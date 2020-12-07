@@ -1,0 +1,17 @@
+id = "tAnAjI-vIra-gatiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 2
+anga_number = 4
+year_start = 1670
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "tANAji mAlsure capture sinhagad, scaling the wall with a lizard and sacrifices his life."
+
+[names]
+sa = "तानाजी-वीर-गतिः"

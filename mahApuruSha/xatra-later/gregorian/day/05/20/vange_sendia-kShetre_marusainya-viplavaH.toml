@@ -1,0 +1,17 @@
+id = "vange_sendia-kShetre_marusainya-viplavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 20
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Pakistani army with local Islamists massacre Hindus in Bengal at Sendia, Galimpur, Chuknagar"
+
+[names]
+sa = "वङ्गे सेन्दिअ-क्षेत्रे मरुसैन्य-विप्लवः"

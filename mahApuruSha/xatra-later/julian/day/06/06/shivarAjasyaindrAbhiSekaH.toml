@@ -1,0 +1,17 @@
+id = "shivarAjasyaindrAbhiSekaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 6
+year_start = 1674
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "jyeShTha shukla 13 shivAji's aindrAbhiSheka."
+
+[names]
+sa = "शिवराजस्यैन्द्राभिषेकः"

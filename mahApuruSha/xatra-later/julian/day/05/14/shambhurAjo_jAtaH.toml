@@ -1,0 +1,17 @@
+id = "shambhurAjo_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 14
+year_start = 1657
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "jyeShTha s12 Sambhaji born"
+
+[names]
+sa = "शम्भुराजो जातः"

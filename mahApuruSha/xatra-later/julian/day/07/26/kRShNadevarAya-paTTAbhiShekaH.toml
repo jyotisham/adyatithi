@@ -1,0 +1,17 @@
+id = "kRShNadevarAya-paTTAbhiShekaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 26
+year_start = 1509
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "kRShNAShTamI (bhAdrapada-kRShNa likely) kRShNadevarAya coronated. https://twitter.com/i/moments/890055413374173186"
+
+[names]
+sa = "कृष्णदेवराय-पट्टाभिषेकः"

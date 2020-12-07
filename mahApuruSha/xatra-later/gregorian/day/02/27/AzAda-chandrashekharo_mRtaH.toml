@@ -1,0 +1,17 @@
+id = "AzAda-chandrashekharo_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 27
+year_start = 1931
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "chandrashekhara AzAd, cornered by british police in prayAga, shot himself with his last bullet."
+
+[names]
+sa = "आज़ाद-चन्द्रशेखरो मृतः"

@@ -1,0 +1,17 @@
+id = "nandimArge_24_paNDitA_hatAH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 23
+year_start = 2003
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Nadimarg massacre of Kashmiri Pandits: 24 killed included toddlers."
+
+[names]
+sa = "नन्दिमार्गे २४ पण्डिता हताः"

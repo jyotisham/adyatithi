@@ -1,0 +1,17 @@
+id = "godhrA-jvAlanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 27
+year_start = 2002
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "59 Hindus were burnt to death in godhra, GJ."
+
+[names]
+sa = "गोध्रा-ज्वालनम्"

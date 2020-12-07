@@ -1,0 +1,17 @@
+id = "kRShNadevarAyasya_rAyachUru-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 19
+year_start = 1520
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "kRShNadevarAya smashed the Jihad of the Army of Islam in a great victory at Raichur"
+
+[names]
+sa = "कृष्णदेवरायस्य रायचूरु-जयः"

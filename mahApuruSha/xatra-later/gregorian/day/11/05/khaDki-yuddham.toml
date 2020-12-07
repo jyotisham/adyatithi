@@ -1,0 +1,17 @@
+id = "khaDki-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 5
+year_start = 1817
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "battle of Khadki (aka battle of Ganeshkhind) at Pune. Casualties:\nEnglish side: 86\nMarathas: 500"
+
+[names]
+sa = "खड्कि-युद्धम्"

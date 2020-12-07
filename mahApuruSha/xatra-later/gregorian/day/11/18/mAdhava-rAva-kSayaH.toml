@@ -1,0 +1,17 @@
+id = "mAdhava-rAva-kSayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 18
+year_start = 1772
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The young but bold and astute visionary, peshvA mAdhava rAv, died of tuberculosis at his favourite Ganesha Chintamani Temple, Theur.  \"And the plains of Panipat were not more fatal to the Maratha Empire than the early end of this excellent prince…\""
+
+[names]
+sa = "माधव-राव-क्षयः"

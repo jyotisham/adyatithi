@@ -1,0 +1,17 @@
+id = "afzal-khAna-vadhAt_13_dinam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 11
+anga_number = 23
+year_start = 1659
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Day 13 (after Afzal's death): Supe, Tambe, Pali, Nerle, Kameri, Visapur, Save Uran, Koley are all taken."
+
+[names]
+sa = "अफ़्ज़ल्-खान-वधात् १३ दिनम्"

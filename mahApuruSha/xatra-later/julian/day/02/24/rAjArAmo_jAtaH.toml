@@ -1,0 +1,17 @@
+id = "rAjArAmo_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 2
+anga_number = 24
+year_start = 1670
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On this day was born Rajaram, 2nd son of Ch Shivaji, who continued the struggle for Swarajya from Ginjee after Sambhaji's brutal torture and execution for refusing to convert to Islam."
+
+[names]
+sa = "राजारामो जातः"

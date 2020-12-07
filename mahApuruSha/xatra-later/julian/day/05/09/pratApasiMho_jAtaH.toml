@@ -1,0 +1,17 @@
+id = "pratApasiMho_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 9
+year_start = 1540
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "jyeShTha s3 Maharana Pratap Jayanti"
+
+[names]
+sa = "प्रतापसिंहो जातः"

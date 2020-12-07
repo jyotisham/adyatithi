@@ -1,0 +1,17 @@
+id = "shambhu-paTTAbhiShekaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 20
+year_start = 1680
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "shrAvaNa s5  Sambhaji ascended the throne"
+
+[names]
+sa = "शम्भु-पट्टाभिषेकः"

@@ -1,0 +1,17 @@
+id = "AngleyA_bhAratatyAgam_aghoShayan"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 19
+year_start = 1946
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "British announced they will leave India"
+
+[names]
+sa = "आङ्ग्लेया भारतत्यागम् अघोषयन्"

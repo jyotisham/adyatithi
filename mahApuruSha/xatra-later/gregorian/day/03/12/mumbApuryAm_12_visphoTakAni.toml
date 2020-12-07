@@ -1,0 +1,17 @@
+id = "mumbApuryAm_12_visphoTakAni"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 12
+year_start = 1993
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Mumbai: 12 bombs exploded, 260 people dead, 700 + Injured"
+
+[names]
+sa = "मुम्बापुर्याम् १२ विस्फोटकानि"

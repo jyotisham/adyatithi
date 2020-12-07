@@ -1,0 +1,17 @@
+id = "bAjI-rAvo_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 8
+anga_number = 18
+year_start = 1700
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "bAjI rAv born"
+
+[names]
+sa = "बाजी-रावो जातः"

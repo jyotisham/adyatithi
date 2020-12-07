@@ -1,0 +1,17 @@
+id = "sAvarkara-vIrasya_prAyopaveshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 26
+year_start = 1966
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On this day, vIra sAvarkara fasted to death (unlike dramabaazi seen in recent years). Besides inspiring the likes of rAjaguru and madana lAla Dhingra, he worked for hindu recruitment into british military, which proved crucial during the partition."
+
+[names]
+sa = "सावर्कर-वीरस्य प्रायोपवेशः"

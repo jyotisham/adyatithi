@@ -1,0 +1,17 @@
+id = "tAlikoTa-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 23
+year_start = 1565
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "battle of tAlikoTa. jihAdi forces won a major victory against the forces of vijayanagara and beheaded rAmarAya - thanks supposedly in part to betrayal by two muslim generals."
+
+[names]
+sa = "तालिकोट-युद्धम्"

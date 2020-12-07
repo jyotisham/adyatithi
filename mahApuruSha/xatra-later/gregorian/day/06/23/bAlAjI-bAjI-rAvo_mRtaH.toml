@@ -1,0 +1,17 @@
+id = "bAlAjI-bAjI-rAvo_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 23
+year_start = 1761
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "bAlAji bAji rao, not long after pAnipaT disaster, died. Son of a great father (Bajirao-1)\nFather to a great son (Madhavrao-1)\nBrother to a great cousin (Sadashiv Rao Bhau)"
+
+[names]
+sa = "बालाजी-बाजी-रावो मृतः"

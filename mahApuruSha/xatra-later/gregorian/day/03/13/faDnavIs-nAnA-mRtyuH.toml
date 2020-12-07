@@ -1,0 +1,17 @@
+id = "faDnavIs-nAnA-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 13
+year_start = 1800
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "nAnA Fadnavis, who loyally and effectively kept the marATha confrederacy together during the time of fratricide, died."
+
+[names]
+sa = "फ़ड्नवीस्-नाना-मृत्युः"

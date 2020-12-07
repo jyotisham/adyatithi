@@ -1,0 +1,17 @@
+id = "golvAlkara-mAdhavo_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 19
+year_start = 1906
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Madhav Sadashiv Golwalkar, 2nd RSS head, born."
+
+[names]
+sa = "गोल्वाल्कर-माधवो जातः"

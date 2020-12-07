@@ -1,0 +1,17 @@
+id = "peshvA-rAjya-nAshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 4
+year_start = 1818
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Peshwa Bajirao II surrendered to the British, after an eight month long war (The 3rd Anglo-Maratha War) - a war which began in Nov 1817 with the 'Battle of Khadki'."
+
+[names]
+sa = "पेश्वा-राज्य-नाशः"

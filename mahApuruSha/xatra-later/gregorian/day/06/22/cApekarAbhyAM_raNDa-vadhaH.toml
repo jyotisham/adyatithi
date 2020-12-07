@@ -1,0 +1,17 @@
+id = "cApekarAbhyAM_raNDa-vadhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 22
+year_start = 1897
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Chāpekar brothers killed W. C. Rand.\n“ Govindā ālā rè “ used first by these guys to signal the approach of Rand."
+
+[names]
+sa = "चापेकराभ्यां रण्ड-वधः"

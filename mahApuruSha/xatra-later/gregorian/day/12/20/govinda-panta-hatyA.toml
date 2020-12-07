@@ -1,0 +1,17 @@
+id = "govinda-panta-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 20
+year_start = 1760
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On this day, in the lead up to Panipat, the Marathas suffer a major setback as their veteran revenue collector Govind Pant, who was in charge of an extremely critical & strategic role, is killed in an overwhelming attack led by Atai Khan, the Durrani Wazir's nephew."
+
+[names]
+sa = "गोविन्द-पन्त-हत्या"

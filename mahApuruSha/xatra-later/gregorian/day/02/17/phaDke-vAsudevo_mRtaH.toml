@@ -1,0 +1,17 @@
+id = "phaDke-vAsudevo_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 17
+year_start = 1883
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On this day died the selfless patriot Vasudev Balwant Phadke, who single handedly tried to resist the might of British Empire."
+
+[names]
+sa = "फड्के-वासुदेवो मृतः"

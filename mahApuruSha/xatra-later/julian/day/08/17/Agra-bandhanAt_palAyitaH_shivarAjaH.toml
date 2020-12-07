@@ -1,0 +1,17 @@
+id = "Agra-bandhanAt_palAyitaH_shivarAjaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 8
+anga_number = 17
+year_start = 1666
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "shrAvaNa k12 Shivaji pulled off one of the greatest escapes in history from the jaws of death at Agra."
+
+[names]
+sa = "आग्र-बन्धनात् पलायितः शिवराजः"

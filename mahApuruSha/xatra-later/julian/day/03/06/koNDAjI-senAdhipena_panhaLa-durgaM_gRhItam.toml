@@ -1,0 +1,17 @@
+id = "koNDAjI-senAdhipena_panhaLa-durgaM_gRhItam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 6
+year_start = 1673
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Kondaji Farzand captured Panhala in a daring night escalade & the garrison was massacred."
+
+[names]
+sa = "कोण्डाजी-सेनाधिपेन पन्हळ-दुर्गं गृहीतम्"

@@ -1,0 +1,17 @@
+id = "bAjI-rAvo_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 28
+year_start = 1740
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "vaishAkha s13, Raudra Sanvatsar, Saka era bAji rAv 1 dead."
+
+[names]
+sa = "बाजी-रावो मृतः"

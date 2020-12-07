@@ -1,0 +1,17 @@
+id = "venkaTa-rAmAryasyAvishkAraH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 28
+year_start = 1928
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "CV Raman discovered the Raman Effect on this day in 1928"
+
+[names]
+sa = "वेङ्कट-रामार्यस्याविश्कारः"

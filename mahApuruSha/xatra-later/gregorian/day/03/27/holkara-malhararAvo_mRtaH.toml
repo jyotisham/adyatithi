@@ -1,0 +1,17 @@
+id = "holkara-malhararAvo_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 27
+year_start = 1766
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "malharrAv holkar dies"
+
+[names]
+sa = "होल्कर-मल्हररावो मृतः"

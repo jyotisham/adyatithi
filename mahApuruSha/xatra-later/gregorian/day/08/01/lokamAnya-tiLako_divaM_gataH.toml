@@ -1,0 +1,17 @@
+id = "lokamAnya-tiLako_divaM_gataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 1
+year_start = 1920
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "LokamAnya Tilak died at age 64."
+
+[names]
+sa = "लोकमान्य-तिळको दिवं गतः"

@@ -1,0 +1,17 @@
+id = "lokamAnya-tiLako_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 23
+year_start = 1856
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "AshADha k1  lokamAnya bhAlagangAdhara Tilak born."
+
+[names]
+sa = "लोकमान्य-तिळको जातः"
