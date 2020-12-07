@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "kRShNadevarAya smashed the Jihad of the Army of Islam in a great victory at Raichur"
 
 [names]
-sa = "कृष्णदेवरायस्य रायचूरु-जयः"
+sa = ["कृष्णदेवरायस्य रायचूरु-जयः"]

@@ -2,10 +2,10 @@ id = "proklas-janma"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
-month_type = "gregorian"
+month_type = "julian"
 anga_type = "day"
 month_number = 2
-anga_number = 7
+anga_number = 8
 year_start = 412
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Roman Polytheist Platonist sage Proclus was born on this day"
 
 [names]
-sa = "प्रोक्लस्-जन्म"
+sa = ["प्रोक्लस्-जन्म"]

@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "shrAvaNa k12 Shivaji pulled off one of the greatest escapes in history from the jaws of death at Agra."
 
 [names]
-sa = "आग्र-बन्धनात् पलायितः शिवराजः"
+sa = ["आग्र-बन्धनात् पलायितः शिवराजः"]

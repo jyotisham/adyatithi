@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Chāpekar brothers killed W. C. Rand.\n“ Govindā ālā rè “ used first by these guys to signal the approach of Rand."
 
 [names]
-sa = "चापेकराभ्यां रण्ड-वधः"
+sa = ["चापेकराभ्यां रण्ड-वधः"]

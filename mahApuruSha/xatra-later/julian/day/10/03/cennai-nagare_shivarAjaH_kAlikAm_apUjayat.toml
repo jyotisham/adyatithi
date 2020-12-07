@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "shivAjI worships kAlikAmbA in chennai\nhttps://twitter.com/iParamanand/status/915268209510563840"
 
 [names]
-sa = "चेन्नै-नगरे शिवराजः कालिकाम् अपूजयत्"
+sa = ["चेन्नै-नगरे शिवराजः कालिकाम् अपूजयत्"]

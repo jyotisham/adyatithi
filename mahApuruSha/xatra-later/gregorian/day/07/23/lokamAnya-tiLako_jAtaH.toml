@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "AshADha k1  lokamAnya bhAlagangAdhara Tilak born."
 
 [names]
-sa = "लोकमान्य-तिळको जातः"
+sa = ["लोकमान्य-तिळको जातः"]

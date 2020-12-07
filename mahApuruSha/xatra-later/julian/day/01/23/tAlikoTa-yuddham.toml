@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "battle of tAlikoTa. jihAdi forces won a major victory against the forces of vijayanagara and beheaded rAmarAya - thanks supposedly in part to betrayal by two muslim generals."
 
 [names]
-sa = "तालिकोट-युद्धम्"
+sa = ["तालिकोट-युद्धम्"]

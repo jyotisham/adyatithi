@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "battle of Khadki (aka battle of Ganeshkhind) at Pune. Casualties:\nEnglish side: 86\nMarathas: 500"
 
 [names]
-sa = "खड्कि-युद्धम्"
+sa = ["खड्कि-युद्धम्"]

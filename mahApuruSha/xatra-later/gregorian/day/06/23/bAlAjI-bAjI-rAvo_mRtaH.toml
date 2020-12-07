@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "bAlAji bAji rao, not long after pAnipaT disaster, died. Son of a great father (Bajirao-1)\nFather to a great son (Madhavrao-1)\nBrother to a great cousin (Sadashiv Rao Bhau)"
 
 [names]
-sa = "बालाजी-बाजी-रावो मृतः"
+sa = ["बालाजी-बाजी-रावो मृतः"]

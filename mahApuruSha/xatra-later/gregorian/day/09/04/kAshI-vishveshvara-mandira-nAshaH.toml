@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Aurangzeb informed that Kashi Vishweshwar was pulled down. Maasiri-‘ Alamgiri, 88. Julian month August."
 
 [names]
-sa = "काशी-विश्वेश्वर-मन्दिर-नाशः"
+sa = ["काशी-विश्वेश्वर-मन्दिर-नाशः"]

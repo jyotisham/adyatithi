@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "59 Hindus were burnt to death in godhra, GJ."
 
 [names]
-sa = "गोध्रा-ज्वालनम्"
+sa = ["गोध्रा-ज्वालनम्"]

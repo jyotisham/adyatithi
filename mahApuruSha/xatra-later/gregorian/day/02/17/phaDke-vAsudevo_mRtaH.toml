@@ -14,4 +14,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "On this day died the selfless patriot Vasudev Balwant Phadke, who single handedly tried to resist the might of British Empire."
 
 [names]
-sa = "फड्के-वासुदेवो मृतः"
+sa = ["फड्के-वासुदेवो मृतः"]
