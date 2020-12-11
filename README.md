@@ -5,6 +5,7 @@ A repository to host details of many festivals/observances of Indian hindus
 ### Repositories
 - Festivals are divided into different repositories, which are identified by paths. Example: tamil, temples/Tamil, temples/North, gRhya/general, mahApuruSha/kAnchI-maTha.
 - Motivation: Not everyone is interested in every festival: example: A vaiShNava person from karNATaka may not care for a tamil nAyanAr gurupUjA. 
+- Metadata about repositories are stored in repos.toml in the root of this github repo.
 
 ### Path within repository
 - Each festival gets one TOML file.
