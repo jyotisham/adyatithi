@@ -492,5 +492,21 @@
     "उदीची दिक्": "வடக்கு",
     "दक्षिणा दिक्": "தெற்கு ",
     "प्रतीची दिक्": "மேற்கு"
+  },
+  "ARAB_MONTH_NAMES": {
+    "ar": [
+      "al-Muḥarram",
+      "Ṣafar",
+      "Rabīʿ alʾ Awwal/Ūlā",
+      "Rabīʿ ath-Thānī/ al-ʾĀkhir",
+      "Jumādā al-ʾAwwal/ʾŪlā",
+      "Jumādā ath-Thāniyah/ al-ʾĀkhirah",
+      "Rajab",
+      "Shaʿbān",
+      "Ramaḍān",
+      "Shawwāl",
+      "Ḏū al-Qaʿdah",
+      "Ḏū al-Ḥijjah"
+    ]
   }
 }
