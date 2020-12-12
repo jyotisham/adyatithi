@@ -1,0 +1,22 @@
+default_to_none = true
+id = "71-indo-pAk-war-start"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 5
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On the evening of 3 December, at about 17:40, the Islamic repulic of Pakistan Air Force (PAF) (<50 planes) launched surprise strikes on 11 airfields in north-western India, including Agra, which was 480 kilometres (300 mi) from the border.
+"""
+
+[names]
+sa = [ "१९७१ तमे वर्षे पाकिस्तानमरुराष्ट्र-विमानैः प्रहारः",]
