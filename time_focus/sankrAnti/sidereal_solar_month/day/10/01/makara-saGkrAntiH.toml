@@ -1,0 +1,15 @@
+default_to_none = true
+id = "makara-saGkrAntiH"
+tags = [ "CommonFestivals", "SunSankranti",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 10
+anga_type = "day"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "मकर-सङ्क्रान्तिः",]
