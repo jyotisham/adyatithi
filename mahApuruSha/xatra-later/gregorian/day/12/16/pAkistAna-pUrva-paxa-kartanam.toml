@@ -1,0 +1,22 @@
+default_to_none = true
+id = "pAkistAna-pUrva-paxa-kartanam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 16
+anga_type = "day"
+anga_number = 5
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Genocidal Pakistan Islamic Republic army (93,000 soldiers in the eastern command) surrendered to Indian forces at DhAka.
+"""
+
+[names]
+sa = [ "पाकिस्तान-पूर्व-पक्ष-कर्तनम्",]
