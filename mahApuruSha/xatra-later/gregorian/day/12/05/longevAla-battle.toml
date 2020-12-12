@@ -1,0 +1,30 @@
+default_to_none = true
+id = "longevAla-battle"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 5
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+120 Indian soldiers stubbornly hold back 2,000 pAkistAni muslim soldiers aided by 40 tanks all night till at dawn the IAF Hawker Hunter Maruts (properller planes) picked off the tanks.
+
+**Result** - 200 soldiers of Islamic state of Pakistan killed, 36 tanks destroyed. 2 Indian soldiers and 5 camels at their service died.
+
+**tanoTamAtA's blessings**  
+
+The main Indian anti-tank weapon at Longewala was a jeep-mounted recoilless rifle. It had been supposed to be withdrawn and re-assigned the day before the engagement; yet due to mysterious happenstance had been significantly delayed and unable to leave afore the reports came in of the impending Pakistani armoured thrust. It was to prove vital in the ensuing defence. As were the Indian artillery-pieces nearby that had only just managed to be deployed scant hours before the commencement of the assault.
+
+... Pakistani tanks began a barrage on the village but by Tanot Mata's grace enemy tanks got stuck in the sand for several hours, giving time to the Indian Air Force to pick them off one by one.
+"""
+
+[names]
+sa = [ "लोङ्गेवाला युद्धम्",]
