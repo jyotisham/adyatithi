@@ -1,0 +1,15 @@
+default_to_none = true
+id = "mithuna-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+tags = [ "SunSankranti", "CommonFestivals",]
+shlokas = "वस्त्रान्नपानदानानि मिथुने विहितानि तु।"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Mithuna-Ravi-Saṅkramaṇa-Ṣaḍaśīti Punyakala. Perform danam of clothes, food and water."
+
+[names]
+sa = [ "मिथुन-रवि-सङ्क्रमण-षडशीति-पुण्यकालः",]

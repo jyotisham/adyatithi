@@ -1,0 +1,14 @@
+default_to_none = true
+id = "kumbha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+tags = [ "SunSankranti", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Kumbha-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala."
+
+[names]
+sa = [ "कुम्भ-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः",]
