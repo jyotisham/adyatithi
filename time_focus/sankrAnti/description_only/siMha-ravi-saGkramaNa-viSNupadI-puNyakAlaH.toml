@@ -1,6 +1,7 @@
 default_to_none = true
 id = "siMha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
+shlokas = "घृतं च क्षीरकुम्भश्च घृतधेनु फलानि च।\nश्रावणे श्रीधरप्रीत्यै दातव्यानि विपश्चिता॥"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -8,7 +9,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Siṃha-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala."
+en = "Siṃha-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala. Perform danam of ghee, milk vessel, \"ghee cow\" and fruits."
 
 [names]
 sa = [ "सिंह-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः",]
