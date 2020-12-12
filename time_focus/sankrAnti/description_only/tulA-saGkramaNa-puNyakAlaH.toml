@@ -1,6 +1,7 @@
 default_to_none = true
 id = "tulA-saGkramaNa-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
+shlokas = "तुलाप्रवेशे धान्यानां गोरसानामपीष्टदम्"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -8,7 +9,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Tulā-Saṅkramaṇa Punyakala."
+en = "Tulā-Saṅkramaṇa Punyakala. Perform danam of rice/wheat/grains and cow ghee/curd etc."
 
 [names]
 sa = [ "तुला-सङ्क्रमण-पुण्यकालः",]
