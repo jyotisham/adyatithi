@@ -6,9 +6,9 @@ jsonClass = "HinduCalendarEvent"
 [timing]
 default_to_none = true
 month_type = "gregorian"
-month_number = 16
+month_number = 12
 anga_type = "day"
-anga_number = 5
+anga_number = 16
 year_start = 1971
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"

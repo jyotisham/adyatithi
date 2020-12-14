@@ -1,0 +1,17 @@
+id = "delhi-blasts-2008"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 13
+year_start = 2008
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Five synchronised bomb blasts that took place within a span of few minutes. Carried out by Indian Mujahideen."
+
+[names]
+sa = ["२००८ वर्षे देहल्यां विस्फोटाः"]
