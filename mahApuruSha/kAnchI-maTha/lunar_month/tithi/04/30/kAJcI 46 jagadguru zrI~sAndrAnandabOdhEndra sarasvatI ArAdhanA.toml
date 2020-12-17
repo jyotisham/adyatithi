@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kAJcI 46 jagadguru zrI~sAndrAnandabOdhEndra sarasvatI ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = "बोधेन्द्राख्यः स सोमो गुरुपरमशिवेन्द्रार्यवाचाऽधिपीठं\nतिष्ठन् प्राप्यान्यदेशान् पथिपथि विनतान् प्रापयन् अद्वयास्थाम्।\nश्रीधाराभोजदत्तप्रचुरमणिमयान्दोलिकाकॢप्तयात्रः\nकाश्मीरामात्यपुष्यत्कटकसमवनोऽधान्मठं म्लेच्छदूरम्॥८९॥\nशरदस्त्रिंशतं सप्ताप्यध्युष्यान्वरुणाचलम्(-ष्य स गुरोः पदम्)।\nजगाम धाम परममीश्वराषाढपर्वणि॥९०॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-46.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 4
+anga_type = "tithi"
+anga_number = 30
+kaala = "अपराह्णः"
+year_start = 4199
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "He, Soma, initiated with the title Bodhendra by the preceptor Paraśivendra adorned the Pīṭha and visiting countries in the palanquin exquisitely decked with gems offered by Bhoja, the king of Dhārā, inculcating faith in the principles of Advaita in the minds of those who venerated him on the path safeguarded the Maṭha from the invaders (mlechas) with the help of the minister of the Kashmiri King Kalaśa.  Having stayed in the Pīṭha for thirty-seven years, He reached the Supreme Abode at Aruṇācala on the New moon day of the month Āṣāḍha in the year Ăśvara. This preceptor Bodhendra, also known as Sānandrānanda, was honoured for poetical excellence by Kings—Bhoja, Kalaśeśvara and others and was intent on travelling through the earth."
+
+[names]
+sa = [ "काञ्ची ४६ जगद्गुरु श्री-सान्द्रानन्दबोधेन्द्र सरस्वती आराधना",]

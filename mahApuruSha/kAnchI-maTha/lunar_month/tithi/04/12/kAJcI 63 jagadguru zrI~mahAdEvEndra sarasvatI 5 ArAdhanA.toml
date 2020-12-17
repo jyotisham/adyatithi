@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kAJcI 63 jagadguru zrI~mahAdEvEndra sarasvatI 5 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = "अण्णाश्रौतीति जातोऽयं कुम्भघोणे महामनाः।\nत्रिषष्टो देशिको लिल्ये स्वगुरोरेव सन्निधौ॥१२॥\nमहादेवेन्द्रगुरुराड् एकत्रिंशत्समाः स्थितः।\nश्रीमुखाषाढमाश्शुक्लद्वादश्यां सिद्धिम् आस्थितः॥१३॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-63.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 4
+anga_type = "tithi"
+anga_number = 12
+kaala = "अपराह्णः"
+year_start = 4915
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Preceptor Śrī Mahādevendra governed the preceptorship for thirty-one years, attained siddhi on Śukla Dvādaśī (twelfth day of bright fortnight) of the month Āṣāḍha in the year Śrmukha. His place of siddhi was Kumbhaghona town in Śalivahana era 1736."
+
+[names]
+sa = [ "काञ्ची ६३ जगद्गुरु श्री-महादेवेन्द्र सरस्वती ५ आराधना",]

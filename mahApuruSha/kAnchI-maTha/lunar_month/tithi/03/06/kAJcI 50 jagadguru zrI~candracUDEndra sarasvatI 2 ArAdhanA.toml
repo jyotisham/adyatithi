@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kAJcI 50 jagadguru zrI~candracUDEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = "अरुणगिरितनूभूरार्यगङ्गेशनामा गुरुवरपदम् अञ्चन् किञ्च पञ्चाशदब्दान्।\nअभजदथ स सिद्धिं दुर्मुखिज्येष्ठषष्ठीनिशि निशितशिवार्चानिष्ठितश्चन्द्रचूडः॥९७॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-50.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 3
+anga_type = "tithi"
+anga_number = 6
+kaala = "अपराह्णः"
+year_start = 4398
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Then the preceptor Chandracūḍa, son of Aruṇagiri, by name Gaṅgeśa (before initiation), governing the preceptorship for fifty years, He, avowed to the rigid worship of Lord Śiva, attained siddhi on the night of Śuklapakṣaṣaṣṭhi of the month Jyeṣṭa in the year Durmukhi. These two preceptors—Śrī Mahādeva and Śrī Jāhnavītirthas performed innumerable yāgas and attained siddhi on the banks of river Garuḍa (Kaḍilam)."
+
+[names]
+sa = [ "काञ्ची ५० जगद्गुरु श्री-चन्द्रचूडेन्द्र सरस्वती २ आराधना",]

@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kAJcI 42 jagadguru zrI~brahmAnandaghanEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = "सुब्रह्मण्यभवो नियम्य नरसम्भट्टोऽथ गङ्गाधराद्\nब्रह्मानन्दघनाभिधोऽधित धुरां द्व्यूनाः समास्त्रिंशतम्।\nलिल्येऽधीश्वरम् ईश्वरोर्जबहुलाष्टम्याम् असौ सङ्गवे\nघुष्यन्नेव हि सूत्रभाष्यविषयान् अन्तेवसद्भ्यः पटु॥८५॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-42.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 8
+anga_type = "tithi"
+anga_number = 23
+kaala = "अपराह्णः"
+year_start = 4079
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Then Narasambhaṭṭa, son of Subrahmanya, having been initiated by Gaṅgādhara got the appellation Brahmānandaghana held the preceptorship of the Pīṭha for twenty-eight years. This great preceptor merged in the Lord Ăśvara as He ws teaching the disciples the Brahmasūtra, bhāṣya etc. in the early morning of Aṣṭami of Kṛṣṇapakṣa in the month of Kārtika in the year Ăśvara."
+
+[names]
+sa = [ "काञ्ची ४२ जगद्गुरु श्री-ब्रह्मानन्दघनेन्द्र सरस्वती २ आराधना",]

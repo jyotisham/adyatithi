@@ -1,0 +1,20 @@
+default_to_none = true
+id = "dvArakA-maTha-pratiSThApana~jayantI"
+tags = [ "AdiShankaraHistory",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 7
+year_start = 2611
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Adi Shankara founded Dwaraka Mutt in Sadharana year with HastamalakaAcharya as first"
+
+[names]
+sa = [ "द्वारका-मठ-प्रतिष्ठापन-जयन्ती",]

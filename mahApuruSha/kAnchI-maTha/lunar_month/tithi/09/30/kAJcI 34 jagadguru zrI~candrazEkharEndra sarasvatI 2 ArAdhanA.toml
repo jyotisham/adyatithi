@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kAJcI 34 jagadguru zrI~candrazEkharEndra sarasvatI 2 ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = "सूनुर्वेगवतीतटोद्भवमहादेवाह्वयस्य श्रुतः शम्भुर्नाम दवाग्निदग्धपृथुकत्राणावगाढानलः।\nआचार्यस्य निदेशतः क्षितितलं सर्वं चरन् यश्चतुर्वर्णान् स्वस्वपथाद्व्यधादगलितान् आचार्यपीठस्थितः॥६६॥\nश्रीचन्द्रशेखरेन्द्रोऽप्यध्युष्याष्टादश स्वमठम् अब्दान्।\nसौम्यः सौम्येऽन्तरधात् सहेऽतिसहनः सुदर्शनो दर्शे॥६७॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-34.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 9
+anga_type = "tithi"
+anga_number = 30
+kaala = "अपराह्णः"
+year_start = 3811
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The preceptor, son of Mahādeva, who lived on the banks of river Vegavati, known by Lord Śiva’s name, who entered into the dense forest fire to save the child, wandered through out the earth by the directions of his master and adorning the Pīṭha and made the four castes to adhere to their respective paths. The pleasing, elegant and enduring preceptor Sri Chandraśekarendra also having remained in his maṭha for eighteen years disappeared on the new moon day of the month of Mārgaśīrṣa in the year Saumya. His preceptorship was for eighteen years."
+
+[names]
+sa = [ "काञ्ची ३४ जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती २ आराधना",]

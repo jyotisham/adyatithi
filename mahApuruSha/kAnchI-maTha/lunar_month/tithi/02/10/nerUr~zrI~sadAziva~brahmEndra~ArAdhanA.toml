@@ -1,0 +1,19 @@
+default_to_none = true
+id = "nerUr~zrI~sadAziva~brahmEndra~ArAdhanA"
+tags = [ "MahapurushaEvents",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 2
+anga_type = "tithi"
+anga_number = 10
+kaala = "अपराह्णः"
+year_start = 5016
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "नॆरूर्-श्री-सदाशिव-ब्रह्मेन्द्र-आराधना",]

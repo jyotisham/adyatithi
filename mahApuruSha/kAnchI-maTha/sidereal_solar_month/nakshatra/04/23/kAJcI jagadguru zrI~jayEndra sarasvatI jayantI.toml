@@ -1,0 +1,19 @@
+default_to_none = true
+id = "kAJcI jagadguru zrI~jayEndra sarasvatI jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 4
+anga_type = "nakshatra"
+anga_number = 23
+kaala = "प्रातः"
+year_start = 5036
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "काञ्ची जगद्गुरु श्री-जयेन्द्र सरस्वती जयन्ती",]

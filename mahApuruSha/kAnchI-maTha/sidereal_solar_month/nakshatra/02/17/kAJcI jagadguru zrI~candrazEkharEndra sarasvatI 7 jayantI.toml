@@ -1,0 +1,19 @@
+default_to_none = true
+id = "kAJcI jagadguru zrI~candrazEkharEndra sarasvatI 7 jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 2
+anga_type = "nakshatra"
+anga_number = 17
+kaala = "प्रातः"
+year_start = 4995
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "काञ्ची जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती ७ जयन्ती",]

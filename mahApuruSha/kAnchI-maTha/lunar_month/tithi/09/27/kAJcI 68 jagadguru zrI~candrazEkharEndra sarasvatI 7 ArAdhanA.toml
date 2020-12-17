@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kAJcI 68 jagadguru zrI~candrazEkharEndra sarasvatI 7 ArAdhanA"
+tags = [ "KanchiAradhanaDays", "CommonFestivals",]
+shlokas = "महास्वामीति विख्यातस्त्वष्टषष्टो जगद्गुरुः।\nहारीतेऽन्वय उद्भूत उत्कृष्टे नाम धामनि॥२५॥\nपञ्चोने वर्षसाहस्रपञ्चके विगते कलौ।\nजयवर्षे वृषे मासि मैत्रर्क्षे कृष्णपक्षके॥२६॥\nप्रतिपत्तिथिमध्याह्ने स्वामिनाथेति कीर्तितः।\nमहालक्ष्मीसुब्रह्मण्यदम्पत्योस्तपसः फलम्॥२७॥\nरुजाऽपहृतदेहत्वे पूर्वयोर्गुरुनाथयोः।\nतदाज्ञया स सन्न्यस्तो वयस्यूनत्रयोदशे॥२८॥\nचन्द्रशेखरेति पुण्यनाम बिभ्रत् स आश्रमी।\nसर्वज्ञमूर्तिस्त्रिर्यात्रां भारतस्याचरत् पदा॥२९॥\nप्रत्यक्षं दैवतं भूत्वा धर्मे चाकृष्य मार्दवात्।\nलोकान् समनुजग्राह वर्षाणां शतकं शुभम्॥३०॥\nकाञ्च्यां विदेहकैवल्यं प्रापद्यत मुनीश्वरः।\nश्रीमुखे मार्गकृष्णे स द्वादश्याम् अपराह्णके॥३१॥\n—पुण्यश्लोकमञ्जरी"
+image = "kAnchI-maTha/images/jagadgurus/jagadguru-68.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 9
+anga_type = "tithi"
+anga_number = 27
+kaala = "अपराह्णः"
+year_start = 5095
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = ""
+
+[names]
+sa = [ "काञ्ची ६८ जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती ७ आराधना",]
