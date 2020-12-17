@@ -94,6 +94,11 @@ base_url = "https://github.com/jyotisham/adyatithi/tree/master/mahApuruSha/kAnch
 jsonClass = "RulesRepo"
 
 [[data]]
+name = "mahApuruSha/zRGgErI-maTha"
+base_url = "https://github.com/jyotisham/adyatithi/tree/master/mahApuruSha/zRGgErI-maTha"
+jsonClass = "RulesRepo"
+
+[[data]]
 name = "mahApuruSha/mAdhva-misc"
 base_url = "https://github.com/jyotisham/adyatithi/tree/master/mahApuruSha/mAdhva-misc"
 jsonClass = "RulesRepo"
