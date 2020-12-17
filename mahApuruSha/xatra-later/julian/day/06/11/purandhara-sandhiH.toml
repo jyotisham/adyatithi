@@ -1,0 +1,17 @@
+id = "purandhara-sandhiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 11
+year_start = 1665
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "shivAjI strategically surrendered many forts (Purandar, Rudramal, Kondana, Karnala, Lohagad, Isagad, Tung, Tikona, Rohida fort, Nardurga, Mahuli, Bhandardurga, Palaskhol, Rupgad, Bakhtgad, Morabkhan, Manikgad (Raigad), Saroopgad, Sagargad, Marakgad, Ankola, Songad, and Mangad) and his son to mughals represented by Jai Singh."
+
+[names]
+sa = ["पुरन्दरसन्धिः"]

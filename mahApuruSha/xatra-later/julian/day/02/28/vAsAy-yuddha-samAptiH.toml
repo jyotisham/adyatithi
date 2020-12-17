@@ -1,0 +1,17 @@
+id = "vAsAy-yuddha-samAptiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 2
+anga_number = 28
+year_start = 1728
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Chimaji Appa ground down the Portuguese, systematically mined, blasted and won vasAi/ bessein (long suffering Christian inquisition barbarisms)."
+
+[names]
+sa = ["वासायि-युद्ध-समाप्तिः"]

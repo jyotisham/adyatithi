@@ -1,0 +1,20 @@
+default_to_none = true
+id = "chimAjI-appa-death"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 12
+anga_type = "day"
+anga_number = 17
+year_start = 1740
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Chimaji Appa passed away at Pune on 17 Dec 1740, leaving a young Nanasaheb Peshwa to face the challenges of the extraordinary epoch that was to follow. Chimaji's decisive victories in Malwa, Vasai and against the Siddi deserve to be remembered."
+
+[names]
+sa = [ "चिमाजी-देह-त्यागः",]

@@ -1,0 +1,17 @@
+id = "rAxasa-bhuvana-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 8
+anga_number = 10
+year_start = 1663
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "While the peshvA was in a southern campaign, the Nizam (allied with Janoji Bhosale of nAgpur and Chatrapati rAmarAja of kolhApur) decided to attack, as planned by his divAn viTThala-sundara. For a change, raghunAtharAv joined mAdhavarAv. With a carrot and stick policy, jAnojI secretly returned to the peshva camp. Marathas started deserting the Nizam. mAdhavarAv had sped north and decimated the nizAm's army on godAvarI banks."
+
+[names]
+sa = ["राक्षसभुवन-युद्धम्"]
