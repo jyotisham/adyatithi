@@ -508,5 +508,37 @@
       "Ḏū al-Qaʿdah",
       "Ḏū al-Ḥijjah"
     ]
+  },
+  "TIPU_ABJAD_MONTH_NAMES": {
+    "fa": [
+      "Aḥmadi",
+      "Bahārī",
+      "Ja'fari",
+      "Dārāī",
+      "Hashimī",
+      "Wāsēī",
+      "Zabarjadī",
+      "Haidarī",
+      "Ṭūlu'ī",
+      "Yūsafī",
+      "Ezidī",
+      "Bayāḍī"
+    ]
+  },
+  "TIPU_ABTATH_MONTH_NAMES": {
+    "fa": [
+      "Aḥmadi",
+      "Bahārī",
+      "Taqī",
+      "Ṭhamarī",
+      "Ja'farī",
+      "Haidarī",
+      "Khusravī",
+      "Dīnī",
+      "Dhākirī",
+      "Raḥmānī",
+      "Rāzī",
+      "Rabānī"
+    ]
   }
 }
