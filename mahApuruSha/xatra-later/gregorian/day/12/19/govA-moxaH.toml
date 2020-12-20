@@ -1,0 +1,22 @@
+default_to_none = true
+id = "govA-moxaH"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 19
+year_start = 1961
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Goa, much traumatized by missionaries (including the evil Jesuit Francis Xavier), inquisition and racist misrule, finally freed from Portuguese.
+"""
+
+[names]
+sa = [ "गोवा-मोक्षः",]
