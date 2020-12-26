@@ -1,0 +1,17 @@
+id = "pratAparAvena_hubli-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 16
+year_start = 1673
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Prataprao General of shivAjI sacked Hubli, plundered the British East India Company's house and escaped before Muzaffar Khan's 4k cavalry arrived."
+
+[names]
+sa = ["प्रतापरावेन हुब्लि-ग्रहणम्"]
