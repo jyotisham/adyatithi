@@ -1,0 +1,17 @@
+id = "vellUru-durga-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 22
+year_start = 1678
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "After 14 months of obstinate defence by the Siddi Abdulla Khan general of Adil Shah, Vellore fort fell after a contagion broke out there."
+
+[names]
+sa = ["वॆल्लूरु-दुर्ग-ग्रहणम्"]
