@@ -1,0 +1,17 @@
+id = "umberkhiND-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 15
+anga_number = 1
+year_start = 1661
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "shivAjI with his 3000 men ambushes and defeats 30k Mughals led by kartalab khan and Rai Bagan (sAvitrIbAI, royal tigress). After an hour or two,  kartalab khan surrendered and was ransomed off as adviced by sAvitrIbAI (who praised and knew shivAjI's nature). Date is as per one accepted by Mehendale."
+
+[names]
+sa = ["उम्बेरखिण्ड-युद्धम्"]

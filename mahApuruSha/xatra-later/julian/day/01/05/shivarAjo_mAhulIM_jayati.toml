@@ -1,0 +1,17 @@
+id = "shivarAjo_mAhulIM_jayati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 5
+year_start = 1658
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = ""
+
+[names]
+sa = ["शिवराजो माहुलीं जयति"]

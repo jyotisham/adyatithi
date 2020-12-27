@@ -1,0 +1,17 @@
+id = "shivarAjaH_kalyANaM_jayati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 24
+year_start = 1657
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "dAdAjI bApUjI captures kalyAN and bhivaNDi for svarAjya."
+
+[names]
+sa = ["शिवराजः कल्याणं जयति"]

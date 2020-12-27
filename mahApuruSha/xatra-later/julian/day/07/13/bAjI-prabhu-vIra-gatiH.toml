@@ -1,0 +1,17 @@
+id = "bAjI-prabhu-vIra-gatiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 13
+year_start = 1660
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Jede shAkhAvalI says that shivAjI, pursued by siddi jauhar forces escaped from panhala fort (Some say he sent out a decoy). bAjI prabhu bought him time to escape, holding back the enemy at the gajapur pass (aka ghoD-khiND, later renamed pAvana-khiND to recall bAhI-prabhu's sacrifice). A few hundred held back a force of several thousand. Once shivAjI reached vishAlgaD (which was itself beseiged by marATha sardars of siddi jauhar - Suryarao Surve and Jaswantrao Dalvi!), cannons were fired to signal bAjI prabhu to retreat. It is said that bAjI only then died with relief. Other casualities included his brother Fulaji Prabhu and Shambusing Jadhav. "
+
+[names]
+sa = ["बाजी-प्रभु-वीरगतिः"]
