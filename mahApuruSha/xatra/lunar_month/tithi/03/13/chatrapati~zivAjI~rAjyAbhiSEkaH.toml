@@ -9,6 +9,8 @@ month_type = "lunar_month"
 month_number = 3
 anga_type = "tithi"
 anga_number = 13
+year_start = 1596
+year_start_era = "shaka"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
