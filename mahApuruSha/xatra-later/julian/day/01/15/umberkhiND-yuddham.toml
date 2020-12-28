@@ -4,8 +4,8 @@ jsonClass = "HinduCalendarEvent"
 [timing]
 month_type = "julian"
 anga_type = "day"
-month_number = 15
-anga_number = 1
+month_number = 1
+anga_number = 15
 year_start = 1661
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"

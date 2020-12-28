@@ -1,0 +1,17 @@
+id = "shivarAjo_vijayapuram_AkrAmati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 13
+year_start = 1673
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "shivAjI set out on vijaya-dashamI on his coastal campaign, arrived in satArA, thence plundered bankApur."
+
+[names]
+sa = ["शिवराजो विजयपुरम् आक्रामति"]

@@ -1,0 +1,17 @@
+id = "shivarAjasya_tAntrikAbhiShekaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 9
+anga_number = 24
+year_start = 1674
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On lalitapanchamI (ashvin shuddha 5), nishchapapurI, as requested by shivAjI, conducted a tAntrik coronation. This was preceeded by ill omens such as a lightening strike, deaths of jIjAbai, kAshIbAi and pratAprAv."
+
+[names]
+sa = ["शिवराजस्य तान्त्रिकाभिषेकः"]
