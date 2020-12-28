@@ -1,0 +1,19 @@
+id = "shivarAja-mogala-sandhi-navIkaraNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 3
+year_start = 1670
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+After the escape from Agra, shivAjI's envoys were released on April 3rd and sent back to shivAjI. shivAjI also wrote to awrangzeb and asked for "pardon", restitution of deshmukhI rights to land surrendered in the purandara treaty, and restoration of sambhAjI's jAgir and mansabdArI. All this was granted on this day, plus shivAjI was given the title "rAjA" in March 1668 (something awrangzeb had refused when recommended by jayasiMha 2 years earlier). War on Adil shAh continued till he too ceded solapur fort in July 68.
+"""
+
+[names]
+sa = ["शिवराज-मुगल-सन्धि-नवीकरणम्"]
