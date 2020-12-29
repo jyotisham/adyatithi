@@ -1,0 +1,19 @@
+id = "laxmI-rAjJNI_hatA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 18
+year_start = 1858
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 17 June in Kotah-ki-Serai near the Phool Bagh of Gwalior, a squadron of the 8th (King's Royal Irish) Hussars, under Captain Heneage, fought the large Indian force commanded by Rani Lakshmibai, who was trying to leave the area. The 8th Hussars charged into the Indian force, slaughtering 5,000 Indian soldiers, including any Indian "over the age of 16". They took two guns and continued the charge right through the Phool Bagh encampment. In this engagement, according to an eyewitness account, Rani Lakshmibai put on a sowar's uniform and attacked one of the hussars; she was unhorsed and also wounded, probably by his sabre. Shortly afterwards, as she sat bleeding by the roadside, she recognised the soldier and fired at him with a pistol, whereupon he "dispatched the young lady with his carbine".
+"""
+
+[names]
+sa = ["झांसीराज्ञी लक्ष्मी हता"]

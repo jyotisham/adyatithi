@@ -1,0 +1,19 @@
+id = "tAntyA_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 18
+year_start = 1859
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Ramachandra Panduranga Yawalkar, Aka Tantia Tope, general of the last peshvA nAnA saheb, victor of many battles, killed by the British after being surrendered to them by mAn singh.
+"""
+
+[names]
+sa = ["तात्या-सेनानी हतः"]
