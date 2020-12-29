@@ -1,0 +1,20 @@
+id = "chetako_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 21
+year_start = 1576
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+After the fierce battle at haldIghATI, mahArANA pratAp wounded, as was his heroic horse chetak. Chetak succumbed on this day.
+
+"""
+
+[names]
+sa = ["चेतको दिवं गतः"]

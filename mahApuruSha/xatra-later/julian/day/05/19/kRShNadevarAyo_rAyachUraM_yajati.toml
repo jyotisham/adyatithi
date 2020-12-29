@@ -1,0 +1,17 @@
+id = "kRShNadevarAyo_rAyachUraM_yajati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 19
+year_start = 1520
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = " Ismail Adil Shah  of  Muslim  Bijapur  seized  the  fortress  ofRaichur, southwest of Hyderabad, then faced asiege by Krishnadeva Raya of Hindu Vijayana-gar. The Bijapuri army was routed and Raichur fell to Krishnadeva Raya."
+
+[names]
+sa = ["कृष्णदेवो रायचूरं जयति"]
