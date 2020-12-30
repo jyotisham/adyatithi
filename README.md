@@ -24,7 +24,7 @@ A repository to host details of many festivals/observances of Indian hindus
 - Such an intersection may happen on two consecutive days. In that case, the priority field (with values being one of `puurvaviddha, paraviddha, vyaapti`) determines the day to be chosen for the "festival".
 
 #### Clarity about meaning of kaala values
-- `प्राक्तनारुणोदयः` refers to the dawn _preceeding_ a given day.
+- `प्राक्तनारुणोदयः` refers to the dawn _preceding_ a given day.
 
 ## Language and script
 - Names can be provided in a variety of languages. Please use the best/ common script for the language (usually the native script). 
