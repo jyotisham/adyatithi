@@ -11,7 +11,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "If, on a Sunday, `amAvAsyA` and one of the stars—`zravaNam`, `azvinI`, `zraviSThA`, `ArdrA` or `AzrESA`—occurs, then it is called `vyatIpAta yOgaH`, equal to a hundred _Surya grahanas_ in merit."
+en = "If, on a Sunday, `amAvAsyA` and one of the stars—`zravaNam`, `azvinI`, `zraviSThA`, `ArdrA` or `AzrESA`—occurs, then it is called `vyatIpAta yOgaH`, equal to a hundred `sUrya grahaNam`s in merit."
 
 [names]
 sa = [ "व्यतीपात-योगः (अलभ्यम्)",]
