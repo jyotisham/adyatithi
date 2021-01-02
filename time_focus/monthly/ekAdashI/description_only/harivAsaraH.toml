@@ -1,6 +1,9 @@
 default_to_none = true
 id = "harivAsaraH"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
+shlokas = """
+अज्ञानतिमिरान्धस्य व्रतेनानेन केशव।
+प्रसीद सुमुखो नाथ ज्ञानदृष्टिप्रदो भव॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
