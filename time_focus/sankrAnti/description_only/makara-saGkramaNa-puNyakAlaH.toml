@@ -1,5 +1,5 @@
 default_to_none = true
-id = "makara-saGkramaNa-puNyakAlaH"
+id = "makara-saGkrAntiH"
 tags = [ "SunSankranti", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -11,4 +11,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Makara-Saṅkramaṇa Punyakala."
 
 [names]
-sa = [ "मकर-सङ्क्रमण-पुण्यकालः",]
+sa = [ "मकर-सङ्क्रमण-पुण्यकालः", "मकर-सङ्क्रान्तिः"]
