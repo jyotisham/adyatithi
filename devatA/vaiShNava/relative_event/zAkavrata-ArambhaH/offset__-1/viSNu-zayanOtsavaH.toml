@@ -5,8 +5,8 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-anchor_festival_id = "zayana-EkAdazI"
-offset = 1
+anchor_festival_id = "zAkavrata-ArambhaH"
+offset = -1
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

@@ -1,7 +1,7 @@
 default_to_none = true
-id = "dhanur-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+id = "dhanUravi-saGkramaNa-SaDazIti-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
-shlokas = "धनुःप्रवेशे वस्त्राणां यानानां च महाफलम् "
+shlokas = "धनुःप्रवेशे वस्त्राणां यानानां च महाफलम्"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -12,4 +12,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Dhanur-Ravi-Saṅkramaṇa-Ṣaḍaśīti Punyakala. Perform danam of clothes/vehicle (e.g. bullock cart)."
 
 [names]
-sa = [ "धनुर्-रवि-सङ्क्रमण-षडशीति-पुण्यकालः",]
+sa = [ "धनूरवि-सङ्क्रमण-षडशीति-पुण्यकालः",]
