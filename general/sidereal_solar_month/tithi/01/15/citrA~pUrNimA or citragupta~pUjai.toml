@@ -1,7 +1,8 @@
 default_to_none = true
 id = "citrA~pUrNimA or citragupta~pUjai"
 tags = [ "PurnimaDays", "CommonFestivals",]
-shlokas = "चित्रगुप्तं महाप्राज्ञं लेखनीपत्रधारिणम्।\nचित्ररत्नाम्बरधरं मध्यस्थं सर्वदेहिनाम्॥"
+shlokas = """चित्रगुप्तं महाप्राज्ञं लेखनीपत्रधारिणम्।
+चित्ररत्नाम्बरधरं मध्यस्थं सर्वदेहिनाम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

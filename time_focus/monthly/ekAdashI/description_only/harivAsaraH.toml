@@ -1,0 +1,17 @@
+default_to_none = true
+id = "harivAsaraH"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+shlokas = """
+अज्ञानतिमिरान्धस्य व्रतेनानेन केशव।
+प्रसीद सुमुखो नाथ ज्ञानदृष्टिप्रदो भव॥"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The first quarter of `dvAdazI` tithi is not suitable for breaking fast (`pAraNa`), and is known as `harivAsaraH`. Break fast once `harivAsaraH` is over."
+
+[names]
+sa = [ "हरिवासरः",]

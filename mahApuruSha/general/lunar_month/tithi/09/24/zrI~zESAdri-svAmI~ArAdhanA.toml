@@ -1,7 +1,8 @@
 default_to_none = true
 id = "zrI~zESAdri-svAmI~ArAdhanA"
 tags = [ "MahapurushaEvents",]
-shlokas = "करुणासागरं शान्तम् अरुणाचलवासिनम्।\nश्रीशेषाद्रिगुरुं वन्दे ब्रह्मीभूतं तपोनिधिम्॥"
+shlokas = """करुणासागरं शान्तम् अरुणाचलवासिनम्।
+श्रीशेषाद्रिगुरुं वन्दे ब्रह्मीभूतं तपोनिधिम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,8 @@
 default_to_none = true
 id = "gOpASTamI"
 tags = [ "LessCommonFestivals",]
-shlokas = "कार्त्तिके  याऽष्टमी  शुक्ला  ज्ञेया  गोपाष्टमी  बुधैः।\nतत्र  कुर्याद्गवां  पूजां  गोग्रासं  गोप्रदक्षिणम्॥"
+shlokas = """कार्त्तिके  याऽष्टमी  शुक्ला  ज्ञेया  गोपाष्टमी  बुधैः।
+तत्र  कुर्याद्गवां  पूजां  गोग्रासं  गोप्रदक्षिणम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

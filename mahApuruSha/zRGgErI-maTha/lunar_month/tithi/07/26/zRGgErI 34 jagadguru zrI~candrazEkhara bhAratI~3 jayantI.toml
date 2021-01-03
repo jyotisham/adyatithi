@@ -1,7 +1,8 @@
 default_to_none = true
 id = "zRGgErI 34 jagadguru zrI~candrazEkhara bhAratI~3 jayantI"
 tags = [ "MahapurushaEvents",]
-shlokas = "सदाऽऽत्मध्याननिरतं विषयेभ्यः परङ्मुखम्।\nनौमि शास्त्रेषु निष्णातं चन्द्रशेखरभारतीम्॥"
+shlokas = """सदाऽऽत्मध्याननिरतं विषयेभ्यः परङ्मुखम्।
+नौमि शास्त्रेषु निष्णातं चन्द्रशेखरभारतीम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

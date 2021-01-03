@@ -11,7 +11,9 @@ year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "battle of Khadki (aka battle of Ganeshkhind) at Pune. Casualties:\nEnglish side: 86\nMarathas: 500"
+en = """battle of Khadki (aka battle of Ganeshkhind) at Pune. Casualties:
+English side: 86
+Marathas: 500"""
 
 [names]
 sa = ["खड्कि-युद्धम्"]

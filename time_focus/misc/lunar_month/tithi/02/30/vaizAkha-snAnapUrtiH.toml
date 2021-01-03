@@ -1,7 +1,8 @@
 default_to_none = true
 id = "vaizAkha-snAnapUrtiH"
 tags = [ "SpecialSnanam",]
-shlokas = "माधवे मेषगे भानौ मुरारे मधुसूदन।\nप्रातः स्नानेन मे नाथ फलदो भव पापहन्॥"
+shlokas = """माधवे मेषगे भानौ मुरारे मधुसूदन।
+प्रातः स्नानेन मे नाथ फलदो भव पापहन्॥"""
 references_secondary = [ "Vaidikasri June 2017",]
 jsonClass = "HinduCalendarEvent"
 

@@ -1,7 +1,10 @@
 default_to_none = true
 id = "tilapadma-dvAdazI or tilOtpatti"
 tags = [ "SpecialPuja",]
-shlokas = "माघे तु शुक्लद्वादश्यां यतो हि भगवान् पुर।\nतिलान् उत्पादयामास तपः कृत्वा सुदारुणम्॥\nतिलतैलेन दीपाश्छ देयाह् देव गृहेषु च।\nनिवेदयेत् तिलानेव"
+shlokas = """माघे तु शुक्लद्वादश्यां यतो हि भगवान् पुर।
+तिलान् उत्पादयामास तपः कृत्वा सुदारुणम्॥
+तिलतैलेन दीपाश्छ देयाह् देव गृहेषु च।
+निवेदयेत् तिलानेव"""
 references_secondary = [ "Vaidikasri Feb 2016",]
 jsonClass = "HinduCalendarEvent"
 

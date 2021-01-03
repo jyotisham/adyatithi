@@ -1,7 +1,8 @@
 default_to_none = true
 id = "zarkarA-saptamI"
 tags = [ "SpecialPuja",]
-shlokas = "शर्करासप्तमी चैव वाजिमेधफलप्रदा।\nसर्वदुःखप्रशमनी सर्वसम्पत्प्रदायिनी॥"
+shlokas = """शर्करासप्तमी चैव वाजिमेधफलप्रदा।
+सर्वदुःखप्रशमनी सर्वसम्पत्प्रदायिनी॥"""
 references_primary = [ "Smriti Kaustubham - 112",]
 references_secondary = [ "Vaidikasri May 2016",]
 jsonClass = "HinduCalendarEvent"

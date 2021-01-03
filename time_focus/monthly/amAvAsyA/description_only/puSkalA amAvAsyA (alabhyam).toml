@@ -1,7 +1,9 @@
 default_to_none = true
 id = "puSkalA amAvAsyA (alabhyam)"
 tags = [ "RareDays", "Combinations", "AmavasyaDays",]
-shlokas = "अमा सोमेन भौमेन गुरुणा वा युता यदि।\nसा तिथिः पुष्कला नाम सूर्यग्रहणसन्निभा॥\n"
+shlokas = """अमा सोमेन भौमेन गुरुणा वा युता यदि।
+सा तिथिः पुष्कला नाम सूर्यग्रहणसन्निभा॥
+"""
 references_secondary = [ "Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga",]
 jsonClass = "HinduCalendarEvent"
 

@@ -1,7 +1,8 @@
 default_to_none = true
 id = "naTarAjar mahAbhiSEkam~2"
 tags = [ "TamilnaduTempleFestivals",]
-shlokas = "कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।\nसदाशिवं रुद्रमनन्तरूपं चिदम्बरेशं हृदि भावयामि॥"
+shlokas = """कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
+सदाशिवं रुद्रमनन्तरूपं चिदम्बरेशं हृदि भावयामि॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

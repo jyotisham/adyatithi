@@ -1,7 +1,9 @@
 default_to_none = true
 id = "kAJcI 49 jagadguru zrI~mahAdEvEndra sarasvatI 3 ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = "छायावनाच्युतसुतो गुरुमूर्तिनामा स्थित्वा जगद्गुरुपदे छवि(४७)वर्षकालम्।\nप्राप्तोऽपराभवपदं स पराभवोर्जकालाष्टमीनिशि पदं परमात्मसंज्ञम्॥९६॥\n—पुण्यश्लोकमञ्जरी"
+shlokas = """छायावनाच्युतसुतो गुरुमूर्तिनामा स्थित्वा जगद्गुरुपदे छवि(४७)वर्षकालम्।
+प्राप्तोऽपराभवपदं स पराभवोर्जकालाष्टमीनिशि पदं परमात्मसंज्ञम्॥९६॥
+—पुण्यश्लोकमञ्जरी"""
 image = "kAnchI-maTha/images/jagadgurus/jagadguru-49.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

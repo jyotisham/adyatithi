@@ -1,11 +1,17 @@
 default_to_none = true
 id = "kAraDaiyAn2 nOn2bu"
 tags = [ "CommonFestivalsTamilnadu",]
+shlokas = """दोरं गृह्णामि सुभगे सहारिद्रं धराम्यहम्।
+भर्तुरायुष्य-सिद्ध्यर्थं सुप्रीता भव सर्वदा॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Tradition in South India (especially Tamil Nadu), where all women perform this `nOnbu` praying for their husband's long life. This vratam was peformed by Savitri in the forest, following which she redeemed his life from Lord Yama."
 
 [names]
 ta = [ "kAraDaiyAn2 nOn2bu",]

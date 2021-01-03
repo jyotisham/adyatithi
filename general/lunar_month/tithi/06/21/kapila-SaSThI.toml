@@ -1,7 +1,8 @@
 default_to_none = true
 id = "kapila-SaSThI"
 tags = [ "SpecialPuja",]
-shlokas = "प्रभाकर नमस्तुभ्यं संसारान्मां समुद्धर।\nभुक्तिमुक्तिप्रदो यस्मात् तस्माच्छान्तिं प्रयच्छ मे॥"
+shlokas = """प्रभाकर नमस्तुभ्यं संसारान्मां समुद्धर।
+भुक्तिमुक्तिप्रदो यस्मात् तस्माच्छान्तिं प्रयच्छ मे॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
