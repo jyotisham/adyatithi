@@ -5,11 +5,6 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "sidereal_solar_month"
-month_number = 8
-anga_type = "day"
-anga_number = 1
-kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
