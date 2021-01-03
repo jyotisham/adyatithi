@@ -12,7 +12,8 @@ anga_number = 9
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Daanam is good, get crore times punya.\nMaatruNavami, NaamaNavami Vratam, DurgaNavami-Vratam, Shourya-Vratam, Mahaaphala Vratam, PradeeptaNavami"
+en = """Daanam is good, get crore times punya.
+MaatruNavami, NaamaNavami Vratam, DurgaNavami-Vratam, Shourya-Vratam, Mahaaphala Vratam, PradeeptaNavami"""
 
 [names]
 sa = [ "महानवमी/सरस्वती-पूजा",]

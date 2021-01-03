@@ -12,7 +12,9 @@ anga_number = 10
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Arjuna wins over all Kauravas and Karna\nSri Rama's army built tents on ocean bank before crossing on Shravana star (AnandaRamayanam)\nBest day for AksharaaBhyaasam"
+en = """Arjuna wins over all Kauravas and Karna
+Sri Rama's army built tents on ocean bank before crossing on Shravana star (AnandaRamayanam)
+Best day for AksharaaBhyaasam"""
 
 [names]
 sa = [ "विजयदशमी",]
