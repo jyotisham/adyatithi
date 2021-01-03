@@ -1,11 +1,17 @@
 default_to_none = true
 id = "sOma-pradOSa-vratam"
 tags = [ "MonthlyVratam", "PradoshaVratam",]
+shlokas = """प्रदोषे  शिवपूजां  तु  ये  कुर्याच्छ्रद्धया  युताः।
+न  भवेत्  तस्य  दारिद्र्यं  जन्मान्तरशतेष्वपि॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Pradosha Vratam. Fast during the day and perform `zivapUjA` in Pradosha Kala. Pradosha vratam is even more special, when if falls on a Monday/Saturday."
 
 [names]
 sa = [ "सोम-प्रदोष-व्रतम्",]
