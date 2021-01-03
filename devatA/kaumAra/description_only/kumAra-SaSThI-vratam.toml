@@ -1,7 +1,8 @@
 default_to_none = true
 id = "kumAra-SaSThI-vratam"
 tags = [ "MonthlyVratam", "ShashthiVratam",]
-shlokas = "आषाढ शुक्लषष्ठी तु तिथिः कौमारिला स्मृता।\nकुमारमर्चयेत्तत्र पूर्वत्रोपेष्य वै दिनम्॥"
+shlokas = """आषाढ शुक्लषष्ठी तु तिथिः कौमारिला स्मृता।
+कुमारमर्चयेत्तत्र पूर्वत्रोपेष्य वै दिनम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

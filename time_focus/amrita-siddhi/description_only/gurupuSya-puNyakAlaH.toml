@@ -1,7 +1,8 @@
 default_to_none = true
 id = "gurupuSya-puNyakAlaH"
 tags = [ "RareDays", "Combinations", "AmritaSiddhiYogaDays"]
-shlokas = "आदित्यहस्ते गुरुपुष्ययोगे बुधानुराधा शनिरोहिणी च।\nसोमे च सौम्यं भृगुरेवती च भौमाश्विनी चामृतसिद्धियोगाः॥"
+shlokas = """आदित्यहस्ते गुरुपुष्ययोगे बुधानुराधा शनिरोहिणी च।
+सोमे च सौम्यं भृगुरेवती च भौमाश्विनी चामृतसिद्धियोगाः॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,8 @@
 default_to_none = true
 id = "vaizAkha-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
-shlokas = "बलं रूपं यशो धर्मं ज्ञानमायुः सुखं धृतिम्।\nआरोग्यं परमाप्नोति सम्यक् स्नानेन मानवः॥"
+shlokas = """बलं रूपं यशो धर्मं ज्ञानमायुः सुखं धृतिम्।
+आरोग्यं परमाप्नोति सम्यक् स्नानेन मानवः॥"""
 references_primary = [ "Satyavrata Smriti",]
 references_secondary = [ "Vaidikasri",]
 jsonClass = "HinduCalendarEvent"

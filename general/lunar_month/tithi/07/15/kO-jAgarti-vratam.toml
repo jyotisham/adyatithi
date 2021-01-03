@@ -1,7 +1,8 @@
 default_to_none = true
 id = "kO-jAgarti-vratam"
 tags = [ "SpecialVratam", "CommonFestivals",]
-shlokas = "निशीथे वरदा लक्ष्मीः को जागर्तीति भाषिणी।\nतस्मै वित्तं प्रयच्छामि अक्षैः क्रीडां करोति यः॥"
+shlokas = """निशीथे वरदा लक्ष्मीः को जागर्तीति भाषिणी।
+तस्मै वित्तं प्रयच्छामि अक्षैः क्रीडां करोति यः॥"""
 references_primary = [ "Dharma Sindhu 142",]
 references_secondary = [ "Vaidikasri Oct 2015",]
 jsonClass = "HinduCalendarEvent"

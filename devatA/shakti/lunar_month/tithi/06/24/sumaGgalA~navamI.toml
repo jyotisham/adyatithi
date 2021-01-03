@@ -1,7 +1,8 @@
 default_to_none = true
 id = "sumaGgalA~navamI"
 tags = [ "SpecialPuja", "CommonFestivals",]
-shlokas = "भर्तुरग्रे मृता नारी सहदाहेन वा मृता।\nतस्याः स्थाने नियुञ्जीत विप्रैः सह सुवासिनीम्॥"
+shlokas = """भर्तुरग्रे मृता नारी सहदाहेन वा मृता।
+तस्याः स्थाने नियुञ्जीत विप्रैः सह सुवासिनीम्॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

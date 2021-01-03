@@ -1,7 +1,8 @@
 default_to_none = true
 id = "dattAtrEya~jayantI"
 tags = [ "OtherAvatarams", "CommonFestivals",]
-shlokas = "आदौ ब्रह्मा मध्ये विष्णुरन्ते देवः सदाशिवः।\nमूर्तित्रयस्वरूपाय दत्तात्रेय नमोऽस्तु ते॥"
+shlokas = """आदौ ब्रह्मा मध्ये विष्णुरन्ते देवः सदाशिवः।
+मूर्तित्रयस्वरूपाय दत्तात्रेय नमोऽस्तु ते॥"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
