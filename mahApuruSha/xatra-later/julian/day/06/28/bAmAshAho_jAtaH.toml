@@ -1,0 +1,21 @@
+id = "bAmAshAho_jAtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 28
+year_start = 1547
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Bhama Shah was a great general, adviser, minister of Mewar, who was later promoted to post of Prime Minister of Mewar by Maharana Pratap, to whom he served as close aide and confidante. He along with his younger brother Tarachand fought in several battles for Mewar.
+
+After Maharana Pratap was defeated by Akbar in the Battle of Haldighati, had no funds at all to carry on the fight, and his family was close to starvation. At this point, Bhama shah and his brother Tarachand, presented their wealth consisting to maharana Pratap, who was overwhelmed.
+"""
+
+[names]
+sa = ["बामाशाहो जातः"]
