@@ -1,0 +1,11 @@
+default_to_none = true
+id = "vasantanavarAtraH"
+tags = [ "CommonFestivals", "Navaratri", "SpecialPeriod",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वसन्तनवरात्रः",]

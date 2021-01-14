@@ -1,0 +1,14 @@
+default_to_none = true
+id = "bhISma-paJcaka-vratam"
+tags = [ "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Bhishma, lying on `zaratalpa` performed upadesha to Yudhisthira and other Pandavas for these five days."
+
+[names]
+sa = [ "भीष्म-पञ्चक-व्रतम्",]

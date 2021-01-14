@@ -1,0 +1,15 @@
+default_to_none = true
+id = "kArttika-mAsa-antimatrayatithi-vratam"
+tags = [ "LessCommonFestivals",]
+references_primary = [ "skAnda mahApurANe vaiSNavakhaNDE SaDtriMzO.adhyAyaH",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Last three days of `kArttika-mAsaH`. `anantaphaladam`! Perform Shiva/Vishnu Puja, Bhagavata Parayanam, BhagavadGita Parayanam, Vishnu Sahasranama Parayanam etc."
+
+[names]
+sa = [ "कार्त्तिक-मास-अन्तिमत्रयतिथि-व्रतम्",]

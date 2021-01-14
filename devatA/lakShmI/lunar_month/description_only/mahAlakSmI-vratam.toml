@@ -1,0 +1,13 @@
+default_to_none = true
+id = "mahAlakSmI-vratam"
+tags = [ "Vratam", "SpecialPeriod",]
+references_primary = [ "Nirnaya Sindhu",]
+references_secondary = [ "Vaidikasri Sep 2017",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "महालक्ष्मी-व्रतम्",]
