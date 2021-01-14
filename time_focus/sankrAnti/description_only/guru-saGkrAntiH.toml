@@ -7,5 +7,8 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Transition of Jupiter from one Rashi to another. When it is not retrograde, it also marks the beginning of a new Pushkara."
+
 [names]
 sa = [ "गुरु-सङ्क्रान्तिः",]
