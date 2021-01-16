@@ -7,7 +7,7 @@ shlokas = """कण्डूय पृष्ठतो गां तु स्न
 यद्यदिष्टतमं चान्यत्तद्देयम् अविशङ्कया॥
 यस्यां स्नानं जपो होमः स्वाध्यायः पितृतर्पणम्।
 दानं च क्रियते किञ्चित्तत्सर्वं स्यादिहाक्षयम्॥"""
-references_primary = [ "Nirnaya Sindhu p.71",]
+references_primary = [ "Nirnaya Sindhu p.109",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"
 
