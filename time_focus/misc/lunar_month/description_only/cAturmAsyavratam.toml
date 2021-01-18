@@ -1,0 +1,14 @@
+default_to_none = true
+id = "cAturmAsyavratam"
+tags = [ "Vratam", "SpecialPeriod", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Chaaturmasya begins; 4 months; Pradakshina to Pippala; Deeparadhana in temple; Saraswati Pooja; 1st month no vegetables; 2nd month no curds; 3rd month no milk; 4th month no dals;"
+
+[names]
+sa = [ "चातुर्मास्यव्रतम्",]

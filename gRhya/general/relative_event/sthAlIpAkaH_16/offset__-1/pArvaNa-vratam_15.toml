@@ -8,6 +8,8 @@ anchor_festival_id = "sthAlIpAkaH_16"
 offset = -1
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "`pArvaNavratam` on the eve of `pUrNa-sthAlIpAkaH`."
 
 [names]
 sa = [ "पार्वणव्रतम् पूर्णिमायाम्",]

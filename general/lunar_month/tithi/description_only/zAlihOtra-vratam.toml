@@ -1,0 +1,11 @@
+default_to_none = true
+id = "zAlihOtra-vratam"
+tags = [ "SpecialVratam", "Vratam", "SpecialPeriod",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "शालिहोत्र-व्रतम्",]
