@@ -1,6 +1,5 @@
 default_to_none = true
 id = "tulA-kAvErI-snAna-ArambhaH"
-tags = [ "TamilnaduTempleFestivals",]
 shlokas = """षट्षष्टिकोटितीर्थानि द्विसप्तभुवनेषु च।
 केशवस्याऽऽज्ञया यान्ति तुलामासे मरुद्वृधम्॥"""
 jsonClass = "HinduCalendarEvent"
