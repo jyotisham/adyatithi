@@ -8,7 +8,7 @@ shlokas = """सूनुर्भद्रगिरेः सुभद्र �
 सर्वधारिणि स सर्वधारकश्चित्रशक्तिरधिचैत्रम् अर्जुने।
 अर्जुनः स्वयशसाऽऽदिमे दिनेऽनादिधाम महसा जगाम ह॥३१॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-15.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-15.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -14,7 +14,7 @@ shlokas = """आदिश्याष्ट यमीश्वरान् स�
 समस्तभुवनार्चितः सकृद् उमेशयन् अच्युतं
 जहौ तनुमनुत्तमाम् अविशद् आशु नैजं महः॥१०४॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-52.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-52.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

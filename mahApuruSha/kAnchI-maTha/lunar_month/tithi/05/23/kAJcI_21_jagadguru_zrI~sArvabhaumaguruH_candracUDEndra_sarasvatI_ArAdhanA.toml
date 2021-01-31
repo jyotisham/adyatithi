@@ -10,7 +10,7 @@ shlokas = """अर्चाचन्दनपेषणाद् भगवतः
 दत्त्वाऽस्मै परिपूर्णबोधबिरुदं भेजे व्यये चाव्ययं
 धाम स्वं जननाष्टमीनिशि हरेः श्रीचन्द्रचूडाश्रमी॥४६॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-21.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-21.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

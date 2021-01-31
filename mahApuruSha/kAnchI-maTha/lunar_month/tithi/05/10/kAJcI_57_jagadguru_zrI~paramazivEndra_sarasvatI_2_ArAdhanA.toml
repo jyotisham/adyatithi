@@ -8,7 +8,7 @@ shlokas = """पम्पासरस्तटभुवः परमेश्व
 स पार्थिवे पार्थिवदेहदूरं नभो नभस्यच्छतमोऽच्छपक्षे।
 अवापद् आपद्विधुरो दशम्यां दशम्यसौ दीनशके (१५०८) शकाब्दे॥५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-57.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-57.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -6,7 +6,7 @@ shlokas = """भालचन्द्रसुतः सूर्यनारा
 प्रपन्नः श्रीविद्यां कथमपि स विद्याघनगुरुस्तुरुष्काक्रान्तेऽपि व्यधित धुरम् आचार्यसहजाम्।
 इह त्रिंशद्वर्षान् प्रभवशरदः पुष्यबहुलद्वितीयायां प्रापत् परम् उपरमं प्रौढनियमी॥७३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-37.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-37.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -6,7 +6,7 @@ shlokas = """ख्यातः सुरेश इति सोमगिरे�
 श्रीचित्सुखानन्दगुरुः सच्चित्सुखमयं पदम्।
 आललम्बे हेमलम्बिन्याश्विने सितपर्वणि॥७१॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-36.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-36.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

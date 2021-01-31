@@ -10,7 +10,7 @@ shlokas = """सूनुः केशवशङ्करस्य तपती�
 अष्टम्याम् अपहर्षशोकम् अजरं ब्रह्मैव यः शाश्वतं
 काश्मीरेषु कलापुरे यदधुनाऽप्याख्यायतेऽस्याख्यया॥३३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-16.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-16.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

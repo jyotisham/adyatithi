@@ -9,7 +9,7 @@ shlokas = """मधुरितमणिमुक्तामुग्धती�
 स्यापत् सिद्धिमनापदि प्रतिपदं सच्चित्सुखे ज्योतिषि॥१०९॥
 -
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-55.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-55.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

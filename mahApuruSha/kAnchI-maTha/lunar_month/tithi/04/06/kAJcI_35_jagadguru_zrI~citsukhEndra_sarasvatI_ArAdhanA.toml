@@ -6,7 +6,7 @@ shlokas = """वेदाचलान्तिकभवो विमलाक्
 चित्सुखानन्दयोगीन्द्रं निवेश्य निजविष्टरे।
 सर्वात्मना तिरोऽधात् स धात्वाषाढाच्छषष्ठ्यहे॥६९॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-35.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-35.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -10,7 +10,7 @@ shlokas = """कर्णाटोज्ज्वलसूनुरीश्व�
 कल्यब्दे च विरोधिकृत्यनुतपं(पः?) शुद्धे दशम्यामगात्
 स्वं रूपं परमं सुधीशतनुतः श्रीचिद्घनश्चिद्घनम्॥२२॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-11.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-11.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

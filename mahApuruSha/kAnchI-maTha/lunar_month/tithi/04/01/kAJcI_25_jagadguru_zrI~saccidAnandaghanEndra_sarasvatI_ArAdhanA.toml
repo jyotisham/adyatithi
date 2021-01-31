@@ -8,7 +8,7 @@ shlokas = """श्रीमुष्णकृष्णतनयः शिवस
 अधिसप्ततिके चतुश्शिरस्के (४७०) सच्चिदानन्दघनः स सन् शकाब्दे।
 प्रभवे प्रभवन् शुचिश्च शुच्योः प्रथमायां पृथुलिङ्गताम् अवापत्॥५४॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-25.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-25.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

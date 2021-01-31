@@ -6,7 +6,7 @@ shlokas = """श्रीकण्ठः शिवसाम्बपण्डि
 शार्वर्याश्विनसप्तमीनिशि गतः सिद्धिं स पक्षे सिते
 सन्न्यासात् प्रभृति क्षितिध्र-विवर-स्थायी परादिः शिवः॥८८॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-45.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-45.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

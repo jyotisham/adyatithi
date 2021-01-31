@@ -8,7 +8,7 @@ shlokas = """निवेश्य गङ्गाधरगीष्पतिं
 आस्थायाप्यधिकामकोटि स शिवान् (४५) अब्दान् अगेऽगाल्लयं
 धातौ शालि-मणीशिखीक्षण(२३९)-सहे दर्शे च विद्याघनः॥२९॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-14.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-14.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

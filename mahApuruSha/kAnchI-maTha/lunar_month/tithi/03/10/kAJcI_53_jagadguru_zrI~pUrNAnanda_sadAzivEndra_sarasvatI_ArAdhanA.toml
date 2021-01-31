@@ -6,7 +6,7 @@ shlokas = """नागारण्यग-नागनाथतनुजः प�
 पिङ्गले मङ्गलालोको ज्येष्ठे ज्येष्ठः शुचिः शुचौ।
 दशम्यां दशमीम् आर्च्छद् दशां धाम्न्यपुनर्भवे॥१०६॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-53.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-53.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

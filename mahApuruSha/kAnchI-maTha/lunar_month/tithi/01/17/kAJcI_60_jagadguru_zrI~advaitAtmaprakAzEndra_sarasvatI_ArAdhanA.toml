@@ -7,7 +7,7 @@ shlokas = """अथ वसिष्ठनदीतटसम्भवः पर�
 गोविन्दनामा नियतः स्वभानुचैत्रद्वितीयानिशि सिद्धिमापत्॥१४॥
 -
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-60.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-60.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

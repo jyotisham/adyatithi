@@ -20,7 +20,7 @@ shlokas = """जज्ञे विश्वजितश्चिदम्बर
 सिद्धार्थिन्ययनेऽप्युदञ्चिनि शुचौ दर्शेऽह्नि काले कलेः
 विद्याशेवधिपावके (३९४१) गुरुरभूत् सच्चिद्विलासो मुनिः॥८०॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-38.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-38.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

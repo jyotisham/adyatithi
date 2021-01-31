@@ -16,7 +16,7 @@ shlokas = """महास्वामीति विख्यातस्त्
 काञ्च्यां विदेहकैवल्यं प्रापद्यत मुनीश्वरः।
 श्रीमुखे मार्गकृष्णे स द्वादश्याम् अपराह्णके॥३१॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-68.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-68.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 jsonClass = "HinduCalendarEvent"
 

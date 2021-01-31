@@ -6,7 +6,7 @@ shlokas = """पुत्रो रमेशमखिनो मधुरोऽ�
 श्रीशारदामठगुरुः परिपूर्णबोधो
 रौद्र्यूर्जशुक्लनवमीम् अनु सिद्धिम् आर्च्छत्॥४७॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-22.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-22.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

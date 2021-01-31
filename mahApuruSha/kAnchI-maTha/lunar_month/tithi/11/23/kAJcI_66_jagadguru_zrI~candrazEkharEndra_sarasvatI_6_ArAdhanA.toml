@@ -6,7 +6,7 @@ shlokas = """सीतारामविचक्षणस्य तनयः �
 श्रीचन्द्रशेखरगुरुः समाः सप्तदश स्थितः।
 पराभवे माघकृष्णाष्टम्यां धाम निजं ययौ॥२०॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-66.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-66.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

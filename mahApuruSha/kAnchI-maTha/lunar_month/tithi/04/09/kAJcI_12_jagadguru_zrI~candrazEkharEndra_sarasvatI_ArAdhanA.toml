@@ -6,7 +6,7 @@ shlokas = """श्रीचिद्घनेन्द्रनियतः श
 आनन्दमयम् आनन्दे आषाढ्याषाढपूर्वके।
 नवम्याम् अनवम्यं स्वं पदम् आपत् परात्परम्॥२४॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-12.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-12.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

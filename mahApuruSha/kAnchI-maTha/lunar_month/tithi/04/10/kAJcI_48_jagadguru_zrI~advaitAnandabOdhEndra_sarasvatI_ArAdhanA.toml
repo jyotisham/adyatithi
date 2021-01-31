@@ -10,7 +10,7 @@ shlokas = """प्रेमेशस्य पिनाकिनीतटभु
 अर्चन्नेव च मुक्तिलिङ्गम् अदधादन्तः समन्ताच्छ्रिते-
 ष्वासीदत्स्वपि चिद्विलासनियमी चिद्व्योम्नि साक्षादसौ॥९५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-48.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-48.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

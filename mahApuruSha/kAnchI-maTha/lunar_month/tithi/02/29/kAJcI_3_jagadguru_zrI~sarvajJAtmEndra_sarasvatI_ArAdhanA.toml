@@ -10,7 +10,7 @@ shlokas = """ताम्रारोधसि वर्धनात् सम�
 ग्रन्थैर्यत्कलितैर्न्यदर्शि विशदं सङ्क्षेपशारीरक-
 प्रख्यैरद्वयसूत्रभाष्यगहनच्छन्नः पदार्थोच्चयः॥९॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-03.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-03.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

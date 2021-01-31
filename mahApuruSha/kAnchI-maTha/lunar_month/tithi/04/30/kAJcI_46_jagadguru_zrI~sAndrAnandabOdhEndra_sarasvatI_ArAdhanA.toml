@@ -8,7 +8,7 @@ shlokas = """बोधेन्द्राख्यः स सोमो गु�
 शरदस्त्रिंशतं सप्ताप्यध्युष्यान्वरुणाचलम्(-ष्य स गुरोः पदम्)।
 जगाम धाम परममीश्वराषाढपर्वणि॥९०॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-46.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-46.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -18,7 +18,7 @@ shlokas = """विप्राच्छ्रीदेवमिश्राद�
 भवे भवाकृतिः सोऽच्छे ज्येष्ठे ज्येष्ठस्तपस्विनाम्।
 दशम्याम् आप दशमीं सिद्धिं सिद्धः सदाशिवः॥३८॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-17.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-17.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -8,7 +8,7 @@ shlokas = """श्रीचिक्काकुलसोमणार्यत�
 चित्सुखं विनिवेश्य स्वे पदे सच्चित्सुखः सिते।
 खरे खरांशौ वृषगे सप्तम्यां सिद्धिम् आप सः॥४९॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-23.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-23.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

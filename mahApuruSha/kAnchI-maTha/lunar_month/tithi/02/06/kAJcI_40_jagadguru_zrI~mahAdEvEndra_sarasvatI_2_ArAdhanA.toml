@@ -4,7 +4,7 @@ tags = [ "KanchiAradhanaDays",]
 shlokas = """कर्णाटकण्णयसुतः शिवरामभट्टः सच्चिद्विलासयमिना सुहितः स्वपीठे।
 अध्यास्य तं रवि(४२)समा भवराधशुद्धषष्ठीप्रदोषविरतौ विरतः स्वधाम्नि॥८३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-40.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-40.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

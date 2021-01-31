@@ -4,7 +4,7 @@ tags = [ "KanchiAradhanaDays",]
 shlokas = """अथ हस्तिशैलमधुसूदनात्मजो हरिकेशवश्च चितिसौख्यमेदुरः।
 अगमत् पदं स्वम् अखिलस्थिरागुरुः शरदः स दुर्मुखिन आदिमे दिने॥५६॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-27.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-27.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

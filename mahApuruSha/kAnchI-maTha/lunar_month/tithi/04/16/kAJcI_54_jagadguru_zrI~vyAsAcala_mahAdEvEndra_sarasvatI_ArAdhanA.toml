@@ -6,7 +6,7 @@ shlokas = """काञ्चीकामेश्वरार्यात् स
 भाष्यं त्रिः सप्तकृत्वश्चटुलम् अचकलद् यो नवाब्द्यां प्रहृष्यन्।
  अक्षय्याषाढकृष्णप्रतिपदि स महादेवनामाऽऽप सिद्धिम्॥१०७॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-54.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-54.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

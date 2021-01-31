@@ -4,7 +4,7 @@ tags = [ "KanchiAradhanaDays",]
 shlokas = """श्रीपतेस्तनयः कृष्णः पूर्णबोधो दिने हरेः।
 ब्रह्मभूतो नभस्यच्छे संयमीश्वर ईश्वरे॥५८॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-29.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-29.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

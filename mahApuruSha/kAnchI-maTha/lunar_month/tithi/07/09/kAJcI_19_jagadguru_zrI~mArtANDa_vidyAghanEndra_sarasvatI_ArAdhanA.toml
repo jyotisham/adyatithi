@@ -8,7 +8,7 @@ shlokas = """श्रीकण्ठोऽयम् उमेशशङ्कर
 मौनी तपःस्ववशमृत्युरधिस्वपीठम् अब्दांस्त्रयोदश विहृत्य च शङ्करेन्द्रम्।
 निक्षिप्य दत्तगुरुवाचम् अलब्ध सिद्धिं सद्धेमलम्बिनि तथाऽह्नि महानवम्याम्॥४२॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-19.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-19.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

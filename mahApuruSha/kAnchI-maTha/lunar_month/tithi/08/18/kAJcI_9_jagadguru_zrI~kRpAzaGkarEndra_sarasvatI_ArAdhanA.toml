@@ -10,7 +10,7 @@ shlokas = """आन्ध्रेष्वात्मणसोमयाजि�
 विभवे विभुरूर्जितः परोर्जे परमापानुतृतीयम् अद्वितीयः।
 परमं पदम् आत्मनीनमेकं परमानन्दमयं परापराख्यम्॥१९॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-09.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-09.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -4,7 +4,7 @@ tags = [ "KanchiAradhanaDays",]
 shlokas = """प्रभाकरस्यात्मभवः पिनाकिनीतटीभवः शोणगिरिर्जगद्गुरुः।
 स्वभानुवैशाखसिताष्टमीनिशि प्रज्ञाघनः प्राप परं पदं मुदा॥५५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-26.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-26.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

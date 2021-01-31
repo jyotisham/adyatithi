@@ -10,7 +10,7 @@ shlokas = """लक्ष्मीनरसिंहयुगलपुत्र�
 गुरुर्महादेवेन्द्राख्यः सप्ताही सिद्धिम् आययौ।
 पराभवे फाल्गुने तु शुक्लायां प्रतिपत्तिथौ॥२४॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-67.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-67.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

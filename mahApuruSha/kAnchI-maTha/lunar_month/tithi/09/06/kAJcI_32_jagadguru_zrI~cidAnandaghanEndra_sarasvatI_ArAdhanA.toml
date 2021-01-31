@@ -10,7 +10,7 @@ shlokas = """अण्णु(कण्व)शङ्करनन्दनः प�
 प्रजोत्पत्तौ मार्गशीर्षे सितषष्ठ्याम् अगाद् असौ।
 पदं स्वं परमं सर्वशोकमोहविवर्जितम्॥६३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-32.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-32.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

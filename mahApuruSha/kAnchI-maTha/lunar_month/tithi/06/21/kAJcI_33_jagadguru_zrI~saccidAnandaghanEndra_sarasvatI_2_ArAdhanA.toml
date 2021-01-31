@@ -8,7 +8,7 @@ shlokas = """नानाभाषाभिलापी प्रशमकुल
 खरे प्रौष्ठपदे षष्ठ्याम् अखरोऽधिमहालयम्।
 स सच्चिदानन्दघनो महान् लयमगाद् गुरुः॥६५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-33.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-33.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

@@ -6,7 +6,7 @@ shlokas = """सुब्रह्मण्यभवो नियम्य न�
 लिल्येऽधीश्वरम् ईश्वरोर्जबहुलाष्टम्याम् असौ सङ्गवे
 घुष्यन्नेव हि सूत्रभाष्यविषयान् अन्तेवसद्भ्यः पटु॥८५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-42.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-42.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

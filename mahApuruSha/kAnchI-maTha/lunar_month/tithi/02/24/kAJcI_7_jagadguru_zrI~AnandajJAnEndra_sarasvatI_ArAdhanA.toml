@@ -10,7 +10,7 @@ shlokas = """आनन्दाराद्धगौरीनिरवधिक�
 श्रीशैलान्तिकम् आसदन् पथिवशाद् आनन्दसिद्धिं ययौ
 सिद्धः क्रोधनराधकृष्णनवमीसन्ध्यामनु ब्रह्मवित्॥१५॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-07.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-07.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

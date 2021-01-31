@@ -10,7 +10,7 @@ shlokas = """श्रीकण्ठः शुकदेवशर्मतनय
 आस्थायासनम् अष्टषष्टिशरदः श्रीपार्थिवे पार्थिवं
 चैत्रे चित्रम् अपर्वपर्वणि जहद्देहं विदेहोऽभवत्॥९३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-47.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-47.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"

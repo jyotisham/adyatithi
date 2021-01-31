@@ -6,7 +6,7 @@ shlokas = """अण्णाश्रौतीति जातोऽयं क�
 महादेवेन्द्रगुरुराड् एकत्रिंशत्समाः स्थितः।
 श्रीमुखाषाढमाश्शुक्लद्वादश्यां सिद्धिम् आस्थितः॥१३॥
 —पुण्यश्लोकमञ्जरी"""
-image = "kAnchI-maTha/images/jagadgurus/jagadguru-63.jpg"
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-63.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]
 jsonClass = "HinduCalendarEvent"
