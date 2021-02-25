@@ -1,17 +1,17 @@
-id = "kRShNadevarAya-mRtyuH"
+id = "kRShNadevarAya-paTTAbhiShekaH"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 month_type = "julian"
 anga_type = "day"
-month_number = 10
-anga_number = 17
-year_start = 1529
+month_number = 7
+anga_number = 26
+year_start = 1509
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Great emperor kRShNadevarAya died. An inscription in Honehalli near Tumkur records this. There was a lunar eclipse on the day. कार्त्तिक-पूर्णिमा."
+en = "kRShNAShTamI (bhAdrapada-kRShNa likely) kRShNadevarAya coronated. https://twitter.com/i/moments/890055413374173186"
 
 [names]
-sa = ["कृष्णदेवराय-मरणम्"]
+sa = ["कृष्णदेवराय-पट्टाभिषेकः"]
