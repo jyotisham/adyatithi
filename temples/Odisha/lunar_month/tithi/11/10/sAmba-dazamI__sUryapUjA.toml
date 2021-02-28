@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sAmba-dazamI (sUryapUjA)"
+id = "sAmba-dazamI__sUryapUjA"
 tags = [ "LessCommonFestivals", "OdishaTempleFestivals",]
 references_secondary = [ "https://hindupad.com/samba-dashami-2009-samba-dasami-or-surya-puja-in-orissa/",]
 jsonClass = "HinduCalendarEvent"
