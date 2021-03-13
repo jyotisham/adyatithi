@@ -1,0 +1,21 @@
+id = "AngrE-kAnhojI-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 15
+year_start = 1729
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Death anniversary of Maratha Navy Admiral Kanhoji Angre. During his undefeated reign, his navy controlled west coast, prevented entry of slave trade in India, fully succeeded in keeping British, Dutch, Portuguese at bay.
+
+॥श्री॥ श्री शाहू-नृपती-प्रित्या तुकोजी-तनुजन्मना कान्होजी-सरखेलस्य मुद्रा जयति सर्वदा॥ 
+"""
+
+[names]
+sa = ["आङ्ग्रॆ-कान्होजी-मृत्युः"]
