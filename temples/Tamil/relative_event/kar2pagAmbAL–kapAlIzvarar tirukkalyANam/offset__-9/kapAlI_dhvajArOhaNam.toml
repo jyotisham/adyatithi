@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kapAlI dvajArOhaNam"
+id = "kapAlI dhvajArOhaNam"
 tags = [ "TamilnaduTempleFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -11,3 +11,4 @@ jsonClass = "HinduCalendarEventTiming"
 
 [names]
 ta = [ "kapAlI dvajArOhaNam",]
+sa = [ "कपालीश्वर-ध्वजारोहणम्",]
