@@ -1,11 +1,7 @@
 default_to_none = true
-id = "kAJcI 22 jagadguru zrI~paripUrNabOdhEndra sarasvatI ArAdhanA"
+id = "kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """पुत्रो रमेशमखिनो मधुरोऽगदङ्कृद्
-ग्रावाभिलापक इति प्रथितश्च मन्त्रे।
-श्रीशारदामठगुरुः परिपूर्णबोधो
-रौद्र्यूर्जशुक्लनवमीम् अनु सिद्धिम् आर्च्छत्॥४७॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "पुत्रो रमेशमखिनो मधुरोऽगदङ्कृद्\nग्रावाभिलापक इति प्रथितश्च मन्त्रे।\nश्रीशारदामठगुरुः परिपूर्णबोधो\nरौद्र्यूर्जशुक्लनवमीम् अनु सिद्धिम् आर्च्छत्॥४७॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-22.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

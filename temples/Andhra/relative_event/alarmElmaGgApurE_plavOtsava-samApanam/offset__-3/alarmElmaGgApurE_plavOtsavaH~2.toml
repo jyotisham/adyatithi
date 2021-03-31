@@ -1,0 +1,16 @@
+default_to_none = true
+id = "alarmElmaGgApurE_plavOtsavaH~2"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "alarmElmaGgApurE_plavOtsava-samApanam"
+offset = -3
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Sridevi Bhudevi sahita Sundararaja Swami are taken out on the `plava`."
+
+[names]
+sa = [ "अलर्मेल्मङ्गापुरे प्लवोत्सवः",]

@@ -1,9 +1,7 @@
 default_to_none = true
-id = "kAJcI 26 jagadguru zrI~prajJAghanEndra sarasvatI ArAdhanA"
+id = "kAJcI_26_jagadguru_zrI~prajJAghanEndra_sarasvatI_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """प्रभाकरस्यात्मभवः पिनाकिनीतटीभवः शोणगिरिर्जगद्गुरुः।
-स्वभानुवैशाखसिताष्टमीनिशि प्रज्ञाघनः प्राप परं पदं मुदा॥५५॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "प्रभाकरस्यात्मभवः पिनाकिनीतटीभवः शोणगिरिर्जगद्गुरुः।\nस्वभानुवैशाखसिताष्टमीनिशि प्रज्ञाघनः प्राप परं पदं मुदा॥५५॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-26.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

@@ -1,9 +1,7 @@
 default_to_none = true
-id = "kAJcI 41 jagadguru zrI~gaGgAdharEndra sarasvatI 2 ArAdhanA"
+id = "kAJcI_41_jagadguru_zrI~gaGgAdharEndra_sarasvatI_2_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """अप्पण्णाख्य उमेशभट्टतनयो भीमातटीसम्भवः श्रीविद्यानिरतः श्रितो गुरुपदं श्रीकामकोटीमठे।
-पञ्चत्रिंशतम् अध्युवास शरदः श्रीशारदापीठिकां सौम्यः सौम्यनभस्सितप्रतिपदि प्रेयाय गङ्गाधरः॥८४॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "अप्पण्णाख्य उमेशभट्टतनयो भीमातटीसम्भवः श्रीविद्यानिरतः श्रितो गुरुपदं श्रीकामकोटीमठे।\nपञ्चत्रिंशतम् अध्युवास शरदः श्रीशारदापीठिकां सौम्यः सौम्यनभस्सितप्रतिपदि प्रेयाय गङ्गाधरः॥८४॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-41.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

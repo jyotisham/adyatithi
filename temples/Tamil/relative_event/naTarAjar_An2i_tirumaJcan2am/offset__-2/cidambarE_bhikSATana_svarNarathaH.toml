@@ -1,0 +1,13 @@
+default_to_none = true
+id = "cidambarE_bhikSATana_svarNarathaH"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "naTarAjar_An2i_tirumaJcan2am"
+offset = -2
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "चिदम्बरे भिक्षाटन स्वर्णरथः",]

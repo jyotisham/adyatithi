@@ -1,9 +1,7 @@
 default_to_none = true
-id = "kAJcI 30 jagadguru zrI~bOdhEndra sarasvatI 2 ArAdhanA"
+id = "kAJcI_30_jagadguru_zrI~bOdhEndra_sarasvatI_2_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """कालहस्तिसुतबालयाभिधो बोधसद्गुरुरबोधवर्जितः।
-आप शाश्वतपदं विशुद्धम् आनन्दमाधवचतुर्थ्यहर्मुखे॥५९॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "कालहस्तिसुतबालयाभिधो बोधसद्गुरुरबोधवर्जितः।\nआप शाश्वतपदं विशुद्धम् आनन्दमाधवचतुर्थ्यहर्मुखे॥५९॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-30.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

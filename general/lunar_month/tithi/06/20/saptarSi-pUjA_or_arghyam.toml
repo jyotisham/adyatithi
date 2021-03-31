@@ -1,5 +1,5 @@
 default_to_none = true
-id = "saptarSi-pUjA or arghyam"
+id = "saptarSi-pUjA_or_arghyam"
 tags = [ "SpecialPuja",]
 jsonClass = "HinduCalendarEvent"
 

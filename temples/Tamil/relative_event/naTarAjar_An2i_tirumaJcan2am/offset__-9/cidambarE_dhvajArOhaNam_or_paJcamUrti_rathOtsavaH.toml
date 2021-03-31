@@ -1,0 +1,13 @@
+default_to_none = true
+id = "cidambarE_dhvajArOhaNam_or_paJcamUrti_rathOtsavaH"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "naTarAjar_An2i_tirumaJcan2am"
+offset = -9
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "चिदम्बरे ध्वजारोहणम्/पञ्चमूर्ति रथोत्सवः",]

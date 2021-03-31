@@ -1,0 +1,14 @@
+default_to_none = true
+id = "kapAlI_umA-mahEzvara_darican2am"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "kar2pagAmbAL–kapAlIzvarar_tirukkalyANam"
+offset = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "kapAlI umA-mahEzvara darican2am",]
+sa = [ "उमा-कपालीश्वर-दर्शनम्",]

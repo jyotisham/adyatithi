@@ -1,11 +1,7 @@
 default_to_none = true
-id = "jayA or bhaimI-EkAdazI"
+id = "jayA_or_bhaimI-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
-shlokas = """एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।
-नाम्ना सा च जया ख्याता तिथीनामुत्तमा तिथिः।
-तामुपोष्य नरः पापान्मुच्यते नात्र संशयः॥
---पद्मपुराणे
-"""
+shlokas = "एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।\nनाम्ना सा च जया ख्याता तिथीनामुत्तमा तिथिः।\nतामुपोष्य नरः पापान्मुच्यते नात्र संशयः॥\n--पद्मपुराणे\n"
 jsonClass = "HinduCalendarEvent"
 
 [timing]

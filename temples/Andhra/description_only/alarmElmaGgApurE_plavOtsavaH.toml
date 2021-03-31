@@ -1,5 +1,5 @@
 default_to_none = true
-id = "alarmElmaGgApurE plavOtsavaH"
+id = "alarmElmaGgApurE_plavOtsavaH"
 tags = [ "AndhraTempleFestivals",]
 jsonClass = "HinduCalendarEvent"
 

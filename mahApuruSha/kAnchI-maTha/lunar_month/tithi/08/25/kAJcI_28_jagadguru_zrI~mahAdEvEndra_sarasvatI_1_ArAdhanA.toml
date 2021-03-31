@@ -1,9 +1,7 @@
 default_to_none = true
-id = "kAJcI 28 jagadguru zrI~mahAdEvEndra sarasvatI 1 ArAdhanA"
+id = "kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """भद्राचलाभिजनभानुसुतः स शेषणार्योऽभिमण्ड्य पदम् आदिमदेशिकस्य।
-रौद्रिण्यनूर्जदशमि प्रशमीन्द्रगम्यं प्रापत् पदं प्रणिहितेः परमामृताख्यम्॥५७॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "भद्राचलाभिजनभानुसुतः स शेषणार्योऽभिमण्ड्य पदम् आदिमदेशिकस्य।\nरौद्रिण्यनूर्जदशमि प्रशमीन्द्रगम्यं प्रापत् पदं प्रणिहितेः परमामृताख्यम्॥५७॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-28.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

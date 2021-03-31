@@ -1,0 +1,13 @@
+default_to_none = true
+id = "vEGkaTAcalE_plavOtsavaH~4"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "vEGkaTAcalE_plavOtsava-samApanam"
+offset = -1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वेङ्कटाचले प्लवोत्सवः",]

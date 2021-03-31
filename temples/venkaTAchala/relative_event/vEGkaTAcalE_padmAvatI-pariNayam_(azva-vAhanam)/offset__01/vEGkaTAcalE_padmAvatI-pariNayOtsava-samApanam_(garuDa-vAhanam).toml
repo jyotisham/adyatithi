@@ -1,0 +1,13 @@
+default_to_none = true
+id = "vEGkaTAcalE_padmAvatI-pariNayOtsava-samApanam_(garuDa-vAhanam)"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)"
+offset = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वेङ्कटाचले पद्मावती-परिणयोत्सव-समापनम् (गरुड-वाहनम्)",]

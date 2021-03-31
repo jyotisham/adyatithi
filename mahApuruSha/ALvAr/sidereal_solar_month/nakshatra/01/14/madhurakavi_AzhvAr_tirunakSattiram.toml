@@ -1,5 +1,5 @@
 default_to_none = true
-id = "madhurakavi AzhvAr tirunakSattiram"
+id = "madhurakavi_AzhvAr_tirunakSattiram"
 tags = [ "MahapurushaEvents", "AzhwarJayanti",]
 jsonClass = "HinduCalendarEvent"
 

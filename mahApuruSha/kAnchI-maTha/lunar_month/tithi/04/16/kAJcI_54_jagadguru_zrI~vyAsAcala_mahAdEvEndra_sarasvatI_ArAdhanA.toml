@@ -1,11 +1,7 @@
 default_to_none = true
-id = "kAJcI 54 jagadguru zrI~vyAsAcala mahAdEvEndra sarasvatI ArAdhanA"
+id = "kAJcI_54_jagadguru_zrI~vyAsAcala_mahAdEvEndra_sarasvatI_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """काञ्चीकामेश्वरार्यात् समजनि कमलाम्बोदरात् कुप्पणाख्यो
-यः पूर्णानन्दयोगिप्रवरपदरतेः प्राप पीठीम् अमुष्य।
-भाष्यं त्रिः सप्तकृत्वश्चटुलम् अचकलद् यो नवाब्द्यां प्रहृष्यन्।
- अक्षय्याषाढकृष्णप्रतिपदि स महादेवनामाऽऽप सिद्धिम्॥१०७॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "काञ्चीकामेश्वरार्यात् समजनि कमलाम्बोदरात् कुप्पणाख्यो\nयः पूर्णानन्दयोगिप्रवरपदरतेः प्राप पीठीम् अमुष्य।\nभाष्यं त्रिः सप्तकृत्वश्चटुलम् अचकलद् यो नवाब्द्यां प्रहृष्यन्।\n अक्षय्याषाढकृष्णप्रतिपदि स महादेवनामाऽऽप सिद्धिम्॥१०७॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-54.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

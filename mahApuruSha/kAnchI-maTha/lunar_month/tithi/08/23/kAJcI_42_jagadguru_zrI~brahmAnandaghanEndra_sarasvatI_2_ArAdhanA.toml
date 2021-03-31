@@ -1,11 +1,7 @@
 default_to_none = true
-id = "kAJcI 42 jagadguru zrI~brahmAnandaghanEndra sarasvatI 2 ArAdhanA"
+id = "kAJcI_42_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_2_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = """सुब्रह्मण्यभवो नियम्य नरसम्भट्टोऽथ गङ्गाधराद्
-ब्रह्मानन्दघनाभिधोऽधित धुरां द्व्यूनाः समास्त्रिंशतम्।
-लिल्येऽधीश्वरम् ईश्वरोर्जबहुलाष्टम्याम् असौ सङ्गवे
-घुष्यन्नेव हि सूत्रभाष्यविषयान् अन्तेवसद्भ्यः पटु॥८५॥
-—पुण्यश्लोकमञ्जरी"""
+shlokas = "सुब्रह्मण्यभवो नियम्य नरसम्भट्टोऽथ गङ्गाधराद्\nब्रह्मानन्दघनाभिधोऽधित धुरां द्व्यूनाः समास्त्रिंशतम्।\nलिल्येऽधीश्वरम् ईश्वरोर्जबहुलाष्टम्याम् असौ सङ्गवे\nघुष्यन्नेव हि सूत्रभाष्यविषयान् अन्तेवसद्भ्यः पटु॥८५॥\n—पुण्यश्लोकमञ्जरी"
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-42.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

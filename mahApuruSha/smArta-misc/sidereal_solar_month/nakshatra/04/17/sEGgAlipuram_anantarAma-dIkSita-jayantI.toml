@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sEGgAlipuram anantarAma-dIkSita-jayantI"
+id = "sEGgAlipuram_anantarAma-dIkSita-jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 references_secondary = [ "Vaidikasri Nov 2009",]
 jsonClass = "HinduCalendarEvent"
