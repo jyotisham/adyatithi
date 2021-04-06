@@ -1,8 +1,10 @@
 default_to_none = true
 id = "varakunda-caturthI"
 tags = [ "SpecialPuja",]
-shlokas = """माघशुक्लचतुर्थ्यां तु कुन्दपुष्पैः सदाशिवम्।
-सम्पूज्य यो हि नक्ताऽऽशी सम्प्राप्नोति श्रियं नरः॥"""
+shlokas = """
+माघशुक्लचतुर्थ्यां तु कुन्दपुष्पैः सदाशिवम्।
+सम्पूज्य यो हि नक्ताऽऽशी सम्प्राप्नोति श्रियं नरः॥
+"""
 references_primary = [ "Nirnaya Sindhu 162",]
 references_secondary = [ "Vaidikasri Feb 2016",]
 jsonClass = "HinduCalendarEvent"

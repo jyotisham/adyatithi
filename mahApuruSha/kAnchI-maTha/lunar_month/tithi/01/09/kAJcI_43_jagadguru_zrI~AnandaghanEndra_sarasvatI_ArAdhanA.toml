@@ -1,7 +1,11 @@
 default_to_none = true
 id = "kAJcI_43_jagadguru_zrI~AnandaghanEndra_sarasvatI_ArAdhanA"
 tags = [ "KanchiAradhanaDays",]
-shlokas = "श्रीतुङ्गभद्रातटभूः सुदेवभट्टात्मजः शङ्करपण्डिताख्यः।\nअभूद् अथानन्दघनश्चलाब्दैः (३६) प्रमादिचैत्राच्छनवम्यहेऽगात्॥८६॥\n—पुण्यश्लोकमञ्जरी"
+shlokas = """
+श्रीतुङ्गभद्रातटभूः सुदेवभट्टात्मजः शङ्करपण्डिताख्यः।
+अभूद् अथानन्दघनश्चलाब्दैः (३६) प्रमादिचैत्राच्छनवम्यहेऽगात्॥८६॥
+—पुण्यश्लोकमञ्जरी
+"""
 image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-43.jpg"
 references_primary = [ "Punya Shloka Manjari",]
 references_secondary = [ "www.kamakoti.org",]

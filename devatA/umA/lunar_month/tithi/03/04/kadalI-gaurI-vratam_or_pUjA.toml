@@ -1,7 +1,10 @@
 default_to_none = true
 id = "kadalI-gaurI-vratam_or_pUjA"
 tags = [ "LessCommonFestivals",]
-shlokas = "पुत्रान् देहि धनं देहि सौभाग्यं सर्वमङ्गले।\nसौमङ्गल्यं सुखं ज्ञानं देहि मे शिवसुन्दरि॥"
+shlokas = """
+पुत्रान् देहि धनं देहि सौभाग्यं सर्वमङ्गले।
+सौमङ्गल्यं सुखं ज्ञानं देहि मे शिवसुन्दरि॥
+"""
 references_primary = [ "Bhavishyottara Puranam",]
 references_secondary = [ "Vaidikasri June 2017",]
 jsonClass = "HinduCalendarEvent"

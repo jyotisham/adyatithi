@@ -12,12 +12,12 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-On this day was born the great rAjan shivAjI (It was phAlguna k3), about whom bhUShaNa wrote  
-\"चारौ वर्ण धर्म छोडि  
+On this day was born the great rAjan shivAjI (It was phAlguna k3), about whom bhUShaNa wrote
+"चारौ वर्ण धर्म छोडि  
 कलमा नेवाज पढि  
 सिवाजी न होतो तौ  
-सुनति होत सबकी\" 🙏🙏
+सुनति होत सबकी" 🙏🙏
 """
 
 [names]
-sa = ["शिवराजो जातः"]
+sa = [ "शिवराजो जातः",]

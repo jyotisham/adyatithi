@@ -12,7 +12,7 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-On 13th November 1668 (in the same month as the raid on bArdesh, Goa), Shivaji commenced the construction of the temple of Shri Saptakoteshvara at Narwe. 
+On 13th November 1668 (in the same month as the raid on bArdesh, Goa), Shivaji commenced the construction of the temple of Shri Saptakoteshvara at Narwe.
 
 Formerly the temple of Shri Saptakoteshvara, the family deity of the Kadamba dynasty that ruled over Goa in the 12th century, was in the village named Narwe (Naroa) in Divadi, a tiny coastal island. It was destroyed by the Muslims and the stone image of the deity was hidden by the devotees in the embankment of a field. 
 
@@ -24,4 +24,4 @@ Shivaji was now building a new one at that site which he perhaps intended would 
 """
 
 [names]
-sa = ["शिवराजः सप्तकोटेश्वर-मन्दिरनिर्माणम् आरभते"]
+sa = [ "शिवराजः सप्तकोटेश्वर-मन्दिरनिर्माणम् आरभते",]

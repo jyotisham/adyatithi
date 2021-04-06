@@ -1,8 +1,10 @@
 default_to_none = true
 id = "mitra-saptamI"
 tags = [ "OtherAvataram", "SpecialPuja", "CommonFestivals",]
-shlokas = """अदित्यां कश्यपाज्जज्ञे मित्रो नाम दिवाकरः।
-सप्तम्यां तेन सा ख्याता लोकेऽस्मिन् मित्रसप्तमी॥"""
+shlokas = """
+अदित्यां कश्यपाज्जज्ञे मित्रो नाम दिवाकरः।
+सप्तम्यां तेन सा ख्याता लोकेऽस्मिन् मित्रसप्तमी॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

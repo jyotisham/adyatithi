@@ -1,7 +1,10 @@
 default_to_none = true
 id = "guru-pUrNimA_or_vyAsa-pUjA"
 tags = [ "PurnimaDays", "SpecialPuja", "CommonFestivals",]
-shlokas = "अचतुर्वदनो ब्रह्मा द्विबाहुरपरो हरिः।\nअफाललोचनो शम्भुर्भगवान् बादरायणः॥"
+shlokas = """
+अचतुर्वदनो ब्रह्मा द्विबाहुरपरो हरिः।
+अफाललोचनो शम्भुर्भगवान् बादरायणः॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

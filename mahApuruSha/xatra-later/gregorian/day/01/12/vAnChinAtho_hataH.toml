@@ -12,7 +12,7 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-On this day, vAnchinathan Iyer, inspired by  Subramaniam Aiyar, he shot dead a mlecCha collector before killing himself. His letter: 
+On this day, vAnchinathan Iyer, inspired by  Subramaniam Aiyar, he shot dead a mlecCha collector before killing himself. His letter:
 
 - I dedicate my life as a small contribution to my motherland. I am alone responsible for this.
 - The mlechas of England having captured our country, tread over the sanathana dharma of the Hindus and destroy them. Every Indian is trying to drive out the English and get swarajyam and restore sanathana dharma. Our Raman, Sivaji, Krishnan, Guru Govindan, Arjuna ruled our land protecting all dharmas, but in this land, they are making arrangements to crown George V, a mlecha, and one who eats the flesh of cows.
@@ -21,9 +21,7 @@ On this day, vAnchinathan Iyer, inspired by  Subramaniam Aiyar, he shot dead a m
 - I, as the least of them, wish to warn George by killing Ashe. 
 - Vande Mataram. Vande Mataram. Vande Mataram
 - sd/-, R. Vanchi Aiyar, Shencottah
-
-
 """
 
 [names]
-sa = ["वाञ्छिनाथो हतः"]
+sa = [ "वाञ्छिनाथो हतः",]

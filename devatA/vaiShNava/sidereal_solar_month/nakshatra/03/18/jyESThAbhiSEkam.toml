@@ -12,7 +12,7 @@ jsonClass = "HinduCalendarEventTiming"
 
 [names]
 ta = [ "jyESThAbhiSEkam",]
-sa = ["ज्येष्ठाभिषेकः"]
+sa = [ "ज्येष्ठाभिषेकः",]
 
 [description]
 sa = "चन्द्रमसि ज्येष्ठनक्षत्रे सत्य् आचर्यते कर्कटराशौ च सूर्ये सति खे विपरीतदिशि।"

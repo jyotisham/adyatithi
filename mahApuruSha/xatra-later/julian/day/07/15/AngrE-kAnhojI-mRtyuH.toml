@@ -14,8 +14,8 @@ jsonClass = "HinduCalendarEventTiming"
 en = """
 Death anniversary of Maratha Navy Admiral Kanhoji Angre. During his undefeated reign, his navy controlled west coast, prevented entry of slave trade in India, fully succeeded in keeping British, Dutch, Portuguese at bay.
 
-॥श्री॥ श्री शाहू-नृपती-प्रित्या तुकोजी-तनुजन्मना कान्होजी-सरखेलस्य मुद्रा जयति सर्वदा॥ 
+॥श्री॥ श्री शाहू-नृपती-प्रित्या तुकोजी-तनुजन्मना कान्होजी-सरखेलस्य मुद्रा जयति सर्वदा॥
 """
 
 [names]
-sa = ["आङ्ग्रॆ-कान्होजी-मृत्युः"]
+sa = [ "आङ्ग्रॆ-कान्होजी-मृत्युः",]

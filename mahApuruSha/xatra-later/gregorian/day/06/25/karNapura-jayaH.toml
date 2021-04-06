@@ -12,7 +12,7 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-As the British forces surrendered on 25 June 1857, Nana was declared Peshwa in late June. 
+As the British forces surrendered on 25 June 1857, Nana was declared Peshwa in late June.
 
 On June 27, the british making their way on gangA at Satichaura Ghat were killed or captured (it's unclear who fired teh first shot). Around 120 women and children were taken prisoner and eventually moved to Bibighar; later more were added. 
 
@@ -20,4 +20,4 @@ Using them for bargaining failed - and eventually, they were massacred on July 1
 """
 
 [names]
-sa = ["कर्णपुर-जयः"]
+sa = [ "कर्णपुर-जयः",]

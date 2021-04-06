@@ -1,8 +1,10 @@
 default_to_none = true
 id = "rakSAbandhanam"
 tags = [ "CommonFestivals",]
-shlokas = """येन बद्धो बली राजा दानवेन्द्रो महाबलः।
-तेन त्वामभिबध्नामि रक्षे मा चल मा चल॥"""
+shlokas = """
+येन बद्धो बली राजा दानवेन्द्रो महाबलः।
+तेन त्वामभिबध्नामि रक्षे मा चल मा चल॥
+"""
 references_primary = [ "Dharma Sindhu 56",]
 jsonClass = "HinduCalendarEvent"
 

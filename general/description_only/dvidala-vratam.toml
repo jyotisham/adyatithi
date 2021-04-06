@@ -1,8 +1,10 @@
 default_to_none = true
 id = "dvidala-vratam"
 tags = [ "Vratam", "SpecialPeriod", "CommonFestivals",]
-shlokas = """अनिरुद्ध सुरैर्वन्द्य द्विदलव्रतमुत्तमम्।
-करोम्यहमिषेमासे निर्विघ्नं कुरु मे प्रभो॥"""
+shlokas = """
+अनिरुद्ध सुरैर्वन्द्य द्विदलव्रतमुत्तमम्।
+करोम्यहमिषेमासे निर्विघ्नं कुरु मे प्रभो॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,8 @@
 default_to_none = true
 id = "mahAbhadrA~budhASTami"
 tags = [ "RareDays", "Combinations",]
-shlokas = """भविष्यपुराणे---
+shlokas = """
+भविष्यपुराणे---
 पुष्ये मासि यदा देवि शुक्लाष्टम्यां बुधो भवेत्।
 तदा तु सा महापुण्या महाभद्रेति कीर्तिता॥
 तस्यां स्नानं जपो होमस्तर्पणं विप्रभोजनम्।
@@ -24,4 +25,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`aSTamI tithi` on a Wednesday is as sacred as a solar eclipse. When `zuklASTamI` tithi falls on a Wednesday in `puSyamAsa`, it is even more sacred, and known by the name `mahAbhadrA`."
 
 [names]
-sa = ["महाभद्रा~बुधाष्टमी",]
+sa = [ "महाभद्रा~बुधाष्टमी",]

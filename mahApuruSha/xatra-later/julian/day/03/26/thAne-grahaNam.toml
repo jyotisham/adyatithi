@@ -12,8 +12,8 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-Thane captured from Portuguese. Peshwa Bajirao's aim was to capture Sashthi Island by attacking the various forts guarding it. The first aim was to capture Thane. Having left Pune, one contingent of the Marathas reached Thane by the end of that month. chimAjI appa, on hearing this, directed his troops west to shaShThI island. 
+Thane captured from Portuguese. Peshwa Bajirao's aim was to capture Sashthi Island by attacking the various forts guarding it. The first aim was to capture Thane. Having left Pune, one contingent of the Marathas reached Thane by the end of that month. chimAjI appa, on hearing this, directed his troops west to shaShThI island.
 """
 
 [names]
-sa = ["थाने-ग्रहणम्"]
+sa = [ "थाने-ग्रहणम्",]
