@@ -1,0 +1,18 @@
+default_to_none = true
+id = "kar2avaigaL_pin2cen2r2u"
+tags = [ "TamilFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 9
+anga_type = "day"
+anga_number = 28
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Offer naivedyam of `dadhyOdanam` to Vishnu, for Tiruppavai 28"
+
+[names]
+ta = [ "kar2avaigaL pin2cen2r2u",]

@@ -1,0 +1,19 @@
+id = "akSharadhAma-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 24
+year_start = 2002
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 24 September 2002, Murtaza Hafiz Yasin and Ashraf Ali Mohammad Farooq attacked the Swaminarayan Akshardham complex at Gandhinagar, Gujarat, India. They killed 30 people and injured more than 80. National Security Guards intervened and ended the siege the next day, killing both attackers. This was shortly after the Godhra burning of Hindu pilgrims and the subsequent riots.
+"""
+
+[names]
+sa = [ "अक्षरधाम-ज्वालनम्",]

@@ -15,8 +15,8 @@ A repository to host details of many festivals/observances of Indian hindus
 - There is provision for giving information about festivals without specifying timing (because complicated timing is more easily specified as code). In such a case, path will be `[repository_root]/description_only/[arbitrary_path]/[festival_id].toml`.
 
 ## Field values
-- Please don't use "/" or space in id field value. Causes problems with deciding canonical file path.
-- Where possible, please try to ensure that filename matches id field.
+- Please don't use "/" or space in id field value. Causes problems with deciding canonical file path; and makes command line operation ugly.
+- Where possible, please try to ensure that filename matches id field. (This will be periodically enforced anyway with scripts.)
 
 ### Extra timing information
 - Basic information about festival timing is covered in the "Path within repository" section.

@@ -1,0 +1,17 @@
+default_to_none = true
+id = "kAraikkAl_ammaiyAr_(23)_gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 12
+anga_type = "nakshatra"
+anga_number = 15
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "kAraikkAl ammaiyAr (23) gurupUjai",]

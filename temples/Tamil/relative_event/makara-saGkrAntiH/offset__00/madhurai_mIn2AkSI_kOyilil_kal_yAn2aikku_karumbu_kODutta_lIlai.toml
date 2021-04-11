@@ -1,0 +1,13 @@
+default_to_none = true
+id = "madhurai_mIn2AkSI_kOyilil_kal_yAn2aikku_karumbu_kODutta_lIlai"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "makara-saGkrAntiH"
+offset = 0
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "madhurai mIn2AkSI kOyilil kal yAn2aikku karumbu kODutta lIlai",]

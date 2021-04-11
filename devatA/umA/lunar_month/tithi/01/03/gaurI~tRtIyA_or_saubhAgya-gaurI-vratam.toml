@@ -1,0 +1,24 @@
+default_to_none = true
+id = "gaurI~tRtIyA_or_saubhAgya-gaurI-vratam"
+tags = [ "SpecialVratam", "DeviPuja",]
+shlokas = """
+वर्जयित्वा मधौ यस्तु दधिक्षीरघृतैक्षवम्।
+दद्याद्वस्त्राणि सूक्ष्माणि रसवस्त्रफलानि वा॥
+सम्पूज्य विप्रमिथुनं गौरी मे प्रीयतामिति।
+एतद्गौरीव्रतं नाम भवानीलोकदायकम्॥
+---मत्स्यपुराणम् (स्मृतिकौस्तुभे)
+"""
+references_secondary = [ "Kielhorn (1897)",]
+references_primary = [ "Smriti Kaustubham p.89",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 3
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "गौरी-तृतीया/सौभाग्य-गौरी-व्रतम्",]

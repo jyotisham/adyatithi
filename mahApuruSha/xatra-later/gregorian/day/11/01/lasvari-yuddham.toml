@@ -1,0 +1,21 @@
+id = "lasvari-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 1
+year_start = 1803
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+British under General Lake defeated the marATha shiNDe army under ambAjI ingale after a fierce battle. The shiNDe army was sadly not joined by other powers, even marATha ones.
+
+In the days leading up to the battle, Europeans employed by daulatrAv shiNDe to train and lead his army with new tactics treacherously defected to the British- especially the Frenchman Dudrenec and British officers like Smith and Larpent. The brave but less experienced / capable AmbajI had to fill in. Still, the marATha-s were advancing to Delhi before General Lake rushed and caught up.
+"""
+
+[names]
+sa = [ "लस्वरि-युद्धम्",]

@@ -1,0 +1,25 @@
+default_to_none = true
+id = "naTarAjar_An2i_tirumaJcan2am"
+tags = [ "TamilnaduTempleFestivals",]
+shlokas = """
+कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
+सदाशिवं रुद्रमनन्तरूपं चिदम्बरेशं हृदि भावयामि॥
+मौलौ गङ्गा-शशाङ्कौ करचरणतले शीतलाङ्गा भुजङ्गा:
+वामे भागे दयार्द्रा हिमगिरिदुहिता चन्दनं सर्वगात्रे।
+इत्थं शीतं प्रभूतं तव कनकसभानाथ सोढुं क्व शक्ति:
+चित्ते निर्वेदतप्ते यदि भवति न ते नित्यवासो मदीये॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 3
+anga_type = "nakshatra"
+anga_number = 12
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "naTarAjar An2i tirumaJcan2am",]

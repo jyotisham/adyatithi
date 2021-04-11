@@ -1,0 +1,17 @@
+default_to_none = true
+id = "poygaiyAzhvAr_tirunakSattiram"
+tags = [ "MahapurushaEvents", "AzhwarJayanti",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 7
+anga_type = "nakshatra"
+anga_number = 22
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "poygaiyAzhvAr tirunakSattiram",]

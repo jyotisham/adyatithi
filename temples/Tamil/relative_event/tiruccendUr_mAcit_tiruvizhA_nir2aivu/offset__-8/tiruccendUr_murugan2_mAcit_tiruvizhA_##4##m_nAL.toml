@@ -1,0 +1,13 @@
+default_to_none = true
+id = "tiruccendUr_murugan2_mAcit_tiruvizhA_##4##m_nAL"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "tiruccendUr_mAcit_tiruvizhA_nir2aivu"
+offset = -8
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "tiruccendUr murugan2 mAcit tiruvizhA ##4##m nAL",]

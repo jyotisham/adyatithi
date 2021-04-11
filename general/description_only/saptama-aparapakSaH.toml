@@ -1,0 +1,11 @@
+default_to_none = true
+id = "saptama-aparapakSaH"
+tags = [ "SpecialPeriod",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "सप्तम-अपरपक्षः",]

@@ -1,0 +1,19 @@
+id = "1915-lavapura-vidrohi-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 16
+year_start = 1915
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+viShNu gaNesha pingale and kartAr singh were executed by hanging by the British. They were active conspirators in the attempted mutiny (with German collaboration) under rAsh behArI bAsu. They were betrayed by spies such as Kirpal Singh.
+"""
+
+[names]
+sa = [ "१९१५-लवपुर-विद्रोहि-हत्या",]

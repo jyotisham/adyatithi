@@ -1,0 +1,34 @@
+default_to_none = true
+id = "kAJcI_4_jagadguru_zrI~satyabOdhEndra_sarasvatI_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+आम्रावतीतटजताण्डवशर्मसूनुः श्रीसत्यबोधनियमी फलिनीशनामा।
+श्रीभाष्यवार्तिककृदादरसम्प्रपन्नसर्वज्ञसद्गुरुरवोढ धुरां गुरूणाम्॥१०॥
+अब्दान् यस्तत्त्व(९६)सङ्ख्यान् अवसद् अधि मठे शारदानाम्नि काञ्च्यां
+दृप्यत्तौतातितार्हज्जिनगुरुकणभुक्पश्यदङ्घ्र्यादितन्त्रम्।
+निर्यन्त्रं निर्मिमाणः पदकशतहतारातिकौतस्कुतोक्तिः
+साक्षाच्छ्रीसत्यबोधोऽकृत सहबहुलाष्टम्यहे नन्दने स्वम्॥११॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-04.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 9
+anga_type = "tithi"
+anga_number = 23
+kaala = "अपराह्णः"
+year_start = 2834
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The saint Satyabodha, by name Phalinīśa (before initiation into sainthood), son of Tāṇḍavaśarma living on the banks of Āmrāvatī river, the noble preceptor, who authored commentatorial and Vārtika texts on Advaita Vedānta bore the responsibilities of preceptor. Then, Śrī Satyabodha, who lived for ninety six years in Kāñci in the Maṭha called Śāradā, making unrestrained the systems of haughty Kumārila, Buddhists, Jains, Prabhākara, Kaṇāda and Akṣapāda and having shattered the enemies by the text Padakaśata realised his Self on the eighth day of the dark fortnight in the year Nandana."
+
+[names]
+sa = [ "काञ्ची ४ जगद्गुरु श्री-सत्यबोधेन्द्र सरस्वती आराधना",]

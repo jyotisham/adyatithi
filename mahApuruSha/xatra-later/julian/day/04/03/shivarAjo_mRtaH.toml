@@ -12,10 +12,10 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-Saturday. Chatrapati died at Raigad. 
+Saturday. Chatrapati died at Raigad.
 
 Contemporary muslim chroniclers like Muhammad Saqi Khan and Khafi Khan declared that he will go to hell. Even Cosme da Guarda, his admirer, declared that as a pagan he will go to hell.
 """
 
 [names]
-sa = ["शिवराजो मृतः"]
+sa = [ "शिवराजो मृतः",]

@@ -1,0 +1,13 @@
+default_to_none = true
+id = "varagUr_ur2iyaDi_utsavam"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "zrIkRSNajanmASTamI"
+offset = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "varagUr ur2iyaDi utsavam",]

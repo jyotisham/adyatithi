@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_27_jagadguru_zrI~cidvilAsEndra_sarasvatI_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+अथ हस्तिशैलमधुसूदनात्मजो हरिकेशवश्च चितिसौख्यमेदुरः।
+अगमत् पदं स्वम् अखिलस्थिरागुरुः शरदः स दुर्मुखिन आदिमे दिने॥५६॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-27.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 1
+anga_type = "tithi"
+anga_number = 1
+kaala = "अपराह्णः"
+year_start = 3678
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Then the preceptor Cidvilāsa, who was Harikeśava (before initiation), son of Madhusūdanārya of Hastiśaila (Kāñci) attained his immortal state on the first day of the Śarat ṛṭu in the year Durmukhi. The above two impeccable pontiffs Prajñāghana and Cidvilāsa attained siddhi in Kāñci itself. His (Cidvilāsa) duration of preceptorship was thirteen years."
+
+[names]
+sa = [ "काञ्ची २७ जगद्गुरु श्री-चिद्विलासेन्द्र सरस्वती आराधना",]

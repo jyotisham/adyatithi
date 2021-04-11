@@ -1,0 +1,17 @@
+default_to_none = true
+id = "pizAcamOcanam"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+हेमाद्रौ वाराहे---
+चैत्र-कृष्ण-चतुर्दश्यामङ्गारकदिनं यदि।
+पिशाचत्वं पुनर्न स्याद्गङ्गायां स्नानभोजनात्॥
+"""
+references_primary = [ "Smriti Kaustubham p.108",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "पिशाचमोचनम्",]

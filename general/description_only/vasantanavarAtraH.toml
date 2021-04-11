@@ -1,0 +1,16 @@
+default_to_none = true
+id = "vasantanavarAtraH"
+tags = [ "CommonFestivals", "Navaratri", "SpecialPeriod",]
+shlokas = """
+शरत्काले महापूजा क्रियते या च वार्षिकी।
+वसन्तकाले सा प्रोक्ता कार्या सर्वैः शुभार्थिभिः॥
+---मार्कण्डेय-पुराणम् (स्मृतिकौस्तुभे)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वसन्तनवरात्रः",]

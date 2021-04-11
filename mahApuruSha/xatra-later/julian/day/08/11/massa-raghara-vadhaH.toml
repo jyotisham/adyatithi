@@ -1,0 +1,19 @@
+id = "massa-raghara-vadhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 8
+anga_number = 11
+year_start = 1740
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+To prevent the Sikhs accessing the holy shrine [Darbar Sahib], or the "Golden Temple", at Amritsar a strong Mughal military officer, Massa Ranghar, was stationed. He started carousing with dancing girls and consuming meat and alcohol there. Mehtab Singh and Sukkha Singh set off from rAjasthAn, disguised themselves as revenue officials, entered Harmandir Sahib, cut off Ranghar's head and escaped before the Mughal soldiers could realise what had happened.
+"""
+
+[names]
+sa = [ "मस्स-रङ्घर-वधः",]

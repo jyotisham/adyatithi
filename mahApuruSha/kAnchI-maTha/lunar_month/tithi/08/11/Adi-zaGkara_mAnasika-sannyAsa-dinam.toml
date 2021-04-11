@@ -1,0 +1,18 @@
+default_to_none = true
+id = "Adi-zaGkara_mAnasika-sannyAsa-dinam"
+tags = [ "AdiShankaraHistory",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 11
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "In Plava Nama year Adi Shankara obtained permission from mother and took manasika sanyasam"
+
+[names]
+sa = [ "आदि-शङ्कर मानसिक-सन्न्यास-दिनम्",]

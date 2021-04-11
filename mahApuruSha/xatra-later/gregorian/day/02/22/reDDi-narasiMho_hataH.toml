@@ -1,0 +1,21 @@
+id = "reDDi-narasiMho_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 22
+year_start = 1847
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Uyyalawada Narasimha Reddy or majjari Narasimha Reddy, son of a pALEyagAra, was executed in Koilkuntla in front of a crowd of over 2000 people.
+
+He and his commander-in-chief Vadde Obanna were at the heart of the rebellion against British in 1847, where 5,000 peasants rose up against the British East India Company in Kurnool district, Rayalaseema Region of Andhra Pradesh. They were protesting against the changes introduced by the British to the traditional agrarian system in the first half of the nineteenth century. British kept his head on the fort wall in public view until 1877.
+"""
+
+[names]
+sa = [ "रॆड्डि-नरसिंहो हतः",]

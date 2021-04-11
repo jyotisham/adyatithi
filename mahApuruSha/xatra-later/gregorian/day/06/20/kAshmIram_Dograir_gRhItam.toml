@@ -1,0 +1,19 @@
+id = "kAshmIram_Dograir_gRhItam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 20
+year_start = 1819
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Pandit Birbal Dhar entered with Sikh soldiers into Kashmir as a victor over afghAns. He had made a daring and costly escape (loosing wife, daughter in law) from Azam Khan's court to raNajIt singh at lahore via gulAb singh in jammu.
+"""
+
+[names]
+sa = [ "कास्मीरं डोग्रैर् गृहीतम्",]

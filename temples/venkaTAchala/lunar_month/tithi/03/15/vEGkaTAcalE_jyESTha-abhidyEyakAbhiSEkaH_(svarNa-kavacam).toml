@@ -1,0 +1,15 @@
+default_to_none = true
+id = "vEGkaTAcalE_jyESTha-abhidyEyakAbhiSEkaH_(svarNa-kavacam)"
+tags = [ "LessCommonFestivals", "DanamDays",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (स्वर्ण-कवचम्)",]

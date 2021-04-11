@@ -1,0 +1,17 @@
+id = "pravAsi-bhAratIya-divasam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 9
+year_start = 2003
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The date was originally picked to coincide with MK Gandhi's return from Africa in 1915."
+
+[names]
+sa = [ "प्रवासि-भारतीय-दिवसम्",]

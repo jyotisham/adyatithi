@@ -1,0 +1,21 @@
+id = "vaDagrAma-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 12
+year_start = 1779
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+British East India Company's troops (3.9k, with 600 Europeans), together with raghunAth rAv's troops (few more thousands), forced to retreat from their attack by marATha-s under nAnA faDnavIs, were cut off at Vadgaon and forced to surrender. Excellent tactics (including scorched earth policy) were employed.
+
+Unfortunately, nAnA faDnavIs, let the surrendered soldiers go. British Governor-General in Bengal, Warren Hastings, rejected the treaty; and marATha-s were again in trouble after the death of nAna.
+"""
+
+[names]
+sa = [ "वडग्रामयुद्धम्",]

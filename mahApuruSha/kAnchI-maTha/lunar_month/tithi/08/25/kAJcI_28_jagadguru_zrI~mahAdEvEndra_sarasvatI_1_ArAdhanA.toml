@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+भद्राचलाभिजनभानुसुतः स शेषणार्योऽभिमण्ड्य पदम् आदिमदेशिकस्य।
+रौद्रिण्यनूर्जदशमि प्रशमीन्द्रगम्यं प्रापत् पदं प्रणिहितेः परमामृताख्यम्॥५७॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-28.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 8
+anga_type = "tithi"
+anga_number = 25
+kaala = "अपराह्णः"
+year_start = 3702
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Bhānumiśra of Bhadrācala, Śeṣanārya (before initiation), He (Bhadrācala Mahādeva), having adorned/decorated the seat of the Ādiguru, attained that Supreme state attainable by/to the great saints who were adepts in subduing senses, on the tenth day of the black fortnight in the year Raudrī. He also attained beatitude in Kāñci. His preceptorship was for twenty-four years."
+
+[names]
+sa = [ "काञ्ची २८ जगद्गुरु श्री-महादेवेन्द्र सरस्वती १ आराधना",]

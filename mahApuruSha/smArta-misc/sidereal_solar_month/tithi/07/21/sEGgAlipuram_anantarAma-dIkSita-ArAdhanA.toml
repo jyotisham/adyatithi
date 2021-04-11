@@ -1,0 +1,23 @@
+default_to_none = true
+id = "sEGgAlipuram_anantarAma-dIkSita-ArAdhanA"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+references_secondary = [ "Vaidikasri Nov 2017",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "vyaapti"
+month_number = 7
+anga_type = "tithi"
+anga_number = 21
+kaala = "अपराह्णः"
+year_start = 5071
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Aradhana Day of Sri Anantarama Dikshitar."
+
+[names]
+sa = [ "सेङ्गालिपुरम् अनन्तराम-दीक्षित-आराधना",]

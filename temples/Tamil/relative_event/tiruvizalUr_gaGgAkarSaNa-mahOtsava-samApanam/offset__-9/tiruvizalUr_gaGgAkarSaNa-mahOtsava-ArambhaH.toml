@@ -1,0 +1,16 @@
+default_to_none = true
+id = "tiruvizalUr_gaGgAkarSaNa-mahOtsava-ArambhaH"
+tags = [ "MahapurushaEvents", "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "tiruvizalUr_gaGgAkarSaNa-mahOtsava-samApanam"
+offset = -9
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Beginning of Gangakarshana Mahotsava in Thiruvisanallur. See also http://www.sriayyaval.org/ .  "
+
+[names]
+sa = [ "तिरुविशलूर् गङ्गाकर्षण-महोत्सव-आरम्भः",]

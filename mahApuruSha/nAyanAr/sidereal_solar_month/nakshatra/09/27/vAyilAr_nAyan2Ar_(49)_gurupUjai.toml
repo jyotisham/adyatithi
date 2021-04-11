@@ -1,0 +1,17 @@
+default_to_none = true
+id = "vAyilAr_nAyan2Ar_(49)_gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 9
+anga_type = "nakshatra"
+anga_number = 27
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "vAyilAr nAyan2Ar (49) gurupUjai",]

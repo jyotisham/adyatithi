@@ -1,0 +1,21 @@
+id = "bandA-shiShyAH_chappar-chiryAM_jayanti"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 12
+year_start = 1710
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Banda Bahadur, the vaiShNava disciple of Guru Gobind, crushed a mogol army. The Mughals were armed with artillery, well equipped cavalry and large infantry whereas the Sikhs had cavalry and infantry but no artillery. In the battle, his Sikhs gave a crushing blow to the Mughal empire. Wazir Khan (Sirhind) was killed in the battle and Sikhs established their first Raj in Punjab.
+
+The bandai khAlsa was heavily hinduised (eg. vegetarianism, red dress).
+"""
+
+[names]
+sa = [ "बन्दा-शिष्याः छप्परछिर्यां जयन्ति",]

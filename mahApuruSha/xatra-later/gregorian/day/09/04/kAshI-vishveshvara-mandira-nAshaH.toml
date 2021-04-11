@@ -11,7 +11,9 @@ year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Aurangzeb informed that Kashi Vishweshwar was pulled down. Maasiri-‘ Alamgiri, 88. Julian month August."
+en = """
+Aurangzeb was later informed that Kashi Vishweshwar was pulled down. Maasiri-‘ Alamgiri, 88.
+"""
 
 [names]
-sa = ["काशी-विश्वेश्वर-मन्दिर-नाशः"]
+sa = [ "काशी-विश्वेश्वर-मन्दिर-नाशः",]

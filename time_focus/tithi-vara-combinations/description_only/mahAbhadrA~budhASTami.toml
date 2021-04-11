@@ -1,0 +1,28 @@
+default_to_none = true
+id = "mahAbhadrA~budhASTami"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+भविष्यपुराणे---
+पुष्ये मासि यदा देवि शुक्लाष्टम्यां बुधो भवेत्।
+तदा तु सा महापुण्या महाभद्रेति कीर्तिता॥
+तस्यां स्नानं जपो होमस्तर्पणं विप्रभोजनम्।
+मत्प्रीतये महादेवि पूज्योहं विधिवद्बुधैः॥
+(स्मृति-कौस्तुभे)
+
+अमावस्या तु सोमेन सप्तमी भानुना सह।
+चतुर्थी भूमिपुत्रेण सोमपुत्रेण चाष्टमी।
+चतस्रस्तिथयस्त्वेताः सूर्यग्रहणसन्निभाः॥
+(स्मृतिमुक्ताफले)
+"""
+references_primary = [ "Smriti Kaustubham p.438",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`aSTamI tithi` on a Wednesday is as sacred as a solar eclipse. When `zuklASTamI` tithi falls on a Wednesday in `puSyamAsa`, it is even more sacred, and known by the name `mahAbhadrA`."
+
+[names]
+sa = [ "महाभद्रा~बुधाष्टमी",]

@@ -1,0 +1,17 @@
+default_to_none = true
+id = "EyarkOn2_kalikkAma_nAyan2Ar_(28)_gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 3
+anga_type = "nakshatra"
+anga_number = 27
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "EyarkOn2 kalikkAma nAyan2Ar (28) gurupUjai",]

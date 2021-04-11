@@ -1,0 +1,19 @@
+id = "sangrAmasiMho_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 30
+year_start = 1528
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Shortly after the defeat at khanvA, Sangra, grandson of kumbha, died on 30 January 1528 in Kalpi, evidently poisoned by his own chiefs who held his further plans against Babur to be suicidal.
+"""
+
+[names]
+sa = [ "सङ्ग्रामसिंहो हतः",]

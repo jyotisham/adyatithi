@@ -1,0 +1,23 @@
+id = "chauri-chaura-dAhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 4
+year_start = 1920
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The Chauri Chaura incident took place on 4 February 1922 at Chauri Chaura in the Gorakhpur district of the United Province (modern Uttar Pradesh) in British India, when a large group of protesters participating in the Non-cooperation movement, clashed with police who opened fire. In retaliation the demonstrators attacked and set fire to a police station, killing all of its occupants. The incident led to the death of three civilians and 22 policemen.
+
+On Feb 2, agitators led by a retired Army soldier named Bhagwan Ahir, protested against high food prices and liquor sale in the marketplace. They had been arrested.
+
+MK Gandhi, who was strictly against violence, halted the non-co-operation movement on the national level on 12 February 1922, as a direct result of this incident. 19 arrested demonstrators were sentenced to death and 110 to imprisonment for life by the British authorities.
+"""
+
+[names]
+sa = [ "चौरि-चौर-दाहः",]

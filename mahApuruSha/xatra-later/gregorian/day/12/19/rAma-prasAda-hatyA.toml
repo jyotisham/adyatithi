@@ -1,0 +1,22 @@
+id = "rAma-prasAda-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 19
+year_start = 1927
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, the Arya-samAjist paNDit rAma-prasAd bismil, a fine revolutionary and urdu/ Hindi poet was murdered by British in retaliation for the Kakori heist; as was his protege Ashfaqullah Khan.
+
+sarfaroshī kī tamannā ab hamāre dil meñ hai  
+dekhnā hai zor kitnā bāzū-e-qātil meñ hai
+"""
+
+[names]
+sa = [ "राम-प्रसाद-हत्या",]

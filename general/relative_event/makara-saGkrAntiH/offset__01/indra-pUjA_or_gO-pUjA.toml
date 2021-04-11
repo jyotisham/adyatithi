@@ -1,0 +1,13 @@
+default_to_none = true
+id = "indra-pUjA_or_gO-pUjA"
+tags = [ "SpecialPuja",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "makara-saGkrAntiH"
+offset = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "इन्द्र-पूजा/गो-पूजा",]

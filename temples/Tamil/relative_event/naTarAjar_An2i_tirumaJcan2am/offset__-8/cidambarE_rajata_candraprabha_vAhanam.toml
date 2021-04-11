@@ -1,0 +1,13 @@
+default_to_none = true
+id = "cidambarE_rajata_candraprabha_vAhanam"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "naTarAjar_An2i_tirumaJcan2am"
+offset = -8
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "चिदम्बरे रजत चन्द्रप्रभ वाहनम्",]

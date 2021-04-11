@@ -1,0 +1,21 @@
+id = "shAnti-kAli-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 27
+year_start = 2000
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 27 August 2000, shAnti kAlI was presiding at his ashram with a gathering of local devotees. At night (8:05 PM,), Christian NLFT militants, broke into the ashram and shot him for refusing to convert to Christianity along with his followers. In the same month, another Hindu leader of the Jamatya community, Jaulushmoni Jamatya, was also murdered. In the months following his death, eleven of his ashrams, schools, and orphanages around the state were closed down by the NLFT.
+
+shAnti tripura aka shAnti kAlI was a popular tribal sAdhu working in tripura. He was a devotee of tripura-sundarI.
+"""
+
+[names]
+sa = [ "शान्ति-कालि-हत्या",]

@@ -1,0 +1,23 @@
+id = "shambhurAjo_govAyA_niryAti"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 2
+year_start = 1684
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+When Sambhaji learnt of Muazzam's arrival to Ramghat, he withdrew all his forces to Raigad on 2 January 1684.
+
+Context: After having laying waste to the outer districts of Salcete and Bardez the Marathas and had started closing in to the Islands of Goa. The viceroy was concerned that if the things remain unchanged, Sambhaji would soon lay siege to the island of Goa. During this time, Muzzam was pillaging through the Maratha territory, as he made his approach towards Sambhaji. 
+
+Local corpse-cultists believe that the viceroy went to the body of St. Francis Xavier, in the Bom Jesus church in the City of Goa, and placed his scepter on the dead saint's hand and prayed for his grace to avert the Maratha threat. This led to an annual Goan celebration by them.
+"""
+
+[names]
+sa = [ "शम्भुराजो गोवाया निर्याति",]

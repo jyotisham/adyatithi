@@ -1,0 +1,22 @@
+default_to_none = true
+id = "kAJcI_jagadguru_zrI~jayEndra_sarasvatI_Azrama-svIkAra-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 12
+anga_type = "nakshatra"
+anga_number = 15
+kaala = "प्रातः"
+year_start = 5054
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`jagadguru zrI~jayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 22nd March 1954, `vijaya` year, `mIna/phAlguna mAsa kRSNa dvitIyA sOmavAsaraH citrA upari svAtI nakSatram`."
+
+[names]
+sa = [ "काञ्ची जगद्गुरु श्री-जयेन्द्र सरस्वती आश्रम-स्वीकार-जयन्ती",]

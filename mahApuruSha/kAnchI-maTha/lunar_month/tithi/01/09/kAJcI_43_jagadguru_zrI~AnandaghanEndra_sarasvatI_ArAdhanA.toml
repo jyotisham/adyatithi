@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_43_jagadguru_zrI~AnandaghanEndra_sarasvatI_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+श्रीतुङ्गभद्रातटभूः सुदेवभट्टात्मजः शङ्करपण्डिताख्यः।
+अभूद् अथानन्दघनश्चलाब्दैः (३६) प्रमादिचैत्राच्छनवम्यहेऽगात्॥८६॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-43.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 1
+anga_type = "tithi"
+anga_number = 9
+kaala = "अपराह्णः"
+year_start = 4115
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Preceptor Ānandaghana, known as Śaṅkarapaṇḍita (before initiation) was the son of Sudevabhaṭṭa living on the banks of river Tuṅgabhadrā and He held the preceptorship for thirty-six years. He left his physical coil on the Navami (ninth day) of the bright fortnight in the month of Caitra of the year Pramādi."
+
+[names]
+sa = [ "काञ्ची ४३ जगद्गुरु श्री-आनन्दघनेन्द्र सरस्वती आराधना",]

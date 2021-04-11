@@ -1,0 +1,21 @@
+id = "tAru-siMha-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 7
+anga_number = 1
+year_start = 1745
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day died bhAi tAru, arrested and scalped by Mughal governor of Punjab, Zakaria Khan.
+
+Context: They were supplying some food to the sikhs. Though his sister's freedom was bribed for by the villagers, Singh refused to seek a pardon. Bhai Taru was brought before the Khan and asked him where he got his powers from to undergo all of the agony. His reply was through his keshas ('unshorn hair') blessed by Guru Gobind Singh. Zakaria Khan then gave him the choice of either execution or conversion to Islam and having his hair cut off as an offering. Upon his refusal to forsake his religion, in a public display, Bhai Taru Singh's scalp was cut away from his skull with a sharp knife to prevent his hair from ever growing back. The latter outlived the governor.
+"""
+
+[names]
+sa = [ "तारु-सिंह-हत्या",]

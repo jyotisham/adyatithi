@@ -1,0 +1,21 @@
+default_to_none = true
+id = "zRGgErI_35_jagadguru_zrI~abhinava_vidyAtIrtha_mahAsvAmI_ArAdhanA"
+tags = [ "MahapurushaEvents", "SringeriAradhanaDays",]
+shlokas = """
+विवेकिनं महाप्राज्ञं धैर्यौदार्यक्षमानिधिम्।
+सदाऽभिनवपूर्वं तं विद्यातीर्थगुरुं भजे॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 6
+anga_type = "tithi"
+anga_number = 22
+kaala = "अपराह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "शृङ्गेरी ३५ जगद्गुरु श्री-अभिनव विद्यातीर्थ महास्वामी आराधना",]

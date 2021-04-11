@@ -1,0 +1,19 @@
+default_to_none = true
+id = "maNikarNikA-snAnam_or_vaikuNTha-caturdazI"
+tags = [ "SpecialSnanam",]
+references_primary = [ "skAnda mahApurANe vaiSNavakhaNDE paJcatriMzO.adhyAyaH",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 14
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform `snAnam` at `maNikarNikA` ghat in Varanasi. Perform BhagavadGita Parayanam, Vishnu Sahasranama Parayanam."
+
+[names]
+sa = [ "मणिकर्णिका-स्नानम्/वैकुण्ठ-चतुर्दशी",]

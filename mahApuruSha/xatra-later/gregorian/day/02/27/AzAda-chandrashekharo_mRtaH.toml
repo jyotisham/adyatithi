@@ -11,7 +11,9 @@ year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "chandrashekhara AzAd, cornered by british police in prayAga, shot himself with his last bullet."
+en = """
+chandrashekhara AzAd, cornered by british police in prayAga (being ratted out by vIrabhadra tivArI), shot himself with his last bullet. He was commander in chief "Balraj" of Hindustan Socialist Republic Army, which included revolutionaries such as Ashfaqullah Khan and his mentor rAm prasAd bismil.
+"""
 
 [names]
-sa = ["आज़ाद-चन्द्रशेखरो मृतः"]
+sa = [ "आज़ाद-चन्द्रशेखरो मृतः",]

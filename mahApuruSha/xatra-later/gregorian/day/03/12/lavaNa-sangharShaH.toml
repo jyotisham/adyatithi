@@ -1,0 +1,21 @@
+id = "lavaNa-sangharShaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 12
+year_start = 1930
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+MK Gandhi led a group of 80 people on a 24-day (12 March 1930 to 5 April 1930) march against the British monopoly on production of salt. This non-violent protest came to be known as the Dandi March or Salt March. The Dandi March and the ensuing Dharasana Satyagraha drew worldwide attention to the Indian independence movement through extensive newspaper and newsreel coverage. Mass civil disobedience spread throughout India as millions broke the salt laws by making salt or buying illegal salt. The satyagraha against the salt tax continued for almost a year, ending with MK Gandhi's release from jail.
+
+Although over 60k Indians were jailed as a result of the Salt Satyagraha, the British did not make immediate major concessions.
+"""
+
+[names]
+sa = [ "लवण-सङ्घर्षः",]

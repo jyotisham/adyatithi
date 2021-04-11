@@ -1,0 +1,23 @@
+id = "madanalAla_AngleyaM_ghnanti"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 1
+year_start = 1909
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Madanlal Dhingra killed Curzon Wyllie, a distinguished British former soldier and head of secret police who were trying to get info about sAvarkar. Dhingra fired five shots right at his face, four of which hit their target.
+
+Dhingra was tried in the Old Bailey on 23 July. He represented himself during his trial but did not recognize the legitimacy of the court. He said: "I hold the English people responsible for the murder of 80 millions of Indian people in the last fifty years, and they are also responsible for taking away £100,000,000 every year from India to this country. ... Just as the Germans have no right to occupy this country, so the English people have no right to occupy India, and it is perfectly justifiable on our part to kill the Englishman who is polluting our sacred land." His supposed last words: "The only lesson required in India at present is to learn how to die, and the only way to teach it is by dying ourselves. My only prayer to God is that I may be re-born of the same mother and I may re-die in the same sacred cause till the cause is successful. Vande Mataram! "
+
+Dhingra was heavily inspired by VD sAvarkar, but was disowned for his political activities by his father Gitta Mall, who was the Chief Medical Officer in Amritsar, who went so far as to publish his decision in newspaper advertisements. After his execution, Dhingra's body was denied Hindu rites and buried. They refused to turn over the body to Savarkar. Bhagat Singh and Chandrasekhar Azad were inspired by him.
+"""
+
+[names]
+sa = [ "मदनलाल आङ्ग्लेयं घ्नन्ति",]

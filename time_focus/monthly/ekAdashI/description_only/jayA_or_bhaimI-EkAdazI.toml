@@ -1,0 +1,20 @@
+default_to_none = true
+id = "jayA_or_bhaimI-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+shlokas = """
+एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।
+नाम्ना सा च जया ख्याता तिथीनामुत्तमा तिथिः।
+तामुपोष्य नरः पापान्मुच्यते नात्र संशयः॥
+--पद्मपुराणे
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Shukla-paksha Ekadashi of `mAgha` month is known as `bhaimI-EkAdazI`. If this coincides with the nakshatram Punarvasu, the tithi is even more special and is known by the appellation `jayA`."
+
+[names]
+sa = [ "जया/भैमी-एकादशी",]

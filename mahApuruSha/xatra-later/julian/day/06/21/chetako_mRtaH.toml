@@ -13,8 +13,7 @@ jsonClass = "HinduCalendarEventTiming"
 [description]
 en = """
 After the fierce battle at haldIghATI, mahArANA pratAp wounded, as was his heroic horse chetak. Chetak succumbed on this day.
-
 """
 
 [names]
-sa = ["चेतको दिवं गतः"]
+sa = [ "चेतको दिवं गतः",]

@@ -1,0 +1,11 @@
+default_to_none = true
+id = "yaticAturmAsyavratam"
+tags = [ "Vratam", "SpecialPeriod", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "यतिचातुर्मास्यव्रतम्",]

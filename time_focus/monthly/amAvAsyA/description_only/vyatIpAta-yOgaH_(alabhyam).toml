@@ -1,0 +1,21 @@
+default_to_none = true
+id = "vyatIpAta-yOgaH_(alabhyam)"
+tags = [ "RareDays", "Combinations", "AmavasyaDays",]
+shlokas = """
+श्रवणाश्विधनिष्ठार्द्रानागदैवतमापतेत्।
+रविवारयुतामायां व्यतीपातः स उच्यते।
+व्यतीपाताख्ययोगोऽयं शतार्कग्रहसन्निभः॥
+"""
+references_primary = [ "Mahabharatam",]
+references_secondary = [ "Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "If, on a Sunday, `amAvAsyA` and one of the stars—`zravaNam`, `azvinI`, `zraviSThA`, `ArdrA` or `AzrESA`—occurs, then it is called `vyatIpAta yOgaH`, equal to a hundred `sUrya grahaNam`s in merit."
+
+[names]
+sa = [ "व्यतीपात-योगः (अलभ्यम्)",]

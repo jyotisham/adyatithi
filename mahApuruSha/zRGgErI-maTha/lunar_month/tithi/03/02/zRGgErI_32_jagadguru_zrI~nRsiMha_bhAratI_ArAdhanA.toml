@@ -1,0 +1,21 @@
+default_to_none = true
+id = "zRGgErI_32_jagadguru_zrI~nRsiMha_bhAratI_ArAdhanA"
+tags = [ "MahapurushaEvents", "SringeriAradhanaDays",]
+shlokas = """
+प्रह्लादवरदो देवो यो नृसिंहः परो हरिः।
+नृसिंहोपासकं नित्यं तं नृसिंहः गुरुं भजे॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 3
+anga_type = "tithi"
+anga_number = 2
+kaala = "अपराह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "शृङ्गेरी ३२ जगद्गुरु श्री-नृसिंह भारती आराधना",]

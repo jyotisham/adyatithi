@@ -1,0 +1,18 @@
+default_to_none = true
+id = "jyESThAbhiSEkam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 3
+anga_type = "nakshatra"
+anga_number = 18
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "jyESThAbhiSEkam",]
+sa = [ "ज्येष्ठाभिषेकः",]
+
+[description]
+sa = "चन्द्रमसि ज्येष्ठनक्षत्रे सत्य् आचर्यते कर्कटराशौ च सूर्ये सति खे विपरीतदिशि।"

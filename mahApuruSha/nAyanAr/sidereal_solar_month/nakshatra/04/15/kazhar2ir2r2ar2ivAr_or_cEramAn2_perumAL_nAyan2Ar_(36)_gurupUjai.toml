@@ -1,0 +1,17 @@
+default_to_none = true
+id = "kazhar2ir2r2ar2ivAr_or_cEramAn2_perumAL_nAyan2Ar_(36)_gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 4
+anga_type = "nakshatra"
+anga_number = 15
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "kazhar2ir2r2ar2ivAr/cEramAn2 perumAL nAyan2Ar (36) gurupUjai",]

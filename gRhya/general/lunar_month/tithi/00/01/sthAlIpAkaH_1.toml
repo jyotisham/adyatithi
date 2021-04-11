@@ -13,5 +13,8 @@ priority = "puurvaviddha"
 kaala = "पूर्वाह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "`sthAlIpakaH` is an important fortnightly ritual, involving the offering of `haviSyAnna` to `agni`, with the offering being cooked on the fire itself."
+
 [names]
 sa = [ "स्थालीपाकः",]

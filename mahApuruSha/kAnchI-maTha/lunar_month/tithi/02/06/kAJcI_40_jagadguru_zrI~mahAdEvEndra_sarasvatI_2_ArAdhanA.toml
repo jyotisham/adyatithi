@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_40_jagadguru_zrI~mahAdEvEndra_sarasvatI_2_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+कर्णाटकण्णयसुतः शिवरामभट्टः सच्चिद्विलासयमिना सुहितः स्वपीठे।
+अध्यास्य तं रवि(४२)समा भवराधशुद्धषष्ठीप्रदोषविरतौ विरतः स्वधाम्नि॥८३॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-40.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 2
+anga_type = "tithi"
+anga_number = 6
+kaala = "अपराह्णः"
+year_start = 4016
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Kannayya of Karnataka, Śivarāmabhaṭṭa was placed in the Pīṭha by Saccidvilāsayati; resplendent like the Sun, He adorned the Pīṭha and merged in his effulgence on the sixth day of the bright fortnight of Vaiśākha in the year Bhava. This Ujjvala Mahādevendra remained in the Pīṭha for forty-two years and attained siddhi at Kāñci itself on the sixth day of Śuklapakṣa of Vaiśākha ,month in the year Bhava."
+
+[names]
+sa = [ "काञ्ची ४० जगद्गुरु श्री-महादेवेन्द्र सरस्वती २ आराधना",]

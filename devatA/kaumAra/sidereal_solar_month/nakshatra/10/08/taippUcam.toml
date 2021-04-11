@@ -1,0 +1,23 @@
+default_to_none = true
+id = "taippUcam"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "puurvaviddha"
+month_number = 10
+anga_type = "nakshatra"
+anga_number = 8
+kaala = "रात्रिमानम्"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "taippUcam",]
+sa = [ "मकर-पुष्योत्सवः",]
+
+[description]
+sa = """
+सूर्ये मकरराशौ सति, खे विपरीतदिशि चन्द्रमसि पुष्यनक्षत्रे सत्य् उत्सवोयम् आचर्यते। एतादृशे दिने पार्वती कार्त्तिकेयाय शक्त्यायुधं ददौ शूरपद्मादिनिग्रहाय।
+"""

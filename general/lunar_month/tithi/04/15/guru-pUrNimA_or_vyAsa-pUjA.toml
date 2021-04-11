@@ -1,0 +1,22 @@
+default_to_none = true
+id = "guru-pUrNimA_or_vyAsa-pUjA"
+tags = [ "PurnimaDays", "SpecialPuja", "CommonFestivals",]
+shlokas = """
+अचतुर्वदनो ब्रह्मा द्विबाहुरपरो हरिः।
+अफाललोचनो शम्भुर्भगवान् बादरायणः॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Puja of Veda Vyasa / Gurus; Danam of Vishnu Puranam is good on this day."
+
+[names]
+sa = [ "गुरु-पूर्णिमा/व्यास-पूजा",]

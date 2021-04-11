@@ -1,0 +1,11 @@
+default_to_none = true
+id = "vEGkaTAcalE_padmAvatI-pariNayOtsavaH"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वेङ्कटाचले पद्मावती-परिणयोत्सवः",]

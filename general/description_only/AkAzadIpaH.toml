@@ -1,0 +1,24 @@
+default_to_none = true
+id = "AkAzadIpaH"
+tags = [ "LessCommonFestivals",]
+shlokas = """
+तुलायां  तिलतैलेन  सायङ्काले  समागते।
+आकाशदीपं  यो  दद्यान्मासमेकं  हरिं  प्रति।
+महतीं  श्रियमाप्नोति  रूप-सौभाग्य-सम्पदम्॥
+
+दामोदराय  नभसि  तुलायां  लोलया  सह।
+प्रदीपं  ते  प्रयच्छामि  नमोऽनन्ताय  वेधसे॥
+"""
+references_primary = [ "Nirnaya Sindhu 146",]
+references_secondary = [ "Vaidikasri Oct 2009",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Offer Akasha Dipam for this entire month, in the evening, on a high place (pillar?). Light lamps using gingelly oil with eight wicks."
+
+[names]
+sa = [ "आकाशदीपः",]

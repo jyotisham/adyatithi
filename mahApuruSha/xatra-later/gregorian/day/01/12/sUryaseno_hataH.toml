@@ -1,0 +1,21 @@
+id = "sUryaseno_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 12
+year_start = 1934
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Masterda Surya Sen (along with colleague Tarakeswar Dastidar) was killed by British (after severe torture) on this day. He led a group of revolutionaries on 18 April 1930 to raid the armoury of police and auxiliary forces from the Chittagong armoury - sadly that had failed.
+
+While hiding, Netra Sen informed the British of his hiding place, and the police came and captured him in February 1933. Before Netra Sen could be rewarded by the British, a revolutionary came into his house and beheaded him with da (a long knife). As Netra Sen's wife was a big supporter of Surya Sen, she never disclosed the name of the revolutionary who killed Netra Sen.
+"""
+
+[names]
+sa = [ "सूर्यसेनो हतः",]

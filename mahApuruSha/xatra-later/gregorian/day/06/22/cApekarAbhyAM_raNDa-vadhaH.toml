@@ -11,8 +11,10 @@ year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = """Chāpekar brothers killed W. C. Rand.
-“ Govindā ālā rè “ used first by these guys to signal the approach of Rand."""
+en = """
+Chāpekar brothers killed W. C. Rand.
+“ Govindā ālā rè “ used first by these guys to signal the approach of Rand.
+"""
 
 [names]
-sa = ["चापेकराभ्यां रण्ड-वधः"]
+sa = [ "चापेकराभ्यां रण्ड-वधः",]

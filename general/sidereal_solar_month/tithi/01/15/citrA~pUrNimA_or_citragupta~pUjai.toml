@@ -1,0 +1,21 @@
+default_to_none = true
+id = "citrA~pUrNimA_or_citragupta~pUjai"
+tags = [ "PurnimaDays", "CommonFestivals",]
+shlokas = """
+चित्रगुप्तं महाप्राज्ञं लेखनीपत्रधारिणम्।
+चित्ररत्नाम्बरधरं मध्यस्थं सर्वदेहिनाम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 15
+kaala = "चन्द्रोदयः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "citrA~pUrNimA", "citragupta~pUjai",]
+sa = [ "चित्रा-पूर्णिमा", "चित्रगुप्त-पूजा",]

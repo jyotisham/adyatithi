@@ -1,0 +1,17 @@
+default_to_none = true
+id = "tirunelvEli_nellaiyappar_nellukku_vEli_kaTTiya_lIlai"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "puurvaviddha"
+month_number = 10
+anga_type = "nakshatra"
+anga_number = 1
+kaala = "सूर्योदयः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "tirunelvEli nellaiyappar nellukku vEli kaTTiya lIlai",]

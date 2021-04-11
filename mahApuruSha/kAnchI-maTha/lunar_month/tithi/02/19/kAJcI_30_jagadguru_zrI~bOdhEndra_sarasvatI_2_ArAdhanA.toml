@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_30_jagadguru_zrI~bOdhEndra_sarasvatI_2_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+कालहस्तिसुतबालयाभिधो बोधसद्गुरुरबोधवर्जितः।
+आप शाश्वतपदं विशुद्धम् आनन्दमाधवचतुर्थ्यहर्मुखे॥५९॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-30.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 2
+anga_type = "tithi"
+anga_number = 19
+kaala = "अपराह्णः"
+year_start = 3756
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The preceptor Bālabodhendra was the son of Kālahasti, and was called Bālaya, bereft of ignorance, attained the Supreme state of immortality on the fourth day of the dark fortnight of the month of Vaiśāka in the year Ānanda. His preceptorship was for thirty-seven years. He attained siddhi in Kāñci."
+
+[names]
+sa = [ "काञ्ची ३० जगद्गुरु श्री-बोधेन्द्र सरस्वती २ आराधना",]

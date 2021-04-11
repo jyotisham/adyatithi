@@ -1,0 +1,25 @@
+id = "hakIkata-rAya-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 9
+year_start = 1733
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day (date merits verification), hakIkat rAi (Haqiqat Rai Bakhmal Puri) was beheaded by the then punjAbI muslim government of Zakariya Khan. Quasi Abdul Haq, who was responsible for the Fatwa, was also beheaded later on by Sardar Dal Singh and Saradar Mana Singh and shown around the city of Batala.
+
+Background: One day, some of his Muslim classmates ridiculed Hindu goddess Devi Ma. He ultimately responded by ridiculing Fatima, daughter of Prophet Muhammad. The Muslim boys complained to the maulvis. Haqiqat Rai was arrested and sent to Amir Beg, the administrator of Sialkot. Amir said Haqiqat Rai had committed a sin and he can be pardoned only if he accepts Islam as punishment for blasphemy. Haqiqat Rai refused conversion to Islam. Haqiqat Rai's parents tried to change his mind, but failed. He was then sent to Zakaria Khan, the Governor of Lahore. But Haqiqat Rai did not agree to convert even under further torture. Then he was killed.
+
+Before execution, Hakikat Rai Puri was allowed to take a sacred bath, perform a Gau Daan and listen Gita from a Pandit. He is depicted with a shikhA and a tilak.
+
+The day of his execution used to be marked by a 'mela' (fair) on Vasant Panchami day in Lahore, around his 'samadhi' (Baway di marrhi), before India's partition.
+"""
+
+[names]
+sa = [ "हकीकतरायहत्या",]

@@ -1,0 +1,21 @@
+id = "kakori-luNThanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 9
+year_start = 1925
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 9 August 1925, the Train travelling from Shahjahanpur to Luckno was approaching the town of Kakori, when one of the revolutionaries pulled the emergency chain to stop the train and looted 3 bags with 8k rupees (allegedly belonging to the Indians and was being transferred to the British government treasury). One passenger was accidentally killed.
+ 
+Their leaders Ram Prasad Bismil and Ashfaqullah Khan were arrested later and killed. While in jail, the prisoners went on hunger strikes refusing to be treated like other criminals. There were widespread protests and failed clemency petitions.
+"""
+
+[names]
+sa = [ "ककोरि-लुण्ठनम्",]

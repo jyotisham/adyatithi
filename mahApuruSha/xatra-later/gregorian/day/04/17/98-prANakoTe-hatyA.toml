@@ -1,0 +1,21 @@
+id = "98-prANakoTe-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 17
+year_start = 1998
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+26 Hindus in the villages of Prankote and Dakikote were butchered ("no bullets fired") by kAshmIri muslim terrorists belonging to Hizbul Mujahideen ('Party of Holy Fighters'). The massacre forced migration of nearly 1,000 people to Reasi, Pouni Thanpal, Chasana and other towns of the district.
+
+In April 2008, the alleged mastermind Abdul Haque alias Jahangir, was shot dead.
+"""
+
+[names]
+sa = [ "९८-प्राणकोट-हत्या",]

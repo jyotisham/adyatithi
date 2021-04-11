@@ -1,0 +1,19 @@
+id = "jAThibhAngA-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 23
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Over 3k Bengali and Rajbanshi Hindu males trying to run away to India were stopped and killed by Islamic Republic of Pakistan Army in collaboration with razAkar-s (volunteers) including members of Jamaat-e-Islami and Muslim League.
+"""
+
+[names]
+sa = [ "जाठिभाङ्गा-हत्या",]

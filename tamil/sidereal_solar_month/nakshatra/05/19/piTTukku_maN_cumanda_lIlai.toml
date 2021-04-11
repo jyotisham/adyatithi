@@ -1,0 +1,17 @@
+default_to_none = true
+id = "piTTukku_maN_cumanda_lIlai"
+tags = [ "PuranaEvents",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 5
+anga_type = "nakshatra"
+anga_number = 19
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "piTTukku maN cumanda lIlai",]

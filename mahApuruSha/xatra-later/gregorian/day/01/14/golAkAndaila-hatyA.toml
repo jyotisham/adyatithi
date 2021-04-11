@@ -1,0 +1,19 @@
+id = "golAkAndaila-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 14
+year_start = 1964
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Poush Parbon (Makar Sankranti), 20k Bengali Hindus had come to Golakandail to attend a Fair. Mill workers armed and roused by a mill GM Karim killed 5k to 6k Hindus on that day. This was part of the infamous 1964 East Pakistan anti-Hindu genocide. (Source -Report submitted to the Indian Commission of Jurists by its committee of enquiry)
+"""
+
+[names]
+sa = [ "गोलाकान्दैल-हत्या",]

@@ -1,0 +1,32 @@
+default_to_none = true
+id = "kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+पुत्रो रमेशमखिनो मधुरोऽगदङ्कृद्
+ग्रावाभिलापक इति प्रथितश्च मन्त्रे।
+श्रीशारदामठगुरुः परिपूर्णबोधो
+रौद्र्यूर्जशुक्लनवमीम् अनु सिद्धिम् आर्च्छत्॥४७॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-22.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 8
+anga_type = "tithi"
+anga_number = 9
+kaala = "अपराह्णः"
+year_start = 3582
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Son of Rameśa Makhin, Madhura, a physician adept in the incatations of Grāvābhilāpaka, Paripūrṇabodha, the preceptor of Śrī Śārada Maṭha attained the beatitude on the night of bright fortnight of the month Kārttika in the year Raudri."
+
+[names]
+sa = [ "काञ्ची २२ जगद्गुरु श्री-परिपूर्णबोधेन्द्र सरस्वती आराधना",]

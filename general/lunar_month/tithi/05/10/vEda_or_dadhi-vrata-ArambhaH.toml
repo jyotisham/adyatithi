@@ -1,0 +1,18 @@
+default_to_none = true
+id = "vEda_or_dadhi-vrata-ArambhaH"
+tags = [ "SpecialVratam", "VratamStart", "SpecialPeriodStart",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Shiva Puja with `gandham`"
+
+[names]
+sa = [ "वेद/दधि-व्रत-आरम्भः",]

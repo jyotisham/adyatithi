@@ -1,0 +1,19 @@
+id = "gujjara-billU-vadhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 5
+year_start = 2006
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+billU gujjar (Wasim Khan), Islamist jihAdI belonging to Hizbul Mujahideen ('Party of Holy Fighters'), big-time murderer of hindus, was killed.
+"""
+
+[names]
+sa = [ "गुज्जर-बिल्लू-वधः",]

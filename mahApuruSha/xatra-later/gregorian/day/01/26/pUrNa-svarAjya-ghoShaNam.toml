@@ -1,0 +1,27 @@
+id = "pUrNa-svarAjya-ghoShaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 26
+year_start = 1930
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day in 1930, Indians at the 1930 Congress demanded pUrNa-svarAj (rejecting dominion status). This had long been demanded by those such as Bal Gangadhar Tilak, Sri Aurobindo, Bipin Chandra Pal, SC Bose and Bhagat Singh; while MK Gandhi had opposed it. Finally, JL Nehru and MK Gandhi came round to support it; and a [pre-approved pledge](http://www.indiaofthepast.org/indian-national-congress/major-events-pre-1950/purna-swaraj-demand-full-independence-26-january-1930) was declared to the public.
+
+To commemorate this, the republican _constipation_ was adapted on this day 20 years later. A grand military parade is held in Delhi in celebration.
+
+
+Besides economic complaints, the pledge states two points which remained true long after British left:
+
+- Culturally, the system of education has torn us from our moorings, and our training has made us hug the very chains that bind us.
+- Spiritually, compulsory disarmament has made us unmanly ... has made us think that we cannot look after ourselves ... even defend our homes and families from attacks of thieves, robbers, and miscreants.
+"""
+
+[names]
+sa = [ "पूर्णस्वराज्यघोषणम्",]

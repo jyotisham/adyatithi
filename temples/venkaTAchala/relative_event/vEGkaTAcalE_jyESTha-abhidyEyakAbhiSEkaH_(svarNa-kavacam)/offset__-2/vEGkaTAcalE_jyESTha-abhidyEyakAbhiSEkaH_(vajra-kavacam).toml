@@ -1,0 +1,13 @@
+default_to_none = true
+id = "vEGkaTAcalE_jyESTha-abhidyEyakAbhiSEkaH_(vajra-kavacam)"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "vEGkaTAcalE_jyESTha-abhidyEyakAbhiSEkaH_(svarNa-kavacam)"
+offset = -2
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (वज्र-कवचम्)",]

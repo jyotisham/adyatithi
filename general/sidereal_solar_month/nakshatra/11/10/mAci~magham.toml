@@ -1,0 +1,29 @@
+default_to_none = true
+id = "mAci~magham"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 11
+anga_type = "nakshatra"
+anga_number = 10
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "mAci~magham",]
+sa = [ "कुम्भमाघोत्सवः",]
+
+[description]
+sa = """
+कुम्भसंस्थे दिनकरे पौर्णम्यां पितृदैवते।
+सकृत्सन्दर्शनात् शम्भो ब्रह्मघ्नकलुषं हर॥
+---कुम्भघोण-माहात्म्ये ब्रह्म-प्रार्थना
+
+कुम्भराशौ सूर्ये सति, खे विपरीतदिशि मघासु च चन्द्रमसि सति पर्वेदम्। 
+
+एतादृशे दिने दाक्षायणी दक्षेण लब्धा। गुहेन शिवायोपदिष्टश्च प्रणवः। वराहेण पृथिवी चोद्धृता। 
+
+कुम्भघोणक्षेत्रे स्नानस्य विशेषः। शिवानुग्रहेण तत्र सर्वा अपि नद्यः पापनिवृत्त्याय आयन्ति।
+"""

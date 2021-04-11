@@ -1,0 +1,20 @@
+default_to_none = true
+id = "badarI_jyOtirmaTha-pratiSThApana~jayantI"
+tags = [ "AdiShankaraHistory",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 15
+year_start = 2616
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Adi Shankara founded Jyotir Mutt, Badarinath in Rakshasa year Totakacharya as first"
+
+[names]
+sa = [ "बदरी ज्योतिर्मठ-प्रतिष्ठापन-जयन्ती",]

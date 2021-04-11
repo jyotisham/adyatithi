@@ -1,0 +1,21 @@
+id = "kUpa-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 5
+year_start = 1762
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In an incident known as vaDDa-gallughAra, 40k durrAni paThAn soldiers (from dawn to early afternoon) killed 10k to 20k sikhs (retreating from Kup Rahira, 12 km north of Malerkotia). Sikhs (5k-10k fighters escorting 40k others, including women, children and elderly) could not resort to their usual hit and run tactics. jassa Singh ahluvAlia and charat singh Sukkarchakkia (grandfather of raNajIt singh) had ordered the men to encircle their retreating non-combatants and protect them as they retreated. Abdali was able to break the protective ring and carry out a massacre of about 20k civilians.
+
+Background: After the victory over marAThas at pAnIpat, the afghans were harrassed by sikhs. At a general assembly (Sarbatt Khalsa) of the Dal at Amritsar convened on the occasion of Divali, 27 October 1761, it was resolved to punish the agents, informers and collaborators of the Afghans, beginning with Aqil Das of Jandiala, head of the Niranjania sect. Aqil Das despatched messengers to Ahmad Shah Durrani. Earlier, Durrani had returned to Amritsar and blew up the Harimandir Sahib. As a deliberate act of sacrilege, the pool around it was filled with cow carcasses.
+"""
+
+[names]
+sa = [ "कूपयुद्धे वृद्धा शिष्यहत्या",]

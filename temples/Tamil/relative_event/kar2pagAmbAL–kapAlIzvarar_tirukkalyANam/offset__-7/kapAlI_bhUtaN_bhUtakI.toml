@@ -1,0 +1,13 @@
+default_to_none = true
+id = "kapAlI_bhUtaN_bhUtakI"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "kar2pagAmbAL–kapAlIzvarar_tirukkalyANam"
+offset = -7
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "kapAlI bhUtaN bhUtakI",]

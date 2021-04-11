@@ -1,0 +1,24 @@
+default_to_none = true
+id = "kadalI-gaurI-vratam_or_pUjA"
+tags = [ "LessCommonFestivals",]
+shlokas = """
+पुत्रान् देहि धनं देहि सौभाग्यं सर्वमङ्गले।
+सौमङ्गल्यं सुखं ज्ञानं देहि मे शिवसुन्दरि॥
+"""
+references_primary = [ "Bhavishyottara Puranam",]
+references_secondary = [ "Vaidikasri June 2017",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 4
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform puja of Shiva-Parvati under a banana tree or on a banana leaf, do naivedyam of 100+ bananas and give away to small girl children."
+
+[names]
+sa = [ "कदली-गौरी-व्रतम्/पूजा",]

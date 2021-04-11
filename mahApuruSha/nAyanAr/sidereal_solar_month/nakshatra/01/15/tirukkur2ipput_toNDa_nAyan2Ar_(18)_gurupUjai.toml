@@ -1,0 +1,17 @@
+default_to_none = true
+id = "tirukkur2ipput_toNDa_nAyan2Ar_(18)_gurupUjai"
+tags = [ "NayanarGurupujai",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 15
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "tirukkur2ipput toNDa nAyan2Ar (18) gurupUjai",]

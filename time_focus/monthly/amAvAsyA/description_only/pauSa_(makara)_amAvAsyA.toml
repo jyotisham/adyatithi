@@ -1,0 +1,11 @@
+default_to_none = true
+id = "pauSa_(makara)_amAvAsyA"
+tags = [ "AmavasyaDays",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "पौष (मकर) अमावास्या",]

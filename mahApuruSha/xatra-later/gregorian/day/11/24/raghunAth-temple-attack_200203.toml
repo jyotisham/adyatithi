@@ -1,0 +1,19 @@
+id = "raghunAth-temple-attack_200203"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 24
+year_start = 2002
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Two suicide bombers attacked the rAma temple in Jammu (dating to 1860), just a few months after the March attack. They killed fourteen devotees and injured 45 others. CRPF men Yatindra Nath Rai, Assistant Commandant, Dev Singh, Head Constable, E.G. Rao, Head Constable, T.A.Singh, Constable, and Late K.K. Pandey showed great gallantry.
+"""
+
+[names]
+sa = [ "रघुनाथमन्दिराक्रमणम् २००२११",]

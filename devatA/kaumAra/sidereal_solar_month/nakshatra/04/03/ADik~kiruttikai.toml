@@ -1,0 +1,19 @@
+default_to_none = true
+id = "ADik~kiruttikai"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 4
+anga_type = "nakshatra"
+anga_number = 3
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Special puja for Subrahmanya Swami in temples."
+
+[names]
+ta = [ "ADik~kiruttikai",]
+sa = [ "कर्कट-कार्त्तिक-पूजा",]

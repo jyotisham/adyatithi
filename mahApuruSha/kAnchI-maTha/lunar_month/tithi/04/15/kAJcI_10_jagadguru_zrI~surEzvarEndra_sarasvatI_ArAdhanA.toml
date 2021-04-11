@@ -1,0 +1,30 @@
+default_to_none = true
+id = "kAJcI_10_jagadguru_zrI~surEzvarEndra_sarasvatI_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+महाबलीश्वरेश्वराच्युतोद्भवो महेश्वराभिधः सुरेश्वरः परो नियम्य सर्वभूगुरोः।
+अवाप काञ्चिकामकोटिपीठधूर्वहक्रियां ययौ स्वम् अक्षयेऽक्षयं शुचेः शुचिः स पर्वणि॥२०॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-10.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 4
+anga_type = "tithi"
+anga_number = 15
+kaala = "अपराह्णः"
+year_start = 3228
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Born of Mahābalīśvareśvara by name Maheśvara, the other Sureśvara, adhering to austerities obtained the responsibility of governing the Kāñci Kāmakoṭi Pīṭha of the preceptor of the entire earth, He, the pure reached his imperishable state in the month of Āṣāḍha of the year Akṣaya."
+
+[names]
+sa = [ "काञ्ची १० जगद्गुरु श्री-सुरेश्वरेन्द्र सरस्वती आराधना",]

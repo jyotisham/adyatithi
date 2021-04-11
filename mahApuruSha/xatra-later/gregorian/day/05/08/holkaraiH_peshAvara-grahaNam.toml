@@ -1,0 +1,19 @@
+id = "holkaraiH_peshAvara-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 8
+year_start = 1758
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Tukoji Rao Holkar defeats the afghAn Durrani Empire at the Battle of Peshawar. He was left there by raghunAth rAv and malharrAv holkar.
+"""
+
+[names]
+sa = [ "होल्करैः पेशावर-ग्रहणम्",]

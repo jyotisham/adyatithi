@@ -1,0 +1,21 @@
+id = "DoDa-massacre-2006"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 30
+year_start = 2006
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In the first attack 22 unarmed Hindu villagers, mostly shepherds or their families, were lined up and gunned down by terrorists (allegedly belonging to  Lashkar-e-Taiba [Army of the Pure]) in Thawa village in Kulhand area of Doda district. The victims included a 3-year-old girl.
+
+The second attack in the neighbouring Lalon Galla village in Basantgarh area of Udhampur district, 35 Hindu shepherds were similarly slaughtered.
+"""
+
+[names]
+sa = [ "२००६-डोडा-हत्या",]

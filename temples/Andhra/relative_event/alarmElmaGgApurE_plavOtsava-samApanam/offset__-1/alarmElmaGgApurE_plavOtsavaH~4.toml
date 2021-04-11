@@ -1,0 +1,16 @@
+default_to_none = true
+id = "alarmElmaGgApurE_plavOtsavaH~4"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "alarmElmaGgApurE_plavOtsava-samApanam"
+offset = -1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Padmavati Devi is taken out on the `plava` (last three days)."
+
+[names]
+sa = [ "अलर्मेल्मङ्गापुरे प्लवोत्सवः",]

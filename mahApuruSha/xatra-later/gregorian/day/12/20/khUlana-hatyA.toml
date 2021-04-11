@@ -1,0 +1,21 @@
+id = "khUlana-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 20
+year_start = 1949
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The District Superintendent of Police arrived in Kalshira (in Khulna) accompanied by armed police contingent and the paramilitary Ansars and attacked Kalshira and other neighbouring Hindu villages mercilessly. They encouraged Muslims from neighbouring villages to loot the Hindu properties. A number of Hindus were killed, men and women were forcibly converted. Images were broken and shrines were desecrated. All the 350 homesteads in the village, except three, were demolished. The cattle and boats were forcibly taken away. Within a month of the massacre 30,000 Hindus fled from Khulna to India.
+
+Context: The previous day, four police constables raided the house of one Joydev Brahma in the village of Kalshira under Mollahat police station in Bagerhat sub-division in the district of Khulna, in search of some suspected communists, late in the night. Failed to find any suspects the constables tried to rape the wife of Brahma. Her cry alerted him and his companions, who in a desperate bid to save her attacked two constables, one of whom died on the spot. The remaining two raised an alarm and the neighbouring people came to their rescue.
+"""
+
+[names]
+sa = [ "खूलना-हत्या",]

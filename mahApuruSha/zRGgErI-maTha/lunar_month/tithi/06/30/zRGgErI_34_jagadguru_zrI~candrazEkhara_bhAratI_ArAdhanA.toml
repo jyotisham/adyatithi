@@ -1,0 +1,21 @@
+default_to_none = true
+id = "zRGgErI_34_jagadguru_zrI~candrazEkhara_bhAratI_ArAdhanA"
+tags = [ "MahapurushaEvents", "SringeriAradhanaDays",]
+shlokas = """
+सदाऽऽत्मध्याननिरतं विषयेभ्यः परङ्मुखम्।
+नौमि शास्त्रेषु निष्णातं चन्द्रशेखरभारतीम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 6
+anga_type = "tithi"
+anga_number = 30
+kaala = "अपराह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "शृङ्गेरी ३४ जगद्गुरु श्री-चन्द्रशेखर भारती आराधना",]

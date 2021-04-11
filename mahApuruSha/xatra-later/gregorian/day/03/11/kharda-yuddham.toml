@@ -1,0 +1,19 @@
+id = "kharda-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 11
+year_start = 1795
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+marATha-s routed nizAm's forces. After several skirmishes Nizams infantry under Raymond launched an attack on the Marathas but Scindia forces under Jivabadada Kerkar defeated them and launched a counter attack which proved to be decisive. The rest of the Hyderabad army fled to the fort of Kharda. The Nizam started negotiations and they were concluded in April 1795. Nizam ceded territory and paid an indemnity of Rupees 3 crores to Marathas.
+"""
+
+[names]
+sa = [ "खर्द-युद्धम्",]

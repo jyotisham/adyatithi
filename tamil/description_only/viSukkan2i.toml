@@ -1,0 +1,11 @@
+default_to_none = true
+id = "viSukkan2i"
+tags = [ "CommonFestivals", "SunSankranti",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "viSukkan2i",]

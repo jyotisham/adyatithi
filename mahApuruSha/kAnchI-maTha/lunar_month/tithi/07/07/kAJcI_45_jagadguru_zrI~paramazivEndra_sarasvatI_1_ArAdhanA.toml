@@ -1,0 +1,32 @@
+default_to_none = true
+id = "kAJcI_45_jagadguru_zrI~paramazivEndra_sarasvatI_1_ArAdhanA"
+tags = [ "KanchiAradhanaDays",]
+shlokas = """
+श्रीकण्ठः शिवसाम्बपण्डितसुतः सैकां समा विंशतिं
+बिभ्रत् स्वस्य पदे निवेश्य सुकविं सूर्यात्मजं सोमकम्।
+शार्वर्याश्विनसप्तमीनिशि गतः सिद्धिं स पक्षे सिते
+सन्न्यासात् प्रभृति क्षितिध्र-विवर-स्थायी परादिः शिवः॥८८॥
+—पुण्यश्लोकमञ्जरी
+"""
+image = "mahApuruSha/kAnchI-maTha/images/jagadgurus/jagadguru-45.jpg"
+references_primary = [ "Punya Shloka Manjari",]
+references_secondary = [ "www.kamakoti.org",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 7
+anga_type = "tithi"
+anga_number = 7
+kaala = "अपराह्णः"
+year_start = 4162
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Śrīkaṇṭha, son of Śivasāmbapaṇḍita, known by the appellation Parāśiva (Paramaśiva) (after initiation) who remained in the caves of the mountain since initiation governed the Pīṭha for twenty-one years and having placed poet Somaka’s son, Sūrya, in his place, He attained siddhi in the night of saptami of bright fortnight in the Aśvini month of He year Śārvari. This preceptor Paramaśivendra stayed in the caves of Sahya mountain adhereing to the mode of python (ajagaravṛtti), restored to by the disciple named Bodhendra, attained siddhi in the Sahya mountain itself."
+
+[names]
+sa = [ "काञ्ची ४५ जगद्गुरु श्री-परमशिवेन्द्र सरस्वती १ आराधना",]

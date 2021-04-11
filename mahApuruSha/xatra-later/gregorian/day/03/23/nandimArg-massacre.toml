@@ -1,0 +1,19 @@
+id = "nandimArg-massacre"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 23
+year_start = 2003
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In 1990, 300,000 to 600,000 Kashmiri Hindus left Kashmir after being selectively targeted by the Islamic militants. The armed jihAdis came dressed in counterfeit military uniforms at around midnight, lined up 11 men, 11 women, and two small boys (belonging to kAshmIri paNDit community) and shot them. The victims ranged from a 65-year-old man to a 2-year-old boy. The killers allegedly disfigured the bodies of the victims, looted their houses and took away the ornaments from bodies of the dead women. The terror stricken few remaining Hindus decided to leave the area. Three Lashkar-e-Taiba ("Army of the Pure") militants suspected to be responsible for this massacre were gunned down by Mumbai police on 29 March.
+"""
+
+[names]
+sa = [ "नन्दिमार्गहत्या",]

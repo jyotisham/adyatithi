@@ -1,0 +1,21 @@
+id = "lakhapata-rAyeNa_shiShya-hatyAH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 10
+year_start = 1746
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+ChoTTa ghallUghAra massacre of sikhs began on 3 Jeth 1746 with the rounding up and massacre of Sikh inhabitants of Lahore. An estimated 7,000 Sikhs were massacred in total.
+
+The operation was planned and executed by Lakhpat Rai, who was a Revenue Minister in the Court of Lahore to avenge the killing of his brother, Jaspat Rai, a military commander by the Sikhs earlier in the same year.
+"""
+
+[names]
+sa = [ "लखपतरायेण शिष्यहत्याः",]

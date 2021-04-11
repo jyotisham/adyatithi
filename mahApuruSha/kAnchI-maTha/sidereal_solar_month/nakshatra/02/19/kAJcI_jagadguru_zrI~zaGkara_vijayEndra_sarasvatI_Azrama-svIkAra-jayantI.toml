@@ -1,0 +1,22 @@
+default_to_none = true
+id = "kAJcI_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_Azrama-svIkAra-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 2
+anga_type = "nakshatra"
+anga_number = 19
+kaala = "प्रातः"
+year_start = 5084
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`jagadguru zrI~zaGkara vijayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 29th May 1983, `rudhirOdgArI` year, `vRSabha/vaizAkha mAsa kRSNa tRtIyA bhAnuvAsaraH mUlA nakSatram`."
+
+[names]
+sa = [ "काञ्ची जगद्गुरु श्री-शङ्कर विजयेन्द्र सरस्वती आश्रम-स्वीकार-जयन्ती",]

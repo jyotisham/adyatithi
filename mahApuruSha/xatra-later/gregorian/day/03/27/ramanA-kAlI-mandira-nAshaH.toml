@@ -1,0 +1,19 @@
+id = "ramanA-kAlI-mandira-nAshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 27
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Twenty days after Mujib’s speech at the Ramna Race Course, the Pakistan army attacked the temple and massacred all the Hindus there and in the vicinity of the temple. The Pakistani army had doused the temple with petrol and gunpowder and set it on fire. The priest of the Ramna Kali temple along with over hundred people and fifty cows were killed in the temple, and over another hundred were massacred in the adjacent Maa Anandamayi Ashram and the nearby houses. Dr. John E. Rohde from the United States Agency for International Development visited the area on 29 March. He had witnessed charred corpses of men, women and children who had been killed and burned.
+"""
+
+[names]
+sa = [ "रमना-काली-मन्दिर-नाशः",]

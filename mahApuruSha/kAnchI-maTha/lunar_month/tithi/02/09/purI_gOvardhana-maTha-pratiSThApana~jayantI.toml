@@ -1,0 +1,20 @@
+default_to_none = true
+id = "purI_gOvardhana-maTha-pratiSThApana~jayantI"
+tags = [ "AdiShankaraHistory",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 9
+year_start = 2617
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Adi Shankara founded Govardhan mutt, Puri in Nala year Padmapadacharya as first"
+
+[names]
+sa = [ "पुरी गोवर्धन-मठ-प्रतिष्ठापन-जयन्ती",]

@@ -1,0 +1,16 @@
+default_to_none = true
+id = "mIn2AkSI_tirukkalyANam"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 12
+kaala = "मध्याह्नः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+ta = [ "mIn2AkSI tirukkalyANam",]

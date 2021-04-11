@@ -1,0 +1,19 @@
+id = "shambhurAjo_dvAdashadeshaM_gRhNAti"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 12
+anga_number = 11
+year_start = 1683
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+ambhaji's army attacked Salsette and Bardez. Sambhaji had 6 thousand cavalry and 8-10 thousand infantry with him. Marathas plundered Bardesh and town of Madgaon. After having captured Salsette and Bardesh (Bardez) the Marathas were exerting to take the island of Goa as well. French factor of Surat Francois Martin has described the poor condition of the Portuguese, he said the viceroy was completely dependent on Mughal aid now.
+"""
+
+[names]
+sa = [ "शम्भुराजो द्वादशदेशं गृह्णाति",]

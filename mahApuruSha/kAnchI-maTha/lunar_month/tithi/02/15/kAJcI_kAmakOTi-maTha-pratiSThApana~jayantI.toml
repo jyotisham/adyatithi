@@ -1,0 +1,20 @@
+default_to_none = true
+id = "kAJcI_kAmakOTi-maTha-pratiSThApana~jayantI"
+tags = [ "AdiShankaraHistory", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 15
+year_start = 2620
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Adi Shankara founded Kamakoti Mutt, Kanchi in Siddharthi year with himself as first"
+
+[names]
+sa = [ "काञ्ची कामकोटि-मठ-प्रतिष्ठापन-जयन्ती",]

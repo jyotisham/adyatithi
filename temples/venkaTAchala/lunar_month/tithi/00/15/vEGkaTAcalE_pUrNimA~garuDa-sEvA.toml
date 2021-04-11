@@ -1,0 +1,19 @@
+default_to_none = true
+id = "vEGkaTAcalE_pUrNimA~garuDa-sEvA"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "tithi"
+anga_number = 15
+kaala = "चन्द्रोदयः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Lord Malayappa rides on Garuda Vahanam in all four mada streets. This usually happens during Brahmotsavams, but since 2006, this has been happening on every `pUrNimA`."
+
+[names]
+sa = [ "वेङ्कटाचले पूर्णिमा-गरुड-सेवा",]

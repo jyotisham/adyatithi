@@ -1,0 +1,19 @@
+id = "holkara-malhara-janma"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 16
+year_start = 1693
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day was born the great general Malhar Rao Holkar, who served under peshva-s ranging from bAjI rAv to mAdhav rAv.
+"""
+
+[names]
+sa = [ "होल्कर-मल्हर-जन्म",]

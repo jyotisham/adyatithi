@@ -1,0 +1,21 @@
+id = "vArANAsI-visphoTAH_2006"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 7
+year_start = 2006
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The blasts occurred nearly simultaneously shortly after 18:00 IST. The first blast took place at 18:20 at the crowded Sankat Mochan Hanuman Temple near the Banaras Hindu University. Hundreds of pilgrims were in temple as it was a Tuesday. One other blast followed at the Varanasi Cantonment Railway Station. 28 people were reportedly killed and 101 injured.
+
+Islamic group Lashkar-e Kahar/Qahab claimed responsibility.
+"""
+
+[names]
+sa = [ "२००६-वाराणासी-विस्फोटाः",]

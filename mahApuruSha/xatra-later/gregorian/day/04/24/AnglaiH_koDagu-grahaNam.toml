@@ -1,0 +1,22 @@
+default_to_none = true
+id = "AnglaiH_koDagu-grahaNam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 4
+anga_type = "day"
+anga_number = 24
+year_start = 1834
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+chikka-vIra-rAjendra (allegedly tyrranical) was deposed and exiled by the British; his kingdom was annexed into British India. He lived 14 years in exile; one of his daughters married jung bahAdur rANa, while another, gauramma (then aged 11 years), adopted to be taken care by Queen Victoria was converted to Christianity and married to some old colnel.
+"""
+
+[names]
+sa = [ "आङ्ग्लैः कोडगुग्रहणम्",]

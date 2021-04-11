@@ -1,0 +1,25 @@
+default_to_none = true
+id = "tilapadma-dvAdazI_or_tilOtpatti"
+tags = [ "SpecialPuja",]
+shlokas = """
+माघे तु शुक्लद्वादश्यां यतो हि भगवान् पुर।
+तिलान् उत्पादयामास तपः कृत्वा सुदारुणम्॥
+तिलतैलेन दीपाश्छ देयाह् देव गृहेषु च।
+निवेदयेत् तिलानेव
+"""
+references_secondary = [ "Vaidikasri Feb 2016",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Mahavishnu created black til by extreme `tapaH` on this day; light til deepam and offer `tilAnnam naivEdyam`."
+
+[names]
+sa = [ "तिलपद्म-द्वादशी/तिलोत्पत्ति",]

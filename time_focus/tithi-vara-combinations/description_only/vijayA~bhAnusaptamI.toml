@@ -1,9 +1,11 @@
 default_to_none = true
 id = "vijayA~bhAnusaptamI"
 tags = [ "RareDays", "Combinations",]
-shlokas = """अमावस्या तु सोमेन सप्तमी भानुना सह।
+shlokas = """
+अमावस्या तु सोमेन सप्तमी भानुना सह।
 चतुर्थी भूमिपुत्रेण सोमपुत्रेण चाष्टमी।
-चतस्रस्तिथयस्त्वेताः सूर्यग्रहणसन्निभाः॥"""
+चतस्रस्तिथयस्त्वेताः सूर्यग्रहणसन्निभाः॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

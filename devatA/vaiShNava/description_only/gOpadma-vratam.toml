@@ -1,0 +1,21 @@
+default_to_none = true
+id = "gOpadma-vratam"
+tags = [ "SpecialVratam",]
+shlokas = """
+गोपद्ममिति विख्यातं सर्वपापहरं परम्।
+सर्वदुःखोपशमनं सर्वसम्पत्प्रदायकम्।
+सुवासिन्यास्तु सौभाग्यपुत्रपौत्रप्रवर्धनम्॥
+"""
+references_primary = [ "Vrata Chudamani 173",]
+references_secondary = [ "Vaidikasri Aug 2015",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform puja of Mahalakshmi-Mahavishnu"
+
+[names]
+sa = [ "गोपद्म-व्रतम्",]

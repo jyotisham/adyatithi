@@ -1,8 +1,10 @@
 default_to_none = true
 id = "zastrahatacaturdazI"
 tags = [ "LessCommonFestivals",]
-shlokas = """वृक्षारोहेण लोहाद्यैर्विद्युज्जल-विषाग्निभिः।
-नखि दंष्ट्रि विपन्ना ये तेषां शस्ता चतुर्दशी॥"""
+shlokas = """
+वृक्षारोहेण लोहाद्यैर्विद्युज्जल-विषाग्निभिः।
+नखि दंष्ट्रि विपन्ना ये तेषां शस्ता चतुर्दशी॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]

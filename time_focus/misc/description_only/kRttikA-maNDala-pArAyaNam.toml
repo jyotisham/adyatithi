@@ -1,0 +1,14 @@
+default_to_none = true
+id = "kRttikA-maNDala-pArAyaNam"
+tags = [ "SpecialPeriod", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Conduct Veda parayanam in the evening, during (or at least on one of) these 48 days."
+
+[names]
+sa = [ "कृत्तिका-मण्डल-पारायणम्",]

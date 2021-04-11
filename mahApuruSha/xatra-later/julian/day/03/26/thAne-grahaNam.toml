@@ -1,0 +1,19 @@
+id = "thAne-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 26
+year_start = 1737
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Thane captured from Portuguese. Peshwa Bajirao's aim was to capture Sashthi Island by attacking the various forts guarding it. The first aim was to capture Thane. Having left Pune, one contingent of the Marathas reached Thane by the end of that month. chimAjI appa, on hearing this, directed his troops west to shaShThI island.
+"""
+
+[names]
+sa = [ "थाने-ग्रहणम्",]

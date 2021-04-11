@@ -1,0 +1,23 @@
+id = "vivekAnanda-speech"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 11
+year_start = 1893
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Vivekananda gave a brief speech representing India and Hinduism. He was initially nervous, bowed to Saraswati (the Hindu goddess of learning) and began his speech with "Sisters and brothers of America!". At these words, Vivekananda received a two-minute standing ovation from the crowd of seven thousand.
+
+The New York Herald noted, "Vivekananda is undoubtedly the greatest figure in the Parliament of Religions. After hearing him we feel how foolish it is to send missionaries to this learned nation".
+
+He spoke several more times "at receptions, the scientific section, and private homes".
+"""
+
+[names]
+sa = [ "विवेकानन्द-भाषणं चिकागोनगरे",]

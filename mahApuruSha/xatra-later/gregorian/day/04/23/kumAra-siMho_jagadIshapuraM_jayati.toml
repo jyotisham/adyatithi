@@ -1,0 +1,21 @@
+id = "kumAra-siMho_jagadIshapuraM_jayati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 23
+year_start = 1858
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Kunwar Singh, aged 80 and one-handed (having cut off and offered his wounded hand to gangA devI in an earlier battle a few days earlier), utterly routed Captain le Grand's forces (with 2 howitzers) with his little army of about two thousand men - dispirited and badly armed. Le Grand used his guns and an infantry charge into the jungle to no avail. On 22 and 23 April, being injured he fought bravely against the British Army and with the help of his army drove away the British Army, brought down the Union Jack from Jagdispur Fort and hoisted his flag.
+
+On 26 April 1858 he died in his village. The mantle of the old chief now fell on his brother Amar Singh II who, despite heavy odds, continued the struggle and for a considerable time, running a parallel government in the district of Shahabad. In October 1859, Amar Singh II joined the rebel leaders in the Nepal Terai.
+"""
+
+[names]
+sa = [ "कुमारसिंहो जगदीशपुरं जयति",]

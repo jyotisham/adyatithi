@@ -1,0 +1,17 @@
+id = "kRShNadevarAya-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 17
+year_start = 1529
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Great emperor kRShNadevarAya died. An inscription in Honehalli near Tumkur records this. There was a lunar eclipse on the day. कार्त्तिक-पूर्णिमा."
+
+[names]
+sa = [ "कृष्णदेवराय-मरणम्",]

@@ -1,0 +1,21 @@
+id = "shiNDe-mahadjyA_rakta-durga-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 9
+year_start = 1771
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Mahadji Scindia's sardar Balarao Govind entered the Red fort & took possession from Zabeta Khan's men, regaining control of Delhi after Panipat 1761.
+
+After 1719, 1737, 1753-57, 1758-1761, the Marathas returned to Delhi and surrounded the city with their cannons on 8 February 1771. Mahadji Scindia, Ramchandra Ganesh, Visaji Krishna were the chiefs who were in the Maratha army. 'In the morning the Marathas having planted guns on all 4 sides, began to fire on the fort of Delhi...the ASAD BURJ was demolished. At noon negotiations began with Scindia's diwan..at sunset  the little gate of the fort was opened'.- Delhi Chronicle, 1771.
+"""
+
+[names]
+sa = [ "शिण्डे महज्ज्या रक्तदुर्गग्रहणम्",]

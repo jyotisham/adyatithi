@@ -1,6 +1,12 @@
 default_to_none = true
 id = "dharmarAja-dazamI"
 tags = [ "LessCommonFestivals",]
+shlokas = """
+धर्मराजस्य दमनकेन पूजनमुक्तं निर्णयामृते देवीपुराणे---
+धर्मराजं दशम्यां तु पूजयित्वा सुगन्धिभिः।
+विगतारिर्निरातङ्क इह चान्ते परं पदम्॥
+"""
+references_primary = [ "Smriti Kaustubham p.101",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

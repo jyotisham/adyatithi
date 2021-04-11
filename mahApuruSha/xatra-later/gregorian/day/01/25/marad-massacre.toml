@@ -1,0 +1,21 @@
+id = "marad-massacre"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 25
+year_start = 1998
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In an attack (allegedly by  Abdul Hamid Gada of Hizbul Mujahideen = 'Party of Holy Fighters'), timed to coincide with the Shab-e-Qadar, the holiest night of Ramadan, 26 Kashmiri Hindus living in the village of Wandhama were slaughtered. The gunmen came to their house dressed like Indian Army soldiers, had tea with them, waiting for a radio message indicating that all Hindu families in the village had been covered, lined them up and shot them dead.
+
+Politicians expressed "kaDhI nindA".
+"""
+
+[names]
+sa = [ "वनधाम-हत्या",]
