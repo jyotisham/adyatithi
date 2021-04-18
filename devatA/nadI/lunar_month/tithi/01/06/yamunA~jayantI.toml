@@ -2,6 +2,13 @@ default_to_none = true
 id = "yamunA~jayantI"
 tags = [ "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+कृष्णे साक्षात्कृष्णरूपा त्वमेव
+वेगावर्ते वर्तसे मत्स्यरूपी।
+ऊर्मावूर्मौ कूर्मरूपी सदा ते
+बिन्दौ बिन्दौ भाति गोविन्ददेवः॥
+---गर्गसंहितायां यमुनास्तवे
+"""
 
 [timing]
 default_to_none = true
