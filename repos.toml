@@ -84,8 +84,8 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/RShi"
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "mahApuruSha/general"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/general"
+name = "mahApuruSha/general-indic"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/general-indic"
 jsonClass = "RulesRepo"
 
 [[data]]
@@ -94,8 +94,8 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/kAnch
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "mahApuruSha/later"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/later"
+name = "mahApuruSha/general-tropical"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/general-tropical"
 jsonClass = "RulesRepo"
 
 [[data]]

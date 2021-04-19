@@ -1,0 +1,21 @@
+id = "proklas-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 17
+year_start = 485
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The yavana polytheist sage died in Athens on this date in 485 CE. Proclus died aged 73, and was buried near Mount Lycabettus in a tomb. It is reported that he was writing 700 lines each day.
+
+He had a great devotion to the goddess Athena, who he believed guided him at key moments in his life. Marinus reports that when Christians removed the statue of the goddess from the Parthenon, a beautiful woman appeared to Proclus in a dream and announced that the "Athenian Lady" wished to stay at his home.
+"""
+
+[names]
+sa = [ "प्रोक्लस्-मृत्युः",]
