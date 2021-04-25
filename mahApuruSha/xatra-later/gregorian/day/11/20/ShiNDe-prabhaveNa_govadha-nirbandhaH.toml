@@ -1,0 +1,19 @@
+id = "ShiNDe-prabhaveNa_govadha-nirbandhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 20
+year_start = 1789
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The Mughal emperor Shah Alam II prohibited cow killing. Also, Mathura and vRndAvan granted to peshva (represented by Mahadji Scindia).
+"""
+
+[names]
+sa = [ "शिण्डेप्रभावेण गोवधनिर्बन्धो मुघलराज्ये",]
