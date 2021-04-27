@@ -1,0 +1,19 @@
+id = "pratApasiMha-shAsanArambhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 1
+year_start = 1572
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Mewar nobles support Maharana Pratap for the throne & force Jagmal (9th son of udayasiMha who died a couple of days ago) to step down. Jagmal departs to serve Mughals.
+"""
+
+[names]
+sa = [ "प्रतापसिंह-शासनारम्भः",]
