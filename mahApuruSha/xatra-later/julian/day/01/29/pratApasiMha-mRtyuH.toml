@@ -1,0 +1,21 @@
+id = "pratApasiMha-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 29
+year_start = 1597
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Maharana Pratap passes away due to injuries in a hunting accident at Chawand.
+
+11 years earlier, he'd reconquered all of mewar from Mogols, except Ajmer, Chittorgarh & Mandalgarh.
+"""
+
+[names]
+sa = [ "प्रतापसिंह-मृत्युः",]

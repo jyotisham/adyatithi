@@ -1,0 +1,21 @@
+id = "gajapatinA_lakhnauti-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 14
+year_start = 1245
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The army of Gajapati  Narasimhadeva-I, having slaughtered Karimuddin Laghri's unit at Lakhnor, beseiged and won Lakhanuti.
+
+Context: This was the second seige by the gajapati in 14 months. Narasinhadeva had attacked Lakhnauti for 1st time in  around November 1243 and had to tactically retreat till Katashin/Contai in South Bengal in April 1244 before drawing out, ambushing and routing Mamluk forces under Tughan. Hindu chiefs of South Bengal were vassalized by Narasimhadeva and had helped him in his campaign.
+"""
+
+[names]
+sa = [ "गजपतिन-लख्नौति-दुर्ग-ग्रहणम्",]
