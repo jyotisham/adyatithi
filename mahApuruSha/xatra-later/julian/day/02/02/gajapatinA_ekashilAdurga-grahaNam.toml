@@ -1,0 +1,21 @@
+id = "gajapatinA_ekashilAdurga-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 2
+anga_number = 2
+year_start = 1460
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Eldest son of Gajpati Kapileshvara - vIra-hamvIra-mahApatra and his nephew vIrabhadra-raghudeva-mahApatra (after likely taking on Khwaja-i-Jahan), captured the vArangal fort. The Bahmani generals fled - and the governor and other soldiers were spared their lives.
+
+Context: Bahmanis had captured this fort from the Nayakas in 14th century. After rescuing the beseiged vellamA chief lingA-reDDi DevarakonDa and routing Bahmani Sultan's forces there, Hambira and Raghudeva proceeded to Warangal.
+"""
+
+[names]
+sa = [ "गजपतिनैकशिला-दुर्ग-ग्रहणम्",]
