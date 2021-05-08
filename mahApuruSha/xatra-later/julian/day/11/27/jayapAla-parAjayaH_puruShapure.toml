@@ -1,0 +1,24 @@
+default_to_none = true
+id = "jayapAla-parAjayaH_puruShapure"
+tags = [ "Shivaji",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 11
+anga_type = "day"
+anga_number = 27
+year_start = 1001
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Army of Sultan Mahmud bin Sebuktigin (Mahmud of Ghazni) defeated the Hindu Shahi army of Jayapala, near Peshawar. Jayapala was defeated and captured, and as a result of the humiliation of the defeat, he later immolated himself in a funeral pyre.
+
+Context: Alp Tigin, a Turkik slave soldier of Khorasan had seized garjanapura (ghazna) and started a dynasty (962). After his son died, slave soldiers Bilge Tegin and Böri tigin succeeded. Finally, his slave Sebuk Tigin (who'd married his daughter) succeeded (977), and captured gAndhAra (kAndahar). He defeated JayapAla twice, and annexed further territory. His son mahmUd (a devout muslim who thought of himself as "the Shadow of the God on Earth") succeeded him in 997.
+"""
+
+[names]
+sa = [ "जयपाल-पराजयः पुरुषपुरे",]
