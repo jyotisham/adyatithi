@@ -1,0 +1,24 @@
+id = "taraaina-yuddhe_pRthvIrAja-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 11
+anga_type = "day"
+anga_number = 13
+year_start = 1191
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+chAhamAna-pRthvIrAja (Prithiviraj Chauhan) defeated the Ghurid king Mu'izz ad-Din Muhammad Ghori. Minhaj states that Mu'izz ad-Din, who was riding a horse, attacked Govind Rai with a lance, hitting his mouth and breaking two of his teeth. Govind Rai retaliated with a javelin, severely wounding Mu'izz ad-Din's upper arm. According to Minhaj, Mu'izz ad-Din would have died or been captured, had a young soldier not led his horse to safety. 'The Sultan turned his charger's head round and receded, and from the agony of the wound he was unable to continue on horseback any longer. Defeat befell the army of Islām so that it was irretrievably routed.' - Minhaj in Tabaqat-i Nasiri.
+
+Prithviraj later recaptured Tabarhindah fort, but did not pursue the enemy further.
+
+Context: Sometime before 1191, Mu'izz ad-Din's army captured the Tabarhindah fort (probably present-day Bathinda).
+"""
+
+[names]
+sa = [ "तराइन-युद्धे पृथ्वीराज-जयः",]
