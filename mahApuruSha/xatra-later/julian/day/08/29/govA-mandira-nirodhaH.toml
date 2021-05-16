@@ -1,0 +1,24 @@
+default_to_none = true
+id = "govA-mandira-nirodhaH"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 8
+anga_type = "day"
+anga_number = 29
+year_start = 1569
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Portuguese viceroy De Noroha ordered - "No Hindu Temples should be erected in any territories of my King & temples shouldn't be repaired w/o my Permission."
+
+The report of activities of Franciscans state that 300 Hindu temples were destroyed by them in Bardez region (Goa).
+"""
+
+[names]
+sa = [ "गोवा-मन्दिर-निरोधः",]

@@ -1,0 +1,28 @@
+default_to_none = true
+id = "govAyAM_bandhInAm_pretIkaraNam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 11
+anga_type = "day"
+anga_number = 16
+year_start = 1731
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+1731, Nov 16: The King gave the final order that, "I permit you to Baptise the women and children. Go ahead." chimAjI appa would soon put an end to this.
+
+Background:
+
+1731, Mar 20: Portuguese Viceroy informed the King of Portugal: "During our war with Marathas, we captured many women & children & we're going to Baptise them."
+
+1715: An order was passed:- "Hindus shall be compelled to listen Christian doctrine." This law led to mass exodus of Hindus from the city of Goa.
+"""
+
+[names]
+sa = [ "गोवायां बन्धीनाम् प्रेतीकरणम्",]

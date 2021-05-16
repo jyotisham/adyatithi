@@ -1,0 +1,22 @@
+default_to_none = true
+id = "govA-hindu-bAla-grahaNAdeshaH"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 3
+anga_type = "day"
+anga_number = 28
+year_start = 1559
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+D. Sebastião ordered forcible conversion of the Hindu Orphans. “...I order that as from the date hercof, the children of Hindus, who in this city of the island of Goa in the territory of India, are left without father, mother, grandfather, grandmother or other ascendant lineals... taken immediately and handed over to the College of St. Paul of the Society of Jesus of the said city of Goa, for being baptised, educated and indoctrinated by the Fathers of the said College and being directed by them and placed in positions according to their respective aptitudes and abilities."
+"""
+
+[names]
+sa = [ "गोवा-हिन्दुक-बाल-ग्रहणादेशः",]
