@@ -1,0 +1,21 @@
+id = "asheri-durga-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 14
+year_start = 1739
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+After the capture of Tarapur, the provisions to Portuguese were cut off, & the Portuguese force at Asheri surrendered without a fight. Asheri Fort was finally under Maratha Control.
+
+Context:
+"""
+
+[names]
+sa = [ "अशेरि-दुर्ग-जयः",]

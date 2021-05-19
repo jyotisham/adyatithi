@@ -1,0 +1,21 @@
+id = "jala-durga-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 28
+year_start = 1737
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+A Maratha force commanded by Shankaraji Phadke, Anjurkar, Bajirao Belose, Rayajirao Surve & 400 soldiers caught the Portuguese by surprise and forced them to abandon the fort. The victory was commemorated by a plaque installed on the northern wall of the fort and is still visible today. The Marathas then rebuilt the fort, constructing three bastions Bahirav, Bhavani, and Bava.
+
+Context: In 1737 the then Peshwa Baji Rao I sent his brother, Chimaji Appa, to take the Bassein Fort from the Portuguese. After winning the Battle of Vasai, his general, Shankarji Pant, persuaded Chimaji to launch an assault on Fort Arnala, for its strategic importance to the Maratha navy in assaulting Portuguese interests. Their first assault, coordinated with a Maratha naval force commanded by Manaji Agre, was routed by a superior Portuguese naval force.
+"""
+
+[names]
+sa = [ "जल-दुर्ग-जयः",]

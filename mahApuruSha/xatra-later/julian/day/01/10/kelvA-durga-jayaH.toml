@@ -1,0 +1,21 @@
+id = "kelvA-durga-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 1
+anga_number = 10
+year_start = 1739
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Marathas again attacked Kelwa. The Maratha attack was greatly resisted by Portuguese garrison. Marathas burnt a gun-powder depot in the fort, which caused a huge blast, claiming many Portuguese lives.
+
+Context: Marathas found Kelwa fort difficult to conquer initially. Initially Chimaji Appa gave the command of this mission to conquer Kelve to Vitthal Vishwanath & Awaji Kawade. But the Marathas had to retreat due to strong Portuguese counter-attack. After that to conquer Kelwa, Peshwa Bajirao changed the command to Ramchandra Hari Patwardhan. He also had to retreat. This infuriated many Maratha Sardars, & even Peshwa Bajirao. Bajirao ordered Ramchandra to take strict action against the wrongdoers & deserters!
+"""
+
+[names]
+sa = [ "केल्वा-दुर्ग-जयः",]
