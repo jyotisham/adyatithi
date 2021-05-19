@@ -1,0 +1,19 @@
+id = "bAjIrAveNa_ShaTshaShTi-dvIpa-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gretorian"
+anga_type = "day"
+month_number = 5
+anga_number = 24
+year_start = 1737
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On Saturday at 11 p.m. the Mahrattas captured a water-tower in Thana creek and entered Salçette. On April 6 and 7,  the Mahratta troops practically occupied the whole island.
+"""
+
+[names]
+sa = [ "बाजीरावेण षट्षष्टि-द्वीप-ग्रहणम्",]
