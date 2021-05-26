@@ -2,7 +2,7 @@ id = "bAjIrAveNa_ShaTshaShTi-dvIpa-grahaNam"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
-month_type = "gretorian"
+month_type = "gregorian"
 anga_type = "day"
 month_number = 5
 anga_number = 24
