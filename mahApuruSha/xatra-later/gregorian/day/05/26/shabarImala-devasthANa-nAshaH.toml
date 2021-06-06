@@ -1,0 +1,23 @@
+id = "shabarImala-devasthANa-nAshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 26
+year_start = 1950
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, shabarImala temple was found desecrated. Police report (by DIG KK Menon) suspected Christians.
+
+First noticed by a priest on June 14, 1950, the arson was reported to police two days later by the commissioner and the president of Travancore Devaswom Board. The temple was last closed on May 20. The priest, his subordinates and some worshippers had left the place, with nobody staying back. When Kollam district superintendent of police visited the place, he had noticed that, “The idol was found broken; the head, left hand palm and fingers separated. There were cut marks on the face of the idol as well as on the forehead.” The enquiry had found out that the fire was not an accident. There were 15 cut marks of violence on the door leading to the sreekovil (sanctum sanctorum), indicating forcible entry, the report said. Police had found traces of brass on the sharp edge of an axe found from the spot. Theft attempt was ruled out as silver, gold and utensils were not taken away.
+
+Aftermath: The temple was rebuilt, the stone idol replaced with a metal one.
+"""
+
+[names]
+sa = [ "शबरीगिरि-देवस्थान-नाशः",]

@@ -1,0 +1,21 @@
+id = "guyAnA-vismara-hatyAH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 26
+year_start = 1964
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In a pre-planned attack on 3k Indians of Wismar, Guyana – many Indians were murdered, many Indian men were beaten and brutalised, hundreds of Indian women were raped, many females were stripped naked, children were terrorised and traumatised, countless Indian homes and business were burned down, and with all fleeing Wismar for safety elsewhere.
+
+People’s National Congress (PNC) held its party congress in Mackenzie, that adjoins Wismar, and celebrated the victory. Linden Forbes Burnham described May 26, 1964 as a day of victory because it was a day of defeat of Indians in Wismar-McKenzie, of running them out of the area. He renamed the place after himself, Linden. And he deliberately chose May 26 as the date for Guyana’s independence
+"""
+
+[names]
+sa = [ "गुयाना-विस्मर-हत्याः",]
