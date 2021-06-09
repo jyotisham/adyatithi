@@ -1,0 +1,19 @@
+id = "muNDa-christmas-attacks"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 24
+year_start = 1899
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On Christmas eve of 1899, acting on a carefully laid plan, Mundas, led by the anti-British and anti-Missionary apostate Birsa, attacked police stations and shot arrows into churches in many parts of the districts of Ranchi and Singhbhum.
+"""
+
+[names]
+sa = [ "मुण्ड-प्रेतजन्मदिन-युद्धम्",]

@@ -1,0 +1,19 @@
+id = "ahilyA-bAyi-janma"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 5
+anga_number = 31
+year_start = 1725
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Ahilyabai was born on May 31 1725 to Patil Mankoji Shinde. She was a widow who became Malwa's greatest queen. Defended our country & personally led armies into battle. Never plundered anyone. Developed Malwa into a prosperous kingdom. Rebuilt temples destroyed by "peaceful" people. Built Dharmashalas at Tirthas. Patronized arts.
+"""
+
+[names]
+sa = [ "अहिल्या-बायि-जन्म",]

@@ -1,0 +1,19 @@
+id = "muNDa-bIrsa-mRtyuH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 9
+year_start = 1900
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day Birsa Munda died in jail, a few days after his capture. In a short life of about 25 years, he had developed into an anti-British and anti-Missionary muNDa leader. Early in life he threw off a 3 year old Christian conversion (with the name "Birsa David") required for German Mission school admission; studied rAmAyaNa and gItA influenced by a vaiShNava weaver, then wearing a tilaka and a yajjnopavIta. 3 more years later, he began to lead his own hindu-tribal amalgam "Birsait" cult as "Dharti Aba".
+"""
+
+[names]
+sa = [ "मुण्ड-बीर्स-मृत्युः",]
