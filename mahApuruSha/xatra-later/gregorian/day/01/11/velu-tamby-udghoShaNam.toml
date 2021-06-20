@@ -1,0 +1,24 @@
+default_to_none = true
+id = "velu-tamby-udghoShaNam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 1
+anga_type = "day"
+anga_number = 11
+year_start = 1806
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Kundara Proclamation by Velu Thambi Dalawa, the Prime Minister/Diwan (Dalava) to King Balarama Varma of Travancore. It was an open call to arms, exhorting the common people to rise up against the British and to overthrow them. There was a massive response to his rallying call.
+
+The Dalawa had to commit suicide on exile later at Mannadi near Adoor.
+"""
+
+[names]
+sa = [ "वेलु-तम्ब्य्-उद्घोषणम्",]
