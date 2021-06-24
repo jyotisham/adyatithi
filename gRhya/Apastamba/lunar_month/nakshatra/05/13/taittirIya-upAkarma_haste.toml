@@ -1,19 +1,19 @@
 default_to_none = true
-id = "yajurvEda-upAkarma"
+id = "taittirIya-upAkarma_haste"
 tags = [ "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
+priority = "puurvaviddha"
 month_number = 5
-anga_type = "tithi"
-anga_number = 15
+anga_type = "nakshatra"
+anga_number = 13
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
 sa = """
-
 #### आपस्तम्बसूत्रेषु
 (आर्तव)श्रवणा(पूर्व)पक्ष ओषधीषु जातासु हस्तेन पौर्णमास्यां वा ऽध्यायोपाकर्म।  
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते ऽन्वारब्धेषु +++(शिष्येषु)+++ काण्ड-ऋषिभ्यो जुहोति,  
@@ -28,4 +28,4 @@ sa = """
 """
 
 [names]
-sa = [ "यजुर्वेद-उपाकर्म",]
+sa = [ "तैत्तिरीय-उपाकर्म हस्ते",]
