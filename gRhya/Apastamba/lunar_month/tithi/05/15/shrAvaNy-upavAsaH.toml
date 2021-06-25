@@ -1,0 +1,20 @@
+default_to_none = true
+id = "shrAvaNy-upavAsaH"
+tags = [ "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+sa = """
+श्रावण्यां पौर्णमास्यां तिलभक्ष उपोष्य वा श्वोभूते महानदम् उदकम् उपस्पृश्य सावित्र्या समित्-सहस्रम् आदध्याज् जपेद् वा इत्य् आपस्तम्बधर्मसूत्रेषु। 
+"""
+
+[names]
+sa = [ "श्रावण्युपवासः प्रायश्चित्तार्थः",]

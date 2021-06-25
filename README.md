@@ -17,6 +17,7 @@ A repository to host details of many festivals/observances of Indian hindus
 ## Field values
 - Please don't use "/" or space in id field value. Causes problems with deciding canonical file path; and makes command line operation ugly.
 - Where possible, please try to ensure that filename matches id field. (This will be periodically enforced anyway with scripts.)
+- Long string fields (such as description) allow markdown. It is up to consumers to convert this appropriately for presentation to users.
 
 ### Extra timing information
 - Basic information about festival timing is covered in the "Path within repository" section.

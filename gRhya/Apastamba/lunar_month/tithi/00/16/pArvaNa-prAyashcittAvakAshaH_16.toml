@@ -1,0 +1,21 @@
+id = "pArvaNa-prAyashcittAvakAshaH_16"
+tags = [ "MonthlyFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "tithi"
+anga_number = 16
+priority = "puurvaviddha"
+kaala = "पूर्वाह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+sa = """
+'पर्वणि वा तिलभक्ष उपोष्य वा श्वोभूत उदकमुपस्पृश्य सावित्रीं प्राणायामशः सहस्रकृत्व आवर्तयेद् अप्राणायामशो वा ' इत्य् आपस्तम्बधर्मसूत्रेषु।
+"""
+
+[names]
+sa = [ "पार्वण-प्रायश्चित्तावकाशः दर्शे",]
