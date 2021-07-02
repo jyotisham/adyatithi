@@ -1,0 +1,23 @@
+id = "gujarAta-grAma-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 21
+year_start = 1849
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+East India Company British troops under Hugh Gough, aided mostly by superior artillery, smashed rAjA sher-singh's army at Gujrat village near Chenab.
+
+Sher Singh was unable to find sufficient food for his army - his retreat east towards friendly sikh villages was blocked by a swollen Chenab with a few fords defended by irregular Muslim cavalry under British officers. Sher Singh withdrew to Gujrat, where his army hastily prepared a defensive position - alas, the terrain was not as advantageous as in Chillianwala. 96 Field Guns + 67 Siege Guns of the British overwhelmed Sher Singh's 60 guns in a 3 hour battle. The artillery then assisted the British infantry advance. Finally, the cavalry took up a ruthless pursuit, which turned the Sikh retreat into a rout over 12 miles (19 km). 
+
+Aftermath: The remnants of Sher Singh's forces retreated across the Jhelum River and into progressively rougher country with Muslim villagers for eleven days, but Sher Singh was finally forced to agree to British terms for surrender.
+"""
+
+[names]
+sa = [ "गुजरात-ग्राम-युद्धम्",]

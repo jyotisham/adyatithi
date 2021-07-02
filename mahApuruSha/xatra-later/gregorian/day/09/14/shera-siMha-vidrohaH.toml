@@ -1,0 +1,23 @@
+id = "shera-siMha-vidrohaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 14
+year_start = 1848
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Khalsa General Sher Singh Attariwalla rebelled against the British on this day.
+
+Cirmcumstance - Mulraj Chopra, the khatri divAn at multAn loyal to raNajIt singh and family, rebelled against the British. The British chief Currie sent a big detachment of the khalsa under Sher Singh Attariwalla to help the Bengal army in beseiging Multan. However, Sher Singh rebelled as well on Sep 14! 
+
+Aftermath: However, Sher Singh moved away to fight separately - and join his father Chattar Singh. He was to inflict a famous shocker to the British at Chillianwala.
+"""
+
+[names]
+sa = [ "शेरसिंह-विद्रोहः",]

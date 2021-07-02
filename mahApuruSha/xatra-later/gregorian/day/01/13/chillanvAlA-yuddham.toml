@@ -1,0 +1,23 @@
+id = "chillanvAlA-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 13
+year_start = 1849
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+East India Company British troops clashed with rAjA sher-singh attari-valla in  Chillianwala near river jhelum in panjAb.
+
+Aftermath: The British were shocked and stopped. The loss of British prestige at Chillianwala was one of the factors which contributed to the Indian rebellion of 1857 some nine years later. Hindu poet Prakashanth Das wrote: "हाल ही में मैंने रंग-बिरंगे कपड़े पहने हजारों सैनिकों को क्षितिज में बिना म्यान के तलवारें लहराते हुए देखा। हनुमान का एक लाल झंडा उठा और झाँसी की सेना रो पड़ी और चिल्लाई "चिल्लनवाला याद करो।" This even influenced the Namdhari Revolt of 1871 and Ram Kuka many times talked about the Battle of Chillianwala.
+
+It was said: 'The Sikhs fought like devils, fierce and untamed... Such a mass of men I never set eyes on and a plucky as lions: they ran right on the bayonets and struck their assailants when they were transfixed.' Major Amin said: 'The Battle of Chillianwala fought on 13 January 1849 is, however, one odd exception and stands out as a battle in which the British failed to defeat their opponents despite having the advantages of weight of numbers (sic), ideal weather and terrain, superior logistics etc'. Gough was criticised for his handling of the battle, was relieved of command and superseded by General Charles James Napier.
+"""
+
+[names]
+sa = [ "चिल्लन्वाला-युद्धम्",]

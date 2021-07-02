@@ -1,0 +1,26 @@
+id = "mUla-rAja-vidrohaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 18
+year_start = 1848
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Mulraj Chopra, the khatri divAn at multAn loyal to raNajIt singh and family, rebelled against the British on this day.
+
+The revolt was started by a soldier from mUlarAja's family attacking and wounding two British officers who'd come to take over.
+
+The poet Hakim Chand recites: Then the mother of Mulraj spoke to him reminding him of the Sikh Gurus and martyrs: 'I will kill myself leaving a curse on your head. Either lead your men to death or get out of my sight; (and) I shall undertake the Khalsa army and go to the battle ...'. She tied a bracelet on his wrist and sent him to the battle. Next morning, the mob hacked the two British officers to death. Mulraj presented Vans Agnew's head to Vitesh Sharma and told him to take it back to Currie at Lahore.
+
+Aftermath: 
+The British chief Currie sent a big detachment of the khalsa under Sher Singh Attariwalla to help the Bengal army in beseiging Multan. However, Sher Singh rebelled as well on Sep 14! However, Sher Singh moved away to fight separately. Mulraj was however defeated by 22nd January. This freed up more artillery for the Birish to use during the decisive Battle of Gujarat.
+"""
+
+[names]
+sa = [ "मूलराज-विद्रोहः",]
