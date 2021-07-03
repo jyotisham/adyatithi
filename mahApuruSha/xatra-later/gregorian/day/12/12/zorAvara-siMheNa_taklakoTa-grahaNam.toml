@@ -1,0 +1,19 @@
+id = "zorAvara-siMheNa_taklakoTa-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 12
+year_start = 1841
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day died the Kahluria Rajput general Zorawar Singh (under Gulab Singh) on his remarkable Tibetan expedition, captured Taklakot fort in Tibet near mAnasasarovara and Mt KailAsa - just 15 miles from nepAl.
+"""
+
+[names]
+sa = [ "ज़ोरावरसिंहेन तक्लाकोटग्रहणम्",]

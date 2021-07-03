@@ -1,0 +1,23 @@
+id = "vyAghra-parvata-AkramaNArambhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 3
+year_start = 1999
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The final assault on Tiger Hill began on 3 July at 17:15 during Kargil war/ operation vijay.
+
+After artillery pounding for 13 hours, 2 Naga advanced on the right and 8 Sikh advanced on the left. They used  unexpected, and therefore difficult, avenues of approach. ghAtak commandoes of 18 Grenadiers advanced up the rear. Just as they reached the top, they were spotted and fired upon. In the early morning hours of 4th July, Yogendra yAdav despite being hit by multiple bullets, climbed up, crawled to the first bunker, downed 4 pAki solidiers with a grenade, charged a second bunker with two others. Hit by 21 bullets, he was to receive PVC later. Maj. Ravinder Singh of 8 Sikh with 200 soldiers launched a daring attack to relieve them. 
+
+Aftermath- Most of the Sikh soldiers attacked without cold weather gear, and many of the wounded died from exposure. 18 Grenadiers seized the 16,700-foot (5,062 m) Tiger Hill Top on the morning of 8 July.
+"""
+
+[names]
+sa = [ "व्याघ्रपर्वताक्रमणारम्भः",]
