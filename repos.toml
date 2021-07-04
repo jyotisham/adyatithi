@@ -258,3 +258,8 @@ name = "time_focus/yugAdiH"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/yugAdiH"
 jsonClass = "RulesRepo"
 
+[[data]]
+name = "private"
+base_url = "/"
+jsonClass = "RulesRepo"
+
