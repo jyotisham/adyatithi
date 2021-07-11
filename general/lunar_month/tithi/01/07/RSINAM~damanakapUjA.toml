@@ -1,0 +1,25 @@
+default_to_none = true
+id = "RSINAM~damanakapUjA"
+shlokas = """
+दमनकपूजोक्ता हेमाद्रौ देवीपुराणे—
+एकादश्याम् ऋषेः पूजा कार्या सार्वोपहारिकी ।
+धनवान्पुत्रवान्कान्त ऋषिलोके महीयते ।
+"""
+references_primary = ["Smriti Kaustubham p.101"]
+tags = ["LessCommonFestivals"]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 7
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform `pUjA` to `RSi`s using `damanaka` (dhavana) flowers."
+
+[names]
+sa = ["ऋषीणां दमनकपूजा"]
+
