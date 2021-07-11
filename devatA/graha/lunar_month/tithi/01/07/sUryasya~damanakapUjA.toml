@@ -1,0 +1,25 @@
+default_to_none = true
+id = "sUryasya~damanakapUjA"
+shlokas = """
+भास्करस्य तु सप्तम्यां पूजां दमनकादिभिः ।
+कृत्वा प्राप्नोति भोगादीन् विगतारिर्महातपाः ।
+मदनरत्ने देवीपुराणे (स्मृतिकौस्तुभे)
+"""
+references_primary = ["Smriti Kaustubham p.94"]
+tags = ["LessCommonFestivals"]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 7
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform `pUjA` to `sUryA` using `damanaka` (dhavana) flowers."
+
+[names]
+sa = ["सूर्यस्य दमनकपूजा"]
+
