@@ -3,7 +3,7 @@ id = "karavIra-vratam"
 tags = [ "SpecialVratam",]
 shlokas = """
 करवीर विषावास नमस्ते भानुवल्लभ।
-मौलिमण्डन दुर्गादि देवानां सततं प्रिय
+मौलिमण्डन दुर्गादि देवानां सततं प्रिय॥
 """
 jsonClass = "HinduCalendarEvent"
 
