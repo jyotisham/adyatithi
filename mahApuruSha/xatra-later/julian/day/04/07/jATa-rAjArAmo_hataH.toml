@@ -1,0 +1,21 @@
+id = "jATa-rAjArAmo_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 7
+year_start = 1688
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Rajaram Jat died in a battle near Bijal at the hands of a Mughal musketeer.
+
+Earlier that year, Rajaram made his 2nd attempt at the tomb of Akbar in Agra. The Jats took away the precious stones of the building, took away carpets, gold & silver vessels, lamps, etc. & damaged the building. Akbar’s bones were dragged out & thrown in the fire and burnt!
+"""
+
+[names]
+sa = [ "जाट-राजारामो हतः",]

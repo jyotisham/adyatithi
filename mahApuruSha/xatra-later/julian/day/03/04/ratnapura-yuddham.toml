@@ -1,0 +1,19 @@
+id = "ratnapura-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 4
+year_start = 1706
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Battle of Ratanpur (near Rajpipla,Gujarat): Marathas crushed Mughals in this battle, inspiring rebellion of Ajit Singh again. Durgadas Rathore left Mughals too (again)!
+"""
+
+[names]
+sa = [ "रत्नपुर-युद्धम्",]

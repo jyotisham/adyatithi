@@ -1,0 +1,21 @@
+id = "rAjaputrebhyo_mAlava-gujarAta-samarpaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 11
+year_start = 1710
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Jai Singh 2 of amber and ajit singh of mArvAr were invited to mogol court, honered and presented governership of mAlvA and gujarat by mogol emperor bahAdur shAh, ending their 2 year rebellion.
+
+Context:  Rathors under Durgadas had been fighting the Mughals for thirty years. Bahadur Shah, upon becoming emperor, started towards them. On the way, he removed  removed Jai Singh of Amber from his post and made his younger brother Bijay Singh the Raja of Amber! As the neared mArvAr, Ajit Singh started negotiations after seeing the size of the Imperial army. Bahadur forced Ajit and Jai to march with him on his march to crush his brother's rebellion (he could not come back till June 1710.). But, they escaped - and allied with amar singh 2 of mevAr. Then they started fighting, gaining victory after victory. The Rajput Rajas had formed military ouposts at Rewari and Narnaul, 45 miles from Delhi and sent their armies towards Delhi, Rohtaka and Agra to harass the Mughals. Jai Singh also started sending letters to the Bundelas, Sikhs and the Marathas in order to spread discontent in the country against the Mughals. The rise of Banda Singh Bahadur and death of the faujdar of Sarhind further caused fear in the Mughal court.
+"""
+
+[names]
+sa = [ "राजपुत्रेभ्यो मालव-गुजरात-समर्पणम्",]
