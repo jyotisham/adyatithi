@@ -1,0 +1,19 @@
+id = "durgAdAso_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 9
+anga_number = 22
+year_start = 1718
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day died one of the bravest latter day rAjaputras- durgAdAs rAthore - now under the service of Mewar. He had fought mogols for over 30 years, and saved jodhpur and its royals from annexation and conversion. Durgadas Rathore's memorial at the banks of Kshipra river, Ujjain, serves to remind us of his dedicated struggle. A bard would pray: "eh mAtA pUt esA jin jesA durgA-dAs" (may every [rAjaput] mother have a son like durgAdAs.)
+"""
+
+[names]
+sa = [ "दुर्गादासो मृतः",]

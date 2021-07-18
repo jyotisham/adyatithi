@@ -1,0 +1,21 @@
+id = "jasavanta-siMho_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 12
+year_start = 1678
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+jasvant singh rAthoD of mArvAr died on this day in kAbUl. Excited awrangzeb is said to have exclaimed: “darwaza-e-kufr shikast! shikast!” - door that saved Kafirs, fall! Same year Jazia was imposed all over the empire. Awrangzeb then treid to annex mArvAr and convert its royal infant heir to Islam - only to be foiled by brave durgAdAs.
+
+In a letter written in 1659, Awrangzeb speaks of Maharaja Jaswant Singh as "the infidel who has destroyed mosques and built idol-temples on their sites." Maharaja Jaswant Singh was later suspected by the mogols of covertly aiding shivAjI in his daring raid on shaiste khAn in puNe.
+"""
+
+[names]
+sa = [ "जसवन्त-सिंहो मृतः",]
