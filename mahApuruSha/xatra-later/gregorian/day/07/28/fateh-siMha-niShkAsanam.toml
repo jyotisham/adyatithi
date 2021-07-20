@@ -1,0 +1,30 @@
+id = "fateh-siMha-niShkAsanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 28
+year_start = 1921
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, British formally deposed mahArANa Fateh Singh of Mewar under some silly pretext. This was the price of sticking to the long sisodiya tradition of refusing to be subservient to Abrahamist barbarians of all sorts.
+
+Context: The great mahArANa, a descendent of rANa kumbha and pratApa-simha of the sisodiya line, was the only Maharaja to not attend the Delhi Durbar of the British royals, both of 1903 and 1911. Then in 1921, when Edward, Prince of Wales, son of King George V and Queen Mary, visited Udaipur, he refused to receive him, citing illness and instead sent his son. This left him at odds with the British.
+
+He gladdened the hearts of his countrymen by keeping his honor. Mahakavi Kesari Singh Barahath wrote to the Rana appealing him to not go to Delhi: 
+ 
+पग पग भम्या पहाड़, धरा छाँड़ राख्यो धरम।  
+महाराणा मेवाड़ हिरदे बसिया हिन्द रे॥  
+अब लग साराँ आस राण रीत कुल राखसी।  
+रहैं सहाय सुखरास एकलिंग प्रभु आप रै॥
+ 
+“Rana, why does Pratap lives in India’s hearts? Because he protected dharma at the cost of his kingdom. That’s why. All the hopes are now resting on you.  Pray keep the honour.  May Ekalinga guide and help you.”
+"""
+
+[names]
+sa = [ "फ़तेह्-सिंह-निष्कासनम्",]
