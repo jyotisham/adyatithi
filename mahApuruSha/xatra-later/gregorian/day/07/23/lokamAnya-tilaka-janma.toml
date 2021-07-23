@@ -1,0 +1,19 @@
+id = "lokamAnya-tilaka-janma"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 23
+year_start = 1856
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day was born the great genius, teacher, nationalist, journalist and activist - Bal Gangadhar Tilak. He was homeschooled for many years. He popularized the svadeshI movement and gaNeshotsava-s. He went on to author excellent Indological research articles (eg. The Orion) in the midst of financial and political stress.
+"""
+
+[names]
+sa = [ "लोकमान्य-तिलक-जन्म",]
