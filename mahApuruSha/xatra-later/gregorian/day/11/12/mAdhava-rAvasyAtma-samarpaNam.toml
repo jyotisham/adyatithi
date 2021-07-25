@@ -1,0 +1,21 @@
+id = "mAdhava-rAvasyAtma-samarpaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 12
+year_start = 1762
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, to keep marATha unity and strength in the face of an ambitious nizAm, mAdhav rAv surrendered to his stupidly greedy uncle raghunAth rAv. The contrast between the two - whether in terms of ethics, capability or longevity is huge.
+
+Context: He decided to wage a war against his uncle Raghunathrao on November 7, 1762. However, Madhavrao didn't wish to battle against his own uncle and thus, proposed for a treaty. Raghunathrao agreed to sign the treaty with Madhavrao and asked him to move back to a non-attacking position. Madhavrao did so. However, Raghunathrao deceived Madhavrao. When the Maratha camp under Madhavrao was relaxed and unsuspecting of a battle, they were caught unawared as Raghunathrao attacked treacherously. Thus, Madhavrao was defeated in the Battle of Alegaon and on November 12, 1762 surrendered himself to Raghunathrao near Alegaon. After the surrender, Raghunathrao decided to control all the major decisions under the assistance of Sakharam Bapu. He also decided to befriend Nizam, but this proved to be a wrong masterplan as the Nizam slowly started infiltrating the zones of Maratha Empire. As time slipped by, Madhavrao pointed out the gravity of the situation to his uncle. Eventually on March 7, 1763 the Peshwas, once again under Madhavrao's leadership, decided to attack Aurangabad to crush Nizam.
+"""
+
+[names]
+sa = [ "माधव-रावस्यात्मसमर्पणम्",]

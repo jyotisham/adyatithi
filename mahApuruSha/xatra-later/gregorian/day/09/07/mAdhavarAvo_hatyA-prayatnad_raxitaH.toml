@@ -1,0 +1,21 @@
+id = "mAdhavarAvo_hatyA-prayatnad_raxitaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 7
+year_start = 1769
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, peshvA mAdhav rAv survived an assassination attempt.
+
+Context: Madhavrao was returning from the Parvati temple at Pune with his comrades, when one of his generals Ramsingh suddenly attacked him with a sword. Madhavrao was warned just in the nick of time and he suffered a blow from the sword on his shoulder as he tried to dodge Ramsingh. Madhavrao believed that this was Raguhnathrao's attempt to murder him, but he imprisoned General Ramsingh.
+"""
+
+[names]
+sa = [ "माधवरावो हत्यायत्नाद् रक्षितः",]

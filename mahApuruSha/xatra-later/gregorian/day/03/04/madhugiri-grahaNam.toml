@@ -1,0 +1,19 @@
+id = "madhugiri-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 4
+year_start = 1767
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+peshvA mAdhavarAv's forces captured madhugiri in one day (to the astonishment of the enemy) from haidar ali. Hyder Ali had imprisoned Rani of Bednur & her son in that fort. Madhavrao rescued them & sent them to Pune for protection.
+"""
+
+[names]
+sa = [ "मधुगिरि-ग्रहणम्",]
