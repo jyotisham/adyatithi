@@ -1,0 +1,19 @@
+default_to_none = true
+id = "bharanii_yamaarchana"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+चतुर्थी भरणीयोगः शनैश्चरदिने यदि।
+तदाभ्यर्च्य यमं देवं मुच्यते सर्वकिल्विषैः॥
+"""
+references_primary = [ "Purushartha Chitamani p.62",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Bharani Nakshatram & Chaturthi tithi falling on a Saturday."
+
+[names]
+sa = [ "भरणी-यमार्चना",]
