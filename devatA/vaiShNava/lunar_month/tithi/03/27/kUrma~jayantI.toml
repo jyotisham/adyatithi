@@ -3,6 +3,13 @@ id = "kUrma~jayantI"
 tags = [ "Dashavataram", "LessCommonFestivals",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+ज्येष्ठमासे तथा कृष्णद्वादश्यां भगवानजः।
+मन्दरं पृष्ठतः कृत्वा कूर्मरूपी हरिर्दधौ॥
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+"""
+references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 
 [timing]
 default_to_none = true

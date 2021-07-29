@@ -3,8 +3,14 @@ id = "matsya~jayantI"
 shlokas = """
 सत्यव्रतोपदेशाय जिह्ममीनस्वरूपधृक्।
 प्रलयाब्धिकृतावास गृहाणार्घ्यं नमोऽस्तु ते॥
+
+चैत्रे मास्यसिते पक्षे त्रयोदश्यां तिथौ विभुः।
+उदभून्मत्स्यरूपेण रक्षार्थमवनेर्हरिः॥ 
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
 tags = [ "Dashavataram",]
+references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"
 

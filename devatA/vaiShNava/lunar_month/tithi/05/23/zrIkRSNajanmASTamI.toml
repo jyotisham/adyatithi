@@ -2,6 +2,13 @@ default_to_none = true
 id = "zrIkRSNajanmASTamI"
 tags = [ "Dashavataram", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+मासि तु श्रावणेऽष्टम्यां निशीथे कृष्णपक्षके।
+प्राजापत्यसंयुक्ते कृष्णं देवक्यजीजनत्॥
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+"""
+references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 
 [timing]
 default_to_none = true

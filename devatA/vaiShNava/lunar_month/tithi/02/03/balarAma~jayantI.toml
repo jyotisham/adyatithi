@@ -2,6 +2,13 @@ default_to_none = true
 id = "balarAma~jayantI"
 tags = [ "Dashavataram", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशाख शुक्लपक्षे तृतीयायां हलायुधः।
+सङ्कर्षणो बलो जज्ञे रामः कृष्णाग्रजो हरिः॥
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+"""
+references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 
 [timing]
 default_to_none = true
@@ -10,6 +17,9 @@ month_number = 2
 anga_type = "tithi"
 anga_number = 3
 jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Jayanti of Balarama."
 
 [names]
 sa = [ "बलराम-जयन्ती",]

@@ -1,11 +1,17 @@
 default_to_none = true
-id = "lakSmI-varAha~jayantI"
+id = "varAha~jayantI"
 tags = [ "Dashavataram",]
 shlokas = """
 जितं जितं तेऽजित यज्ञभावन त्रयीं तनुं स्वां परिधुन्वते नमः।
 यद्रोमगर्तेषु निलिल्युरद्धयस्तस्मै नमः कारणसूकराय ते॥३-१३-३५॥
 —श्रीमद्भागवते महापुराणे तृतीयेस्कन्धे त्रयोदशेऽध्याये
+
+चैत्रकृष्णे तु पञ्चम्यां जज्ञे नारायणः स्वयम्।
+भुवं वराहरूपेण शृङ्गाभ्यामुदधेर्जलात्॥
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
+references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -14,7 +20,9 @@ month_type = "lunar_month"
 month_number = 1
 anga_type = "tithi"
 anga_number = 20
+priority = "puurvaviddha"
+kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "लक्ष्मी-वराह-जयन्ती",]
+sa = [ "वराह-जयन्ती",]

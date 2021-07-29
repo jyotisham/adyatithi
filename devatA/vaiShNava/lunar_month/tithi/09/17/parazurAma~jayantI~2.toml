@@ -1,25 +1,26 @@
 default_to_none = true
-id = "kalki~jayantI"
+id = "parazurAma~jayantI~2"
 tags = [ "Dashavataram",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
-मासि भाद्रपदे शुक्लद्वितीयायां जनार्दनः।
-म्लेच्छाक्रान्ते कलावन्ते कल्किरूपो भविष्यति॥
+मार्गशीर्षे द्वितीयायां कृष्णपक्षे तु भार्गवः। 
+दुष्टक्षत्रियविद्वेषी रामोऽभूत्तापसाग्रणीः।
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
 references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
-
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
 priority = "puurvaviddha"
-month_number = 6
+month_number = 9
 anga_type = "tithi"
-anga_number = 2
-kaala = "सूर्यास्तमयः"
+anga_number = 17
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Jayanti of Parashurama, who incarnated to destroy Dushta Kshatriyas."
+
 [names]
-sa = [ "कल्कि-जयन्ती",]
+sa = [ "परशुराम-जयन्ती",]
