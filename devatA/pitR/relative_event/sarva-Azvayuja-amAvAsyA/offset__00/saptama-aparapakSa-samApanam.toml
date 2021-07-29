@@ -1,0 +1,13 @@
+default_to_none = true
+id = "saptama-aparapakSa-samApanam"
+tags = [ "SpecialPeriodEnd",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "sarva-Azvayuja-amAvAsyA"
+offset = 0
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "सप्तम-अपरपक्ष-समापनम्",]
