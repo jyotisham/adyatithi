@@ -1,0 +1,21 @@
+id = "raghunAtha-rAva-bandhanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 10
+year_start = 1768
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, peshvA mAdhav rAv waged a war against Raghunathrao, captured him and put him under house arrest at Shaniwar Wada along with his assistant Sakharam Bapu Bokil.
+
+Context: Raghunathrao had marched to the north for expanding the empire, he failed to do so. Instead, he came back to Anandvalli and was again tempted to form an alliance with his generals and fight against Madhavrao. This time, however; Madhavrao was extremely agitated with his uncle's repeated attempts to overthrow him.
+"""
+
+[names]
+sa = [ "रघुनाथराव-बन्धनम्",]
