@@ -1,0 +1,19 @@
+default_to_none = true
+id = "kRttikA-vaizAkhOtsavaH"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 2
+anga_type = "nakshatra"
+anga_number = 16
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Special puja for Subrahmanya Swami in temples. Birth of Subrahmanya Swami. Worship Him with red flowers."
+sa = "सूर्ये वृषभराशौ कृत्तिकासु सति, चन्द्रमसि च विपरीतदिशि विशाखासु सत्य् आचर्यते सुब्रह्मण्यजन्मोत्सवः (पूर्वं श्रवण-कार्त्तिकोत्सवे जातानां षण्णाम् बालानाम् कृत्तिकाभिर् वर्ध्यमाननाम् एकीकरणेन पार्वत्या)।"
+
+[names]
+sa = [ "कृत्तिकावैषाखोत्सवः",]
