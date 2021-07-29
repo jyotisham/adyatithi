@@ -23,7 +23,7 @@ month_type = "lunar_month"
 priority = "vyaapti"
 month_number = 2
 anga_type = "tithi"
-anga_number = 3
+anga_number = 18
 kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
