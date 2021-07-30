@@ -1,12 +1,12 @@
 default_to_none = true
-id = "bharanii_yamaarchana"
+id = "bharaNI-yamArcanA"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 चतुर्थी भरणीयोगः शनैश्चरदिने यदि।
 तदाभ्यर्च्य यमं देवं मुच्यते सर्वकिल्विषैः॥
 """
-references_primary = [ "Purushartha Chitamani p.62",]
+references_primary = [ "Purushartha Chintamani p.62",]
 
 [timing]
 default_to_none = true
