@@ -1,0 +1,23 @@
+default_to_none = true
+id = "azUnyazayana-vratam~2"
+tags = [ "SpecialVratam",]
+shlokas = """
+लक्ष्म्या वियुज्यते देव न कदाचित् यतो भवान्।
+तथा कलत्रसम्बन्धो देव मा मे वियुज्यताम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 17
+kaala = "चन्द्रोदयः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Lord Mahavishnu sleeps with Goddess Mahalakshmi on this day. Do Puja by placing the God/Goddess on a new bed with pillow/blanket. Do danam of same after puja."
+
+[names]
+sa = [ "अशून्यशयन-व्रतम्",]
