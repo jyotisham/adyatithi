@@ -2,13 +2,17 @@ default_to_none = true
 id = "mahAjayA~saptamI"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+शुक्लपक्षे तु सप्तम्यां यदा संक्रमते रविः।
+महाजया तदा सा वै सप्तमी भास्करप्रिया॥ (ब्रह्मपुराणम्)
+"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Saptami tithi, combined with a sankranti."
+en = "Shukla saptami tithi, combined with a sankranti."
 
 [names]
 sa = [ "महाजया-सप्तमी",]
