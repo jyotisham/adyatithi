@@ -4,8 +4,12 @@ tags = [ "MonthlyVratam", "SankataharaChaturthiVratam",]
 shlokas = """
 गणाधिपस्त्वं देवेश चतुर्थ्यां पूजितो मया।
 कष्टान्मां मोचयेशान सर्वमिष्टं च देहि मे॥
+
+श्रावणकृष्णचतुर्थ्यां प्रारभ्य कृष्णचतुर्थीषु यावज्जीवमेकविंशतिवर्षाणि एकवर्षं वा सङ्कटचतुर्थीव्रतं कार्यम्॥
+अशक्तौ प्रतिवर्षं श्रावणचतुर्थ्यामेव कार्यम्॥
 """
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Dharma Sindhu p.56",]
 
 [timing]
 default_to_none = true
