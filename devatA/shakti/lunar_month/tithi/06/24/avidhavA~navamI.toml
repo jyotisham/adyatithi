@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sumaGgalA~navamI"
+id = "avidhavA-navamI"
 tags = [ "SpecialPuja", "CommonFestivals",]
 shlokas = """
 भर्तुरग्रे मृता नारी सहदाहेन वा मृता।
@@ -16,7 +16,7 @@ anga_number = 24
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "In honour of Sumangalas (in the family), by holding a feast for Suvasinis and Kanyas."
+en = "In honour of Avidhavaas (in the family), by holding a feast for Suvasinis and Kanyas."
 
 [names]
-sa = [ "सुमङ्गला-नवमी", "अविधवा-नवमी",]
+sa = ["अविधवा-नवमी",]
