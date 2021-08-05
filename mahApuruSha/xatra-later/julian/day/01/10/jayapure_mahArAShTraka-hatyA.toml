@@ -1,0 +1,26 @@
+default_to_none = true
+id = "jayapure_mahArAShTraka-hatyA"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "julian"
+month_number = 1
+anga_type = "day"
+anga_number = 10
+year_start = 1752
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, marATha soldiers and followers visiting Jaipur were massacred by rAjputs. From midday to midnight, about fifteen hundred men were killed outright, one thousand were wounded, only seventeen returned safely. Most of the wounded had broken their limbs in their attempt to jump from the rampart. Among those who were killed, many were higher officers of Jayappa's army, about a hundred were Brahmans, many lady servants and there were even small children. This was a landmark event in marAtha-rAjput relations - earlier fraternity and cooperation were lost.
+
+Context: Contrary to advice from peshva-s and the shiNDe minister Ramchandra Baba, malharrAv holkar had interfered in the Jaipur succession dispute, resulting in the suicide of the rightful ruler IshvarI singh and his family in desperation. This had sullied marATha reputation as being greedy and unprincipled. The other claimant, mAdhav singh (supported by marATha-s and some rAjputs) was installed on the throne on 29th December. Jayappa shiNDe arrived on Jan 6th. Maratha demand of one third or at least one fourth of Jaypur territory annoyed the new king and his ministers. He started plotting to destroy the marATha-s by cunning - inviting them for dinner and trying to poison food and water; calling them for talks and closing the gates - but they did not work out. The marAtha-s had come to admire the city and make purchases. But suddenly doors of the rampart were closed and massacre ensued. 
+
+Aftermath: Roads were closed to marATha-s, and their messengers were killed. mAdhavsingh pleaded innocence, requested peaceful settlement. marAtha-s had to acquiesce as they did not have sufficient strength to storm the fort. But he was hardly sincere - avoided payment while supplies to marATha-s were cut off.
+"""
+
+[names]
+sa = [ "जयपुरे महाराष्ट्रकहत्या",]
