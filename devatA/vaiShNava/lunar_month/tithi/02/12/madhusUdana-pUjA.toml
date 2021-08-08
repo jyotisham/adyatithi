@@ -1,0 +1,19 @@
+default_to_none = true
+id = "madhusUdana-pUjA"
+tags = [ "SpecialVratam",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशाखमासि द्वादश्यां पूजयेन्मधुसूदनम्।
+अग्निष्टोममवाप्नोति सोमलोकं च गच्छति॥ (महाभारते दानधर्मे)
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "मधुसूदन-पूजा",]
