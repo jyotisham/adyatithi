@@ -1,0 +1,18 @@
+default_to_none = true
+id = "padmaka-yOgaH-1"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+यदा विष्टिर्व्यतीपातो भानुवारस्तथैव च॥
+पद्मको नाम योगोयमयनादेश्चतुर्गुणः॥ (धर्मसिन्धौ पृ ३००)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "A very special `yOga`, that is over four-fold more auspicious than ayanams etc. "
+
+[names]
+sa = [ "पद्मक-योगः",]
