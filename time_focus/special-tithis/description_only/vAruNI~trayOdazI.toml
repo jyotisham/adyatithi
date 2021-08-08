@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Phalguna Krishna Chaturdashi, combined with Shatabhishak Nakshatram."
+en = "Phalguna Krishna Trayodashi, combined with Shatabhishak Nakshatram."
 
 [names]
 sa = [ "वारुणी-त्रयोदशी",]

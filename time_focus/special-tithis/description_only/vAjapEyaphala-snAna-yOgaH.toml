@@ -1,0 +1,19 @@
+default_to_none = true
+id = "vAjapEyaphala-snAna-yOgaH"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पुनर्वसुबुधोपेता चैत्रे मासि सिताष्टमी।
+प्रातस्तु विधिवत्स्नात्वा वाजपेयफलं लभेत्॥
+"""
+references_primary = [ "Dharmasindhu p.34",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "When the asterism Punarvasu occurs on a Wednesday in Chaitra (lunar) month, on a Shukla Paksha Ashtami, one obtains the great merit of performing a Vajapeya, by performing a snana in the morning."
+
+[names]
+sa = [ "वाजपेयफल-स्नान-योगः",]
