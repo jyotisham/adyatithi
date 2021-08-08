@@ -1,0 +1,26 @@
+default_to_none = true
+id = "hanumad-guru-maraNam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 5
+anga_type = "day"
+anga_number = 24
+year_start = 1999
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day died the master wrestler Vijay Pal Yadav (1901–1999) aka Guru Hanuman in a car crash. Guru Hanuman was fit and actively coaching, consuming large amounts of ghee and milk, even in his late 90s. He died on 24 May 1999, at the age of 98, not of old age or any ailments, but in a car crash! He was on his way to Haridwar to bathe in the holy Ganga.
+
+He founded an akhada to train wrestlers in 1925 with the help of K. K. Birla. Guru Hanuman coached or mentored the brightest Indian wrestlers for decades. His students got Arjuna Awards, won medals at Asian Games and Commonwealth Games, and represented India at the Olympics. After K. D. Jadhav’s bronze in 1952, India did not have a wrestling medal in Olympics for 56 years. Then came Sushil Kumar, a ‘praśiṣya’ (grand-disciple) of Guru Hanuman. Sushil Kumar was coached by Satpal Singh, a disciple of Guru Hanuman. Sushil Kumar won a bronze in 2008 and silver in 2012. Yogeshwar Dutt (bronze in 2012) also trained under Satpal Singh. So did Ravi Kumar Dahiya (silver in 2020).
+
+Sources: nityAnanda mishra's tweets.
+"""
+
+[names]
+sa = [ "हनुमद्-गुरु-मरणम्",]
