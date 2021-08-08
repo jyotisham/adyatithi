@@ -1,0 +1,21 @@
+id = "article-370-abrogation"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 5
+year_start = 2019
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, the president of India and the BJP government abrogated article 370 granting special status to Jammu and Kashmir state, in concurrance with the state government represented by its governor. The state was broken up into two separate centrally governed union territories - J&K and Ladhak.
+
+Aftermath: In two years, J&K Govt issued 41.05 Lakh Domicile Certificates, 890 Central laws have been made applicable to J&K, 205 J&K State laws were repealed, 130 were modified.
+"""
+
+[names]
+sa = [ "काश्मीर-पार्थक्यापाकरणम्",]

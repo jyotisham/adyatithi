@@ -1,7 +1,6 @@
 default_to_none = true
 id = "kalki~jayantI"
 tags = [ "Dashavataram",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 मासि भाद्रपदे शुक्लद्वितीयायां जनार्दनः।
 म्लेच्छाक्रान्ते कलावन्ते कल्किरूपो भविष्यति॥
@@ -9,7 +8,7 @@ shlokas = """
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
 references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
-
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
