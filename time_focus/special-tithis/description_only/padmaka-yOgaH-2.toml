@@ -1,0 +1,18 @@
+default_to_none = true
+id = "padmaka-yOgaH-2"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+षष्ठी च सप्तमी चैव वारश्चेदंशुमालिनः।
+योगोऽयं पद्मको नाम सूर्यकोटिग्रहैः समः॥ (निर्णयसिन्धौ पृ २४)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "A very special `yOga`, when Shashti and Saptami conjoin on a Sunday, bestowing the merit of a crore solar eclipses."
+
+[names]
+sa = [ "पद्मक-योगः",]

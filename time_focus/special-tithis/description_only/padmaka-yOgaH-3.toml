@@ -1,0 +1,18 @@
+default_to_none = true
+id = "padmaka-yOgaH-3"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+विशाखासु यदा भानुः कृत्तिकासु च चन्द्रमाः।
+स योगः पद्मको नाम पुष्करेष्वपि दुर्लभः॥ (स्मृतिकौस्तुभे पृ ४०६)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "When the Sun is transiting through `vizAkhA`, and the moon, through `kRttikA`, a very special  `padmaka yOga` occurs, that is more difficult to obtain than `puSkara`."
+
+[names]
+sa = [ "पद्मक-योगः",]
