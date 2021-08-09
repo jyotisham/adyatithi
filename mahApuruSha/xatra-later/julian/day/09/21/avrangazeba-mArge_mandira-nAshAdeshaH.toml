@@ -1,0 +1,21 @@
+id = "avrangazeba-mArge_mandira-nAshAdeshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 9
+anga_number = 21
+year_start = 1681
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Jawahar Chand, the Darogha of Beldars (stone cutters), was ordered that all temples coming in the way (of the Awrangzeb) should be demolished. Date of the Akhbar :- Julus 25, 18 Ramzan.
+
+Original: ब जवाहरचंद दारुगा बिलदारान फर्मुदंद के औंजा बुत-खाना हा दर राहे आयंद शुमार (मिस्मार) मी नमुदा बाशद.
+"""
+
+[names]
+sa = [ "अवरङ्गज़ेब-मार्गे मन्दिरनाशाज्ञा",]
