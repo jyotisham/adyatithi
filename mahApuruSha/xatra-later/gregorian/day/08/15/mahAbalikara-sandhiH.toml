@@ -1,0 +1,22 @@
+id = "mahAbalikara-sandhiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 15
+year_start = 1753
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Duch East India Company submitted to a peace treaty with mArtANDa varma of tirvanantapuram - abandoning all hopes of political and commercial dominance in keraLa, agreeing not to obstruct the Raja's expansion, and in turn, to sell to him arms and ammunition.
+
+### Context
+In 1730s, mArtANDa varma started annexing and consolidating keraLa kingdoms. Dutch tried to stop him, but lost crucial battles. Some prominent dutch prisoners had switched to serving and upgrading mArtANDa varma's army.
+"""
+
+[names]
+sa = [ "महाबलिकर-सन्धिः",]

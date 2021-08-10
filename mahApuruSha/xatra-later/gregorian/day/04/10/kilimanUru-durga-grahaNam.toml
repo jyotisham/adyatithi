@@ -1,0 +1,29 @@
+id = "kilimanUru-durga-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 10
+year_start = 1742
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, a dejected Dutch force, led by Captain Daniel Bergen and Jacob Hinderman, abandoned the Kilimanoor fort - leaving behind ammunition and provisions, diplomatically outmaneouvred by the tiruvanantapura army of mArtANDa varma and abandoned by their erstwhile allies - the rulers of Kollam and Kayamkulam.
+
+The Dutch force retreated to AyirUr, where they were surrounded - but were rescued by ships sent by the malabAr command.
+
+### Context
+The Dutch had recently lost badly at Colachel. Peace negotiations (conducted in anticipation of Dutch reinforcements under van Imhoff) had failed.
+
+### Aftermath
+mArtANDa varma's forces attacked Kollam (defended by soldiers led by achyuta vArriar) in June. Dutch tried to help, but couldn't. The ruler of Kollam and Kayamkulam agreed to become a tributary of tiruvanantapura, signed a treaty to this effect in September 1742, at Mannar, ceded much territory and paid annual tribute. Further attempts by him to renege with Dutch help were fruitless.
+
+mArtANDa-varma dragged on negotiations with Dutch - ultimately backing out by presenting strict terms as soon as he learned that van Imhoff had not yet departed from Europe - eventually leading to Dutch capitulation.
+"""
+
+[names]
+sa = [ "किलिमनूरु-दुर्ग-ग्रहणम्",]
