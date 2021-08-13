@@ -1,0 +1,25 @@
+default_to_none = true
+id = "maNipure_rAjya-nirvAsanam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 8
+anga_type = "day"
+anga_number = 13
+year_start = 1891
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+13 August is celebrated as Patriots Day in Manipur. At 5PM on this day in 1891, at the end of Anglo-maNipur war crown Prince Tikendrajit, Gen Thangal along with 3 others were hanged by the British at Kangjeibung, the oldest pologround in the world, just outside the palace. King Kulachandra was exiled to Kala Pani.
+
+### Context
+After Maharaja Chandrakriti's death in 1886, his son Surachandra Singh succeeded him. As in previous occasions, several claimants to the throne tried to unsettle the new king. Tikendrajit and Kulachandra Singh (two of the king's brothers) succeeded. Kulachandra Singh became king, while Tikendrajit Singh the senApati holding real power. Surachandra Singh, once safely away, asked for British help. British decided to recognize Kulachandra Singh as Raja, and punish Tikendrajit for the coup. on 22 March 1891 with a troop of 400 soldiers under Colonel Skene and asked Raja Kulachandra Singh to hand over Tikendrajit. maNipuri forces fought - five British officers were killed. On 31 March 1891 the British Government sent a military force against Manipur formed by three army columns. British won and took the palace on 27th April. Churachand Singh, a minor was placed on the throne of Manipur. Tikendrajit and other leaders of Manipur subsequently went underground. Tikendrajit was arrested in the evening of 23 May and sentened to death.
+"""
+
+[names]
+sa = [ "मणिपुरे राजनिर्वासनम्",]
