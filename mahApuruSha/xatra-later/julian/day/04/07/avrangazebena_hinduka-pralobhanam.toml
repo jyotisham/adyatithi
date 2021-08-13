@@ -1,4 +1,4 @@
-id = "aurangazebena_hinduka-pralobhanam"
+id = "avrangazebena_hinduka-pralobhanam"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -22,4 +22,4 @@ Original: ब जुमदत उल मुल्क फर्मुदन्द
 """
 
 [names]
-sa = [ "औरङ्गज़ेबेन हिन्दुक-प्रलोभनम्",]
+sa = [ "अव्रङ्गज़ेबेन हिन्दुक-प्रलोभनम्",]
