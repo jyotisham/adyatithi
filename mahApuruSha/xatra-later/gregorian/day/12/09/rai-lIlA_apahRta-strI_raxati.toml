@@ -1,0 +1,24 @@
+id = "rai-lIlA_apahRta-strI_raxati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 9
+year_start = 1946
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Leela Roy reached Ramganj on 9 December, walking 90 miles on foot from Chaumohani in an effort to rescue kidnapped Hindu girls after the Noakhali riots. She recovered 1,307 abducted girls. Her organisation, the National Services Institute, set up 17 relief camps.
+
+### Context
+Great numbers of Hindu women were gang-raped and kidnapped after the Noakhali riots. On 20 October, at a meeting of the Chattogram Mahila Sangha, the Chittagong branch of the All India Women's Conference, presided over by Nellie Sengupta, a resolution was passed that the organisation would work for the relief and recovery of the abducted Hindu women. The Noakhali Relief Committee was formed. From 26 October onwards, the committee began to send a group of volunteers led by Ashoka Gupta to Noakhali for relief operations on a weekly basis.
+
+In December, the Srihatta Mahila Sangha decided to send Kiranshashi Deb, Leela Dasgupta, Saralabala Deb and Suhasini Das to Noakhali for relief work.
+"""
+
+[names]
+sa = [ "रै-लीलाऽपहृतस्त्री रक्षति",]

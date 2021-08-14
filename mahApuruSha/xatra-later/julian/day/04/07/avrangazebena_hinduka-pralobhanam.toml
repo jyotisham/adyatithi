@@ -1,0 +1,25 @@
+id = "avrangazebena_hinduka-pralobhanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 7
+year_start = 1685
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day Awrangzeb instituted rewards for Hindus who become Muslims.
+
+Akhbar of Aurangzeb's court dated 12 Jamadilawwal 1096 Hijri Julus 28. CE. 7 April 1685  
+
+The Emperor ordered the Jumdatulmulk that an order be written to the officers of various provinces, that those hindus who embrace Islam should be given money from the local treasury. Four rupees per man and 2 rupees per woman who converts. Those who embrace Islam as per their own wish should not be paid anything.
+
+Original: ब जुमदत उल मुल्क फर्मुदन्द हसबूलहूकूम  ब फौजदारान व दिवानीयाने मुमालिक महरुसे बे निविसद के आन चे मर्दूमे हिंदू  दर इन जा मुसलमान मी शवन्द सर ई मर्द  चहार  रुपयाह  व औरत  दो रुपयाह अझ खजाने आन जा बतरिक इनाम मुक्रर अस्त. चुनांचे आन्हा ब राये दीन ए इस्लाम खुद मुसलमान मी शवन्द  अझ आयन्दा मुबलघ हाई मकूफ नुमायन्द
+"""
+
+[names]
+sa = [ "अव्रङ्गज़ेबेन हिन्दुक-प्रलोभनम्",]

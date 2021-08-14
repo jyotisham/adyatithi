@@ -1,0 +1,33 @@
+default_to_none = true
+id = "chaki-praphulla-vIragatiH"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 5
+anga_type = "day"
+anga_number = 1
+year_start = 1908
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, the 19 years old freedom fighter Prafulla Chaki shot himself in the mouth with his last bullet on being identified and cornered by inspector nandalAl Bandopadhyay.
+
+### Aftermath
+His accompalice, 18 years old khudIrAm bAsu was hung. They inspired great admiration in Bengal and greater India.
+
+The head of Chaki was severed by him to send to Calcutta for ID. The skull gathered dust in a Calcutta Police almirah well after 1947.
+
+### Context
+khudIrAm and Prafulla Chaki had tried to assassinate the notorious British judge Douglas Kingsford - but their bomb ended up killing two British women instead.
+
+### Influences and early activities
+Since school days, he became a revolutionary and enlisted with yugantar party. He loved horse riding and swimming. As an athlete, he was a renowned wrestler, lathikhalowar (stick-fighter).
+"""
+
+[names]
+sa = [ "चकि-प्रफुल्ल-वीरगतिः",]

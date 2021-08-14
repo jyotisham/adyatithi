@@ -1,0 +1,19 @@
+id = "bhArata-svAtantrya-dinotsavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 15
+year_start = 1947
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, British finally quit India after splitting it into two (owing to bloody Muslim League strikes, and it's own geopolitical interests) inimical parts - resulting in many decades of Anglicized Indian rule (which was nonetheless better than British times), rapid fall in infant mortality and sharp rise in life expectancy.
+"""
+
+[names]
+sa = [ "भारते स्वातन्त्र्य-दिनोत्सवः",]
