@@ -2,6 +2,10 @@ default_to_none = true
 id = "aparA-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+अपरासेवनाद् राजन् विपाप्मा भवति ध्रुवम्।
+कूटसाक्ष्यं मानकूटं तुलाकूटं करोति च॥
+"""
 
 [timing]
 default_to_none = true
