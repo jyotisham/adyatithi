@@ -2,6 +2,13 @@ default_to_none = true
 id = "mahAvAruNI~trayOdazI"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+वारुणेन समायुक्ता मधौ कृष्णा त्रयोदशी।
+गङ्गायां यदि लभ्येत सूर्यग्रहशतैः समा॥
+शनिवारसमायुक्ता सा महावारुणी स्मृता।
+गङ्गायां यदि लभ्येत कोटिसूर्यग्रहैः समा॥ (निर्णयसिन्धौ पृ ६९)
+"""
+references_primary = [ "Nirnaya Sindhu p.69",]
 
 [timing]
 default_to_none = true
