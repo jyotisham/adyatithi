@@ -1,0 +1,25 @@
+default_to_none = true
+id = "desha-vibhAga-smaraNa-dinam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 8
+anga_type = "day"
+anga_number = 14
+year_start = 2021
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Partition horrors remembrence day, as well as Independence day of Islamic republic of pAkistAn.
+
+Some horros -
+- Bir Bahadur Singh narrates the story of his village when his father and others decided to behead all the women between 10 & 40 after Gulam Rasool demanded one of their girls in lieu of safe passage - [TW](https://twitter.com/alok_bhatt/status/1426513623631859712) !
+"""
+
+[names]
+sa = [ "देशविभाग-स्मरण-दिनम्",]
