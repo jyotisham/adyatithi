@@ -2,6 +2,12 @@ default_to_none = true
 id = "AmalakI-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+फाल्गुने मासि शुक्लायामेकादश्यां जनार्दनः।
+वसत्यामलकीवृक्षे लक्ष्म्या सह जगत्पतिः॥
+तत्र सम्पूज्य देवेशं शक्त्या कुर्यात् प्रदक्षिणाम्।
+उपोष्य विधिवत् कल्पं विष्णुलोके महीयते॥ (नृसिंहपरिचर्या)
+"""
 
 [timing]
 default_to_none = true
