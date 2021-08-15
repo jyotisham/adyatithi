@@ -2,7 +2,13 @@ default_to_none = true
 id = "pANDava-nirjalA-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
 jsonClass = "HinduCalendarEvent"
-
+shlokas = """
+वृषस्थे मिथुनस्थेऽर्के शुक्ला ह्येकादशी भवेत्।
+ज्येष्ठे मासि प्रयत्नेन सोपोष्या जलवर्जिता॥
+स्नाने चाचमने चैव वर्जयेन्नोदकं बुधः॥
+संवत्सरस्य मध्ये एकादश्यो भवन्त्युत।
+तासां फलमवाप्नोति अत्र मे नास्ति संशयः॥ (हेमाद्रौ-महाभारते व्यासवचनम्)
+"""
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
