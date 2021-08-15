@@ -2,6 +2,10 @@ default_to_none = true
 id = "zItalASTamI"
 tags = [ "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+वन्देऽहं शीतलां देवीं रासभस्थां दिगम्बराम्।
+मार्जनीकलशोपेतां शूर्पालङ्कृतमस्तकाम्॥
+"""
 
 [timing]
 default_to_none = true
