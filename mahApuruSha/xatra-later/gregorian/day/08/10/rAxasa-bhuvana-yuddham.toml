@@ -2,16 +2,17 @@ id = "rAxasa-bhuvana-yuddham"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
-month_type = "julian"
+month_type = "gregorian"
 anga_type = "day"
 month_number = 8
 anga_number = 10
-year_start = 1663
+year_start = 1763
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = """ On this day, mAdhavarAv decimated the nizam's army on godAvarI banks. 
+en = """
+On this day, mAdhavarAv decimated the nizam's army on godAvarI banks.
 
 Aftermath: Madhavrao proved his military acumen & courage through timely troop movements before, & during the battle. In stark contrast, Raghunathrao was seen as indecisive, & Madhavrao was made Peshwa again! Nana Fadnavis was restored to office, with his brother Moropant Phadnis too. Peshwa Madhavrao met Mahadji Shinde to confirm services.
 
