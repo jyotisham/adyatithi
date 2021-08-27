@@ -1,0 +1,27 @@
+id = "awrangazebo_jaziya-daNDam_Adishati"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 2
+year_start = 1679
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Awrangzeb reimposed the discriminatory Jazia tax on Hindus.
+
+## Translated order
+As all the arms of the religious Emperor (Aurangzeb) were directed to the spreading of the law of Islam and the overthrow of the practices of the infidels he issued orders to the high diwani officers that from 1st Rabi ul awwal, in obedience to the Quranic injuction 'till they pay commutation money (jazia) with the hand in humility' and in agreement with the canonical traditions, jazia should be collected from the infidels of the capital and the provinces.
+
+### Original
+व चूं हमगी हिम्मते हक़ तवियत ए खिदेव ए दीनपरवर ए शरीअत-गुस्तर मसरुफ ए तर्वीज़ ए शराई ए इस्लाम व तख़रीब ए  मरासिम ए काफ़र व झिलाम अस्त ब-दिवानियान ए इजाम हुक्म ए क़ज़ाइमज़ा शरफ़ सुदूर याफ़्त अज़ घुर्रत ए माह मजकूर मुताबिक़ ए फ़रमान ए वाजिब अलाजआन  ए "हत्ता युतु अल-जिज़याता अन यादिन व हम साघिरूना व मुवाफ़िक़ ए रिवायत ए शरिया अज़ ज़िम्मियान ए  हुजूर व सुबाजात जिज़िया बगिरन्द"
+
+Persian text in Maasir-i-Alamgiri, pg.174
+"""
+
+[names]
+sa = [ "अवरङ्गज़ेबो जज़ियादण्डम् आदिशति",]
