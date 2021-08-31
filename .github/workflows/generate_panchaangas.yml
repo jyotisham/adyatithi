@@ -26,7 +26,7 @@ jobs:
       uses: rlespinasse/github-slug-action@v3.x
     - uses: actions/checkout@v2
       with:
-        repository: jyotisha/jyotisham
+        repository: jyotisham/jyotisha
         submodules: 'true'
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
     - name: Update submodules
@@ -37,6 +37,11 @@ jobs:
         echo "=====${{ steps.changed-files.outputs.all}}======"
         git submodule update --init --recursive
         git submodule update --remote --merge --recursive
+    - name: Set content to pull request
+      if: ${{ github.event_name == 'pull_request'}}
+      uses: actions/checkout@master
+      with:
+        path: jyotisha/panchaanga/temporal/festival/data
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -68,7 +73,7 @@ jobs:
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        external_repository: jyotisha/jyotisham
+        external_repository: jyotisham/jyotisha
         publish_dir: ./hugo-source/content/output
         publish_branch: generated-output
 #      uses: s0/git-publish-subdir-action@develop
@@ -81,6 +86,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
-        external_repository: jyotisha/jyotisham
+        external_repository: jyotisham/jyotisha
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./hugo-source/build_github
