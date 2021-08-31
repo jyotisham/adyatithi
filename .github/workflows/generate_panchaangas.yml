@@ -4,15 +4,10 @@
 name: Generate panchAngas
 
 on:
-  schedule:
-    - cron: '0 20 31 12 *'
-      # minute (0 - 59) hour (0 - 23) day of the month (1 - 31) month (1 - 12) day of the week (0 - 6) UTC
-      # Above is 1:30 AM IST on 1st Jan.
-      # The below is for debugging.
-#    - cron: '15 * * * *'
-#    - cron: '30 * * * *'
-#    - cron: '45 * * * *'
-#    - cron: '0 * * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
   workflow_dispatch:
     inputs:
       logLevel:
@@ -61,6 +56,7 @@ jobs:
       with:
         hugo-version: "0.72.0"
     - name: Build hugo site pages
+      id: hugo_build
       run: |
         cd hugo-source
         rm -rf build_github
@@ -69,6 +65,7 @@ jobs:
     # MD files are useful for certain bots.
     - name: Deploy md
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         external_repository: jyotisha/jyotisham
@@ -82,6 +79,7 @@ jobs:
 #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Deploy html
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
         external_repository: jyotisha/jyotisham
         github_token: ${{ secrets.GITHUB_TOKEN }}
