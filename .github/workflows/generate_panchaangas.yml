@@ -36,7 +36,7 @@ jobs:
         echo "=====${{ steps.changed-files.outputs.all}}======"
         echo "=====${{ steps.changed-files.outputs.all}}======"
         git submodule update --init --recursive
-        git submodule update --remote --merge --recursive
+        git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
