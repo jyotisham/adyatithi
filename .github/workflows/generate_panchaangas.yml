@@ -72,7 +72,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
-        github_token: ${{ secrets.GH_VISH }}
+        personal_token: ${{ secrets.GH_VISH }}
         external_repository: jyotisham/jyotisha
         publish_dir: ./hugo-source/content/output
         publish_branch: generated-output
@@ -87,5 +87,5 @@ jobs:
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       with:
         external_repository: jyotisham/jyotisha
-        github_token: ${{ secrets.GH_VISH }}
+        personal_token: ${{ secrets.GH_VISH }}
         publish_dir: ./hugo-source/build_github
