@@ -1,0 +1,22 @@
+id = "jamarUda-yuddhe_hari-siMho_mRtaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 30
+year_start = 1837
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Hari Singh Nalwa died defending the Jamrud garrisson against a superior afghAn force. Nalwa supposedly ordered his dead body to be hung outside the fort before he died, discouraging the Afghans from attacking, believing Nalwa was still alive. The Sikh garrison continued fighting until Sikh reinforcements arrived from Lahore and pushed the Afghans out.
+
+## Context
+Towards the end of 1836, Sardar Hari Singh Nalwa attacked and captured the small, but very strategic, fortified Khyberi village of Jamrud, situated on the south-side of a range of mountains at the mouth of the Khyber Pass. In 1837, major portions of the Sikh Army was recalled to Lahore for the wedding of Kanwar Nau Nihal Singh, the grandson of Maharaja Ranjit Singh (supposed show of force to the British). Emir of Afghanistan, Dost Mohammad Khan, accompanied by five of his sons, rushed with his army to drive the Sikhs out of Peshawar.
+"""
+
+[names]
+sa = [ "जमरूद-युद्धे हरिसिंहो मृतः",]

@@ -1,0 +1,91 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Generate panchAngas
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
+
+jobs:
+  generate:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.6]
+#         python-version: [3.5, 3.6, 3.7, 3.8]
+    steps:
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v3.x
+    - uses: actions/checkout@v2
+      with:
+        repository: jyotisham/jyotisha
+        submodules: 'true'
+        fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
+    - name: Update submodules
+      id: update_submods
+      run: |
+        set -o xtrace
+        echo "=====${{ steps.changed-files.outputs.all}}======"
+        echo "=====${{ steps.changed-files.outputs.all}}======"
+        git submodule update --init --recursive
+        git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
+    - name: Set content to pull request
+      if: ${{ github.event_name == 'pull_request'}}
+      uses: actions/checkout@master
+      with:
+        path: jyotisha/panchaanga/temporal/festival/data
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+#        python -m pip install git+https://github.com/astropy/astropy@master -U
+    - name: Build package
+      run: |
+        python -m pip install .
+    - name: Regenerate calendars
+      run: |
+        python -m "jyotisha.panchaanga.writer.generation_project"
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: "0.72.0"
+    - name: Build hugo site pages
+      id: hugo_build
+      run: |
+        cd hugo-source
+        rm -rf build_github
+        hugo
+        cd ..
+    # MD files are useful for certain bots.
+    - name: Deploy md
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
+      with:
+        personal_token: ${{ secrets.GH_VISH }}
+        external_repository: jyotisham/jyotisha
+        publish_dir: ./hugo-source/content/output
+        publish_branch: generated-output
+#      uses: s0/git-publish-subdir-action@develop
+#      env:
+#        REPO: self
+#        BRANCH: generated-output
+#        FOLDER: ./hugo-source/content/output
+#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy html
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
+      with:
+        external_repository: jyotisham/jyotisha
+        personal_token: ${{ secrets.GH_VISH }}
+        publish_dir: ./hugo-source/build_github

@@ -1,0 +1,21 @@
+id = "harisiMhena_aTaka-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 13
+year_start = 1813
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Hari Singh Nalwa and  Dewan Mokham Chand at the head of about 21k khAlsa troops routed Fateh khAn of the afghAn durrAni empire, successfully defending aTTock fort which had been obtained by raNajIt singh's tact.
+
+Amritsar, Lahore, and other large cities across the Sikh Empire were illuminated for two months afterwards in rejoicing over the victory. Fateh Khan ran back to kAbul.
+"""
+
+[names]
+sa = [ "हरिसिंहेनाटक-ग्रहणम्",]
