@@ -9,7 +9,7 @@ month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 15
-kaala = "साङ्गवः"
+kaala = "मध्याह्नः"
 priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
