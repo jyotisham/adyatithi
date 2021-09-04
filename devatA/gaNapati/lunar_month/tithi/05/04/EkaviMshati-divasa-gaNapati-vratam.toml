@@ -1,0 +1,17 @@
+default_to_none = true
+id = "EkaviMzati-divasa-gaNapati-vrata-ArambhaH"
+tags = [ "SpecialPeriodStart",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 4
+kaala = "मध्याह्नः"
+priority = "puurvaviddha"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "एकविंशति-दिवस-गणपति-व्रत-आरम्भः",]

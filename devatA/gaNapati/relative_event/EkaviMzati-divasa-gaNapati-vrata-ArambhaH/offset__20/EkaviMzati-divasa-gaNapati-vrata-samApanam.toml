@@ -1,0 +1,16 @@
+default_to_none = true
+id = "EkaviMzati-divasa-gaNapati-vrata-samApanam"
+tags = [ "SpecialPeriodEnd",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "EkaviMzati-divasa-gaNapati-vrata-ArambhaH"
+offset = 20
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "End of the 21-day Ganapati Vratam."
+
+[names]
+sa = [ "एकविंशति-दिवस-गणपति-व्रत-समापनम्",]
