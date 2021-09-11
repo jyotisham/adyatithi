@@ -1,0 +1,25 @@
+id = "tega-bahAdura-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 11
+anga_number = 11
+year_start = 1675
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+tyAga-malla, aka guru tegh bahAdur, father of guru govind singh, was beheaded  on this day by Jalal-ud-din Jallad on Awrangzeb's orders under a banyan tree opposite the Sunheri Masjid near the Kotwali in Chandni Chowk, Delhi, were he'd been imprisoned.
+
+## Context
+tyAgamalla had been arrested with some of his followers, including the mohyAl brAhmins Bhai Mati Das and Bhai Sati Das. They refused to convert to Islam. Bhai Mati Das was made to stand erect between two posts and a double headed saw was placed on his head and he was sawed from his head to his loins. 
+
+## Aftermath
+His head was carried by Bhai Jaita to Anandpur, where the nine-year-old Guru Gobind Singh cremated it (The gurdwara at this spot is also called Gurdwara Sis Ganj Sahib). The body, before it could be quartered, was stolen under the cover of darkness by Lakhi Shah Vanjara, another disciple, who carried it in a cart of hay and cremated it by burning his hut. Gurdwara Sis Ganj Sahib, was built at Chandni Chowk at the site of the execution.
+"""
+
+[names]
+sa = [ "तेग-बहादुर-हत्या",]
