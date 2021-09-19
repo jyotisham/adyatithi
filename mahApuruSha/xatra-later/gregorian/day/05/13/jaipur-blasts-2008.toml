@@ -1,0 +1,25 @@
+id = "jaipur-blasts-2008"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 13
+year_start = 2008
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, 9 synchronised bomb blasts took place within a span of few minutes - around 80 died, and 216 injured. Carried out by Indian Mujahideen, an offshoot of Students Islamic Movement of India. In their email sent before the blasts from guru_alhindi_jaipur@yahoo.co.uk, they said they sought to "demolish the faith (Hinduism)" of the "infidels of India".
+
+## Context
+This was followed by Delhi  bombings, 25 July bengaLUru bombings and 26 July Ahmedabad bombings (56 killed). 
+
+## Aftermath
+On Dec 20, 2019, 4 convicts were stentenced to death.
+"""
+
+[names]
+sa = [ "२००८ वर्षे जयपुरे विस्फोटाः",]
