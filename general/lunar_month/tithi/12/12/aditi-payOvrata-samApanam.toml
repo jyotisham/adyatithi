@@ -1,6 +1,6 @@
 default_to_none = true
-id = "payOvrata-ArambhaH"
-tags = [ "VratamStart", "SpecialPeriodStart",]
+id = "aditi-payOvrata-samApanam"
+tags = [ "VratamEnd", "SpecialPeriodEnd",]
 shlokas = """
 फाल्गुनस्यामले पक्षे द्वादशाहं पयोव्रतम्।
 अर्चयेदरविन्दाक्षं भक्त्या परमयाऽऽन्वितः॥
@@ -12,11 +12,11 @@ default_to_none = true
 month_type = "lunar_month"
 month_number = 12
 anga_type = "tithi"
-anga_number = 1
+anga_number = 12
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`payOvratam` observed by Aditi Devi begins today."
+en = "`payOvratam` observed by Aditi Devi ends today."
 
 [names]
-sa = [ "पयोव्रत-आरम्भः",]
+sa = [ "पयोव्रत-समापनम्",]

@@ -1,0 +1,22 @@
+default_to_none = true
+id = "payOvrata-ArambhaH"
+tags = [ "VratamEnd", "SpecialPeriodEnd", "CommonFestivals",]
+shlokas = """
+प्रद्युम्न तव तुष्ट्यर्थं प्रोष्टपद्यां तृतीयके।
+निर्विघ्नं कुरु देवेश करिष्येऽहं पयोव्रतम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "tithi"
+anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`payOvratam` in `cAturmAsyam` begins today."
+
+[names]
+sa = [ "पयोव्रत-आरम्भः",]
