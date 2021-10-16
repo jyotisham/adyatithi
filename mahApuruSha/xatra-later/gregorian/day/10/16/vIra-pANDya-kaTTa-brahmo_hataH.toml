@@ -1,0 +1,22 @@
+id = "vIra-pANDya-kaTTa-brahmo_hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 16
+year_start = 1799
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Veerapandya Kattabomman was hanged to death by the British from a tamarind tree at Kayathar on this date in 16 October 1799. Thread on one of the great freedom fighters, who would be an inspiration to many revolutionaries in Tamil Nadu. He was 39.
+
+## Context
+After 1781, British took over navAb of Arkot's finances, and then his army. Thence they went from strength to strength. kaTTabomman, an able warrior from an Andhra-origin family, was adapted and crowned as the ruler on February 2, 1790 by Jagaveera Pandya of Veerapandiyapuram. He repudiated British demands for humble subordination and taxes. British however successfully managed to wean away most of his neighbouring allies, ultimately went to war and won owing to superior military and finiancial might. After repeated attempts, they successfully captured him.
+"""
+
+[names]
+sa = [ "वीर-पाण्ड्य-कट्ट-ब्रह्मो हतः",]
