@@ -2,6 +2,14 @@ default_to_none = true
 id = "utthAna-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+पक्षे पक्षे च कर्तव्यमेकादश्यामुपोषणम्।
+यदीच्छेद्विष्णुसायुज्यं श्रियं सन्ततिमात्मनः।
+एकादश्यां न भुञ्जीत पक्षयोरुभयोरपि॥
+
+एकादश्यां निराहारः स्थित्वाऽहमपरेहनि।
+भोक्ष्यामि पुण्डरीकाक्ष शरणं मे भवाच्युत॥
+"""
 
 [timing]
 default_to_none = true
