@@ -1,0 +1,25 @@
+id = "bundela-govinda-rAvo-hataH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 17
+year_start = 1760
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, govinda-pant bundele with 500 men, on a foraging mission in the antarvedI, was surprised by an Afghan force near Meerut and killed. He was always known to be the greatest ‘Fund raiser’ of the Maratha Empire.
+
+## Context
+The marATha-s were trapped in pAnIpat, encircled by afghans and allies after they crossed the yamunA. 
+
+## Aftermath
+This was followed by the loss of a contingent of 2,000 Maratha soldiers who had left Delhi to deliver money and rations to Panipat.
+"""
+
+[names]
+sa = [ "बुन्देल-गोविन्द-राव-वीरगतिः",]
