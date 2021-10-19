@@ -1,11 +1,18 @@
 default_to_none = true
 id = "parivartinI-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
 shlokas = """
 वासुदेव जगन्नाथ प्राप्तेयं द्वादशी तव।
 पार्श्वेन परिवर्तस्व सुखं स्वपिहि माधव॥
+
+पक्षे पक्षे च कर्तव्यमेकादश्यामुपोषणम्।
+यदीच्छेद्विष्णुसायुज्यं श्रियं सन्ततिमात्मनः।
+एकादश्यां न भुञ्जीत पक्षयोरुभयोरपि॥
+
+एकादश्यां निराहारः स्थित्वाऽहमपरेहनि।
+भोक्ष्यामि पुण्डरीकाक्ष शरणं मे भवाच्युत॥
 """
-jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
