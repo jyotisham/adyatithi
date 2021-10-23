@@ -11,7 +11,11 @@ year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Great emperor kRShNadevarAya died. An inscription in Honehalli near Tumkur records this. There was a lunar eclipse on the day. कार्त्तिक-पूर्णिमा."
+en = """
+On this day died shrI-kRShNadeva-rAya, who ruled vijayanagara at its peak.
+
+An inscription in Honehalli near Tumkur records this. Saka 1451 Virodhi Kartika Shuddha Pournima, lunar eclipse.
+"""
 
 [names]
 sa = [ "कृष्णदेवराय-मरणम्",]

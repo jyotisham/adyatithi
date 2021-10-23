@@ -1,0 +1,22 @@
+id = "kunjapura-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 16
+year_start = 1799
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+18th-19th Oct 1760 - Bhau took Kunjpura on upper yamunA bank in haryANa by storm (having 15k afghAns), Thousands of the enemy (including top generals like Najabat Khan) were killed. The Marathas celebrated Dushehra 'overcoming evil'.
+
+## Aftermath
+Ahmad Shah was encamped on the left bank of the Yamuna River, which was swollen by rains, and was powerless to aid the garrison. The massacre of the Kunjpura garrison, within sight of the Durrani camp, exasperated Abdali to such an extent that he ordered crossing of the river at all costs. Between 23 and 25 October they were able to cross at Baghpat(a small town about 24 miles up the river), unopposed by the Marathas who were still preoccupied with the sacking of Kunjpura.
+"""
+
+[names]
+sa = [ "कुञ्जपुर-युद्धम्",]
