@@ -2,6 +2,10 @@ default_to_none = true
 id = "gOvardhana-pUjA"
 tags = [ "PuranaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+गोवर्धन धराधार गोकुलत्राणकारक।
+विष्णुबाहुकृतोच्छ्राय गवां कोटिप्रदो भव॥
+"""
 
 [timing]
 default_to_none = true
