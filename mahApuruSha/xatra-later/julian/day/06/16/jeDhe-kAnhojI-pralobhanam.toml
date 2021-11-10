@@ -1,0 +1,23 @@
+id = "jeDhe-kAnhojI-pralobhanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 6
+anga_number = 16
+year_start = 1759
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Ali Adil Shah of Bijapur unsuccesfully wrote to kAnhojI Jedhe, urging him to attack shivAjI (AShADha shukla 6).
+
+> "Shivaji by his ignorance and lack of thinking has caused fear in the Muslims of the Konkan, looted, captured forts. For his defeat, Afzal khAn is being sent... It behoves you to attack him and kill his army"
+
+In response, Kanhoji Jedhe went to Chhatrapati Shivaji and relinquished his Watan, thus signifying that he was not joining Afzal Khan.
+"""
+
+[names]
+sa = [ "जेढे-कान्होजी-प्रलोभनम्",]
