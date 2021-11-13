@@ -1,0 +1,31 @@
+id = "hasan-nizAmi-rodhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 30
+year_start = 1928
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, a bullet from shivarAm rAjaguru stopped Hassan Nizami's anti-hindu activities (albeit killing an unintended person).
+
+## Context
+Svami shraddhananda had recently been killed by an Islamist. Hassan Nizami (the famous sufi) was indulging in frenzied anti-hindu activity - including conversions in Central Provinces. Even MK Gandhi had objected to his pamphlets.
+
+Ganesh Damodar aka Babarao Savarkar had recruited many boys, including rAjaguru to his cause. He had him enrolled in "Amravati Vyaayaam Prasaarak Mandal" which was a gym. This boy was strong by constitution and was an excellent marksman. Archery and shooting were this boy's natural forte. He was summoned by Babarao and was given the task of "eliminating Hussain Nizami". 
+
+Boy was happy at his first assignment. Since he was trained by likes of savarkar, he did all the necessary recce and info-gathering. Boy went to Delhi, studied routine of Nizam, set a trap and waited. Plan was to shoot nizam while his car passed thru a set point. The boy waited and he shot. Flawlessly! Unfortunately, that day it was Nizam's father in law (Somali) who was sitting in usual place where nizam sat.
+
+Codename of Rajguru in this operation was "M" - "M" for Maratha. Veer Savarkar had used same pseudonym to write his "Hindutva" year before.
+
+## Aftermath
+Hassan, although alive, got the message. Conversions stopped in CP.
+"""
+
+[names]
+sa = [ "हसन-निज़ामि-रोधः",]
