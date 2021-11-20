@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kAJcI_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_jayantI"
+id = "kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -16,4 +16,4 @@ year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "काञ्ची जगद्गुरु श्री-शङ्कर विजयेन्द्र सरस्वती जयन्ती",]
+sa = [ "काञ्ची ७० जगद्गुरु श्री-शङ्कर विजयेन्द्र सरस्वती जयन्ती",]
