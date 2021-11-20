@@ -1,0 +1,30 @@
+id = "travencore-temple-entry-proclamation"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 12
+year_start = 1935
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Maharaja Chithira Thirunal Balarama Varma of Travancore issued the  Temple Entry Proclamation.
+
+## Context
+Kerala is a rare state where caste discrimination actually led to conversion to abrahamist faiths because converts got more rights than low jAti-s. In other states, the primary factor in conversion was and remains selectively targetted allurements, supposed miracles and threats.
+
+Vaikom Satyagraha protests sought equal rights of access in areas previously restricted to members of upper castes. The protests expanded to become a movement seeking rights of access to the interior of the temples themselves. Regent Maharani Sethu Lakshmi Bayi yielded partly - deferring to her minor nephew (who supposedly assured gAndhI on his own will).
+
+## Implementation
+Chithira Thirunal signed the Proclamation on the eve of his 24th birthday in 1936. He was ably supported by his divAn Sachivottama Sir Chetput Pattabhiraman Ramaswami Iyer, who clarified that the decision was a result of his own free will and not the result of protests or advice; and carefully managed its acceptance and implementation.
+
+## Aftermath
+ The Travancore Temple Entry Proclamation did not have a serious influence in Cochin or British Malabar as the Maharajah of Cochin and the Zamorin were staunch opponents of temple entry for dalits. Even when universal temple entry was granted in 1947 the Cochin maharajah made an exemption in the bill so as to keep his family temple, "Sree Poornathrayeesha", out of the purview of temple entry.
+"""
+
+[names]
+sa = [ "तिरुवनन्तपुर-देवायतन-प्रवेश-घोषणा",]

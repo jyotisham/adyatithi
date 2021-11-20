@@ -1,0 +1,21 @@
+default_to_none = true
+id = "rAjarAja-chola-dAnotsavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 7
+anga_type = "nakshatra"
+anga_number = 24
+year_start = 985
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day (starting from his coronation year), rAjarAja choLa is commemorated by offerings to shiva and the poor - especially at the tanjAvUjr bRhadIshvara temple. This event is aka ‘Sathaya Vizha’.
+"""
+
+[names]
+sa = [ "पून्तानं-जयन्ती",]

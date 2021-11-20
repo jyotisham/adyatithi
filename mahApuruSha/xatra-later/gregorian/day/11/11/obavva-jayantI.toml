@@ -1,0 +1,29 @@
+id = "obavva-jayantI"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 11
+year_start = 2021
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Karnataka government began celebrating Obavva jayantI to honor the deeds of onake obavva of chitradurga.
+
+## Events
+Onake Obavva, the wife of a common soldier, while fetching water during one of the several sieges of the fort, heard the muffled sound of enemy soldiers attempting to enter the fort walls through a small crevice that was just big enough for one person at a time to crawl through. Hiding silently next to the crevice with an onake, or pestle, she killed each soldier as his head appeared in the opening and dragged his body inside the wall. By the time her husband and others came to her aid, many dead soldiers lay around her. Onake Obavva's courage and quick thinking single-handedly saved the fort that day. 
+
+## Aftermath
+Chitradurga anyway fell to Hyder Ali later. But Obavva was never forgotten. 
+
+Her bravery is commemorated in Chitradurga by the name of Onake Obavva Stadium and by an extraordinary new sculpture near the DC Office. In 2021, Karnataka government started celebrating Obavva jayantI on Nov 11 (one day after the purported, but mistaken, Tipu birth day as per Julian calendar). 
+
+Famous picturizations - https://www.youtube.com/watch?v=tdNjRgW3hBk
+"""
+
+[names]
+sa = [ "ओबव्व-जयन्ती",]
