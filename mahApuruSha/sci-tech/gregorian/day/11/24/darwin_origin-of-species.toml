@@ -1,0 +1,19 @@
+id = "darwin_origin-of-species"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 11
+anga_number = 24
+year_start = 1859
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Charles Darwin's 'On the origin of species' (On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life) was published in England to great acclaim.
+"""
+
+[names]
+sa = [ "डार्विन-विकास-वाद-ग्रन्थ-प्रकाशनम्",]
