@@ -12,7 +12,9 @@ anga_number = 9
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Brahmaikyam of Madhvacharya"
+en = """
+dehatyAga of madhvAchArya.
+"""
 
 [names]
 sa = [ "मध्व-नवमी",]
