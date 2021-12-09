@@ -1,0 +1,31 @@
+id = "rAmagRhe_uShNIShi-vidrohaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 10
+year_start = 1984
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, 1,461 Sikh soldiers of the Sikh regimental centre (1,050 of them raw recruits) at Ramgarh camp in the erstwhile Bihar state rebelled and murdered their commander, Brigadier RS Puri. The leaders of the mutiny divided the troops into two groups just outside of Banaras to avoid a rumoured roadblock. 
+
+## Context
+Many Sikh armymen were indoctrinated by Khalistanis. Fifteen percent of the Indian Army - including some of its most elite divisions - were composed of Sikhs. (But Sikhs were less than 2 percent of the population.) One of the bodies removed from Bhindranwale's basement command was that retired Maj. Gen. Shuhbeg Singh. He dismissed one day before getting his retirement. After his dismissal he joined the Khalistan movement as a military adviser. A couple of Sikh bodyguards later killed the prime minister Indira Gandhi.
+
+The mutiny was sparked by an army assault the previous week on the holiest shrine of the Sikhs, the Golden Temple. Incidentally, the two top generals in the chain of command, Lt Gen RS Dayal MVC and Maj Gen KS Brar were Sikhs with distinguished records for service and gallantry.
+
+## Aftermath
+Two other senior officers and a number of soldiers were seriously wounded in heavy shooting at the camp that began before noon and continued until 4 pm. The soldiers joined other angry Sikhs in hijacking private buses and trucks at gunpoint. 
+
+One half was engaged by army artillery at Shakteshgarh railway station; those who managed to escape were rounded up by 21st Mechanised Infantry Regiment. The other half engaged with the artillery and troops of 20th Infantry Brigade, during which 35 soldiers (both sides) were killed. Sikh soldiers remaining behind at the camp raised a white flag of surrender when the reinforcements arrived.
+
+Overall (including other incidents), about 5k Sikhs had mutinied. Many mutineers were court-martialed and dismissed. The Sikh Regiment's 9th battalion was disbanded. Some were retained, but soldiers from those battalions were made to wear a black band around their turbans to signify they had once betrayed the country.
+"""
+
+[names]
+sa = [ "रघुनाथराव-बन्धनम्",]
