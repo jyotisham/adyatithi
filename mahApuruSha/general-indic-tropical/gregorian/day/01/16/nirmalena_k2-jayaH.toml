@@ -1,0 +1,21 @@
+id = "nirmalena_k2-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 1
+anga_number = 16
+year_start = 2021
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Nirmal Purja, along with nine other Nepali mountaineers, made history as the first to ascend K2 in the harsh weather conditions of the winter. His team consisting of Mingma David Sherpa, Mingma Tenzi Sherpa, Geljen Sherpa, Pem Chiri Sherpa, Dawa Temba Sherpa and himself, joined by the team of Mingma Gyalje Sherpa (Mingma G), Dawa Tenjin Sherpa and Kilu Pemba Sherpa, and Sona Sherpa from Seven Summits Treks and successfully ascended K2 at 16:58 local time in Pakistan. Purja was the only team member to summit without the use of supplemental oxygen, becoming the first individual to do so.
+
+This is the first successful K2 winter expedition after numerous attempts since 1987. After terrible weather conditions hit the lower camps at the foot of K2 and some equipment was lost, Nepali mountaineers of these three teams decided to join efforts and climb the peak together, as a team.
+"""
+
+[names]
+sa = [ "निर्मलेन  केतु-गिरि-जयः",]
