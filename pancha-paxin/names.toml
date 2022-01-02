@@ -1,0 +1,3 @@
+bird_ids = ["cock", "crow", "owl", "peacock", "vulture"]
+
+state_ids = ["eat", "rule", "walk", "sleep", "die"]
