@@ -1,0 +1,22 @@
+bird_ids = ["cock", "crow", "owl", "peacock", "vulture"]
+
+state_ids = ["eat", "rule", "walk", "sleep", "die"]
+
+# 0 for sunday.
+[table_ids.1]
+0 = "1/Sunday_Tuesday.csv"
+1 = "1/Monday_Wednesday.csv"
+2 = "1/Sunday_Tuesday.csv"
+3 = "1/Monday_Wednesday.csv"
+4 = "1/Thursday.csv"
+5 = "1/Friday.csv"
+6 = "1/Saturday.csv"
+
+[table_ids.2]
+0 = "2/Sunday_Tuesday.csv"
+1 = "2/Monday_Saturday.csv"
+2 = "2/Sunday_Tuesday.csv"
+3 = "2/Wednesday.csv"
+4 = "2/Thursday.csv"
+5 = "2/Friday.csv"
+6 = "2/Monday_Saturday.csv"
