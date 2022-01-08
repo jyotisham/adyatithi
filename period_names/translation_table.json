@@ -564,7 +564,7 @@
       "Rabānī"
     ]
   },
-  "TAMIL_MONTH_NAMES" : {
+  "SIDEREAL_SOLAR_MONTH_NAMES" : {
     "ta" : [
       "சித்திரை",
       "வைகாசி",
@@ -578,20 +578,6 @@
       "தை",
       "மாசி",
       "பங்குனி"
-    ],
-    "en" : [
-      "Cittirai",
-      "Vaikāsi",
-      "Āni",
-      "Ādi",
-      "Āvaṇi",
-      "Puraṭṭāsi",
-      "Aippasi",
-      "Kārttikai",
-      "Mārkazhi",
-      "Tai",
-      "Māsi",
-      "Paṅkuni"
     ]
   }
 }
