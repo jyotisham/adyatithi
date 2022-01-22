@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kumAra-vyAsa-jayantI"
+tags = [ "OtherJayantis",]
+references_secondary = [ "http://hindupad.com/shakambari-jayanti-2009-shakambari-jayanthi-or-last-day-of-shakambari-navaratri/",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+year_start = 4994
+year_start_era = "gregorian"
+
+[description]
+sa = """
+"""
+
+kn = """
+ಕುಮಾರವ್ಯಾಸ ಕಾವ್ಯನಾಮದಿಂದ ಪ್ರಸಿದ್ಧನಾಗಿರುವ ಗದುಗಿನ ನಾರಣಪ್ಪನು ಸಮೀಪದ ಕೋಳಿವಾಡದವನಾದರೂ ಅವನ ಕಾವ್ಯ ಪ್ರತಿಭೆ ಬೆಳಗಿದ್ದು ಗದಗಿನ ವೀರನಾರಯಣ ದೇವಸ್ಥಾನದಲ್ಲಿ. ಗದುಗಿನ ಭಾರತ, ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ, ಕುಮಾರವ್ಯಾಸ ಭಾರತ ಇತ್ಯಾದಿ ಹೆಸರುಗಳಿಂದ ಕರೆಯಲ್ಪಡುವ ಅಪೂರ್ವ ಗ್ರಂಥವನ್ನು ರಚಿಸಿದ ಕುಮಾರವ್ಯಾಸ ಕೊನೇರಿ ತೀರ್ಥದ ಜಲದಲ್ಲಿ ನಿತ್ಯ ಮಿಂದು ವೀರನಾರಯಣ ದೇವಸ್ಥಾನದ ರಂಗ ಮಂಟಪದ ಎರಡನೇ ಕಂಬದ ಹತ್ತಿರ ಶ್ರೀ ವೀರನಾರಯಣನ ಸಮ್ಮುಖದಲ್ಲಿ ಒದ್ದೆ ಬಟ್ಟೆ ಉಟ್ಟು ಬರೆಯಲು ಕುಳಿತರೆ ಶ್ರೀ ವೀರನಾರಯಣನೇ ಕವಿಯಾಗಿ, ಕುಮಾರವ್ಯಾಸ ಲಿಪಿಕಾರನಾಗಿ ಪಂಚಮವೇದವು ಕೃಷ್ಣ ಕಥೆಯಾಗಿ ಬರುತ್ತದೆ.
+"""
+
+[names]
+sa = [ "कुमार-व्यास-जयन्ती"]
