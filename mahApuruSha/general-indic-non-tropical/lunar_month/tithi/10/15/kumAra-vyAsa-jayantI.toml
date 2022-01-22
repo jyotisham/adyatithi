@@ -10,8 +10,8 @@ month_number = 10
 anga_type = "tithi"
 anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
-year_start = 4994
-year_start_era = "kali"
+year_start = 1419
+year_start_era = "gregorian"
 
 [description]
 sa = """
