@@ -15,7 +15,9 @@ anga_type = "tithi"
 anga_number = 20
 year_start = 4948
 year_start_era = "kali"
+priority = "vyaapti"
+kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "त्यागराज-आराधना",]
+sa = [ "त्यागराज-आराधना/बहुल-पञ्चमी",]
