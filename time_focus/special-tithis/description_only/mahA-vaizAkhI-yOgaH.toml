@@ -1,0 +1,24 @@
+default_to_none = true
+id = "mahA-vaizAkhI-yOgaH"
+tags = [ "RareDays", "Combinations",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+माससंज्ञेयदा ऋक्षे चन्द्रः सम्पूर्णमण्डलः।
+गुरुणा यदि संयुक्तः सा तिथिर्महती स्मृता॥
+पौर्णमास्यां चन्द्रः तन्मासनक्षत्रे चित्रादौ गुरुणा युक्तश्चेत् सा पौर्णमासी महाचैत्र्यादिसंज्ञेत्यर्थः।  
+
+महाचैत्र्यादिषु कृतं दानं श्राद्धमुपोषणम्।
+अनन्तफलदं प्राहुर्मुनयोधर्मवेदिनः॥
+---स्मृतिमुक्ताफले श्राद्धकाण्डे उत्तरभागे
+"""
+references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Full moon of Vaishakha maasa with Vishakha Nakshatra on a Thursday. Shraaddham, Daanam or Upavaasam done on this day will beget manifold punya."
+
+[names]
+sa = [ "महावैशाखी-योगः",]
