@@ -1,0 +1,22 @@
+default_to_none = true
+id = "jayantI~aSTamI"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+पौषे मासि यदा देवि अष्टम्यां यमदैवतम्।
+नक्षत्रं जायते पुण्यं शिवे शैलात्मजे शुभे॥
+तदा तु सा महापुण्या जयन्ती चाष्टमी स्मृता।
+तस्यां स्नानं तथा दानं जपो होमश्च तर्पणं।
+सर्व कोटिगुणं देवि कृतं भवति कृत्स्नशः॥
+(पुरुषार्थ-चिन्तामणौ)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`saptamI tithi` on a Sunday is as sacred as a solar eclipse. Particularly good for worshipping Surya."
+
+[names]
+sa = [ "जयन्ती~अष्टमी",]
