@@ -1,0 +1,33 @@
+id = "delhi-shoe-seller-riot"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 3
+anga_number = 8
+year_start = 1729
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Shubhkaran, a Hindu jeweller close to powerful Mughal courtiers triggered a bloody riot. His mansion was razed and replaced by a mosque.
+
+## Events
+- Shubhkaran's palki was going past a street of Punjabi Muslim shoe sellers. 
+- In the first half of month Shaban, they were celebrating with fireworks and lamps. One of these hit shubhkaran's clothes. One of his remonstrating guards was disarmed by the shoemaker crowd.
+- The guards were later sent to punish them. In a scuffle that followed, they killed old Haji Hafiz.
+- Following day lower-class Muhammadans joined forces with the shoe-sellers, took the body to shubhkaran's mansion and sought vengence against the kafir and his supporters in the name of Islam (deen) and qaum. Shubhkaran had wisely sought refuge in an Afghan noble's (Sher Khan, friend of Roshan-ud-daula) mansion.
+- At afternoon namaaz - by now led by some Arab, Abyssinian and Turk off-duty mercenaries, they flooded Jama Masjid - and beat up the qazi and his son. 
+- Muhammad Shah sent his wazir and Roshan-ud-daula. The wazir went to the mosque - but his appeasement only enraged the mob further. Roshan-ud-daula and Sher Khan entered - the crowd started throwing hidden stones and shoes. Their Afghan guards started attacking. The foreign muslim gang retaliated with pistols and fusils. They were quickly joined by low class muslims from Mughalpara. Regular mughal soldiers who'd accompanied the wazir joined against the Afghans!
+- The afghans retreated with their leaders - fled to the mansion of another Afghan noble.
+- The rioters were finally persuaded to cool down. The Wazir emerged with a quasi-"savior".
+- Shubhkaran, the infidel, was shown his place. The Muslim shoe-sellers were allowed to demolish his mansion, bury old Haji that night on its wrecked site. After a few weeks, a mosque was built on that location.
+
+## Context
+Muhammad Shah was a feckless "emperor". He'd lost vast territory to the marATha-s and had bowed to Nadir shah. He was manipulated by various courtiers. He could not even manage Delhi properly.
+"""
+
+[names]
+sa = [ "देहली-पादरक्ष-विक्रेत्त्रुपद्रवः",]
