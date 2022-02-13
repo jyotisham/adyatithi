@@ -1,7 +1,7 @@
 default_to_none = true
 id = "azOkASTamI"
 tags = [ "LessCommonFestivals",]
-references_secondary = [ "Vaidikasri Mar 2018",]
+references_primary = [ "Purushartha Chintamani (Anandashrama) p. 138",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 ब्रह्मोवाच
