@@ -9,7 +9,6 @@ shlokas = """
 प्रदीपं  ते  प्रयच्छामि  नमोऽनन्ताय  वेधसे॥
 """
 references_primary = [ "Nirnaya Sindhu 146",]
-references_secondary = [ "Vaidikasri Oct 2009",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
