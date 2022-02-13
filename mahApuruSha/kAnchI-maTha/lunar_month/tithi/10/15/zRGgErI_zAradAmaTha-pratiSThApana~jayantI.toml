@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zRGgErI_zAradAmaTha-pratiSThApana~jayantI"
+id = "tuGgabhadrA~zRGagirI_zAradAmaTha-pratiSThApana~jayantI"
 tags = [ "AdiShankaraHistory",]
 jsonClass = "HinduCalendarEvent"
 
@@ -14,7 +14,7 @@ year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Adi Shankara founded Sharada Mutt, Shringeri in Pingala year Sureshwaracharya as first"
+en = "Adi Shankara founded Sharada Mutt, Shringagiri in Pingala year Sureshwaracharya as first"
 
 [names]
-sa = [ "शृङ्गेरी शारदामठ-प्रतिष्ठापन-जयन्ती",]
+sa = [ "तुङ्गभद्रा~शृङ्गगिरि शारदामठ-प्रतिष्ठापन-जयन्ती",]
