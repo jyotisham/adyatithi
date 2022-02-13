@@ -2,7 +2,10 @@ default_to_none = true
 id = "haritAlikA-vratam"
 tags = [ "SpecialVratam",]
 references_primary = [ "Bhavishyottara Puranam",]
-references_secondary = [ "Vaidikasri Sep 2015",]
+references_secondary = [ "Purushartha Chintamani p. 89",]
+shlokas = """
+भाद्रस्य कजली कृष्णा शुक्ला च हरितालिका।
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -11,6 +14,8 @@ month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 3
+priority = "paraviddha"
+kaala = "प्रातः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
