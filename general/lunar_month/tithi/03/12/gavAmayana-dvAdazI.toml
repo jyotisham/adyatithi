@@ -6,7 +6,7 @@ shlokas = """
 गवामयनमाप्नोति अप्सरोभिश्च मोदते॥
 """
 references_primary = [ "Mahabharata",]
-references_secondary = [ "Vaidikasri June 2017",]
+references_secondary = [ "Smriti Kaustubha p.123",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
