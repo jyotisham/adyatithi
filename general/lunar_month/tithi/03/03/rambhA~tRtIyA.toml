@@ -11,7 +11,7 @@ shlokas = """
 योषितः पुरुषो वाऽपि ख्यातं रम्भाव्रतं भुवि।
 भार्यां पुत्रं गृहं भोगान् कुलवृद्धिमवाप्नुयुः॥
 """
-references_secondary = [ "Kielhorn (1897), Vaidikasri June 2017",]
+references_secondary = [ "Smriti Kaustubha p.118",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -20,6 +20,8 @@ month_type = "lunar_month"
 month_number = 3
 anga_type = "tithi"
 anga_number = 3
+priority = "paraviddha"
+kaala = "प्रातः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
