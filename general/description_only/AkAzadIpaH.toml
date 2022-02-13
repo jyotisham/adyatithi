@@ -9,8 +9,7 @@ shlokas = """
 दामोदराय  नभसि  तुलायां  लोलया  सह।
 प्रदीपं  ते  प्रयच्छामि  नमोऽनन्ताय  वेधसे॥
 """
-references_primary = [ "Nirnaya Sindhu 146",]
-references_secondary = [ "Vaidikasri Oct 2009",]
+references_primary = [ "Purushartha Chintamani p.6",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
