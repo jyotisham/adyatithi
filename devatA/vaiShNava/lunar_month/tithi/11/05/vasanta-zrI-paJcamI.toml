@@ -5,8 +5,7 @@ shlokas = """
 माघमासे नृपश्रेष्ठ शुक्लायां पञ्चमीतिथौ।
 रतिकामौ तु सम्पूज्य कर्तव्यः सुमहोत्सवः॥
 """
-references_primary = [ "Smriti Kaustubham 479",]
-references_secondary = [ "Vaidikasri Feb 2016",]
+references_primary = [ "Smriti Kaustubham 479, Purushartha Chintamani",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
