@@ -1,0 +1,24 @@
+id = "vAsAy-yuddhe_prathamo_jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 5
+year_start = 1737
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+ On the nightfall, a Maratha contingent attacked Portuguese bastion called St Jeronimo. With the proficient use of gun fire & artillery, finally the Marathas won St Jeronimo bastion. Chimaji Appa named St Jeronimo Bastion as 'Fatteh Buruj' (Bastion of Victory) as it was the first Bastion won by Marathas during this whole campaign.
+
+## Impact
+This was part of a war that ended the Portuguese "Generalship of the North". The resulting treaty ensured that Gentoos (Hindus) inhabiting Goa etc. could again freely practice their religion. The English (having failed to aid Portuguese) hastily sent envoys to draw up friendship treaties with marATha-s. This victory came at a heavy cost (22k soldiers dead) and after a determined campaign of 2 years.
+
+
+"""
+
+[names]
+sa = [ "वासायि-युद्धे प्रथमो जयः",]
