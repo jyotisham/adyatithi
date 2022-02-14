@@ -1,7 +1,7 @@
 default_to_none = true
 id = "zItalA~saptamI"
 tags = [ "LessCommonFestivals",]
-references_secondary = [ "Vaidikasri Aug 2016",]
+references_primary = [ "Nirnaya Sindhu",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

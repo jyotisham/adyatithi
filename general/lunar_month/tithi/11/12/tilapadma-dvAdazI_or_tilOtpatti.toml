@@ -4,10 +4,13 @@ tags = [ "SpecialPuja",]
 shlokas = """
 माघे तु शुक्लद्वादश्यां यतो हि भगवान् पुर।
 तिलान् उत्पादयामास तपः कृत्वा सुदारुणम्॥
-तिलतैलेन दीपाश्छ देयाह् देव गृहेषु च।
-निवेदयेत् तिलानेव
+तिलानामाधिपत्ये तु विष्णुस्तत्र कृतः सुरैः।
+तस्यामुपोषितः बातस्तिलैस्तस्यां यजेद्धरिम्॥
+तिलतैलेन दीपाश्च देया देवगृहेषु च।
+निवेदयत्तिलानेव होतव्याश्च तथा तिलाः॥
+तिलान्दत्त्वा च विप्रेभ्यो भक्षयेच्च तिलानिह। 
 """
-references_secondary = [ "Vaidikasri Feb 2016",]
+references_primary = [ "Smriti Kaustubham p.480",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -19,7 +22,7 @@ anga_number = 12
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Mahavishnu created black til by extreme `tapaH` on this day; light til deepam and offer `tilAnnam naivEdyam`."
+en = "Mahavishnu created black sesame by extreme `tapaH` on this day; light `tila dIpam` and offer `tilAnnam naivEdyam`."
 
 [names]
 sa = [ "तिलपद्म-द्वादशी/तिलोत्पत्ति",]

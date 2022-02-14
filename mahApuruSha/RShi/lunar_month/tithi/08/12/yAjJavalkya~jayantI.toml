@@ -2,8 +2,8 @@ default_to_none = true
 id = "yAjJavalkya~jayantI"
 tags = [ "MahapurushaEvents",]
 shlokas = """
-वन्देऽहं  मङ्गळात्मानं  भास्वन्तं  वेदविग्रहम्।
-याज्ञवल्क्यं  मुनिश्रेष्ठं  जीष्णुं  हरिहरप्रभम्॥
+वन्देऽहं  मङ्गलात्मानं  भास्वन्तं  वेदविग्रहम्।
+याज्ञवल्क्यं  मुनिश्रेष्ठं  जिष्णुं  हरिहरप्रभम्॥
 जितेन्द्रियं  जितक्रोधं  सदा  ध्यानपरायणम्।
 आनन्दनिलयं  वन्दे  योगानन्दमुनीश्वरम्॥
 """
@@ -19,7 +19,7 @@ anga_number = 12
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Avataram of `yAjJavalkya maharSi` happened on `kArttika shukla dwAdazI` in `SatabhiSak nakSatram`/`dhanurlagnam`."
+en = "Avataram of `yAjJavalkya maharSi` happened on `kArttika shukla dvAdazI` in `SatabhiSak nakSatram`/`dhanurlagnam`."
 
 [names]
 sa = [ "याज्ञवल्क्य-जयन्ती",]

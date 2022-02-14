@@ -1,7 +1,7 @@
 default_to_none = true
 id = "mArgazIrSa-pUrNimA"
 tags = [ "PurnimaDays",]
-references_secondary = [ "Vaidikasri Dec 2016",]
+references_primary = [ "Smriti Kaustubha p.306",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -9,10 +9,15 @@ default_to_none = true
 month_type = "lunar_month"
 month_number = 9
 anga_type = "tithi"
+kaala = "चन्द्रोदयः"
 anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
+sa = """
+मार्गशीर्षे शुक्लपञ्चदश्यां मृगशिरोयुतायां चूर्णितलवणस्य सुवर्णेन प्रस्थमेकं चन्द्रोदये ब्राह्मणाय प्रतिपादयेत्। अनेन कर्मणा रूपसौभाग्य
+लाभो जायते इति विष्णुनोक्तं सुवर्णसहितचूर्णितलवणदानम्। तत्रापि चंद्रोदयव्यापिन्येव ग्राह्या।
+"""
 en = "Do `dAnam` of salt, `sundararUpatvasiddhyartham`!"
 
 [names]
