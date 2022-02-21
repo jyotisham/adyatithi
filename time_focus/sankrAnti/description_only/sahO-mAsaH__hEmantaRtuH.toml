@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sahO-mAsaH__dakSiNAyanam"
+id = "sahO-mAsaH__hEmantaRtuH"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "End of `sahO-mAsaH/`, marked by the the (tropical) transit of Sun from `dhanU-rAshI` to `makara-rAshI`. Importantly, this also marks the end of `dakSiNAyanam`, and the start of `uttarAyaNam`. This also marks the winter solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `sahO-mAsaH`, marked by the transit of Sun into `dhanU-rAshI`. Also marks the beginning of `hEmantaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "सहो-मासः/दक्षिणायनम्",]
+sa = [ "सहो-मासः/हेमन्तऋतुः",]

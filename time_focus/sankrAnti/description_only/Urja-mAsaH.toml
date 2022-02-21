@@ -1,5 +1,5 @@
 default_to_none = true
-id = "Urja-mAsaH__zaradRtuH"
+id = "Urja-mAsaH"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "End of `Urja-mAsaH`, marked by the the (tropical) transit of Sun from `vRzcika-rAshI` to `dhanU-rAshI`. Also marks the end of `zaradRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `Urja-mAsaH`, marked by the transit of Sun into `vRzcika-rAshI`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "ऊर्ज-मासः/शरदृतुः",]
+sa = [ "ऊर्ज-मासः",]

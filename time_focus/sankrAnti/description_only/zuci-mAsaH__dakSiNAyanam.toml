@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zuci-mAsaH__grISmaRtuH"
+id = "zuci-mAsaH__dakSiNAyanam"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "End of `zuci-mAsaH`, marked by the the (tropical) transit of Sun from `kaTaka-rAshI` to `siMha-rAshI`. Also marks the end of `grISmaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `zuci-mAsaH`, marked by the transit of Sun into `kaTaka-rAshI`. Importantly, this also marks the beginning of `dakSiNAyanam`, and the end of `uttarAyaNam`. This also marks the summer solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "शुचि-मासः/ग्रीष्मऋतुः",]
+sa = [ "शुचि-मासः/दक्षिणायनम्",]
