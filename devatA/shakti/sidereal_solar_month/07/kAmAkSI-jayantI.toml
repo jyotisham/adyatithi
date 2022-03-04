@@ -1,0 +1,27 @@
+default_to_none = true
+id = "kAmAkSI-jayantI"
+tags = [ "CommonFestivals",]
+shlokas = """
+कान्ता काम-दुघा करीन्द्र-गमना कामारि-वामाङ्क-गा
+कल्याणी कलितावतार-सुभगा कस्तूरिका-चर्चिता।
+कम्पा-तीर-रसाल-मूल-निलया कारुण्य-कल्लोलिनी
+कल्याणानि करोतु मे भगवती काञ्ची-पुरी-देवता॥
+जय जय जगदम्ब शिवे
+जय जय कामाक्षि जय जयाद्रिसुते।
+जय जय महेशदयिते
+जय जय चिद्गगनकौमुदीधारे॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 7
+anga_type = "nakshatra"
+anga_number = 11
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "कामाक्षी-जयन्ती",]
