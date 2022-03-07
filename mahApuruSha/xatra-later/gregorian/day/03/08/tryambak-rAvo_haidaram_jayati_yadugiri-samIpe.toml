@@ -1,0 +1,29 @@
+id = "tryambak-rAvo_haidaram_jayati_yadugiri-samIpe"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 8
+year_start = 1771
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Trimbak rao Pethe, uncle to Sadashiv rao, inflicted a major defeat on Hyder Ali & Tipu this day. The battle took place at Chinkurli/Moti Talao. Hyder Ali and Tipu escaped disguised as fuckiirs.
+
+Maratha route - doDDabaLLApura, devarAyadurga, tumakUru, kaDaba, turuvekere, nAgamangaLa, (belUru, chennarAyapaTTana,) melukoTe, motItAlAv (chinkurlI) 
+
+Hyder route - shrIrangapaTTana, mAgaDi, bhairavadurga, uttaradurga, nAgamangala, motItAlAv (chinkurlI), shrIrangapaTTana
+
+## Aftermath
+- Srirangapatna placed under a siege for 6 weeks. 
+- Hyder eventually paid a 50 lakh indemnity & signed a treaty.
+- Among the killed was Nilkanth rao Patwardhan, as seen from an excerpt of casualty report of 9 March 1771 from the Maratha army - Of 8 chiefs killed was 'Khasa Nilkanth rao'.
+- With the capture of Delhi and the defeat of the Nizam in 1763, Hyder and Tipu (over four campaigns) until 1771, Madhavrao Peshwa had regained all the lost ground at Panipat by 1771.
+"""
+
+[names]
+sa = [ "यदुगिरिसरे त्र्यम्बकरावो हैदरं जयति",]
