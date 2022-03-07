@@ -1,0 +1,22 @@
+default_to_none = true
+id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_Azrama-svIkAra-jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 11
+anga_type = "nakshatra"
+anga_number = 26
+kaala = "प्रातः"
+year_start = 5007
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`jagadguru zrI~candrazEkharEndra sarasvatI 7` was inducted into `sannyAsAzramam` on Friday, 15th February 1907, `parAbhava` year, `kumbha/adhika phAlguna mAsa kRSNa tRtIyA bhRguvAsaraH uttaraprOSThapadA nakSatram`."
+
+[names]
+sa = [ "काञ्ची ६८ जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती ७ आश्रम-स्वीकार-जयन्ती",]
