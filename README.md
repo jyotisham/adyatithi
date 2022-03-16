@@ -14,6 +14,14 @@ A repository to host details of many festivals/observances of Indian hindus
 - Paths for relatively determined festivals: `[repository_root]/[anchor_festival_id]/offset__[day]/[festival_id].toml` , where offset `day` may be negative.
 - There is provision for giving information about festivals without specifying timing (because complicated timing is more easily specified as code). In such a case, path will be `[repository_root]/description_only/[arbitrary_path]/[festival_id].toml`.
 
+One can run the below python code to fix the path automatically:
+
+```
+from jyotisha.panchaanga.temporal.festival.rules import RulesCollection
+rules_collection = RulesCollection.get_cached(repos_tuple=rule_repos, julian_handling=None)
+rules_collection.fix_filenames()
+```
+
 ## Field values
 - Please don't use "/" or space in id field value. Causes problems with deciding canonical file path; and makes command line operation ugly.
 - Where possible, please try to ensure that filename matches id field. (This will be periodically enforced anyway with scripts.)
