@@ -1,0 +1,22 @@
+id = "bhagata-siMhAdi-mAraNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 3
+anga_number = 23
+year_start = 1931
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Bhagat Singh, Shivaram Rajguru, and Sukhdev Thapar were executed by the British on this day.
+
+## Context
+The trio was found guilty of killing deputy police superintendent JP Saunders in 1928, to avenge the death of Lala Lajpat Rai.
+"""
+
+[names]
+sa = [ "भगतसिंहादि-मारणम्",]
