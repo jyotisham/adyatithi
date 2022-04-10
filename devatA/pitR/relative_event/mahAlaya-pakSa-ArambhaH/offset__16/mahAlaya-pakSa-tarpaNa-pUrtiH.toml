@@ -1,5 +1,5 @@
 default_to_none = true
-id = "mahAlaya-pakSa-samApanam"
+id = "mahAlaya-pakSa-tarpaNa-pUrtiH"
 tags = [ "SpecialPeriodEnd", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -10,4 +10,4 @@ offset = 16
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "महालय-पक्ष-समापनम्",]
+sa = [ "महालय-पक्ष-तर्पण-पूर्तिः",]
