@@ -1,0 +1,19 @@
+id = "raNajIta-siMha-siMhAsanArohaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 12
+year_start = 1801
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+April 12, 1801 a 21 year old Ranjit Singh was crowned the Maharaja of Punjab.
+"""
+
+[names]
+sa = [ "रणजीतसिंह-सिंहासनारोहणम्",]
