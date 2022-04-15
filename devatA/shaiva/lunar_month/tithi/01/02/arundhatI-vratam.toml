@@ -1,6 +1,6 @@
 default_to_none = true
-id = "arundhatI-vrata-ArambhaH"
-tags = [ "SpecialVratam", "VratamStart", "SpecialPeriodStart",]
+id = "arundhatI-vratam"
+tags = [ "SpecialVratam"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -8,8 +8,9 @@ default_to_none = true
 month_type = "lunar_month"
 month_number = 1
 anga_type = "tithi"
-anga_number = 2
+anga_number = 3
+kaala = "मध्याह्नः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "अरुन्धती-व्रत-आरम्भः",]
+sa = [ "अरुन्धती-व्रतम्",]
