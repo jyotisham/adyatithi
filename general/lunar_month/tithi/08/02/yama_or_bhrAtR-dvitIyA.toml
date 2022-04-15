@@ -33,11 +33,11 @@ shlokas = """
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-priority = "puurvaviddha"
+priority = "paraviddha"
 month_number = 8
 anga_type = "tithi"
 anga_number = 2
-kaala = "मध्याह्नः"
+kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
