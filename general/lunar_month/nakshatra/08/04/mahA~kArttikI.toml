@@ -9,7 +9,7 @@ month_type = "lunar_month"
 priority = "puurvaviddha"
 month_number = 8
 anga_type = "nakshatra"
-anga_number = 4
+anga_number = 3
 kaala = "प्रदोषः"
 jsonClass = "HinduCalendarEventTiming"
 
