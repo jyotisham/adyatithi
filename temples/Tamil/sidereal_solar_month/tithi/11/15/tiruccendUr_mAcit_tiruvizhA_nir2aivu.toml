@@ -11,5 +11,8 @@ anga_type = "tithi"
 anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the three temple chariots are dragged and the festival is conducted for twelve days, concluding with a Teppam or Float Festival. This marks the final day of the festival."
+
 [names]
 ta = [ "tiruccendUr mAcit tiruvizhA nir2aivu",]

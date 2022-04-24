@@ -9,5 +9,8 @@ anchor_festival_id = "tiruccendUr_mAcit_tiruvizhA_nir2aivu"
 offset = -6
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the three temple chariots are dragged and the festival is conducted for twelve days, concluding with a Teppam or Float Festival. This marks the sixth day of the festival."
+
 [names]
 ta = [ "tiruccendUr murugan2 mAcit tiruvizhA ##6##m nAL—veLLit tEr bhavan2i",]
