@@ -1,0 +1,14 @@
+default_to_none = true
+id = "ravi-saGkramaNa-puNyakAlaH"
+tags = [ "SunSankranti", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "16 ghatikas on either side of the transition of the Sun are sacred for various observances. In addition to specific `puNyakAlas` like `SaDazIti`, `viSNupadI` etc., this is also useful, especially in cases where the other `puNyakAlas` are inconvenient for appropriate performance of rituals such as `snAna`, `dAna`, `tarpaNa`, etc."
+
+[names]
+sa = [ "रवि-सङ्क्रमण-पुण्यकालः",]
