@@ -1,0 +1,24 @@
+default_to_none = true
+id = "mAgha-zatabhiSak-amAvAsyA"
+tags = [ "AmavasyaDays",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+विष्णुपुराणम्---
+माघासिते पञ्चदशी कदाचिदुपैति योगं यदि वारुणेन।
+ऋक्षेण कालः स वरः पितॄणां नह्यल्पपुण्यैर्नृप लभ्यतेऽसौ॥
+गायन्ति केचित् पितरः कदा नु वर्षा मघा तृप्तिमवाप्य भूयः।
+माघासितान्ते शुभतीर्थतोयैर्यास्याम तृप्तिं तनयादिदत्तैः॥
+काले धनिष्ठा यदि नाम तस्मिन् भवेत्तु भूपाल तदा पितृभ्यः।
+दत्तं जलान्नं प्रददाति तृप्तिं वर्षायुतं तत्कुलजैर्मनुष्यैः॥
+"""
+references_primary = [ "Vaidyanatha Dikshitiyam",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "It is said in the Vishnu Puranam, that if the Amavaysa of Magha month coincides with  falls on a Monday, Tuesday or Thursday, such a tithi is given the appellation `puSkalA` and is as sacred as a solar eclipse."
+
+[names]
+sa = [ "माघ-शतभिषक्-अमावास्या",]

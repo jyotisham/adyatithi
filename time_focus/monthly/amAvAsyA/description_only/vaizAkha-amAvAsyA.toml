@@ -7,5 +7,8 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "`amAvAsyA` of the `vaizAkha` month."
+
 [names]
 sa = [ "वैशाख-अमावास्या",]

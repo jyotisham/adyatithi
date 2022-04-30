@@ -7,5 +7,8 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "`amAvAsyA` of `pauSa` month, which also coincides with the sidereal solar month of `makara`, and ia also know as `mauni`."
+
 [names]
 sa = [ "मौनि (पौष/मकर) अमावास्या",]
