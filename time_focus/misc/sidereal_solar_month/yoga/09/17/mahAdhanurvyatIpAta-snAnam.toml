@@ -2,6 +2,10 @@ default_to_none = true
 id = "mahAdhanurvyatIpAta-snAnam"
 tags = [ "SpecialSnanam",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+व्यतीपात महाबाहो सर्वपापप्रणाशन।
+सहस्रबाहो विश्वात्मन् गृहाणार्घ्यं नमोऽस्तु ते॥
+"""
 
 [timing]
 default_to_none = true
