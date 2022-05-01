@@ -1,0 +1,14 @@
+default_to_none = true
+id = "unmIlanI~mahAdvAdazI"
+tags = [ "RareDays", "Combinations", "SpecialVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "When the Ekadashi tithi is incident at sunrise on two consecutive days, the second day, where there is association with Dwadashi tithi, is known as `unmIlanI` is one of the eight `mahAdvAdazI`s."
+
+[names]
+sa = [ "उन्मीलनी-महाद्वादशी",]
