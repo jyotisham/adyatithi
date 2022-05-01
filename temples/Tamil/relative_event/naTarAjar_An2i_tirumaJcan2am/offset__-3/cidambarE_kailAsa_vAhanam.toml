@@ -9,5 +9,8 @@ anchor_festival_id = "naTarAjar_An2i_tirumaJcan2am"
 offset = -3
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Brahmotsavam of Nataraja at Chidambaram happens specially around the Aani Thirumanjana festival each year, for ten days. On this day, Nataraja gives darshan on a Kailasha vahanam."
+
 [names]
 sa = [ "चिदम्बरे कैलास वाहनम्",]
