@@ -1,0 +1,18 @@
+default_to_none = true
+id = "mahAdhanurvyatIpAtam"
+tags = [ "ShraddhaDays",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+व्यतीपात महाबाहो सर्वपापप्रणाशन।
+सहस्रबाहो विश्वात्मन् गृहाणार्घ्यं नमोऽस्तु ते॥
+"""
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`vyatIpAta` is regarded as the king of `yOga`s. Though it occurs 13 times every year, the occurrence in `dhanurmAsa` is special, and this day is special for a number of special observances, such as `zivapUjA`, `pitRtarpaNam` etc. One must also give `arghyam` with the shloka mentioned here, and perform the usual (`dhanurmAsa`) `naivedyam` of `mudgAnnam`. Markandeya Rishi has performed upadesham of a year-long vratam, beginning this day, including the `pUja` of `vyatIpata-dEvatA`. Puranas also narrate the story of rich merchant names Vishwasakha, who was born as a wild boar owing to denying food to a hungry vipra on Vyatipata day. Having lost half his body to a forest fire, the boar was redeemed from this plight by the Raja Haryashva, who passed by, and gave away his accrued merits from `vyatIpAta-snAna-dAnam`. As a result of this, the wild boar attained a divine form."
+
+[names]
+sa = [ "महाधनुर्व्यतीपातम्",]
