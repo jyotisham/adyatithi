@@ -9,5 +9,8 @@ anchor_festival_id = "tiruccendUr_AvaNit_tiruvizhA_nir2aivu"
 offset = -6
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Avani each year is very special. This marks the sixth day of the festival, when there is a procession on a silver chariot."
+
 [names]
 ta = [ "tiruccendUr murugan2 AvaNit tiruvizhA ##6##m nAL—veLLit tEr bhavan2i",]

@@ -9,5 +9,8 @@ anchor_festival_id = "tiruccendUr_AvaNit_tiruvizhA_nir2aivu"
 offset = -9
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is conducted for twelve days. This marks the third day of the festival, when there is a procession."
+
 [names]
 ta = [ "tiruccendUr murugan2 AvaNit tiruvizhA ##3##m nAL—murugan2 bhavan2i",]

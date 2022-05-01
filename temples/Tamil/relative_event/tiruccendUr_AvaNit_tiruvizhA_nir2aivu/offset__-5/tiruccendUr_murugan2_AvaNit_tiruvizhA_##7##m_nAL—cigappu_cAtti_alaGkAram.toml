@@ -9,5 +9,8 @@ anchor_festival_id = "tiruccendUr_AvaNit_tiruvizhA_nir2aivu"
 offset = -5
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is conducted for twelve days. This marks the seventh day of the festival; a unique decoration on this day is the 'sigappu satthi alankaram'."
+
 [names]
 ta = [ "tiruccendUr murugan2 AvaNit tiruvizhA ##7##m nAL—cigappu cAtti alaGkAram",]

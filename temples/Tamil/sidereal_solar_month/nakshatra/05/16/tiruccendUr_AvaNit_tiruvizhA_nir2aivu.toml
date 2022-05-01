@@ -13,5 +13,8 @@ anga_number = 16
 kaala = "प्रातः"
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is conducted for twelve days. This marks the final day of the festival."
+
 [names]
 ta = [ "tiruccendUr AvaNit tiruvizhA nir2aivu",]
