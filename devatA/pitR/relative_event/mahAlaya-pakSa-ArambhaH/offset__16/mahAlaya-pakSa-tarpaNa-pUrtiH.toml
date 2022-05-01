@@ -9,5 +9,8 @@ anchor_festival_id = "mahAlaya-pakSa-ArambhaH"
 offset = 16
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Mahalaya Paksha Tarpana of 16 days ends today."
+
 [names]
 sa = [ "महालय-पक्ष-तर्पण-पूर्तिः",]
