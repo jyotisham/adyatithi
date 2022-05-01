@@ -3,6 +3,8 @@ id = "mahAdhanurvyatIpAta-snAnam"
 tags = [ "SpecialSnanam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
+पुष्ये च जन्मनक्षत्रे व्यतीपाते च वैधृतौ।
+अमायां च नदीनानं पुनात्यासप्तमं कुलम्॥
 व्यतीपात महाबाहो सर्वपापप्रणाशन।
 सहस्रबाहो विश्वात्मन् गृहाणार्घ्यं नमोऽस्तु ते॥
 """
@@ -18,7 +20,7 @@ kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Special `snAnam` on account of `mahAdhanurvyatIpAtam`."
+en = "Special `snAnam` on account of `mahAdhanurvyatIpAtam`. `snAnam` on any `vyatIpata` day gives `mahApuNyam`, more so in `dhanurmAsa`."
 
 [names]
 sa = [ "महाधनुर्व्यतीपात-स्नानम्",]
