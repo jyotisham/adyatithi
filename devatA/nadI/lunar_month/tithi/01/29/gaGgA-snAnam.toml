@@ -2,6 +2,11 @@ default_to_none = true
 id = "gaGgA-snAnam"
 tags = [ "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+चैत्रकृष्णचतुर्दश्यां यः स्नायाच्छिवसन्निधौ।
+न प्रेतत्वमवाप्नोति गङ्गायां च विशेषतः॥
+"""
+references_primary = [ "Vaidyanatha Dikshitiyam",]
 
 [timing]
 default_to_none = true
@@ -10,6 +15,9 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 29
 jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On the Krishna Chaturdashi of Chaitra month, whoever performs `snAna` in a Shiva Sannidhi, or especially in Ganga, they do not atttain `prEtatvam`."
 
 [names]
 sa = [ "गङ्गा-स्नानम्",]
