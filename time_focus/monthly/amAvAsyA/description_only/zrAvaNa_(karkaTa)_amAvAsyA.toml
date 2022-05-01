@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zrAvaNa_(kaTaka)_amAvAsyA"
+id = "zrAvaNa_(karkaTa)_amAvAsyA"
 tags = [ "AmavasyaDays",]
 jsonClass = "HinduCalendarEvent"
 
@@ -11,4 +11,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`amAvAsyA` of `zrAvaNa` month, which also falls in the sidereal solar month of `kaTaka`."
 
 [names]
-sa = [ "श्रावण (कटक) अमावास्या",]
+sa = [ "श्रावण (कर्कट) अमावास्या",]

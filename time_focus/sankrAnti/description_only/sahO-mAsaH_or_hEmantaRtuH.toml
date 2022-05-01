@@ -1,5 +1,5 @@
 default_to_none = true
-id = "tapO-mAsaH__ziziraRtuH"
+id = "sahO-mAsaH_or_hEmantaRtuH"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Beginning of `tapO-mAsaH`, marked by the transit of Sun into `kumbha-rAshI`.  Also marks the end of `ziziraRtuH` and the beginning of `vasantaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `sahO-mAsaH`, marked by the transit of Sun into `dhanU-rAshI`. Also marks the beginning of `hEmantaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "तपो-मासः/शिशिरऋतुः",]
+sa = [ "सहो-मासः/हेमन्तऋतुः",]

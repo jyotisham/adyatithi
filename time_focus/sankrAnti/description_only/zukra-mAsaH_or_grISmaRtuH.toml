@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sahasya-mAsaH__uttarAyaNam"
+id = "zukra-mAsaH_or_grISmaRtuH"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Beginning of `sahasya-mAsaH`, marked by the transit of Sun into `makara-rAshI`. Importantly, this also marks the beginning of `uttarAyaNam`, and the end of `dakSiNAyanam`. This also marks the winter solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `zukra-mAsa`, marked by the transit of Sun into `mithuna-rAshI`.  Also marks the beginning of `grISmaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "सहस्य-मासः/उत्तरायणम्",]
+sa = [ "शुक्र-मासः/ग्रीष्मऋतुः",]

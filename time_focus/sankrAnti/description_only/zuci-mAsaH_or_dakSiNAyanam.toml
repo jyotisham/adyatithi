@@ -1,5 +1,5 @@
 default_to_none = true
-id = "nabhO-mAsaH__varSaRtuH"
+id = "zuci-mAsaH_or_dakSiNAyanam"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -24,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Beginning of `nabhO-mAsaH`, marked by the transit of Sun into `siMha-rAshI`.  Also marks the beginning of `varSaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `zuci-mAsaH`, marked by the transit of Sun into `kaTaka-rAshI`. Importantly, this also marks the beginning of `dakSiNAyanam`, and the end of `uttarAyaNam`. This also marks the summer solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
 
 [names]
-sa = [ "नभो-मासः/वर्षऋतुः",]
+sa = [ "शुचि-मासः/दक्षिणायनम्",]
