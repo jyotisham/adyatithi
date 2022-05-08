@@ -9,5 +9,8 @@ anchor_festival_id = "makara-saGkrAntiH"
 offset = 0
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Every year, on Pongal day, there is a unique festival celebrated in the Madurai Meenakshi temple, to commemorate a unique happening, when Abhisheka Pandian ruled over Madurai. Once, the King was desirous of knowing the greatness of a saint in the temple, and requested him to demonstrate his powers by feeding a sugarcane to a stone elephant (sculpture). This festival celebrates this event, where the King was bewildered by the powers of the saint, who eventually blessed the King and soldiers."
+
 [names]
 ta = [ "madhurai mIn2AkSI kOyilil kal yAn2aikku karumbu kODutta lIlai",]
