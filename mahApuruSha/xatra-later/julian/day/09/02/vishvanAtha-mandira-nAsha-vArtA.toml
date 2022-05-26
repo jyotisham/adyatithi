@@ -1,0 +1,19 @@
+id = "vishvanAtha-mandira-nAsha-vArtA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 9
+anga_number = 2
+year_start = 1669
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+News came to Court that according to the Emperor (Awrangzeb)’s command, his officers had demolished the temple of Vishwanath at Benares.
+"""
+
+[names]
+sa = [ "विश्वनाथ-मन्दिर-नाश-वार्ता",]

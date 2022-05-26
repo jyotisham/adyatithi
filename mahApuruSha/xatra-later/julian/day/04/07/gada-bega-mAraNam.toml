@@ -1,0 +1,19 @@
+id = "gada-bega-mAraNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 7
+year_start = 1670
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+News came from Malwa that Wazir Khan had sent Gada Beg, a slave, with 400 troopers, to destroy all temples around Ujjain. A Rawat of the place resisted and slew Gada Beg with 121 of his men.
+"""
+
+[names]
+sa = [ "गदा-बेग-मारणम्",]

@@ -1,0 +1,19 @@
+id = "cooch-bihAr-temple-destruction"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 12
+anga_number = 19
+year_start = 1661
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On Dec 19, 1661, Mir Jumla (general of Awrangzeb) entered the city of Cooch-Bihar, which had been evacuated by its king and people, and appointed Sayyid Mohammed, Sadiq to be chief judge, with directions to destroy all the Hindu temples and to erect mosques in their stead. Mir Jumla himself with a battle-axe broke the image of Narayan.
+"""
+
+[names]
+sa = [ "कच-विहार-मन्दिर-नाशः",]

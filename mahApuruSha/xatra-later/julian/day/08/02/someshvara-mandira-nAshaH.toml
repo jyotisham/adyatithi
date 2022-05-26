@@ -1,0 +1,24 @@
+id = "someshvara-mandira-nAshaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 8
+anga_number = 2
+year_start = 1680
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On August 2, 1680, the Temple of Someshwar in western Mewar was ordered to be destroyed by Aurangzeb and co.
+
+## Context
+After the death of Maharaja Jaswant Singh of Jodhpur in the Kabul Subah, he tried to eliminate the Rathors of Marwar as a political power in Rajputana. But Maharana Raj Singh of Mewar, in line with the great traditions of his House, came out in open support of the Rathors.. This led to war with both Mewar and Marwar during which the temples built on the bank of Rana’s lake were destroyed by his orders. 
+
+Raj Singh opposed Aurangzeb multiple times, once to save the Kishangarh princess Charumati from the Mughals and once by denouncing the Jizya tax levied by Aurangzeb. Chatrapati Shivaji Maharaj had once taunted Aurangzeb by telling him to ask the Rana of Mewar who is the head of the Hindus for Jizya if he had the guts instead of terrorising unarmed citizens.
+"""
+
+[names]
+sa = [ "सोमेश्वर-मन्दिर-नाशः",]

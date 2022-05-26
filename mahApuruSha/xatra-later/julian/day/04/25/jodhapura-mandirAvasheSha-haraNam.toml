@@ -1,0 +1,17 @@
+id = "jodhapura-mandirAvasheSha-haraNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 4
+anga_number = 25
+year_start = 1679
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Khan-i-Jahan Bahadur returned from Jodhpur after demolishing its temples, and bringing with himself several cart-loads of idols. The Emperor ordered that the idols, which were mostly of gold, silver, brass, copper or stone and adorned with jewels, should be cast in the quadrangle of the Court and under the steps of the Jama Mosque for being trodden upon."
+
+[names]
+sa = [ "जोध-पुर-मन्दिरावशेष-हरणम्",]

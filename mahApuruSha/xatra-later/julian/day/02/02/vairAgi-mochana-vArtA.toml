@@ -1,0 +1,22 @@
+id = "vairAgi-mochana-vArtA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 2
+anga_number = 2
+year_start = 1460
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """ 
+On this day, Awrangzeb learned about his officer's attempt to capture a bairAgI and his idols and its failure thanks to rAjaputra action.
+
+## News record
+The Emperor learnt from a secret news-writer of Delhi that in Jaisinghpura, Bairagis used to worship idols, and that the Censor on hearing of it had gone there, arrested Sri Krishna Bairagi and taken him with 15 idols away to his house; then the Rajputs had assembled, flocked to the Censor’s house, wounded three footmen of the Censor and tried to seize the Censor himself so that the latter set the Bairagi free and sent the copper idols to the local subahdar.
+"""
+
+[names]
+sa = [ "वैरागि-मोचन-वार्ता",]

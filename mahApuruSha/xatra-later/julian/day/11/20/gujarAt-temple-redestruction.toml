@@ -1,0 +1,21 @@
+id = "gujarAt-temple-redestruction"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 11
+anga_number = 20
+year_start = 1665
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Awrangzeb ordered redestruction of temples being reconstructed in Gujarat.
+
+> As it has come to His Majesty’s knowledge that some inhabitants of the mahals appertaining to the province of Gujarat have again built the temples which had been demolished by imperial order before his accession...therefore, His Majesty orders that the formerly demolished and recently restored temples should be pulled down.
+"""
+
+[names]
+sa = [ "लाट-मन्दिर-पुनर्-नाशः",]
