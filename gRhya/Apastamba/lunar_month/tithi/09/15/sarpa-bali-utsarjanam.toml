@@ -13,6 +13,9 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Offer final `bali` to serpents on to this day, in the night after `sthAlIpAka`."
+sa = """
+प्रक्रिया [ऽत्र](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/sarpa-baliH/) । 
+"""
 
 [names]
 sa = [ "सर्प-बल्युत्सर्जनम्",]

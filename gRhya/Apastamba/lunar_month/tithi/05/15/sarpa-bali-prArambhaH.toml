@@ -1,3 +1,4 @@
+
 default_to_none = true
 id = "sarpa-bali-prArambhaH"
 tags = [ "LessCommonFestivals",]
@@ -13,6 +14,9 @@ jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Offer `bali` to serpents on (from) this day, in the night after `sthAlIpAka`."
+sa = """
+प्रक्रिया [ऽत्र](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/sarpa-baliH/) । 
+"""
 
 [names]
 sa = [ "सर्प-बलि-प्रारम्भः",]
