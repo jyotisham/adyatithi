@@ -1,0 +1,26 @@
+default_to_none = true
+id = "muslims_burn_deccan-herald-office"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 7
+year_start = 1986
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+About 5,000 Moslems tried to burn office of the paper, The Deccan Herald, after the paper had printed a short story in its Sunday magazine titled ''Mohammad the Idiot.'' The story (translated from maLayALam, depicting rural life in Kerala) concerned a handicapped youth named Mohammad, but the Moslems, who make up 10 percent of the city's population, asserted that a reference to him as ''a deaf and dumb prophet'' was an insult to their religion. - NYT summary
+
+"Four people were killed and nearly 50 were injured in riots here today." - NYT on Dec 8th
+
+"The larger part of the blame for the violence must devolve on Muslim leaders, among whom former Congress(I) minister C.M. Ibrahim was allegedly in the forefront, who whipped up passions in the community by deliberately distorting what the story had said." - India Today.
+"""
+
+[names]
+sa = [ "मरून्मत्तैः डॆक्कन-हॆराल्ड्-पत्रिका-कार्यालयो दग्धः",]
