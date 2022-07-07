@@ -1,0 +1,27 @@
+id = "banAsa-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 10
+anga_number = 11
+year_start = 1446
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, mahArANa kumbha routed Khalji alAdin Mahmud sultAn of mAlva for a third time. mahmUd was trying to invade mevAr with a large army, but was attacked while he was crossing of River Banas and chased back to maNDu.
+
+## Context
+mahmUd had given refuge to the murderer of kumbha's father (about 1433). In 1439, kumbha demanded his extradition, but mahmUd refused. In the Battle of Sarangpur, kumbha attacked and made mahmUd prisoner for 6 months - but freed him for a tribute. 
+
+In 1442, mahmUd invaded mewar to extract vengence, desecrated bana-mAtA temple, used the pieces as weights for butchers to weigh meat, and made hindus eat powder from the mUrti as pAn. kumbha routed him in the Battle of Mandalgarh.
+
+## Aftermath
+Mahmud did not dare attack Mewar for the next 8 years.
+"""
+
+[names]
+sa = [ "बनास-युद्धम्",]
