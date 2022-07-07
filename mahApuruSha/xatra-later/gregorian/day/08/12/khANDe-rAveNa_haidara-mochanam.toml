@@ -5,14 +5,16 @@ jsonClass = "HinduCalendarEvent"
 month_type = "gregorian"
 anga_type = "day"
 month_number = 8
-anga_number = 26
+anga_number = 12
 year_start = 1760
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-On 26th August 1760, Khande Rao attacked Haidar at Srirangapatna but let Haidar flee out of sentiment, with the promise that he would retire away from maisUru.
+On 12th August 1760, Khande Rao attacked Haidar at Srirangapatna but later let Haidar flee out of sentiment, with the promise that he would retire away from maisUru.
+
+Date via Sinha referring to Selections from the Peshwa daftar vol 28.
 
 ## Events
 
