@@ -1,0 +1,25 @@
+id = "taimUreNa_loni-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 12
+anga_number = 10
+year_start = 1398
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Taimur massacred about 100k Hindus in Loni which stood in the NE of Delhi.
+
+## Events (via MT)
+On December 10th he proceed to attack the Loni that stood the north-east of Delhi, the Hindu defenders shaken by the loss of their chief failed to put an effective fight and were trashed by the Timurid army. Timur seized about 100,000 Hindus after the battle by encircling them in a crescent-like movement, even as their mass hunting expeditions on the steppe. He ordered his men to slaughter each one of them right away. He proudly describes how a Mullah who had not even killed a sparrow in the past now slew several Hindus with great enthusiasm. 
+
+## Context
+Timur was on his way to wrest Delhi and India from the Tughlaqs, who had weakened.
+"""
+
+[names]
+sa = [ "तैमूरेण लोनि-हत्या",]

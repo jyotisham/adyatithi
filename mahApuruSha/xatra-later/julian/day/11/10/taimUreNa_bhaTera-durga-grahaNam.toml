@@ -1,0 +1,29 @@
+id = "taimUreNa_bhaTera-durga-grahaNam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "julian"
+anga_type = "day"
+month_number = 11
+anga_number = 10
+year_start = 1398
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Taimur captured Bhatnair fort from Rai Dalachandra.
+
+## Events (from MT)
+The fort of Bhatnair stood on this road and offered formidable defense against the invader. Timur promptly besieged the fort after sweeping through the countryside and forced Rai Dalachandra into the defensive. On 10th November 1398, he suddenly assaulted fort with giant fort-breaking ballistas that hurled huge rocks over a ton on the fort walls. Prince Shah Rukh, Mazid al Baghdadi and Jahan Maliq, Timur’s fierce generals, led the assault on the Hindus. The Hindus retaliated with a heavy rain of fireworks from their ramparts, but the Timurids pushed on building mines to break the ramparts. 
+
+Finally, the fort ramparts were demolished and the Timurid army rushed into the fort capturing Dalachandra and killing other defenders after much desperate fighting at close quarters.
+
+Other sources claim: "Dulachand initially opposed Timur but when hard-pressed he considered surrender. He was locked outside the walls of Bhatner by his brother and was later killed by Timur. The garrison of Bhatner then fought and were slaughtered to the last man. Bhatner was looted and burned to the ground."
+
+## Context
+Timur was on his way to wrest Delhi and India from the Tughlaqs, who had weakened.
+"""
+
+[names]
+sa = [ "तैमूरेण भट्नेर-ग्रहणम्",]
