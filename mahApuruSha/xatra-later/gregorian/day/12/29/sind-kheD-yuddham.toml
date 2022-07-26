@@ -1,0 +1,22 @@
+id = "sind-kheD-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 29
+year_start = 1757
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day (Margashirsha Chaturthi), vishvAs rAv, the teenage son of peshvA nAnAsAheb bAlAjI rAv, assisted ably by dattAjI shiNDe, defeated nizAm's forces in the battle of Sindkhed and forced him to cede territory with a revenue of 25 lakhs, including the naldurg fort. "Negotiations continued for 2 weeks.... This was Vishwasrao's first battle. He did well, may he gain more victories." says a Maratha letter.
+
+## Events 
+Ibrahim Khan Gardi was still under Nizam's employ. There was a big artillery attack by the marAThas, followed by an infantry square advance by Nizam's side and cavalry attacks by Marathas. "They had taken about 300-500 men and 200 horses dead. Our losses were fewer. Their infantry retired from the field, we held our positions. An envoy from the Nizam arrived in our camp." says a marATha letter.
+"""
+
+[names]
+sa = [ "सिन्ध्-खेड्-युद्धम्",]
