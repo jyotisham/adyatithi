@@ -1,0 +1,33 @@
+id = "talvAra-shikhara-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 14
+year_start = 1999
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, during the kArgil war, Major Manoj Talwar died capturing point 5765 (19k feet high) from pAkistAni jihAdi-s.
+
+- He was the son of Capt PL Talwar, a civil engineer who participated in the 1962 China war and helped build the laDhAk airport.
+- He could’ve easily been an Army Doc but he chose NDA over AFMC. 
+- It wasn’t his turn to get posted at Siachen but he chose to get posted there and was granted an ‘out of turn posting’.
+
+## Events
+Although the team was supposed to be led by a Junior Officer, Major Manoj volunteered to lead the mission. The Pakistani army was constantly firing from above. He ordered his team to go around the peak and flank the entrenched enemy from front. During their advance, he suffered from several splinter injuries by enemy’s mortars and grenades but despite all the difficulties, he displayed rare determination, exemplary sense of courage and devotion to duty and kept pushing forward. Moments after he had finally captured the peak & had embedded the Indian Flag at point 5765 on the midnight of 13th June, a splinter from a mortar shelling hit his eye and he was gravely injured. He fell 19,000 feet below into the valley and the search for his body went on for hours till the early morning of 14th June 1999.
+
+## Aftermath
+- Point 5765 was named ‘Talwar Top’ & the bunker ‘Talwar Bunker’. 
+- On 17th of June, as his body was cremated.
+- All the markets, cinema halls and other public places were closed. The women in the houses did not cook food that day. He was respected and loved as the ‘Son Of Meerut.’ 
+- His parents received his last letter which he had written on 10th of June while sitting on his bunker.
+- Later in the year 2003, a statue was built in Meerut in his honour and was unveiled by Sh Rajnath Singh.
+"""
+
+[names]
+sa = [ "तल्वार-शिखर-जयः",]
