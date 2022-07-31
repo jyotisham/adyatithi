@@ -21,6 +21,7 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 3
 jsonClass = "HinduCalendarEventTiming"
+priority = "paraviddha"
 
 [names]
 sa = [ "पार्वतीश्वरयोरान्दोलनव्रतम्",]
