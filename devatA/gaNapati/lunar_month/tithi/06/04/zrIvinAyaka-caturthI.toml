@@ -26,11 +26,11 @@ shlokas = """
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-priority = "puurvaviddha"
+priority = "paraviddha"
 month_number = 6
 anga_type = "tithi"
 anga_number = 4
-kaala = "मध्याह्नः"
+kaala = "अपराह्णः" # Actually madhyahna, but in if purna vyaapti is there on second day, it is on second.
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
