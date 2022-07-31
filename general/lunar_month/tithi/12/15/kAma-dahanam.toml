@@ -9,8 +9,12 @@ month_type = "lunar_month"
 priority = "puurvaviddha"
 month_number = 12
 anga_type = "tithi"
-anga_number = 15
-kaala = "प्रदोषः"
+anga_number = 14
+kaala = "निशीथः"
+shlokas = """
+फाल्गुने मासि शुक्ल तु चतुर्दश्यां महानिशि।
+प्रतिवर्षं दहेत् सम्यक् मृण्मयं मन्मथं नृप॥
+"""
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
