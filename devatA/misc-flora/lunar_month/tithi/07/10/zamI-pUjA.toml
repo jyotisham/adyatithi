@@ -21,10 +21,11 @@ month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 10
+kaala = "प्रदोषः" # translating तारकोदये।
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = "Perform puja to Shami tree. Arjuna and Pandavas had left their weapons on this tree during `ajJAtavAsa`. Those who are unable to worship the tree must at least chant the following shlokas."
 
 [names]
-sa = [ "शमी-पूजा",]
+sa = [ "शमी-पूजा/अपराजिता-पूजा",]

@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_Azrama-svIkAra-jayantI"
+id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_Azrama-svIkAra-dinam"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -19,4 +19,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`jagadguru zrI~candrazEkharEndra sarasvatI 7` was inducted into `sannyAsAzramam` on Friday, 15th February 1907, `parAbhava` year, `kumbha/adhika phAlguna mAsa kRSNa tRtIyA bhRguvAsaraH uttaraprOSThapadA nakSatram`."
 
 [names]
-sa = [ "काञ्ची ६८ जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती ७ आश्रम-स्वीकार-जयन्ती",]
+sa = [ "काञ्ची ६८ जगद्गुरु श्री-चन्द्रशेखरेन्द्र सरस्वती ७ आश्रम-स्वीकार-दिनम्",]

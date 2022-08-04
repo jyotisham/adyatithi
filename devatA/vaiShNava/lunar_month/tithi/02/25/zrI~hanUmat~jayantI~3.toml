@@ -1,0 +1,18 @@
+default_to_none = true
+id = "zrI~hanUmat~jayantI~3"
+tags = [ "AndhraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 25
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Hanuman Jayanti celebrated widely in Andhra Pradesh."
+
+[names]
+sa = [ "श्री-हनूमत्-जयन्ती (आन्ध्र-सम्प्रदायः)",]
