@@ -1,0 +1,30 @@
+id = "87-varShe_fiji-dvIpopaplavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 25
+year_start = 1987
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Indigenous Christian Fijians led by Sitiveni Rabuka effected a military coup (their second that year), tore up the constitution, discarded multi-ethnic governments and compromises, triggering exodus of Indian origin Fijians from the Island.
+
+## Context
+- Tensions between indigenous (mostly Methodist Christian) Fijian and (majority Hindu) Indo-Fijian ethnic groups (comprising an estimated 46% and 49% of the 1987 population, respectively) were high. The former were additionally supported by the Church and the native Chiefs.
+- The Indians had come to neglect participation in the Army for many decades (Their demanding equal pay as Euroeans during WW2 caused the British to disband the Indian platoon).
+- Also, Indian Total Fertility Rate (which was initially higher than the natives) had fallen.
+
+## Aftermath
+- A new constitution was ratified in 1990, in which the offices of President and Prime Minister, along with two-thirds of the Senate and a substantial majority of the House of Representatives, were reserved for indigenous Fijians. These racially discriminatory provisions were eventually overturned by a constitutional revision in 1997.
+- The coups triggered much emigration by Indo-Fijians (particularly skilled workers), making them a minority by 1994. 
+- Fiji's economy contracted by as much as 7.8% between 1987 and 1988, due to a major downturn in tourism and sugar production.
+- Further coups happened in 2000-s.
+"""
+
+[names]
+sa = [ "८७-तमे वर्षे फ़िजि-द्वीपोपप्लवः",]

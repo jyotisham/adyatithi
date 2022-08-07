@@ -1,0 +1,29 @@
+id = "2000-varShe_fiji-dvIpopaplavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 19
+year_start = 2000
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, Indigenous Christian Fijians led by failed businessman George Speight effected a coup, triggering the removal of the Hindu-fijian led multi-ethnic government.
+
+## Context
+- Since the 1987 coup, many Indo Fijians had fled. In 1997, racially discriminatory provisions in the constitution were removed. A Hindu-led multi-ethnic government formed. 
+- Many Indigenous Christian Fijians did not liek this. They were additionally supported by the Church and the native Chiefs.
+- The Indians had continued to neglect participation in the Army for many decades (Their demanding equal pay as Euroeans during WW2 caused the British to disband the Indian platoon).
+- Also, Indian Total Fertility Rate (which was initially higher than the natives) had fallen.
+
+## Aftermath
+- The ensuing chaos caused the military under Commodore Frank Bainimarama to effect coup and restore order. They scrapped the 1997 constitution. This was reversed in the courts. However, succeeding govrnments (via  Reconciliation Tolerance and Unity Bill, Qoliqoli Bill and the Land Tribunal Bill) were lenient towards the initial usurpers.
+- In 2006, after ultimatums which were ignored, Commodore Frank Bainimarama and aides effected a military coup, clipped the wings of the Methodist Church and Council of Chiefs, and eventually rewrote the constitution replacing the race-based electoral system with a proportional representation system.
+"""
+
+[names]
+sa = [ "२०००-तमे वर्षे फ़िजि-द्वीपोपप्लवः",]
