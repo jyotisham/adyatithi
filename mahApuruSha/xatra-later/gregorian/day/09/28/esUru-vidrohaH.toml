@@ -1,0 +1,27 @@
+id = "esUru-vidrohaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 28
+year_start = 1942
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On September 28, 1942, the residents of Esuru refused to pay tax to the British government. Expecting a backlash, they prepared to face the British. They put up a board reading, ‘Swaraj Sarkar’ and hoisted the tricolour. When British officials tried to enter Esuru, there was a ‘riot’ which led to the death of a revenue officer Chennakrishnaiah and a revenue ‘amaldar’ (Kenche Gowda?). 
+
+## Aftermath
+- British government sent police troops to reclaim the village.
+- Anticipating the trouble, villagers fenced all the roads leading to Esuru.
+- All freedom fighters took shelter in a nearby forest, leaving the children, women and elders in the village. Empty streets greeted the British forces. Frustrated British jawans were violent with the remainder.
+- Five youth were hanged and hundreds were imprisoned. 
+- After Independence, all of them were released and a grand reception was given to them by the people of Shivamogga.
+
+"""
+
+[names]
+sa = [ "ऎसूरु-विद्रोहः",]
