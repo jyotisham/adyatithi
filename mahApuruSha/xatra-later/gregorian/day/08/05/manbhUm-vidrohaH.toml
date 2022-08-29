@@ -1,0 +1,19 @@
+id = "manbhUm-vidrohaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 5
+year_start = 1857
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Manbhum Uprising of 1857. The intensity of the revolt was so great that the British were forced to abondon Purulia (Manbhum) & flee to Raniganj. Purulia (Manbhum) was free of British rule for 23 days.
+"""
+
+[names]
+sa = [ "मन्भूम-विद्रोहः",]
