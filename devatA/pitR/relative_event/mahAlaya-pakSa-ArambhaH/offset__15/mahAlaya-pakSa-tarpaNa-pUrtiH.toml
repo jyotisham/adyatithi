@@ -6,7 +6,7 @@ jsonClass = "HinduCalendarEvent"
 [timing]
 default_to_none = true
 anchor_festival_id = "mahAlaya-pakSa-ArambhaH"
-offset = 16
+offset = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

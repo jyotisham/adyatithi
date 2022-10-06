@@ -1,16 +1,18 @@
 default_to_none = true
-id = "gO-trirAtri-vratam~2"
+id = "gO-trirAtra-vratam~1"
 tags = [ "SpecialVratam",]
-references_primary = [ "Chaturvarga Chintamani",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-month_number = 7
+month_number = 6
 anga_type = "tithi"
-anga_number = 28
+anga_number = 13
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Agastya arghya danam"
+
 [names]
-sa = [ "गो-त्रिरात्रि-व्रतम्",]
+sa = [ "गो-त्रिरात्र-व्रतम्",]
