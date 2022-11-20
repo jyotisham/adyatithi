@@ -1,5 +1,5 @@
 default_to_none = true
-id = "ravipuSyayOga-puNyakAlaH"
+id = "ravipuSya-yOgaH"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
 
@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "When Pushya nakshatra falls on a Sunday, it is a special `puNyakAlaH`."
+en = "When Pushya nakshatra falls on a Sunday, it is a special `yOgaH`."
 
 [names]
-sa = [ "रविपुष्ययोग-पुण्यकालः",]
+sa = [ "रविपुष्य-योगः",]
