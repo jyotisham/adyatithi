@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "An important observance by `Ahitagni`s, to propitiate the `pitR`s."
+en = "An important observance by `AhitAgni`s, to propitiate the `pitR`s."
 
 [names]
 sa = [ "पिण्ड-पितृ-यज्ञः",]
