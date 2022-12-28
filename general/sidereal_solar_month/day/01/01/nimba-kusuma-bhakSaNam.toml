@@ -1,0 +1,24 @@
+default_to_none = true
+id = "nimba-kusuma-bhakSaNam"
+tags = [ "LessCommonFestivals",]
+shlokas = """
+शतायुर्वज्रदेहाय सर्वसम्पत्कराय च।
+सर्वानिष्टविनाशाय निम्बकन्दलभक्षणम्॥
+यद्वर्षादौ निम्बसुमं शर्कराम्लघृतैर्युतम्।
+भक्षितं पूर्वयामे स्यात् तद्वर्षं सौख्यदायकम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 1
+anga_type = "day"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Partake Neem flowers in the early part of the day; in practice, a sweet-sour offering made using jaggery, neem flowers etc. is partaken."
+
+[names]
+sa = [ "निम्ब-कुसुम-भक्षणम्",]
