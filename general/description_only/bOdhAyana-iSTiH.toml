@@ -1,5 +1,5 @@
 default_to_none = true
-id = "bOdhAyana-iSTiH"
+id = "bOdhAyana-kAtyAyana-iSTiH"
 tags = [ "RareDays", "Combinations", "SpecialVratam",]
 jsonClass = "HinduCalendarEvent"
 
@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`iSTiH` is performed on this day by those following the `bOdhAyana-sUtra`. This difference happens because `candradarzanam` occurs tomorrow, and followers of `bOdhAyana-sUtra` do not perform `iSTiH` on `candradarzanam` day."
+en = "`iSTiH` is performed on this day by those following the `bOdhAyana/kAtyAyana` `sUtra`s. This difference happens because `candradarzanam` occurs tomorrow, and followers of `bOdhAyana/kAtyAyana` `sUtra`s do not perform `iSTiH` on `candradarzanam` day."
 
 [names]
-sa = [ "बोधायन-इष्टिः",]
+sa = [ "बोधायन-कात्यायन-इष्टिः",]
