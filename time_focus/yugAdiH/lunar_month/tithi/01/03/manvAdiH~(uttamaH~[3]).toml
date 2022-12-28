@@ -12,6 +12,7 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 3
 kaala = "अपराह्णः"
+adhika_maasa_handling = "adhika_and_nija" # मन्वादिकं तैर्थिकं च कुर्यान्मासद्वयेऽपि च॥' इति स्मृतिचन्द्रिकोक्तेः।
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
