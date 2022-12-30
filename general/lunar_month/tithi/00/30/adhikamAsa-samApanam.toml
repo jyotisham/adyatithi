@@ -9,6 +9,7 @@ month_type = "lunar_month"
 month_number = 0
 anga_type = "tithi"
 anga_number = 30
+priority = "paraviddha"
 adhika_maasa_handling = "adhika_only"
 jsonClass = "HinduCalendarEventTiming"
 
