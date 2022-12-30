@@ -2,6 +2,11 @@ default_to_none = true
 id = "karkaTa-saGkramaNa-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
+घृतं च क्षीरकुम्भश्च घृतधेनु फलानि च।
+श्रावणे श्रीधरप्रीत्यै दातव्यानि विपश्चिता॥
+---वामनपुराणे (स्मृतिकौस्तुभम्)
+घृतधेनुप्रदानं तु कर्कटे परिशस्यते॥
+---स्मृतिकौस्तुभे
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
 सूर्यसङ्क्रमणे पुण्ये न स्नायाद्यदि मानवः।
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
@@ -16,7 +21,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Karkaṭa-Saṅkramaṇa Punyakala."
+en = "Karkaṭa-Saṅkramaṇa Punyakala.  Perform danam of ghee, milk vessel, \"ghee cow\" and fruits."
 
 [names]
 sa = [ "कर्कट-सङ्क्रमण-पुण्यकालः",]
