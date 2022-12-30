@@ -10,6 +10,7 @@ anga_type = "tithi"
 anga_number = 16
 priority = "puurvaviddha"
 kaala = "पूर्वाह्णः"
+adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

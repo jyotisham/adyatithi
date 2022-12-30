@@ -11,6 +11,7 @@ month_number = 0
 anga_type = "tithi"
 anga_number = 29
 kaala = "निशीथः"
+adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
