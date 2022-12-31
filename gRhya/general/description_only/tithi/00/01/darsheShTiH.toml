@@ -8,5 +8,8 @@ default_to_none = true
 adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Observed on Śukla-Prathamā tithi of every (lunar) month (Pūrvāhṇaḥ/puurvaviddha)."
+
 [names]
 sa = [ "दर्शेष्टिः",]
