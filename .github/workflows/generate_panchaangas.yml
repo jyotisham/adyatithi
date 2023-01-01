@@ -10,8 +10,9 @@ on:
     branches: [ master ]
   workflow_dispatch:
     inputs:
-      logLevel:
-        default: 'warning'
+      year:
+        default: '2023'
+        required: false
 
 jobs:
   generate:
@@ -29,6 +30,13 @@ jobs:
         repository: jyotisham/jyotisha
         submodules: 'true'
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
+    - name: Get current date
+      id: date
+      if: "${{ github.event.inputs.year == '' }}"
+      run: | #     No space after + above.
+        echo "date={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
+        echo "year=$(date +'%Y' --date='+1 year')" >> $GITHUB_OUTPUT
+        cat $GITHUB_OUTPUT
     - name: Update submodules
       id: update_submods
       run: |
@@ -55,7 +63,7 @@ jobs:
         python -m pip install .
     - name: Regenerate calendars
       run: |
-        python -m "jyotisha.panchaanga.writer.generation_project"
+        python -m "jyotisha.panchaanga.writer.generation_project" --year=${{ steps.date.outputs.year }}${{github.event.inputs.year}}
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
@@ -76,6 +84,7 @@ jobs:
         external_repository: jyotisham/jyotisha
         publish_dir: ./hugo-source/content/output
         publish_branch: generated-output
+        keep_files: true
 #      uses: s0/git-publish-subdir-action@develop
 #      env:
 #        REPO: self
