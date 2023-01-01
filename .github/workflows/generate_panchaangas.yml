@@ -35,7 +35,7 @@ jobs:
       if: "${{ github.event.inputs.year == '' }}"
       run: | #     No space after + above.
         echo "date={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
-        echo "year=$(date +'%Y' --date='+1 year')" >> $GITHUB_OUTPUT
+        echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
         cat $GITHUB_OUTPUT
     - name: Update submodules
       id: update_submods
