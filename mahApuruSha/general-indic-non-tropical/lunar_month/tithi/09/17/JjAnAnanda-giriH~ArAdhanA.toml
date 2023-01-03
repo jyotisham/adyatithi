@@ -1,0 +1,23 @@
+default_to_none = true
+id = "JjAnAnanda-giriH~ArAdhanA"
+tags = [ "AradhanaDays",]
+shlokas = ""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "vyaapti"
+month_number = 9
+anga_type = "tithi"
+anga_number = 17
+kaala = "अपराह्णः"
+year_start = 5075
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Swami Gnanananda Giri is a famous saint, who performed several years of penance in the Himalayas and performed pilgrimage across Bharatam for several decades. He set up an ashram at Tirukkovilur which is popularly known as Tapovanam, where He finally shed his mortal coils on `mArgazIrSa-kRSNa-dvitIyA` in 1974."
+
+[names]
+sa = [ "ज्ञानानन्द-गिरिः~आराधना",]
