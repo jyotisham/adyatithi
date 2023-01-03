@@ -12,6 +12,7 @@ month_number = 6
 anga_type = "tithi"
 anga_number = 28
 kaala = "अपराह्णः"
+adhika_maasa_handling = "adhika_and_nija" # युगादि-मन्वादिकल्पादिनिमित्तकश्राद्धं मासिकश्राद्धं दर्शश्राद्धं अहरहः श्राद्धं चैतानि मासद्वये कर्तव्यानि। (पुरुषार्थचिन्तामणिः)
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sAvitrya-kalpAdiH"
+id = "sAvitra-kalpAdiH"
 tags = [ "KalpadiDays",]
 shlokas = """
 अथ कल्पादयो राजन्कथ्यन्ते तिथयः शुभाः।
@@ -25,10 +25,11 @@ month_number = 8
 anga_type = "tithi"
 anga_number = 7
 kaala = "अपराह्णः"
+adhika_maasa_handling = "adhika_and_nija" # युगादि-मन्वादिकल्पादिनिमित्तकश्राद्धं मासिकश्राद्धं दर्शश्राद्धं अहरहः श्राद्धं चैतानि मासद्वये कर्तव्यानि। (पुरुषार्थचिन्तामणिः)
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`sAvitrya-kalpAdiH` is observed on this day. Performing `zrAddha` on this day gives `akSayatRpti` to `pitr`s. Although there are 30 Kalpadis described in various puranas, 7 of them are particularly special."
+en = "`sAvitra-kalpAdiH` is observed on this day. Performing `zrAddha` on this day gives `akSayatRpti` to `pitr`s. Although there are 30 Kalpadis described in various puranas, 7 of them are particularly special."
 
 [names]
-sa = [ "सावित्र्य-कल्पादिः",]
+sa = [ "सावित्र-कल्पादिः",]
