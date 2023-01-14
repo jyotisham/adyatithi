@@ -1,5 +1,5 @@
 default_to_none = true
-id = "vivEkAnanda~jayantI"
+id = "vivEkAnanda~janmadinam"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -14,4 +14,4 @@ year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "विवेकानन्द-जयन्ती",]
+sa = [ "विवेकानन्द-जन्मदिनम्",]
