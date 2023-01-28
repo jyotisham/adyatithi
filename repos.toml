@@ -109,11 +109,6 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/gener
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "mahApuruSha/general"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/general"
-jsonClass = "RulesRepo"
-
-[[data]]
 name = "mahApuruSha/sci-tech"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/sci-tech"
 jsonClass = "RulesRepo"
