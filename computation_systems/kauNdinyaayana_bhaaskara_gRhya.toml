@@ -1,0 +1,28 @@
+lunar_month_assigner_type = "SOLSTICE_POST_DARK_10_ADHIKA"
+ayanaamsha_id = "CHITRA_AT_180"
+jsonClass = "ComputationSystem"
+
+[festival_options]
+aparaahna_as_second_half = true
+prefer_eight_fold_day_division = true
+julian_handling = "converted to Gregorian"
+jsonClass = "FestivalOptions"
+[[festival_options.repos]]
+name = "gRhya/general"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/general"
+jsonClass = "RulesRepo"
+
+[[festival_options.repos]]
+name = "gRhya/Apastamba"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/Apastamba"
+jsonClass = "RulesRepo"
+
+[graha_lopa_measures]
+jsonClass = "GrahaLopaMeasures"
+
+[graha_lopa_measures.graha_id_to_lopa_measure]
+jupiter = 11
+venus = 9
+mercury = 13
+mars = 17
+saturn = 15
