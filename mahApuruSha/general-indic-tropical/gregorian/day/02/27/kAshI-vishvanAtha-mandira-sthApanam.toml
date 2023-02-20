@@ -1,0 +1,24 @@
+id = "kAshI-vishvanAtha-mandira-sthApanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 2
+anga_number = 27
+year_start = 1585
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In 1585, the shrine of Kashi Vishweshwara established. It was built with by Todar Mal, with the permission of Badshah Akbar, and inaugurated with worshipping the God by Narayanabhatta, the famous Tikakara of Vrittaratnakara, one of the Dharmadhipati of the then Kashi along with Sheshakrishna Pandit, the guru of Bhattojidikshita and others.
+
+(Date reckoning based on supposition that the worship was conducted during Shivaratri.)
+
+## Aftermath
+It was later vandalised under Aurangzeb and overlaid by Gyanvapi masjid.
+"""
+
+[names]
+sa = [ "काशि-विश्वनाथ-मन्दिर-स्थापनम्",]
