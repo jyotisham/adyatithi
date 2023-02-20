@@ -14,7 +14,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "It is said in the Smrtis, that if Amavaysa falls on a Monday, Tuesday or Thursday, such a tithi is given the appellation `puSkalA` and is as sacred as a solar eclipse."
+en = "It is said in the Smrtis, that if Amavasya falls on a Monday, Tuesday or Thursday, such a tithi is given the appellation `puSkalA` and is as sacred as a solar eclipse."
 
 [names]
 sa = [ "पुष्कला-अमावास्या",]
