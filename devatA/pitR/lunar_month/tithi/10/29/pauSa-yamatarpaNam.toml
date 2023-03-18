@@ -1,12 +1,13 @@
 default_to_none = true
-id = "yamatarpaNam"
+id = "pauSa-yama-tarpaNam"
 tags = [ "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
-माघकृष्णचतुर्दश्यां यमतर्पणमीरितम्॥
+माघकृष्णचतुर्दश्यां यमतर्पणमीरितम्॥६६॥
 अनर्काभ्युदिते काले स्नात्वा सन्तर्पयेद्यमम्।
-द्विसप्तनामभिः प्रोक्तैः सर्वपापविमुक्तये॥
+द्विसप्तनामभिः प्रोक्तैः सर्वपापविमुक्तये॥६७॥
 तिलदर्भाम्बुभिः कार्यं तर्पणं द्विजभोजनम्।
+कृशरान्नं स्वयं चापि तदेवाश्नीत वाग्यतः॥६८॥
 """
 references_primary = [ "Naradiya Puranam, Adhyaaya 123",]
 
@@ -14,14 +15,14 @@ references_primary = [ "Naradiya Puranam, Adhyaaya 123",]
 default_to_none = true
 month_type = "lunar_month"
 priority = "paraviddha"
-month_number = 11
+month_number = 10
 anga_type = "tithi"
 anga_number = 29
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-Perform `tarpaNam` to Yama Dharmaraja.
+Perform `tarpaNam` to Yama Dharmaraja. In Purnimanta Magha, i.e. Amanta Pausha, Yama Tarpanam must be performed.
 एकैकेन तिलैर्मिश्रान् दद्यात् त्रींस्त्रीन् जलाञ्जलीन्।
 संवत्सरकृतं पापं तत्क्षणादेव नश्यति॥
 कृष्णपक्षे चतुर्दश्यां यां काञ्चित् सरितं प्रति।
@@ -50,4 +51,4 @@ Perform `tarpaNam` to Yama Dharmaraja.
 """
 
 [names]
-sa = [ "माघ-यम-तर्पणम्",]
+sa = [ "पौष-यम-तर्पणम्",]
