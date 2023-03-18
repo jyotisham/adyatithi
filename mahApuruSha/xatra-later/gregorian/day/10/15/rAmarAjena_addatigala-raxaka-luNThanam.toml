@@ -1,0 +1,22 @@
+id = "rAmarAjena_addatigala-raxaka-luNThanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 15
+year_start = 1922
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Alluri Sitarama Raju adopted guerilla warfare and challenged the British during his attack on the Addatigala police station. Raju carried out the attack on October 15. The British army had no option but to surrender.
+
+## Context
+24 year old Alluri Sitarama Raju was a young hindu sannyAsI who gained popularity amongst the Andhra tribals, and motivated their struggle against their social ills, Christian missionaries and the British.
+"""
+
+[names]
+sa = [ "रामराजेन +अड्डतिगल-लुण्ठनम्",]

@@ -1,0 +1,22 @@
+id = "rAmarAjena_rampachoDAvara-raxaka-luNThanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 10
+anga_number = 19
+year_start = 1922
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Alluri Sitarama Raju beseiged Rampachodavaram station in broad daylight on October 19.
+
+## Context
+24 year old Alluri Sitarama Raju was a young hindu sannyAsI who gained popularity amongst the Andhra tribals, and motivated their struggle against their social ills, Christian missionaries and the British.
+"""
+
+[names]
+sa = [ "रामराजेन रम्पचोडावर-रक्षक-लुण्ठनम्",]
