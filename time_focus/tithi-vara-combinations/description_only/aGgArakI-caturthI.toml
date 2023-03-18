@@ -1,5 +1,5 @@
 default_to_none = true
-id = "aGgAraka-caturthI"
+id = "aGgArakI-caturthI"
 tags = [ "RareDays", "Combinations",]
 shlokas = """
 अमावस्या तु सोमेन सप्तमी भानुना सह।
@@ -19,4 +19,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`caturthI tithi` on a Tuesday is as sacred as a solar eclipse. Particularly special day for doing puja of Ganesha/Subrahmanya with naivedyam of modakam/millet flour respectively."
 
 [names]
-sa = [ "अङ्गारक-चतुर्थी",]
+sa = [ "अङ्गारकी-चतुर्थी",]
