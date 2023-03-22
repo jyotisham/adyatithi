@@ -1,0 +1,19 @@
+default_to_none = true
+id = "ravivAra-caturthI"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+नारदीयपुर्णे ११३.६०---
+यस्मिन्कस्मिन्भवेन्मासि चतुर्थी रविवारयुक्।
+साङ्गारका वा विप्रेन्द्र सा विशेषफलप्रदा॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`caturthI tithi` on a Sunday is specially sacred --- `vizESaphalapradA`."
+
+[names]
+sa = [ "रविवार-चतुर्थी",]

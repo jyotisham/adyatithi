@@ -2,6 +2,16 @@ default_to_none = true
 id = "upAGga-lalitA-vratam"
 tags = [ "SpecialVratam",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+आश्विने शुक्लपञ्चम्याम् उपाङ्गललिताव्रतम्॥४९॥
+तस्याः स्वर्णमयीं मूर्तिं शक्त्या निर्माय नारद।
+उपचारैः षोडशभिः पूजयेत्तां विधानतः॥५०॥
+पक्वान्नं फलसंयुक्तं सघृतं दक्षिणान्वितम्।
+द्विजवर्याय दातव्यं व्रतसम्पूर्तिहेतवे॥५१॥
+``सवाहना शक्तियुता वरदा पूजिता मया।
+मातर्मामनुगृह्याथ गम्यतां निजमन्दिरम्''॥५२॥
+"""
+references_primary = [ "Naradiya Puranam, Adhyaya 114",]
 
 [timing]
 default_to_none = true

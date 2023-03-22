@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sukhA~aGgAraka-caturthI"
+id = "sukhA~aGgArakI-caturthI"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -126,4 +126,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`caturthI tithi` on a Tuesday is as sacred as a solar eclipse. When it occurs in `zuklapakSa`, it is called `sukhA`. Good day for doing puja of Ganesha/Subrahmanya with naivedyam of modakam/millet flour respectively."
 
 [names]
-sa = [ "सुखा-अङ्गारक-चतुर्थी",]
+sa = [ "सुखा~अङ्गारकी-चतुर्थी",]
