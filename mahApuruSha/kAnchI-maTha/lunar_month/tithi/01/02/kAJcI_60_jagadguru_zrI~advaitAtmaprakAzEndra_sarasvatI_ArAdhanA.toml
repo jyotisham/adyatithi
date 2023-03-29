@@ -19,14 +19,14 @@ month_type = "lunar_month"
 priority = "vyaapti"
 month_number = 1
 anga_type = "tithi"
-anga_number = 17
+anga_number = 2
 kaala = "अपराह्णः"
 year_start = 4805
 year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Then, son of Paraśurāma on the banks of river Vaśiṣṭha, well-versed in scriptures, touring all around bore the burden (or preceptor) on him. This sage by name Govinda with the appellation Ātmaprakāśendra carried out the responsibilities of preceptor for twelve years. He attained siddhi on the second day of Kṛṣṇapakṣa in the month Caitra of the year Svabhānu. This preceptor remained in Shahajipuram for a long period hailed as Govindajagadguru by Śrīdhara Veṅkateśa and other learned men."
+en = "Then, son of Paraśurāma on the banks of river Vaśiṣṭha, well-versed in scriptures, touring all around bore the burden (or preceptor) on him. This sage by name Govinda with the appellation Ātmaprakāśendra carried out the responsibilities of preceptor for twelve years. He attained siddhi on the second day of Śuklapakṣa in the month Chaitra of the year Svabhānu. This preceptor remained in Shahajipuram for a long period hailed as Govindajagadguru by Śrīdhara Veṅkateśa and other learned men." # note corrected Krishna -> Shukla based on traditional observances despite shloka not having a useful reference!
 
 [names]
 sa = [ "काञ्ची ६० जगद्गुरु श्री-अद्वैतात्मप्रकाशेन्द्र सरस्वती आराधना",]
