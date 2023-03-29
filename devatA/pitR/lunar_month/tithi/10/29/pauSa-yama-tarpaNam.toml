@@ -1,7 +1,6 @@
 default_to_none = true
 id = "pauSa-yama-tarpaNam"
 tags = [ "CommonFestivals",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 माघकृष्णचतुर्दश्यां यमतर्पणमीरितम्॥६६॥
 अनर्काभ्युदिते काले स्नात्वा सन्तर्पयेद्यमम्।
@@ -10,6 +9,7 @@ shlokas = """
 कृशरान्नं स्वयं चापि तदेवाश्नीत वाग्यतः॥६८॥
 """
 references_primary = [ "Naradiya Puranam, Adhyaaya 123",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -46,8 +46,6 @@ Perform `tarpaNam` to Yama Dharmaraja. In Purnimanta Magha, i.e. Amanta Pausha, 
 १२. वृकोदरं तर्पयामि।
 १३. चित्रं तर्पयामि।
 १४. चित्रगुप्तं तर्पयामि।
-
-
 """
 
 [names]
