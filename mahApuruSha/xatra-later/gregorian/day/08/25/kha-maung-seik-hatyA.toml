@@ -1,0 +1,24 @@
+id = "kha-maung-seik-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 25
+year_start = 2017
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, men from the Islamist Arakan Rohingya Salvation Army attacked and butchered Hindus in Kha Maung Seik, Burma.
+
+The masked men took around 100 people hostage and forced them to march through the fields. They were led into a forest on a hill, where the insurgents separated 8 women for MARRIAGE to the TERRORISTS later. The remaining hostages were blindfolded, tied up, and had their throats slit with knives. The corpses were dumped inside three pits. Nine Hindu villages were burnt, and more than hundreds of Hindu refugees fled to Bangladesh. 
+
+## Context
+They objected to the official identity cards provided by the Myanmar authorities to the Hindus.
+"""
+
+[names]
+sa = [ "ख-मोङ्ग-सेक-हत्या",]
