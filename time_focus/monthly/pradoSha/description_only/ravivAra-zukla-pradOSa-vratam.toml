@@ -1,0 +1,22 @@
+default_to_none = true
+id = "ravivAra-zukla-pradOSa-vratam"
+tags = [ "MonthlyVratam", "PradoshaVratam",]
+shlokas = """
+प्रदोषे  शिवपूजां  तु  ये  कुर्याच्छ्रद्धया  युताः।
+न  भवेत्  तस्य  दारिद्र्यं  जन्मान्तरशतेष्वपि॥
+मदनरत्न-निर्णयामृतान्तर्गतस्कन्दपुराणवचनानि---
+यदा त्रयोदशी शुक्ला मन्दवारेण संयुता।
+आरब्धव्यं व्रतं तत्र सन्तानफलसिद्धये॥
+आयुरारोग्यसिद्ध्यर्थं भानुवारेण संयुता।
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Pradosha Vratam. Fast during the day and perform `zivapUjA` in Pradosha Kala.  Pradosha vratam is even more special, when if falls on a Sunday, and is suitable for starting the vratam, for obtaining good health and a long life."
+
+[names]
+sa = [ "रविवार-शुक्ल-प्रदोष-व्रतम्",]

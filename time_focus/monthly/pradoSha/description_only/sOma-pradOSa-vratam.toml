@@ -12,7 +12,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Pradosha Vratam. Fast during the day and perform `zivapUjA` in Pradosha Kala. Pradosha vratam is even more special, when if falls on a Monday/Saturday."
+en = "Pradosha Vratam. Fast during the day and perform `zivapUjA` in Pradosha Kala. Pradosha vratam is even more special, when if falls on a Monday, which is already a special day for `zivArAdhanam`."
 
 [names]
 sa = [ "सोम-प्रदोष-व्रतम्",]
