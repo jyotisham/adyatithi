@@ -1,0 +1,24 @@
+id = "bakhrAbAda-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 24
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+A massacre and rape of the Hindu population of Bakhrabad village, in the district of the Comilla, on 24 May 1971 by the Pakistani army with the help of Al Badr and Al Shams. 
+
+The attackers went from house to house, indiscriminately killing men, women, and children. They also set fire to homes and looted the village. The attack lasted for several hours, and by the time it was over, hundreds of people were dead.
+
+## Aftermath
+The Bakhrabad massacre was widely reported in the international media, which put pressure on the Pakistani government to end the violence. However, the Pakistani military continued its campaign of terror in Bangladesh, which led to the deaths of millions of people.
+"""
+
+[names]
+sa = [ "बख्राबाद-हत्या",]
