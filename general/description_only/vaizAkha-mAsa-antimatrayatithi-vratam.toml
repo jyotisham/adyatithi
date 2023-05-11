@@ -1,7 +1,7 @@
 default_to_none = true
 id = "vaizAkha-mAsa-antimatrayatithi-vratam"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "skAnda mahApurANe vaiSNavakhaNDE vaizAkhamAhAtmyE paJcaviMSO.adhyAyaH",]
+references_primary = [ "Skanda Mahapuranam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 यः माधवे वैशाखमासे, त्रयोदशीचतुर्दशीपूर्णिमासु तिथिषु स्नानादिकं करोति 
@@ -105,6 +105,7 @@ shlokas = """
 तस्माद्दिनत्रये कार्यं स्नानदानार्चनादिकम्॥४६॥
 अन्यथा नरकं याति यावदिन्द्राश्चतुर्दश।
 इत्येतत्सर्वमाख्यातं श्रुतकीर्ते महामते॥४७॥
+---स्कान्द-महापुराणे वैष्णवखण्डे वैशाखमाहात्म्ये पञ्चविंशोऽध्यायः
 """
 
 [timing]
