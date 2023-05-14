@@ -1,0 +1,29 @@
+id = "somanAtha-mandira-punar-udghATanam"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 11
+year_start = 1951
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 11th May 1951, the first President of India Sri Rajendra Prasad ji reopened the ancient Jyotirlinga Kshetram of Somnath in Gujarat. It was reconsecrated after several centuries!
+
+Strong opposition came from Nehru! He didn’t want him to go for this inauguration. But the President was a very determined man of Dharma. He even lead the procession to the temple!
+
+## Context
+The ancient temple was raided, plundered and looted over 17 times by Muhammad of Ghazni. It was a great source of shame for Hindus. For some time the place came under the control of the Nawab of Junagarh. He wouldn’t allow any reconstruction! After Junagarh joined India in Oct 1947, Patel announced at a public meeting:
+
+> “On this auspicious day of the New Year, we have decided that Somnath should be reconstructed. You, people of Saurashtra, should do your best. This is a holy task in which all should participate!”
+
+
+
+"""
+
+[names]
+sa = [ "सोमनाथ-मन्दिर-पुनर्-उद्घाटनम्",]
