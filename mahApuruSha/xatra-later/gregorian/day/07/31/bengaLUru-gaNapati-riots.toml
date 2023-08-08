@@ -1,0 +1,21 @@
+id = "nuh-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 31
+year_start = 2023
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On Monday (July 31), in Haryana’s Nuh district (Mewat), Islamic Jihadis pelted heavy stones, petrol bombs and bullets from the hills on the pilgrims in yAtrA to Nallahad Shiv Temple (also part of ‘Brij Mandal Jalabhishek Yatra,’ organized by Vishwa Hindu Parishad and Bajrang Dal). They burned many vehicles, filling the sky with thick smoke; and several thousand devotees were trapped in the Temple, only to be rescued hours after the Islamists were raining down bullets on the temple and more.
+
+As early as July 21, roughly ten days before the Jalabhishek Yatra was to take place, Islamists had been scheming to attack the devotees, laying elaborate plans, collecting glass bottles and stones.
+"""
+
+[names]
+sa = [ "नुह्-हत्या",]
