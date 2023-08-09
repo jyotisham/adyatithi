@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kAmAkSI-jayantI"
+id = "kAmAkSI-AvirbhAvaH"
 tags = [ "CommonFestivals",]
 shlokas = """
 कान्ता काम-दुघा करीन्द्र-गमना कामारि-वामाङ्क-गा
@@ -20,8 +20,8 @@ priority = "paraviddha"
 month_number = 7
 anga_type = "nakshatra"
 anga_number = 11
-kaala = "प्रातः"
+kaala = "साङ्गवः" # need sparsha i.e. tri-muhurta-vyApti
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "कामाक्षी-जयन्ती",]
+sa = [ "कामाक्षी-आविर्भावः",]
