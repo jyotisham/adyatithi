@@ -1,0 +1,19 @@
+id = "chennai-nagare_svayaM-sevaka-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 8
+anga_number = 8
+year_start = 1993
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+8.8.1993 - 11 RSS Swayamsevaks were brutally killed in a jihadi bomb-blast at Chennai RSS Office (5/11 were RSS pracharaks). 25 years later in 2018, the main accused Mushtaq Ahmed was arrested by CBI. Conviction still pending as of 2023.
+"""
+
+[names]
+sa = [ "चॆन्नै-नगरे स्वयं-सेवक-हत्या",]
