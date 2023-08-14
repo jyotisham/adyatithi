@@ -1,5 +1,5 @@
 default_to_none = true
-id = "manvAdiH~(dharmaH~[11])"
+id = "manvAdiH~(dharma-sAvarNiH~[11])"
 tags = [ "ManvadiDays",]
 references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
 jsonClass = "HinduCalendarEvent"
@@ -12,8 +12,8 @@ month_number = 8
 anga_type = "tithi"
 anga_number = 15
 kaala = "अपराह्णः"
-adhika_maasa_handling = "adhika_and_nija" # मन्वादिकं तैर्थिकं च कुर्यान्मासद्वयेऽपि च॥' इति स्मृतिचन्द्रिकोक्तेः।
+adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "मन्वादिः-(धर्मः-[११])",]
+sa = [ "मन्वादिः-(धर्म-सावर्णिः-[११])",]
