@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sAvitra-kalpAdiH"
+id = "sAvitrI-kalpAdiH"
 tags = [ "KalpadiDays",]
 shlokas = """
 अथ कल्पादयो राजन्कथ्यन्ते तिथयः शुभाः।
@@ -13,6 +13,7 @@ shlokas = """
 नवमी मार्गशीर्षस्य सप्तैताः संस्मराम्यहम्।
 कल्पानामादयो ह्येता दत्तस्याक्षय्यकारकाः॥
 ---मत्स्यपुराणे
+
 """
 references_primary = [ "Smriti Kaustubham p.87--88",]
 jsonClass = "HinduCalendarEvent"
@@ -23,7 +24,7 @@ month_type = "lunar_month"
 priority = "vyaapti"
 month_number = 8
 anga_type = "tithi"
-anga_number = 7
+anga_number = 22
 kaala = "अपराह्णः"
 adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
@@ -32,4 +33,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`sAvitra-kalpAdiH` is observed on this day. Performing `zrAddha` on this day gives `akSayatRpti` to `pitr`s. Although there are 30 Kalpadis described in various puranas, 7 of them are particularly special."
 
 [names]
-sa = [ "सावित्र-कल्पादिः",]
+sa = [ "सावित्री-कल्पादिः",]

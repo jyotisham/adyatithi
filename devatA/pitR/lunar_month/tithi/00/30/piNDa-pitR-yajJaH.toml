@@ -1,0 +1,19 @@
+default_to_none = true
+id = "piNDa-pitR-yajJaH"
+tags = [ "ShraddhaDays",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 0
+anga_type = "tithi"
+anga_number = 30
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Pinda Pitru Yajnam is a `zrAddham` to be done to two sets of Pitru Devatas. It is to be done in one's Agnihotra Agni or if that is not present then Aupasana Agni. Rice is cooked in a section of the Agni moved to the south-east. From this, even those whose father is living, give `Ahuti` to the Deva Pitru-s ie `sOma`, `yama` and `agni kavyavAhana`. Those whose father is not living should additionally give `piNDa`s to the Manushya Pitru-s also to whom `amAvAsyA-zrAddham` is also performed."
+
+[names]
+sa = [ "पिण्ड-पितृ-यज्ञः",]
