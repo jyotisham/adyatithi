@@ -6,10 +6,11 @@ jsonClass = "HinduCalendarEvent"
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-priority = "paraviddha"
 month_number = 5
 anga_type = "nakshatra"
 anga_number = 22
+kaala = "मैत्रः" # द्विमुहूर्त-व्याप्तिः आव्श्यका
+priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
