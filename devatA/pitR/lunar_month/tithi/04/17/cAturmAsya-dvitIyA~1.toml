@@ -2,13 +2,13 @@ default_to_none = true
 id = "cAturmAsya-dvitIyA~1"
 tags = [ "LessCommonFestivals",]
 references_secondary = [ "VrataNirnayaKalpavalli",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 आषाढकृष्णद्वितीया चातुर्मास्यद्वितीया। सा परविद्धा ग्राह्या। युग्माग्निवाक्यात्।
 उक्तञ्च वृद्धगार्म्येण---
 शुचावूर्जे तपस्ये च या द्वितीया विधुक्षये।
 चातुर्मास्यद्वितीयास्ताः प्रवदन्ति महर्षयः॥ इति।
 """
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -18,7 +18,6 @@ anga_type = "tithi"
 anga_number = 17
 priority = "vyaapti"
 kaala = "अपराह्णः"
-
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
