@@ -1,0 +1,19 @@
+default_to_none = true
+id = "pAtArka-yOgaH"
+tags = [ "RareDays", "Combinations",]
+references_secondary = [ "VrataNirnayaKalpavalli",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+भानोर्वारे व्यतीपातयोगः सम्पद्यते यदि।
+तदा पातार्कयोगोऽयं सहस्रार्कग्रहैः समः॥
+"""
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "When Vyatipata yoga falls on a Sunday, it is a special `yOgaH`, which is equal to a thousand Surya grahanas."
+
+[names]
+sa = [ "पातार्क-योगः",]
