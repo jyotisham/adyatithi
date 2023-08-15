@@ -13,7 +13,7 @@ shlokas = """
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-month_number = 7
+month_number = 4
 anga_type = "tithi"
 anga_number = 17
 priority = "vyaapti"
@@ -25,4 +25,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Shraaddha dinam."
 
 [names]
-sa = [ "चातुर्मास्य-द्वितीया~१",]
+sa = [ "चातुर्मास्य-द्वितीया",]
