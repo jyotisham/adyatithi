@@ -1,0 +1,19 @@
+default_to_none = true
+id = "agastyArghyam"
+tags = [ "TamilnaduTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+references_secondary = [ "VrataNirnayaKalpavalli",]
+shlokas = """
+कन्यासङ्क्रमणादर्वाग्वै सप्तमदिने अगस्त्यार्घ्यं दातव्यम्। उक्तं च हेमाद्रौ।
+कन्यायामागते सूर्ये अर्वाग्वै सप्तमे दिने।
+कन्यायाः समनुप्राप्त्यै ह्यगस्त्यार्घ्यं विधीयते॥
+"""
+
+[timing]
+default_to_none = true
+anchor_festival_id = "kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+offset = -7
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "अगस्त्यार्घ्यम्",]
