@@ -1,0 +1,25 @@
+id = "2022-angladvIpe_marUpaplavaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 9
+anga_number = 17
+year_start = 2022
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Islamists attack a hindu temple in Leicester, and desecrate flags.
+
+Some of these instigators propagated fake news to inflame tensions and attacks against Hindus of Leicester.
+
+1. Majid Freeman (claimed a muslim boy was harrassed - debunked the next day by Leicester police; claimed anti-pAki slogans in a rally - also debunked.)
+2. Riaz Khan
+3. 5 Pillars (Islamist mouthpiece)
+"""
+
+[names]
+sa = [ "२०२२ आङ्ग्लद्वीपे मरूपप्लवः",]
