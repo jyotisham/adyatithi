@@ -17,6 +17,11 @@ name = "gRhya/Apastamba"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/Apastamba"
 jsonClass = "RulesRepo"
 
+[[festival_options.repos]]
+name = "luno-tropical/smArta"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/luno-tropical/smArta"
+jsonClass = "RulesRepo"
+
 [graha_lopa_measures]
 jsonClass = "GrahaLopaMeasures"
 

@@ -204,6 +204,11 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/Rtu"
 jsonClass = "RulesRepo"
 
 [[data]]
+name = "time_focus/luno-tropical/smArta"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/luno-tropical/smArta"
+jsonClass = "RulesRepo"
+
+[[data]]
 name = "time_focus/misc"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/misc"
 jsonClass = "RulesRepo"
