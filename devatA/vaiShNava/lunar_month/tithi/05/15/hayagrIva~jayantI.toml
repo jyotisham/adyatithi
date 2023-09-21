@@ -4,7 +4,7 @@ tags = [ "OtherAvatarams",]
 shlokas = """
 ओङ्कारोद्गीथरूपाय ऋग्यजुस्साममूर्तये।
 नमोऽस्तुदेवदेवाय वाच्छितार्थप्रदायिने॥
-अज्ञानतिमिरं छिन्धि ज्ञानं चऽऽशु प्रयच्छ मे।
+अज्ञानतिमिरं छिन्धि ज्ञानं चाशु प्रयच्छ मे।
 देहि मे देव देवेश हयशीर्ष नमोऽस्तु ते॥
 """
 jsonClass = "HinduCalendarEvent"
@@ -18,7 +18,7 @@ anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Lord Hayagriva did upadesham of all four vedas to Brahma."
+en = "Lord Hayagriva did upadesha of all four Vedas to Brahma."
 
 [names]
 sa = [ "हयग्रीव-जयन्ती",]
