@@ -1,0 +1,23 @@
+default_to_none = true
+id = "puShkara-melA-samAptiH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Pushkar’s Kartik Purnima festival - pilgrims bathe in the waters of holy Lake Pushkar.
+
+Prior to this, for 3 days - folk dances, live music shows etc..
+
+Prior to that, for 4 days - big lifestock fair, with many horses, camels, cattle; plus some rustic competitions.
+"""
+
+[names]
+sa = [ "पुष्कर-मेला-समाप्तिः",]
