@@ -1,0 +1,22 @@
+default_to_none = true
+id = "sarasvatI-visarjanam"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "puurvaviddha"
+month_number = 7
+anga_type = "nakshatra"
+anga_number = 21
+kaala = "मध्याह्नः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+sa = """
+परेद्युः पूजिताद्य विस्रक्ष्यते देवी सरस्वती।
+"""
+
+[names]
+sa = [ "सरस्वती-विसर्जनम्",]
