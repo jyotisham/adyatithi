@@ -1,5 +1,5 @@
 default_to_none = true
-id = "rAjarAja-chola-dAnotsavaH"
+id = "rAjarAja-cOza-dAnotsavaH"
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -18,4 +18,5 @@ On this day (starting from his coronation year), rAjarAja choLa is commemorated 
 """
 
 [names]
-sa = [ "पून्तानं-जयन्ती",]
+sa = [ "राजराज-चोऴ-दानोत्सवः",]
+ta = ["cadaya-viZA",]
