@@ -1,0 +1,24 @@
+default_to_none = true
+id = "saptama-(apara)-pakSa-ArambhaH"
+tags = [ "SpecialPeriodStart",]
+shlokas = """
+गौणकालोऽप्युक्तो हेमाद्रौ ब्राह्मे---
+यावच्च कन्यातुलयोः क्रमादास्ते दिवाकरः।
+तावच्छ्राद्धस्य कालः स्याच्छून्यं प्रेतपुरं तदा॥
+कन्यागते सवितरि पितरो यान्ति वै सुतान्।
+शून्या प्रेतपुरी सर्वा यावद् वृश्चिकदर्शनम्॥
+ततो वृश्चिकसम्प्राप्तौ निराशाः पितरस्तदा।
+पुनः स्वभवनं यान्ति शापं दत्त्वा सुदारुणम्॥
+---पुरुषार्थ-चिन्तामणिः
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "While the Mahalaya Paksha (typically the 5th (Dark) Paksha from `ASADha`) is the most important time to perform `pitR-zrAddha`, our Shaastras have specified the `gauNakAla` or secondary timings for the performances for these very important `zrAddha`s. These `zrAddha`s can be performed in this paksha, in case circumstances prevented the performance of the `zrAddha`s in the `uttama-kAla`. Today marks the beginning of the 7th (Dark) Paksha from `ASADha`."
+
+[names]
+sa = [ "सप्तम-(अपर)-पक्ष-आरम्भः",]
