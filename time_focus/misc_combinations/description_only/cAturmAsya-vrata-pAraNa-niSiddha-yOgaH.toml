@@ -1,0 +1,17 @@
+default_to_none = true
+id = "cAturmAsya-vrata-pAraNa-niSiddha-yOgaH"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+रेवतीतुर्यचरणे द्वादशीसंयुते नरः।
+न कुर्यात् पारणं कुर्वन्व्रतं निष्फलतां नयेत्॥३०॥
+---श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
+"""
+references_primary = [ "Skanda Puranam",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "चातुर्मास्य-व्रत-पारण-निषिद्द्ध-योगः",]
