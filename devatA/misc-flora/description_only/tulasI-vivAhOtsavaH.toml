@@ -1,5 +1,5 @@
 default_to_none = true
-id = "tulasI-vivAhOtsava-samApanam"
+id = "tulasI-vivAhOtsavaH"
 tags = [ "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -76,13 +76,7 @@ references_primary = [ "Skanda Puranam",]
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
-priority = "puurvaviddha"
-month_number = 8
-anga_type = "tithi"
-anga_number = 12
-kaala = "मध्याह्नः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "तुलसी-विवाहः",]
+sa = [ "तुलसी-विवाहोत्सवः",]
