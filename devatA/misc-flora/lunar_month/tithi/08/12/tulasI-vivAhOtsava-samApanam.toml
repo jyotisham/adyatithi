@@ -1,7 +1,6 @@
 default_to_none = true
 id = "tulasI-vivAhOtsava-samApanam"
 tags = [ "CommonFestivals",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 कनकस्य सुता पूर्वमेकादश्यां किशोरिका।
 चकार भक्तितः सायं तुलस्युद्वाहजं विधिम्॥९॥
@@ -73,6 +72,7 @@ shlokas = """
 ---श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
 """
 references_primary = [ "Skanda Puranam",]
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
