@@ -7,5 +7,8 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Lunar eclipse, where the Moon is at the ‘Rahu node’."
+
 [names]
 sa = [ "चन्द्र-ग्रहणम्-(राहुग्रस्त)",]

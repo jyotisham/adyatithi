@@ -13,5 +13,8 @@ references_primary = [ "Skanda Puranam",]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "When the last `pAda` of the Revati asterism is conjoined with Dvadashi tithi, it is not appropriate to break the fast---renders the vratam futile."
+
 [names]
 sa = [ "चातुर्मास्य-व्रत-पारण-निषिद्ध-योगः",]
