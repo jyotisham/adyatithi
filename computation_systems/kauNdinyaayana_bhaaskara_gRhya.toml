@@ -1,6 +1,7 @@
 lunar_month_assigner_type = "SOLSTICE_POST_DARK_10_ADHIKA"
 ayanaamsha_id = "CHITRA_AT_180"
 jsonClass = "ComputationSystem"
+short_id = "उकौ॰"
 
 [festival_options]
 aparaahna_as_second_half = true
