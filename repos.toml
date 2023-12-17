@@ -124,8 +124,8 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/mAdhv
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "mahApuruSha/nAyanAr"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/nAyanAr"
+name = "mahApuruSha/nAyanmAr"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/mahApuruSha/nAyanmAr"
 jsonClass = "RulesRepo"
 
 [[data]]
