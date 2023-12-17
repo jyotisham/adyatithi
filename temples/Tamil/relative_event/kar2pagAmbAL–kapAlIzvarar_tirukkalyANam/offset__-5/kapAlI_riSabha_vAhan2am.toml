@@ -9,6 +9,9 @@ anchor_festival_id = "kar2pagAmbAL–kapAlIzvarar_tirukkalyANam"
 offset = -5
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = """The Rishabha Vahanam festival is also part of the larger Panguni Utsavam at the Sri Kapaleeswarar Temple in Mylapore, Chennai. It celebrates Lord Shiva's ride, the bull Nandi, who is adorned in a special gold-plated vahanam (mount) shaped like a bull. The procession usually begins late at night, around 10:00 PM, and continues until the early hours of morning! The sight of the majestic gold-plated Nandi vahanam, illuminated and decorated with flowers, is a stunning visual spectacle. The procession winds through the Mada streets of Mylapore, accompanied by vibrant music, chanting, and enthusiastic devotees."""
+
 [names]
 ta = [ "kapAlI riSabha vAhan2am",]
 sa = [ "कपालि-वृषभ-वाहनम्",]
