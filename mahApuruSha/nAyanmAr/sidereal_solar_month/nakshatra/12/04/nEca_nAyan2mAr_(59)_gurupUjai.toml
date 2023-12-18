@@ -1,6 +1,7 @@
 default_to_none = true
 id = "nEca_nAyan2mAr_(59)_gurupUjai"
 tags = [ "NayanmarGurupujai",]
+references_secondary = [ "63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
