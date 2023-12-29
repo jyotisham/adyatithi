@@ -29,7 +29,7 @@ jobs:
     - uses: actions/checkout@master
       with:
         repository: jyotisham/jyotisha
-        submodules: 'true'
+        submodules: 'false'
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
     - name: Get current date
       id: date
