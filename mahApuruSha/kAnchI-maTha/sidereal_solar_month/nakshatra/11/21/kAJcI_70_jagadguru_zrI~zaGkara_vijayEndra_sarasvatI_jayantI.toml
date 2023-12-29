@@ -2,6 +2,9 @@ default_to_none = true
 id = "kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_jayantI"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+नमामः शङ्करान्वाख्य-विजयेन्द्रसरस्वतीम्।
+श्रीगुरुं शिष्टमार्गानुनेतारं सन्मतिप्रदम्॥"""
 
 [timing]
 default_to_none = true
