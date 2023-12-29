@@ -38,12 +38,13 @@ jobs:
         echo "date={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
         echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
         cat $GITHUB_OUTPUT
-    - name: Update submodules
-      id: update_submods
+    - name: Init submodules, update hugo-source
       run: |
         set -o xtrace
-        git submodule update --init --recursive
-        git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
+        git submodule update  --init --recursive
+        git submodule update --remote --merge --recursive hugo-source/content/output
+        git submodule update --remote --merge --recursive hugo-source/themes/sanskrit-documentation-theme-hugo
+        git submodule update --remote --merge --recursive jyotisha/panchaanga/temporal/festival/data
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
