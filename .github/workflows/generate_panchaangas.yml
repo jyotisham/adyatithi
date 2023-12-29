@@ -26,7 +26,7 @@ jobs:
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@master
       with:
         repository: jyotisham/jyotisha
         submodules: 'true'
@@ -38,14 +38,12 @@ jobs:
         echo "date={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
         echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
         cat $GITHUB_OUTPUT
-    - name: Init submodules, update hugo-source
+    - name: Init submodules, update some
       run: |
         set -o xtrace
         pwd
         git submodule update  --init --recursive
-        git submodule update --remote --merge --recursive hugo-source/themes/sanskrit-documentation-theme-hugo
-        git submodule update --remote --merge --recursive jyotisha/panchaanga/temporal/festival/data
-        git submodule update --remote --merge --recursive hugo-source/content/output
+        git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
