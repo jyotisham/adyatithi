@@ -41,10 +41,11 @@ jobs:
     - name: Init submodules, update hugo-source
       run: |
         set -o xtrace
+        pwd
         git submodule update  --init --recursive
-        git submodule update --remote --merge --recursive hugo-source/content/output
         git submodule update --remote --merge --recursive hugo-source/themes/sanskrit-documentation-theme-hugo
         git submodule update --remote --merge --recursive jyotisha/panchaanga/temporal/festival/data
+        git submodule update --remote --merge --recursive hugo-source/content/output
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
