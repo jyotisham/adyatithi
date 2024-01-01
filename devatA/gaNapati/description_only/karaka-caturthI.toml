@@ -3,13 +3,31 @@ id = "karaka-caturthI"
 tags = [ "SpecialPuja",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"
+shloka = """
+चतुर्थ्यां कार्तिके कृष्णे करकाख्यं व्रतं स्मृतम्॥४३॥
+स्त्रीणामेवाधिकारोऽत्र तद्विधानमुदीर्यते।
+पूजयेच्च गणाधीशं स्नाता स्त्री समलङ्कृता॥४४॥
+तदग्रे पूर्णपक्वान्नं विन्यसेत् करकान् दश।
+समर्प्य देवदेवाय भक्त्या प्रयतमानसा॥४५॥
+देवो मे प्रीयतामेवमुच्चार्याथ समर्पयेत्।
+सुवासिनीभ्यो विप्रेभ्यो यथाकामं च सादरम्॥४६॥
+ततश्चन्द्रोदये रात्रौ दत्त्वार्घं विधिपूर्वकम्।
+भुञ्जीत मिष्टमन्नं च व्रतस्य परिपूर्तये॥४७॥
+यद्वा क्षीरेण करकं पूर्णं तोयेन वा मुने।
+सपूगाक्षतरत्नाढ्यं द्विजाय प्रतिपादयेत्॥४८॥
+एतत्कृत्वा व्रतं नारी षोडशद्वादशाब्दकम्।
+उपायनं विधायाथ व्रतमेतद् विसर्ज्जयेत्॥४९॥
+यावज्जीवं तु वा नार्या कार्यं सौभाग्यवाञ्छया।
+व्रतेनानेन सदृशं स्त्रीणां सौभाग्यदायकम्॥५०॥
+विद्यते भुवनेष्वन्यत्तस्मान्नित्यमिति स्थितिः।
+---श्रीबृहन्नारदीयपुराणे पूर्वभागे बृहदुपाख्याने चतुर्थपादे द्वाद्शमास-चतुर्थीव्रतनिरूपणं नाम त्रयोदशाधिकसततमोऽध्यायः"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Karaka chaturthi vratam --- the famous Karwa Chauth festival is celebrated on this day."
+en = "Karaka chaturthi vratam --- the famous Karwa Chauth festival is celebrated on this day. Only women have the right to perform this vratam. This vratam must be performed for 12 or 16 years or lifelong. At moonrise, one should offer Arghya to Lord Ganesha and partake the offerings."
 
 [names]
 sa = [ "करक-चतुर्थी",]
