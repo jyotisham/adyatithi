@@ -12,14 +12,32 @@ shlokas = """
 प्रमादादथवाऽऽलस्याद्धरे केशव माधव।
 व्रतस्यास्य च वै विघ्नो न भवेत्त्वत्प्रसादतः॥
 --पद्मपुराणे
-"""
+मार्गशीर्षे सिते पक्षे मोक्षा नामेति नामतः।
+सर्वैश्चेतद् व्रतं कार्यं पित्रे पुण्यं प्रदीयताम्॥३९॥
+तेन पुण्यप्रभावेन मोक्षस्तेषां भविष्यति।
+सत्यमेतन्महाभाग ब्रह्मणो वचनं यथा॥४०॥
+मुनेर्वाक्यं ततः श्रुत्वा स्वगृहं पुनरागतः।
+मार्गशीर्षस्तथा मासः प्राप्तः कष्टेन तेन वै॥४१॥
+मुनेर्वाक्येन तत्कृत्वा व्रतं वैखानसो नृपः।
+अददत्पुण्यमखिलैः सार्द्धं पित्रे स भूमिपः॥४२॥
+दत्ते पुण्यक्षणेनैव पुष्पवृष्टिरभूद्दिवि।
+वैखानसस्य तातो वै पितृभिर्मोक्षमाविशत्॥४३॥
+राजानं चान्तरिक्षे स गिरं पुण्यामुवाच ह।
+स्वस्तिस्वस्तीति ते पुत्र प्रोच्य चैवं दिवं गतः॥४४॥
+एवं यः कुरुते राजन् मोक्षामेकादशीं शुभाम्।
+तस्य पापानि नश्यन्ति मृतो मोक्षमवाप्नुयात्॥४५॥
+नातः परतरा काचिन्मोक्षदैकादशी भवेत्।
+पुण्यसङ्ख्यां न जानामि राजन् मे प्रियकृद् व्रतम्॥४६॥
+चिन्तामणिसमा ह्येषा नृणां मोक्षप्रदायिनी।
+पठनाच्छ्रवणादस्या वाजपेयफलं लभेत्॥४७॥
+---इति श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे मार्गशीर्ष-शुक्ल-मोक्षदा एकादशी नामैकचत्वारिंशोऽध्यायः"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "The Shukla-paksha Ekadashi of `mArgazIrSa` month is known as `mOkSadA-EkAdazI`."
+en = "The Shukla-paksha Ekadashi of `mArgazIrSa` month is known as `mOkSadA-EkAdazI`. During the bright half of Mārgaśīrṣa, the Mokṣadā Ekādaśī vratam is observed, and it is recommended that its religious merits be dedicated to deceased ancestors for their salvation, as stated by Brahmā. King Vaikhānasa, after hearing a sage's advice, returned home and observed this vow during Mārgaśīrṣa. Just as he dedicated its merits to his father, a shower of flowers fell from the sky, leading to a miracle ---  celestial event where flowers showered from the sky, and Vaikhānasa's father and ancestors attained salvation! From the heavens, the father blessed his son and ascended to the divine realm. Observing the Mokṣadā Ekādaśī vratam eradicates sins and grants salvation after death. This Ekādaśī is deemed unparalleled in its ability to offer salvation. The extent of its religious merit is immeasurable, likened to a wish-fulfilling gem. Simply reading or hearing of this vratam bestows religious merit comparable to that of a Vājapeya sacrifice."
 
 [names]
 sa = [ "मोक्षदा-एकादशी",]
