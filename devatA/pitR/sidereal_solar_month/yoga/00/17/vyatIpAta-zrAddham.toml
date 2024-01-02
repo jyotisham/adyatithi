@@ -2,7 +2,7 @@ default_to_none = true
 id = "vyatIpAta-zrAddham"
 tags = [ "MonthlyShraddhaDays", "ShannavatiTarpanaDays",]
 jsonClass = "HinduCalendarEvent"
-references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
+references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
 shlokas = """
 स्मृत्यन्तरे---
 अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।

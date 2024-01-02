@@ -2,6 +2,7 @@ default_to_none = true
 id = "mahAdhanurvyatIpAta-zrAddham"
 tags = [ "ShraddhaDays",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
 shlokas = """
 व्यतीपात महाबाहो सर्वपापप्रणाशन।
 सहस्रबाहो विश्वात्मन् गृहाणार्घ्यं नमोऽस्तु ते॥
@@ -9,8 +10,7 @@ shlokas = """
 अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
 अष्टकाश्चैव मन्वादिर्युगादिश्च महालयः॥
 चन्द्रसूर्योपरागश्च गजच्छाया तथैव च।
-द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥
-"""
+द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥"""
 
 [timing]
 default_to_none = true
