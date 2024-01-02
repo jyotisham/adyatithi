@@ -2,8 +2,12 @@ default_to_none = true
 id = "kArttika-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
 references_primary = [ "Satyavrata Smriti",]
-references_secondary = [ "Vaidikasri",]
+references_secondary = [ "Vrata Nirnaya Kalpavalli",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+भविष्ये---
+वैशाखी कार्तिकी माघी ह्याषाढ्यप्यतिपुण्यदाः।
+स्नानदानविहीना वै तासु रौरवगामिनः॥"""
 
 [timing]
 default_to_none = true
