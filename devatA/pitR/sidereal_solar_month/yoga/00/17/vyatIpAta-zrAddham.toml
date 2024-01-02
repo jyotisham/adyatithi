@@ -2,6 +2,13 @@ default_to_none = true
 id = "vyatIpAta-zrAddham"
 tags = [ "MonthlyShraddhaDays", "ShannavatiTarpanaDays",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "`vaidyanAtha-dIkSitIyam`",]
+shlokas = """
+स्मृत्यन्तरे---
+अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
+अष्टकाश्चैव मन्वादिर्युगादिश्च महालयः॥
+चन्द्रसूर्योपरागश्च गजच्छाया तथैव च।
+द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥"""
 
 [timing]
 default_to_none = true
