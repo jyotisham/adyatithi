@@ -1,7 +1,14 @@
 default_to_none = true
 id = "saptama-(apara)-pakSaH"
 tags = [ "SpecialPeriod",]
+references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
+jsonClass = "HinduCalendarEvent"
 shlokas = """
+स्मृत्यन्तरे---
+अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
+अष्टकाश्चैव मन्वादिर्युगादिश्च महालयः॥
+चन्द्रसूर्योपरागश्च गजच्छाया तथैव च।
+द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥
 गौणकालोऽप्युक्तो हेमाद्रौ ब्राह्मे---
 यावच्च कन्यातुलयोः क्रमादास्ते दिवाकरः।
 तावच्छ्राद्धस्य कालः स्याच्छून्यं प्रेतपुरं तदा॥
@@ -11,7 +18,6 @@ shlokas = """
 पुनः स्वभवनं यान्ति शापं दत्त्वा सुदारुणम्॥
 ---पुरुषार्थ-चिन्तामणिः
 """
-jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
