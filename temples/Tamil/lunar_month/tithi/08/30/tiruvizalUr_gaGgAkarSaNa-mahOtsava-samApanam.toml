@@ -66,6 +66,7 @@ month_number = 8
 anga_type = "tithi"
 anga_number = 30
 kaala = "अपराह्णः"
+priority = "vyaapti"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
