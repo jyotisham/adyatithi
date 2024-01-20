@@ -2,13 +2,17 @@ default_to_none = true
 id = "vaidhRti-zrAddham"
 tags = [ "MonthlyShraddhaDays", "ShannavatiTarpanaDays",]
 jsonClass = "HinduCalendarEvent"
-references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
+references_primary = [ "Smriti Muktaphalam",]
 shlokas = """
 स्मृत्यन्तरे---
 अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
 अष्टकाश्चैव मन्वादिर्युगादिश्च महालयः॥
 चन्द्रसूर्योपरागश्च गजच्छाया तथैव च।
-द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥"""
+द्रव्यब्राह्मणसम्पत्तिः श्राद्धकालाः प्रकीर्तिताः॥
+---स्मृतिमुक्ताफले श्राद्धकाण्डे उत्तरभागे
+भारद्वाजः---
+व्यतीपाते वैधृतौ च दत्तमक्षयकृद् भवेत्।
+---स्मृतिमुक्ताफले वर्णाश्रमधर्मकाण्डे"""
 
 [timing]
 default_to_none = true
