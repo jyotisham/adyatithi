@@ -2,7 +2,6 @@ default_to_none = true
 id = "naraka-caturdazI-snAnam"
 tags = [ "CommonFestivals",]
 references_primary = [ "Smriti Kaustubham p.370",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 मदनरत्ने भविष्ये---
 कार्तिक-कृष्णपक्षे तु चतुर्दश्यां विधूदये।
@@ -18,7 +17,9 @@ shlokas = """
 सीतालोष्ट-समायुक्त सकण्टकदलान्वित।
 हर पापमपामार्ग भ्राम्यमाणः पुनः पुनः॥
 अपामार्गस्य पत्राणि भ्रामयेच्छिरसोपरि।
-ततश्च तर्पणं कार्यं धर्मराजस्य नामभिः॥"""
+ततश्च तर्पणं कार्यं धर्मराजस्य नामभिः॥
+"""
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -31,7 +32,8 @@ kaala = "प्राक्तनारुणोदयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = """* ShriKrishna killed Muraasura and Narakaasura on this day.
+en = """
+* ShriKrishna killed Muraasura and Narakaasura on this day.
 * Must perform Taila-abhyangana-snaanam in early morning before sunrise, else Narakam (as per PadmaPurana). If done, equal to GangaSnanam and avoids YamaYaatanam. Use water stored from previous day. Previous day night do pooja to water. Use this water on Chaturdashi. With plough uproot Apaamaarga-vruksham (small one) and put in the water (do not pluck with hand!). Do dhyaanam of Seeta.
 * As per KalikaPuranam, Naraka was also upraised by Janaka. He was then sent to PraagjyotishaPuram.
 """
