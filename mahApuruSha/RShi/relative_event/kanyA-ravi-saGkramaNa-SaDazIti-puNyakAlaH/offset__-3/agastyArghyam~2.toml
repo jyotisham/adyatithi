@@ -1,0 +1,34 @@
+default_to_none = true
+id = "agastyArghyam~2"
+tags = [ "OtherFestivals",]
+references_primary = [ "Krtyasarasamucchaya p. 17",]
+shlokas = """
+कृत्यसारसमुच्चयः---
+ब्रह्मवैवर्ते---
+अप्राप्ते भास्करे कन्यां शेषभूतैत्रिभिर्दिनैः।
+अर्घं दद्युरगस्त्याय गौडदेशनिवासिनः॥
+नारसिंहे---
+शङ्खे तोयं विनिक्षिप्य सितपुष्पाक्षतैर्युतम्।
+मन्त्रेणानेन वै दद्याद् दक्षिणाभिमुखः स्थितः॥
+अनेन 'शंखं पुष्पं फलं तोयम्' इत्यादि मन्त्रेण। अत्र दिनत्रये मन्त्रत्रयं यथा---
+कुम्भयोनिसमुत्पन्न मुनीनां मुनिसत्तम।
+उदयं ते लङ्काद्वारेऽर्घोऽयं प्रतिगृह्यताम्॥१॥
+शङ्खं पुष्पं फलं तोयं रत्नानि विविधानि च।
+उदयं ते लङ्काद्वारेऽर्घोऽयं प्रतिगृह्यताम्॥२॥
+काशपुष्पप्रतीकाश वह्निमारुतसम्भव।
+उदयं ते लङ्काद्वारेऽर्घोऽयं प्रतिगृह्यताम्॥३॥
+इति केचित्। रसमालायां तु प्रथमदिने तृतीयमन्त्रः, द्वितीये-प्रथममन्त्रः इति भेदः।
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+offset = -3
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Give arghyam to Agastya Maharshi during these three days."
+
+[names]
+sa = [ "अगस्त्यार्घ्यम्",]
