@@ -1,0 +1,29 @@
+default_to_none = true
+id = "brahmaputrasnAnam"
+tags = [ "LessCommonFestivals",]
+references_primary = [ "Krtyasarasamucchaya p. 3",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+स्कान्दे---
+चैत्रे मासि सिताष्टभ्यां यो नरो नियतेन्द्रियः।
+स्नायाल्लौहित्यतोयेषु स याति ब्रह्मणः पदम्॥
+लौहित्यो ब्रह्मपुत्रः। तत्र सङ्कल्पः---
+ओमद्येत्यादि सर्वपापक्षयपूर्वकब्रह्मपदगमनकामो ब्रह्मपुत्रस्नानमहं करिष्ये इति।
+ॐ ब्रह्मपुत्र महाभाग शन्तनोः कुलसम्भव।
+अमोघागर्भसम्भत पापं लौहित्य मे हर॥
+इति पठित्वा स्नायात्।
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 8
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Perform snanam in Brahmaputra."
+
+[names]
+sa = [ "ब्रह्मपुत्रस्नानम्",]
