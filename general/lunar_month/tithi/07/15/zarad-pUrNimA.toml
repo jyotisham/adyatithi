@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zarad-pUrNimA"
+id = "zarat-pUrNimA"
 tags = [ "PurnimaDays", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -12,4 +12,4 @@ anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "शरत्-पूर्णिमा",]
+sa = [ "शरत्-पूर्णिमा/नवान्न-पूर्णिमा",]
