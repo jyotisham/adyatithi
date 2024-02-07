@@ -1,0 +1,25 @@
+id = "Agra-yuddham"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 18
+year_start = 1788
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+In a massive battle, Mahadji defeated Ismail Beg.
+
+From a report:
+
+The battle with Ismail Beg was enormous. Cavalry was split into three divisions, and one large division of the battalions.  
+The battle began with cannonfire. Ismail Beg advanced on our batteries. Then the cavalry attacked from all three sides (2 wings and rear) and slew them in great numbers. Slaying the battalions, we captured 50 cannons, 8 elephants, standards and other camp equipment. A large number have been taken prisoner.  
+Ismail Beg has a sword and spear wound. He fled with barely 20 bodyguards across the river to join Ghulam Kadir. The army performed exceedingly well. They marched right into cannonfire.
+"""
+
+[names]
+sa = [ "अग्र-युद्धम्",]
