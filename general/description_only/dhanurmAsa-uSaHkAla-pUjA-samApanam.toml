@@ -1,7 +1,6 @@
 default_to_none = true
-id = "dhanurmasa-uSaHkAla-pUjA-ArambhaH"
-tags = [ "SpecialPujas", "CommonFestivals", "SpecialPeriodStart"]
-jsonClass = "HinduCalendarEvent"
+id = "dhanurmAsa-uSaHkAla-pUjA-samApanam"
+tags = [ "SpecialPujas", "CommonFestivals", "SpecialPeriodEnd",]
 shlokas = """
 भास्करीये---
 अयनं दक्षिणं रात्रिरुत्तरं तु दिवा भवेत्।
@@ -27,14 +26,17 @@ shlokas = """
 कोदण्डस्थे सवितरि प्रत्यूषे पूजयेद्धरेः।
 सहस्राब्दार्चनफलं दिनेनैकेन लभ्यते॥
 """
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = """Beginning of Dhanurmasa puja in temples and at homes. A very early morning puja is performed, typically with `mudgAnnam` as naivedyam. Begets fruit equivalent to performing puja for a thousand years!
-The two ayana-s of the Sun are night and day for the Devas. 30 of these days become a month. The `uSahkAla` of their day starts in `cApamAsa` i.e. `dhanurmAsa` (although the shloka refers to the sidereal month, it appears logical to use the tropical month, owing to its association with `uttarAyaNam`). Therefore, one must strive to perform `uSahkAla-pujA` in this month, before sunrise --- a `SODazOpacAra-pUjA`. Following this, one must perform Sandhyavandam and upasthanam! The Shivapurana also extols the uniqueness of the early morning puja in this month, suggesting that one must perform `rudrAbhiSeka`."""
+en = """
+Beginning of Dhanurmasa puja in temples and at homes. A very early morning puja is performed, typically with `mudgAnnam` as naivedyam. Begets fruit equivalent to performing puja for a thousand years!
+The two ayana-s of the Sun are night and day for the Devas. 30 of these days become a month. The `uSahkAla` of their day starts in `cApamAsa` i.e. `dhanurmAsa` (although the shloka refers to the sidereal month, it appears logical to use the tropical month, owing to its association with `uttarAyaNam`). Therefore, one must strive to perform `uSahkAla-pujA` in this month, before sunrise --- a `SODazOpacAra-pUjA`. Following this, one must perform Sandhyavandam and upasthanam! The Shivapurana also extols the uniqueness of the early morning puja in this month, suggesting that one must perform `rudrAbhiSeka`.
+"""
 
 [names]
-sa = [ "धनुर्मास-उषःकाल-पूजारम्भः",]
+sa = [ "धनुर्मास-उषःकाल-पूजा-समापनम्",]
