@@ -1,5 +1,5 @@
 default_to_none = true
-id = "girijA-kalyANam"
+id = "girijA-vivAhaH"
 tags = [ "SringeriFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -12,4 +12,4 @@ anga_number = 12
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "गिरिजा-कल्याणम्",]
+sa = [ "गिरिजा-विवाहः",]
