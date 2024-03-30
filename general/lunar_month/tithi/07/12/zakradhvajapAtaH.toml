@@ -1,0 +1,24 @@
+default_to_none = true
+id = "zakradhvajapAtaH"
+tags = [ "LessCommonFestivals",]
+shlokas = """
+याज्ञवल्क्यः---
+त्वहोरात्रं शक्रपाते तथोच्छ्रये। [अनध्यायः]
+शक्रपातः --- आश्वयुक्छुक्लद्वादशी॥
+"""
+references_primary = [ "Smriti Muktaphalam Part 1 (SVR), p. 150",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+anga_type = "tithi"
+anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The flag hoisted in the honour of Indra is lowered on this day. It is also a day of `anadhyayanam`."
+
+[names]
+sa = ["शक्रध्वजपातः"]
