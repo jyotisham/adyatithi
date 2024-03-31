@@ -274,6 +274,11 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/kalpAd
 jsonClass = "RulesRepo"
 
 [[data]]
+name = "time_focus/adhyayana"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/adhyayana"
+jsonClass = "RulesRepo"
+
+[[data]]
 name = "time_focus/manvAdiH"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/manvAdiH"
 jsonClass = "RulesRepo"
