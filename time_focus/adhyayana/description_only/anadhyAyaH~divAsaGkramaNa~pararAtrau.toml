@@ -30,7 +30,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "When `saGkramaNa` happens in the night, the previous and next day (daylight time) are `anadhyayana`. If `saGkramaNa` happens in the night, the previous and next nights are `anadhyayana`."
+en = "Anadhyayana during the night, as it follows `saGkramaNa`. When `saGkramaNa` happens in the night, the previous and next day (daylight time) are `anadhyayana`. If `saGkramaNa` happens in the night, the previous and next nights are `anadhyayana`."
 
 [names]
 sa = ["अनध्यायः"]

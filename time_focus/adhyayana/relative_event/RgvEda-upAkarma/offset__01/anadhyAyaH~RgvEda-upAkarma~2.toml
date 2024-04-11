@@ -1,5 +1,5 @@
 default_to_none = true
-id = "anadhyAyaH~yajur-upAkarma~2"
+id = "anadhyAyaH~RgvEda-upAkarma~2"
 shlokas = """
 उपाकर्मणि चोत्सर्गे त्रिरात्रं क्षपणं स्मृतम्॥७५॥
 ---श्रीकूर्मपुराणे षट्‌साहस्त्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
@@ -27,7 +27,7 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-anchor_festival_id = "sAmavEda-upAkarma"
+anchor_festival_id = "RgvEda-upAkarma"
 offset = 1
 jsonClass = "HinduCalendarEventTiming"
 
