@@ -1,15 +1,19 @@
 default_to_none = true
 id = "mESa-saGkramaNa-puNyakAlaH"
+references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
-मेष संक्रमणे भानोर्मेषदानं महाफलम्॥
+मेष सङ्क्रमणे भानोर्मेषदानं महाफलम्॥
 ---स्मृतिकौस्तुभे
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
 सूर्यसङ्क्रमणे पुण्ये न स्नायाद्यदि मानवः।
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
-(स्मृतिमुक्ताफले आह्निक-काण्डे-पूर्वभागः)
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+वर्तमाने तुलामेषे नाड्यस्तूभयतो दश।
+या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
 """
 jsonClass = "HinduCalendarEvent"
 
@@ -18,7 +22,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Meṣa-Saṅkramaṇa Punyakala. Tamil New Year."
+en = "Meṣa-Saṅkramaṇa Punyakala. For `mEsa-saGkramaNa-puNyakAla` the 10 ghatikas preceding and succeeding the `saGkramaNa` forms a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
 
 [names]
 sa = [ "मेष-सङ्क्रमण-पुण्यकालः",]

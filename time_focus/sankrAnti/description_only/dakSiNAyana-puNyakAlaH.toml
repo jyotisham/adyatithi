@@ -1,5 +1,6 @@
 default_to_none = true
 id = "dakSiNAyana-puNyakAlaH"
+references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -7,7 +8,13 @@ shlokas = """
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
-(स्मृतिमुक्ताफले आह्निक-काण्डे-पूर्वभागः)
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+अतीतानागते पुण्ये द्वे उदग्दक्षिणायने।
+त्रिंशत्कर्कटके नाड्यो मकरे विंशतिः स्मृताः॥
+या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+जाबालिः---
+सङ्क्रान्तिषु यथा कालस्तदीयेऽप्ययने तथा।
 """
 jsonClass = "HinduCalendarEvent"
 
@@ -16,7 +23,13 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Dakṣiṇāyana Punyakala."
+en = """`dakSiNAyana-puNyakAlaH`. For `dakSiNAyana`, the 30 ghatikas preceding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred.
+
+While the `nirayana` `puNyakAla`-s are well known, marked by the transit of the Sun into various `rAzI`-s (which confer the name to the corresponding `saura` month), there are also `ayana`-s and `sAyana` `saGkramaNa`-s, which mark the position of the Sun above the Northern or Southern parts of the Earth. These determine the `Rtu`-s, and also the very famous `uttarAyaNa` and `dakSinAyana` (movement of the Sun towards North or South, respectively). While these two types of `puNyakAla`-s (`sAyana` and `nirayana`) coincided millennia ago, there has been a gradual precession of the equinoxes, owing to the nature of the Earth's rotation, causing the `sAyana` `saGkramaNa`-s to happen about 24 days before the `nirayana` `saGkramaNa`-s. In that era, `uttarAyaNa` coincided with `makara-saGkramaNa` and `dakSinAyana` coincided with `karkaTaka-saGkramaNa`, and the `mEsa` and `tulA` `saGkramaNa`-s corresponded to the equinoxes, when the Sun rises direct East (and sets direct West).
+
+Many Dharma Shastra texts recognise the separate `puNyakAla`-s for both types of `saGkramaNa`-s. The vachanam of Jaabaali Maharshi is mentioned above, where he says that the `puNyakAla`-s are identical (in their reckoning) for both types of `saGkramaNa`-s. In Kala Madhava, which is considered as the source text of the kala vicharas of the Dikshitiya, it is said in the 5th prakarana that,  meṣādi-saṅkrāntayo yasmin dine bhavanti tasmād dināt pūrvebhyaḥ ekādaśabhyo dinebhyaḥ prācīne dine, noting that Sayana Sankramanas occurred ~11 days before the day when the Mesha Sankramanas etc occur. Further references are seen in Dharma Sindhu first pariccheda, Jayasimha Kalpadruma sankranti nirnaya and Nirnaya Sindhu first pariccheda. There are also ample references in Vedas, illustrating how Ayana-s happened much later (in certain other eras), e.g. Shukla Yajur Veda Shatapatha Brahmana (Ekapaat Kanda 1/2/3), Nakshatra Sukta belonging to the Atharva Veda (Shaunaka Samhita 19/7/2), Maitrayaniya Aranyaka (6/14), and Taittiriya Brahmana (1/5/2).
+
+For a wonderfully detailed exposition on the topic, see https://sites.google.com/view/nakshatradarsha/dakshinayana-en and https://sites.google.com/view/nakshatradarsha/uttarayana-en ."""
 
 [names]
 sa = [ "दक्षिणायन-पुण्यकालः",]

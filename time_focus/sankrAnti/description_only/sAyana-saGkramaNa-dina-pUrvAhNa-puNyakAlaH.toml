@@ -2,13 +2,28 @@ default_to_none = true
 id = "sAyana-saGkramaNa-dina-pUrvAhNa-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+जाबालिः---
+सङ्क्रान्तिषु यथा कालस्तदीयेऽप्ययने तथा।
+पुलस्त्य-सिद्धान्ते---
+अयनांश-संस्कृतो भानुः नाले चरति सर्वदा।
+अमुख्या राशिसङ्क्रान्तिः तुल्यः कालविधिस्तयोः।
+स्नान-दान-जप-श्राद्ध-व्रत-होमादि-कर्मभिः।
+सुकृतं चल-सङ्क्रान्तौ अक्षयं पुरुषोऽश्नुते॥
+"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "When the transit of the Sun (`saGkrAnti`) happens in the first half of the day (`pUrvAhNa`) or after midnight of the previous day, the first half of the day is a `puNyakAla` for various observances. In addition to 16 ghatikas on either side of the transition, and specific `puNyakAlas` like `SaDazIti`, `viSNupadI` etc., this is also useful, especially in cases where the other `puNyakAlas` are inconvenient for appropriate performance of rituals such as `snAna`, `dAna`, `tarpaNa`, etc."
+en = """When the transit of the Sun (`saGkrAnti`) happens in the first half of the day (`pUrvAhNa`) or after midnight of the previous day, the first half of the day form a `puNyakAla` for various observances. In addition to 16 ghatikas on either side of the transition, and specific `puNyakAlas` like `SaDazIti`, `viSNupadI` etc., this is also useful, especially in cases where the other `puNyakAlas` are inconvenient for appropriate performance of rituals such as `snAna`, `dAna`, `tarpaNa`, etc.
+
+While the `nirayana` `puNyakAla`-s are well known, marked by the transit of the Sun into various `rAzI`-s (which confer the name to the corresponding `saura` month), there are also `ayana`-s and `sAyana` `saGkramaNa`-s, which mark the position of the Sun above the Northern or Southern parts of the Earth. These determine the `Rtu`-s, and also the very famous `uttarAyaNa` and `dakSinAyana` (movement of the Sun towards North or South, respectively). While these two types of `puNyakAla`-s (`sAyana` and `nirayana`) coincided millennia ago, there has been a gradual precession of the equinoxes, owing to the nature of the Earth's rotation, causing the `sAyana` `saGkramaNa`-s to happen about 24 days before the `nirayana` `saGkramaNa`-s. In that era, `uttarAyaNa` coincided with `makara-saGkramaNa` and `dakSinAyana` coincided with `karkaTaka-saGkramaNa`, and the `mEsa` and `tulA` `saGkramaNa`-s corresponded to the equinoxes, when the Sun rises direct East (and sets direct West).
+
+Many Dharma Shastra texts recognise the separate `puNyakAla`-s for both types of `saGkramaNa`-s. The vachanam of Jaabaali Maharshi is mentioned above, where he says that the `puNyakAla`-s are identical (in their reckoning) for both types of `saGkramaNa`-s. In the Pulastya Siddhanta, the anushthanas which are to be performed in this sayana punya kala just like nirayana are explicitly stated: `snAna`, `dAna`, `japa`, `zrAddha`, `vrata`, `hOma`, etc. In Kala Madhava, which is considered as the source text of the kala vicharas of the Dikshitiya, it is said in the 5th prakarana that,  meṣādi-saṅkrāntayo yasmin dine bhavanti tasmād dināt pūrvebhyaḥ ekādaśabhyo dinebhyaḥ prācīne dine, noting that Sayana Sankramanas occurred ~11 days before the day when the Mesha Sankramanas etc occur. Further references are seen in Dharma Sindhu first pariccheda, Jayasimha Kalpadruma sankranti nirnaya and Nirnaya Sindhu first pariccheda. There are also ample references in Vedas, illustrating how Ayana-s happened much later (in certain other eras), e.g. Shukla Yajur Veda Shatapatha Brahmana (Ekapaat Kanda 1/2/3), Nakshatra Sukta belonging to the Atharva Veda (Shaunaka Samhita 19/7/2), Maitrayaniya Aranyaka (6/14), and Taittiriya Brahmana (1/5/2).
+
+For a wonderfully detailed exposition on the topic, see https://sites.google.com/view/nakshatradarsha/dakshinayana-en and https://sites.google.com/view/nakshatradarsha/uttarayana-en ."""
 
 [names]
 sa = [ "सायन-सङ्क्रमण-दिन-पूर्वाह्ण-पुण्यकालः",]

@@ -1,5 +1,6 @@
 default_to_none = true
 id = "vRzcika-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 कीटप्रवेशे वस्त्राणां वेश्मनां दानमेव च॥
@@ -9,7 +10,10 @@ shlokas = """
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
-(स्मृतिमुक्ताफले आह्निक-काण्डे-पूर्वभागः)
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+पुण्यायां विष्णुपद्यां च प्राक् पश्चादपि षोडशः॥
+या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
 """
 jsonClass = "HinduCalendarEvent"
 
@@ -18,7 +22,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Vṛśchika-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala. Do danam of deepam."
+en = "Vṛśchika-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala. Do danam of deepam.  For `viSNupadI-puNyakAla` like `vRzcika-saGkramaNa`, the 16 ghatikas preceding and succeeding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
 
 [names]
 sa = [ "वृश्चिक-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः",]

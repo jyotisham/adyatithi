@@ -1,5 +1,6 @@
 default_to_none = true
 id = "siMha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -7,11 +8,14 @@ shlokas = """
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
-(स्मृतिमुक्ताफले आह्निक-काण्डे-पूर्वभागः)
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
 षडशीत्यां तु यद्दत्तं यद्दत्तं विषुवद्वये।
 दृश्यते सागरस्यान्तस्तस्यान्तो नैव दृश्यते॥
 ससुवर्णं मञ्चदानं सिंहे च विहितं सदा॥
 ---स्मृतिकौस्तुभे
+पुण्यायां विष्णुपद्यां च प्राक् पश्चादपि षोडशः॥
+या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
 """
 jsonClass = "HinduCalendarEvent"
 
@@ -20,7 +24,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Siṃha-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala."
+en = "Siṃha-Ravi-Saṅkramaṇa-Viṣṇupadī Punyakala.  For `viSNupadI-puNyakAla` like `siMha-saGkramaNa`, the 16 ghatikas preceding and succeeding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
 
 [names]
 sa = [ "सिंह-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः",]

@@ -1,5 +1,6 @@
 default_to_none = true
 id = "makara-saGkramaNa-puNyakAlaH"
+references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
 झषप्रवेशे दारूणां दानमग्नेस्तथैव च॥
@@ -9,7 +10,12 @@ shlokas = """
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
-(स्मृतिमुक्ताफले आह्निक-काण्डे-पूर्वभागः)"""
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+अतीतानागते पुण्ये द्वे उदग्दक्षिणायने।
+त्रिंशत्कर्कटके नाड्यो मकरे विंशतिः स्मृताः॥
+या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
+---वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -17,7 +23,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Makara-Saṅkramaṇa Punyakala."
+en = "Makara-Saṅkramaṇa Punyakala.  For `makara-saGkramaNa`, the 20 ghatikas succeeding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
 
 [names]
 sa = [ "मकर-सङ्क्रमण-पुण्यकालः", "मकर-सङ्क्रान्तिः"]
