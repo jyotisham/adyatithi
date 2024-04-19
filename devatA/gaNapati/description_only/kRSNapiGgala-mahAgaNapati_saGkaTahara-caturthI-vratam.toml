@@ -15,7 +15,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Special vrata day for Ganesha. In this month, Ganesha is worshipped as `kRSNapiGgala-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, as follows:"
+en = "Special vrata day for Ganesha. In this month, Ganesha is worshipped as `kRSNapiGgala-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, chanting the shloka mentioned."
 
 [names]
 sa = [ "कृष्णपिङ्गल-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्",]
