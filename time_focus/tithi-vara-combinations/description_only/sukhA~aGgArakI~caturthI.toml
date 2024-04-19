@@ -1,7 +1,6 @@
 default_to_none = true
-id = "sukhA~aGgArakI-caturthI"
+id = "sukhA~aGgArakI~caturthI"
 tags = [ "RareDays", "Combinations",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 सुमन्तुरुवाच---
 सुखावहा च सुसुखा सौभाग्यकरणी परम्॥११॥
@@ -117,6 +116,7 @@ shlokas = """
 ऋद्धिं वृद्धिं तथा लक्ष्मीं लभते नात्र संशयः॥६१॥
 ---श्रीभविष्ये महापुराणे शतार्धसाहस्र्यां संहितायां ब्राह्मे पर्वणि चतुर्थीकल्पे सुखावहाङ्गारकचतुर्थीव्रतनिरूपणं नामैकत्रिंशोऽध्यायतः
 """
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -126,4 +126,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`caturthI tithi` on a Tuesday is as sacred as a solar eclipse. When it occurs in `zuklapakSa`, it is called `sukhA`. Good day for doing puja of Ganesha/Subrahmanya with naivedyam of modakam/millet flour respectively."
 
 [names]
-sa = [ "सुखा~अङ्गारकी-चतुर्थी",]
+sa = [ "सुखा~अङ्गारकी~चतुर्थी",]
