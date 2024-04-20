@@ -13,5 +13,8 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "If a `kRSNAGgAraka-caturdazI` occurs in `caitramAsa`, performing a `snAna` in `gaGgA` relieves one from `piZAcatvam`."
+
 [names]
 sa = [ "पिशाचमोचनम्",]
