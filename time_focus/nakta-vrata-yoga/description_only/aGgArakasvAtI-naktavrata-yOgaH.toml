@@ -1,0 +1,21 @@
+default_to_none = true
+id = "aGgArakasvAtI-naktavrata-yOgaH"
+tags = ["RareDays", "Combinations", "NaktaVrataYogaDays",]
+shlokas = """
+अग्निपुराणे---
+वारव्रतानि वक्ष्यामि भुक्तिमुक्तिप्रदानि हि।
+...
+स्वात्यां गृहीत्वा चाङ्गारं सप्तनक्त्यार्तिवर्जितः॥१९५-४॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """The Tuesday-Svati combination is also special for observing `nakta-vratams` as per Agni Purana.
+"""
+
+[names]
+sa = [ "आदित्यहस्त-नक्त-व्रत-योगः",]
