@@ -8,6 +8,7 @@ default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 2
 anga_type = "nakshatra"
+kaala = "मध्याह्नः~(त्रेधा)"
 anga_number = 16
 jsonClass = "HinduCalendarEventTiming"
 
