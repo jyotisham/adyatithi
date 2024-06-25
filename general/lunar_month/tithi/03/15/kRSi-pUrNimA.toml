@@ -1,5 +1,5 @@
 default_to_none = true
-id = "eruvaka-pUrNimA"
+id = "kRSi-pUrNimA"
 tags = [ "LessCommonFestivals", "DanamDays",]
 jsonClass = "HinduCalendarEvent"
 
@@ -12,7 +12,7 @@ anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Danam of Padma Puranam"
+en = "Danam of Padma Puranam. Also widely celebrated by farmers."
 
 [names]
-sa = [ "ऎरुवक-पूर्णिमा",]
+sa = [ "कृषि-पूर्णिमा",]
