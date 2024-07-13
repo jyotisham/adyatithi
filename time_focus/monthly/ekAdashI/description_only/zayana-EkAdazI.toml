@@ -25,7 +25,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "The Shukla-paksha Ekadashi of `ASADha` month is known as `zayana-EkAdazI`. Lord Vishnu goes to sleep for four months beginning today."
+en = "The Shukla-paksha Ekadashi of `ASADha` month is known as `zayana-EkAdazI`. Bhagavan Vishnu goes to sleep for four months beginning today."
 
 [names]
 sa = [ "शयन-एकादशी", "देवशयनी एकादशी",]
