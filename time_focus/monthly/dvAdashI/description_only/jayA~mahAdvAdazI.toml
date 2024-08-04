@@ -2,13 +2,22 @@ default_to_none = true
 id = "jayA~mahAdvAdazI"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "`padma-purANam`",]
+shlokas = """
+जया च विजया चैव जयन्ती पापनाशिनी।
+सर्वपापहराश्चैताः कर्तव्याः फलकाङ्क्षिभिः॥४॥
+एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।
+नाम्ना सा च जया ख्याता तिथीनामुत्तमा तिथिः॥५॥
+तामुपोष्य नरः पापान्मुच्यते नात्र संशयः।
+---श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Dvadashi tithi, combined with Pushya nakshatra."
+en = "Dvadashi tithi, combined with Pushya nakshatra. Jayā, Vijayā, Jayantī, and Pāpanāśinī—all these days have the power to destroy sins and should be observed by those seeking specific benefits. When the star Punarvasu (the seventh lunar mansion) appears on Ekādaśī in the bright half of the month, it is known as Jayā, the most auspicious of days. Fasting on this day liberates a person from sin, without a doubt."
 
 [names]
 sa = [ "जया-महाद्वादशी",]
