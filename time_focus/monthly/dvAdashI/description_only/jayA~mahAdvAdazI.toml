@@ -17,7 +17,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Dvadashi tithi, combined with Pushya nakshatra. Jayā, Vijayā, Jayantī, and Pāpanāśinī—all these days have the power to destroy sins and should be observed by those seeking specific benefits. When the star Punarvasu (the seventh lunar mansion) appears on Ekādaśī in the bright half of the month, it is known as Jayā, the most auspicious of days. Fasting on this day liberates a person from sin, without a doubt."
+en = "Shukla Dvadashi tithi, combined with Punarvasu nakshatra. Jayā, Vijayā, Jayantī, and Pāpanāśinī—all these days have the power to destroy sins and should be observed by those seeking specific benefits. When the star Punarvasu appears on Ekādaśī in the bright half of the month, it is known as Jayā, the most auspicious of days. Fasting on this day liberates a person from sin, without a doubt."
 
 [names]
 sa = [ "जया-महाद्वादशी",]
