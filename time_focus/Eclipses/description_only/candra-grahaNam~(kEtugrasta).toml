@@ -11,4 +11,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "Lunar eclipse, where the Moon is at the ‘Ketu node’."
 
 [names]
-sa = [ "चन्द्र-ग्रहणम्-(केतुग्रस्त)",]
+sa = [ "चन्द्र-ग्रहणम्~(केतुग्रस्त)",]
