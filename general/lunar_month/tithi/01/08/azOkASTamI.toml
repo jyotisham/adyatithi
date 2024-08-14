@@ -4,14 +4,14 @@ tags = [ "LessCommonFestivals",]
 references_primary = [ "Purushartha Chintamani (Anandashrama) p. 138",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
-ब्रह्मोवाच
+ब्रह्मोवाच---
 अशोककलिका ह्यष्टौ ये पिबन्ति पुनर्वसौ।
 चैत्रे मासि सिताष्टम्यां न ते शोकमवाप्नुयुः॥
 
 प्राशन-मन्त्रः---
 त्वामशोक हराभीष्ट  मधुमाससमुद्भव।
 पिबामि शोकसन्तप्तो मामशोकं सदा कुरु॥
--- गरुड-पुराणात्
+---गरुड-पुराणात्
 """
 
 [timing]
