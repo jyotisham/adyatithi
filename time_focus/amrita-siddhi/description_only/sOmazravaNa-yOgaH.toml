@@ -1,5 +1,5 @@
 default_to_none = true
-id = "sOmazrAvaNI-yOgaH"
+id = "sOmazravaNa-yOgaH"
 tags = [ "RareDays", "Combinations", "AmritaSiddhiYogaDays",]
 shlokas = """
 आदित्यहस्ते गुरुपुष्ययोगे बुधानुराधा शनिरोहिणी च।
@@ -18,4 +18,4 @@ For instance, in Devi Atharvashirsha, it is said `bhaumAzvinyAM mahAdevI-sannidh
 """
 
 [names]
-sa = [ "सोमश्रावणी-योगः",]
+sa = [ "सोमश्रवण-योगः",]
