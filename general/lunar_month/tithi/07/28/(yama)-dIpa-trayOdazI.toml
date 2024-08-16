@@ -24,6 +24,7 @@ month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 28
+kaala = 'प्रदोषः'
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
