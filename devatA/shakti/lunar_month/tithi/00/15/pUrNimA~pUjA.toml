@@ -1,0 +1,25 @@
+default_to_none = true
+id = "pUrNimA~pUjA"
+tags = [ "MonthlyFestivals",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+सङ्क्रान्तिव्यतिरिक्त पर्वार्चनं सूर्यास्तमयोत्तरं दशघटिकाऽऽत्मके रात्रिपूर्वभागे कार्यम्।
+---श्रीविद्यारत्नाकरे नैमित्तिकार्चनेप्रकरणे
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "tithi"
+anga_number = 15
+kaala = "पूर्वरात्रिः~(त्रेधा)"
+priority = "puurvaviddha"
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`pUrNimA pUjA` is performed in the early part of the evening, predominantly to propitiate Shakti Devi."
+
+[names]
+sa = [ "पूर्णिमा-पूजा",]
