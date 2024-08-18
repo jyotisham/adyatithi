@@ -10,6 +10,7 @@ month_number = 0
 anga_type = "nakshatra"
 anga_number = 22
 kaala = "सूर्योदयः"
+priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
