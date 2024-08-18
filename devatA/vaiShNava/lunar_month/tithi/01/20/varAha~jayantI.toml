@@ -21,7 +21,7 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 20
 priority = "puurvaviddha"
-kaala = "अपराह्णः"
+kaala = "मध्याह्नः" # पूजाव्रतेषु सर्वत्रमध्याह्नव्यापिनीतिथिः (default)
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
