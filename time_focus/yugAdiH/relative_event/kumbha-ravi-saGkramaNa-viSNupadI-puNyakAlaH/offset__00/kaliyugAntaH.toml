@@ -1,0 +1,25 @@
+default_to_none = true
+id = "kaliyugAntaH"
+tags = ["CommonFestivals",]
+references_primary = [ "Purushartha Chintamani p. 507",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+हेमाद्रौ ब्रह्मपुराणे---
+सूर्यस्य सिंहसङ्क्रान्त्यामन्तः कृतयुगस्य तु।
+अथ वृश्चिकसङ्क्रान्त्यामन्तस्त्रेतायुगस्य तु॥
+ज्ञेयस्तु वृषसङ्क्रान्त्यां द्वापरान्तस्तु संज्ञया।
+तथा तु कुम्भसङ्क्रान्त्यामन्तः कलियुगस्य तु॥
+युगादिषु युगान्तेषु श्राद्धमक्षय्यमुच्यते।
+"""
+
+[timing]
+default_to_none = true
+anchor_festival_id = "kumbha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+offset = 0
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The day on which Kumbha sankranti happens is also the Kaliyuganta day. Shraadhams offered on this day beget endless fruit."
+
+[names]
+sa = [ "कलियुगान्तः",]
