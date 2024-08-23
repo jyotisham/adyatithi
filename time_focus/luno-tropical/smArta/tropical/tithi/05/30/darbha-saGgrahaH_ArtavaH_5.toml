@@ -7,7 +7,6 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "tropical"
 priority = "paraviddha"
-# TODO: fix this
 month_number = 5
 anga_type = "tithi"
 anga_number = 30
