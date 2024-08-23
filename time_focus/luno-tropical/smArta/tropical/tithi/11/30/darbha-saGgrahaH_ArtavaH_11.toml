@@ -5,8 +5,9 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
+month_type = "tropical"
 priority = "paraviddha"
+# TODO: fix this
 month_number = 11
 anga_type = "tithi"
 anga_number = 30
@@ -16,7 +17,7 @@ jsonClass = "HinduCalendarEventTiming"
 [description]
 sa = """
 ### उचितदिनानि
-हारितो माघे नभस्य् (श्रावणे) च +अमावास्ये प्रशंसति।  
+हारितो माघे नभसि (श्रावणे) च +अमावास्ये प्रशंसति।  
 अत्र +आर्तवमास उच्यते ऽयनारम्भसमीपवर्ती।  
 तत्र सौरमासम् अनुसरन्ति द्राविडाः।
 
