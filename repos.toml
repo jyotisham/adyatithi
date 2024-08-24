@@ -74,6 +74,11 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/Apastamba"
 jsonClass = "RulesRepo"
 
 [[data]]
+name = "gRhya/Apastamba_seasonal"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/Apastamba_seasonal"
+jsonClass = "RulesRepo"
+
+[[data]]
 name = "gRhya/general"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/gRhya/general"
 jsonClass = "RulesRepo"

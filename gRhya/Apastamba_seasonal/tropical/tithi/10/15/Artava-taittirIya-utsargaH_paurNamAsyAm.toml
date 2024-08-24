@@ -1,0 +1,29 @@
+default_to_none = true
+id = "Artava-taittirIya-utsargaH_paurNamAsyAm"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "tropical"
+priority = "puurvaviddha"
+month_number = 10
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+sa = """
+## आपस्तम्बसूत्रेषु
+तैषीपक्षस्य रोहिण्यां पौर्णमास्यां वोत्सर्गः ८  
+अभिप्यन्ते +++(=प्रार्थयन्ते [स्नानादिकं सहैव कर्तुं])+++ वान्योन्यम् १६
+
+… एवं पारायण+++(=यथारुच्यध्ययनमिति केचित्)+++समाप्तौ च - काण्डादि दूर्वारोपणोदधि-धावनवर्जम् २४
+
+
+## प्रक्रिया 
+- [ऽत्र](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/adhyayana-vrataani/utsargaH/) ।
+"""
+
+[names]
+sa = [ "आर्तव-तैत्तिरीय-उत्सर्गः पौर्णमास्याम्",]
