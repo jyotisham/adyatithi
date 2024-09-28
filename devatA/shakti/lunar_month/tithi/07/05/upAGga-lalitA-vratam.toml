@@ -18,6 +18,7 @@ default_to_none = true
 month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
+kaala = "मध्याह्नः" # पूजाव्रतेषु सर्वत्रमध्याह्नव्यापिनीतिथिः (default)
 anga_number = 5
 jsonClass = "HinduCalendarEventTiming"
 
