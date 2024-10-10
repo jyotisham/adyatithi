@@ -5,10 +5,8 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
-month_number = 7
-anga_type = "tithi"
-anga_number = 9
+anchor_festival_id = "zarannavarAtra-ArambhaH"
+offset = 8
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
