@@ -9,7 +9,8 @@ month_type = "lunar_month"
 month_number = 7
 anga_type = "tithi"
 anga_number = 10
+kaala = "प्रदोषः" # translating तारकोदये।
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "युद्धदेवता-आराधना", "अपराजिता-आराधना",]
+sa = [ "युद्धदेवता-आराधना/अपराजिता-पूजा",]
