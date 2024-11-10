@@ -2,6 +2,16 @@ default_to_none = true
 id = "aindrI-durgA-pUjA"
 tags = [ "SpecialPuja",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Smriti Kaustubham p.138",]
+shlokas = """
+भविष्ये---
+उपवासपरो भक्त्या नवम्यां पक्षयोर्द्वयोः।
+आषाढे मासि राजेन्द्र यः कुर्यान्नक्तभोजनम्।
+पूजयेच्छ्रद्धया दुर्गामैन्द्रीनाम्नीं तु नामतः॥
+ऐरावतगतां शुभ्रां श्वेतवस्त्रेण रूपिणीम्।
+ऐरावतसमारूढ इन्द्रस्यानुचरो भवेत्॥
+"""
+
 
 [timing]
 default_to_none = true

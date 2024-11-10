@@ -2,6 +2,14 @@ default_to_none = true
 id = "vaivasvata-saptamI"
 tags = [ "SpecialPuja",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Smriti Kaustubham p.138",]
+shlokas = """
+मदनरत्ने ब्राह्मे---
+आषाढशुक्लसप्तम्यां विवस्वान्नाम भास्करः।
+जातः पूर्वासु तस्मात्तं तत्रोपोष्य यजेत्सदा॥
+रथचक्राकृतौ रम्ये मण्डले सर्वकामदम्।
+भक्ष्यैर्भोज्यैस्तथा पेयैः पुष्पैयूंपविलेपनैः॥
+"""
 
 [timing]
 default_to_none = true
