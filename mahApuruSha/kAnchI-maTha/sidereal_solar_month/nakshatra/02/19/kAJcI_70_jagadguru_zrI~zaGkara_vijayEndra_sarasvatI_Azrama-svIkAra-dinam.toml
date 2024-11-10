@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kAJcI_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_Azrama-svIkAra-dinam"
+id = "kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_Azrama-svIkAra-dinam"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -19,4 +19,4 @@ jsonClass = "HinduCalendarEventTiming"
 en = "`jagadguru zrI~zaGkara vijayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 29th May 1983, `rudhirOdgArI` year, `vRSabha/vaizAkha mAsa kRSNa tRtIyA bhAnuvAsaraH mUlA nakSatram`."
 
 [names]
-sa = [ "काञ्ची जगद्गुरु श्री-शङ्कर विजयेन्द्र सरस्वती आश्रम-स्वीकार-दिनम्",]
+sa = [ "काञ्ची ७० जगद्गुरु श्री-शङ्कर विजयेन्द्र सरस्वती आश्रम-स्वीकार-दिनम्",]
