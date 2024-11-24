@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zuci-mAsaH_or_dakSiNAyanam"
+id = "sahasya-mAsaH"
 references_primary = ["Smriti Muktaphalam SVR p. 267"]
 tags = [ "SunSankranti", "CommonFestivals",]
 shlokas = """
@@ -25,7 +25,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Beginning of `zuci-mAsaH`, marked by the transit of Sun into the 4th division of the tropical zodiac. Importantly, this also marks the beginning of `dakSiNAyanam`, and the end of `uttarAyaNam`. This also marks the summer solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = "Beginning of `sahasya-mAsaH`, marked by the transit of Sun into the 10th division of the tropical zodiac."
 
 [names]
-sa = [ "शुचि-मासः/दक्षिणायनम्",]
+sa = [ "सहस्य-मासः",]

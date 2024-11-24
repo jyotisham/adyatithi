@@ -25,7 +25,10 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Beginning of `nabhO-mAsaH`, marked by the transit of Sun into the 5th division of the tropical zodiac.  Also marks the beginning of `varSaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them."
+en = """
+Beginning of `nabhO-mAsaH`, marked by the transit of Sun into the 5th division of the tropical zodiac.  Also marks the beginning of `varSaRtuH`. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them.
+Importantly, this also marks the beginning of `dakSiNAyanam`, and the end of `uttarAyaNam`. This also marks the summer solstice. While `nirayana saGkrAnti`'s are widely observed, tropical `saGkrAnti`'s are also equally sacred, and have similar `puNyakAla`s associated with them.
+"""
 
 [names]
-sa = [ "नभो-मासः/वर्षऋतुः",]
+sa = [ "नभो-मासः/वर्षऋतुः/दक्षिणायनम्",]
