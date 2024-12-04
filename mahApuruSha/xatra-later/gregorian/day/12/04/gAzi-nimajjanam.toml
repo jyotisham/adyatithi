@@ -1,0 +1,24 @@
+default_to_none = true
+id = "gAzi-nimajjanam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "gregorian"
+month_number = 12
+anga_type = "day"
+anga_number = 4
+year_start = 1971
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+The terrorist state submarine INS gAzi sank on December 3 or 4, 1971, with all 93 crew members aboard, due to by depth charges dropped by the destroyer INS Rajput.
+
+The PNS Ghazi was a Tench-class submarine originally built for the United States Navy and later leased to Pakistan. It set sail from Karachi on November 14, 1971, with a mission to locate and attack India’s aircraft carrier, INS Vikrant, which was involved in naval operations against East Pakistan.
+"""
+
+[names]
+sa = [ "गाज़ि-निमज्जनम्",]
