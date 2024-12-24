@@ -7,7 +7,7 @@ shlokas = """
 सुवासिन्यास्तु सौभाग्यपुत्रपौत्रप्रवर्धनम्॥
 """
 references_primary = [ "Vrata Chudamani 173",]
-references_secondary = [ "Vaidikasri Aug 2015",]
+references_secondary = [ "Vrat Parichay p. 265",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
