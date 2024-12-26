@@ -1,0 +1,18 @@
+default_to_none = true
+id = "viSuva-dinam"
+tags = []
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "tropical"
+month_number = 2
+anga_type = "day"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Vernal equinox"
+
+[names]
+sa = [ "विषुवदिनम्",]

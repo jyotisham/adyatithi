@@ -209,8 +209,13 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/nakta-
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "time_focus/Rtu"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/Rtu"
+name = "time_focus/Rtu/tropical-viSuvAdi"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/Rtu/tropical-viSuvAdi"
+jsonClass = "RulesRepo"
+
+[[data]]
+name = "time_focus/Rtu/tropical-ayanAdi"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/Rtu/tropical-ayanAdi"
 jsonClass = "RulesRepo"
 
 [[data]]
