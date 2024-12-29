@@ -6,13 +6,13 @@ month_type = "julian"
 anga_type = "day"
 month_number = 12
 anga_number = 27
-year_start = 1737
+year_start = 1704
 year_start_era = "gregorian"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
 en = """
-Sikh Guru Govind Singh's 2  9 & 6 year old kids, Zorawar Singh and Fateh Singh, were killed by Mogols in Sirhind Fort. They'd refusing to convert to Islam.
+Sikh Guru Govind Singh's  9 & 6 year old kids, Zorawar Singh and Fateh Singh, were killed by Mogols in Sirhind Fort. They'd refusing to convert to Islam.
 
 This verse is sung about them:
 
@@ -20,7 +20,9 @@ This verse is sung about them:
 Hindu raha marhahi  
 kaal sabhahun ko khai hai taantey ab tum vichaar karo chaar din Jeevan kay het hum dharma kyon gavaai hai.” 
 
-“We will not die just for the fear of Turks, we will remain Hindus till death, Time will kill all, why should we lose our Dharma for this life of four days.” - Panth Prakash, Giani Gian Singh.
+> “We will not die just for the fear of Turks, we will remain Hindus till death, Time will kill all, why should we lose our Dharma for this life of four days.” 
+
+- Panth Prakash, Giani Gian Singh.
 
 **Timing**  
 1705-01-07 gregorian = 1704-12-27 julian = pUrNimAnta pauSha 13. Their grandmother, Gurjar Kaur, also died onthe same day.
