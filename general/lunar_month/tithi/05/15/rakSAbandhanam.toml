@@ -58,10 +58,12 @@ month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 15
+kaala = "चैत्रः" # Second Muhurta of the day
+priority = "puurvaviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Rakshabandhanam"
+en = "Rakshabandhanam. One who observes this remains happy for the entire year! Note that `bhadrA-karaNaM` must be avoided for `rakSAbandhanam` --- since it bestows opposite fruit!"
 
 [names]
 sa = [ "रक्षाबन्धनम्",]
