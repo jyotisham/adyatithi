@@ -9,6 +9,8 @@ month_type = "lunar_month"
 month_number = 6
 anga_type = "tithi"
 anga_number = 14
+kaala = "चैत्रः" # Second Muhurta of the day
+priority = "puurvaviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
