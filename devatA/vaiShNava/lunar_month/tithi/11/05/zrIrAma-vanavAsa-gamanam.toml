@@ -9,6 +9,7 @@ month_type = "lunar_month"
 month_number = 11
 anga_type = "tithi"
 anga_number = 5
+kaala = "मध्याह्नः" # Or maybe Shri Rama started only in the evening?
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
