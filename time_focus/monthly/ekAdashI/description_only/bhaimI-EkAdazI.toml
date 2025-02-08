@@ -1,5 +1,5 @@
 default_to_none = true
-id = "jayA_or_bhaimI-EkAdazI"
+id = "bhaimI-EkAdazI"
 tags = [ "MonthlyVratam", "EkadashiVratam",]
 shlokas = """
 एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।
@@ -56,4 +56,4 @@ A person who bathes at Śaṃkhoddhāra and beholds the image of Viṣṇu does 
 The merit from an Ekādaśī fast is a hundred times greater than the reward of performing an Ashvamedha sacrifice on earth. Fasting on Ekādaśī yields a hundredfold more merit than gifting a thousand cows to a learned brāhmaṇa. Those who fast on Ekādaśī are considered equal to those whose bodies are inhabited by Brahma, Viṣṇu, and Śiva. The merit from observing the Ekādaśī vow is immeasurable, and difficult to obtain even by the Devas. There is no other vow like that of the Ekādaśī, that destroys sins."""
 
 [names]
-sa = [ "जया/भैमी-एकादशी",]
+sa = [ "भैमी-एकादशी",]
