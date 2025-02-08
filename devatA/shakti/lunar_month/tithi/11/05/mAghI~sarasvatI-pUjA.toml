@@ -1,7 +1,6 @@
 default_to_none = true
 id = "mAghI~sarasvatI-pUjA"
 tags = [ "SpecialPuja",]
-references_secondary = [ "http://hindupad.com/madana-panchami/",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -14,7 +13,7 @@ kaala = "मध्याह्नः" # पूजाव्रतेषु सर
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Saraswati Puja, especially in Bengal."
+en = "Sarasvati Puja, especially in Eastern Bharat. Today is considered auspicious for upāsanā and doing pārāyana of stotra-s etc dedicated to Sarasvati Devi."
 
 [names]
 sa = [ "माघी-सरस्वती-पूजा",]
