@@ -11,7 +11,7 @@ month_number = 11
 anga_type = "nakshatra"
 anga_number = 26
 kaala = "प्रातः"
-year_start = 5009
+year_start = 5008
 year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
