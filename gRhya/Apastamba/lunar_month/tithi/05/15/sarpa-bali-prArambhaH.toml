@@ -13,7 +13,7 @@ anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Offer `bali` to serpents on (from) this day, in the night after `sthAlIpAka`."
+en = "Offer `bali` to serpents on (from) this day, in the night, after `sthAlIpAka`."
 sa = """
 प्रक्रिया [ऽत्र](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/sarpa-baliH/) । 
 """
