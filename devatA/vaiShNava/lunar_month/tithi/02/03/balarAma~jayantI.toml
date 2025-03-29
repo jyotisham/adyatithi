@@ -16,6 +16,8 @@ month_type = "lunar_month"
 month_number = 2
 anga_type = "tithi"
 anga_number = 3
+kaala = "मध्याह्नः"
+priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
