@@ -1,11 +1,11 @@
 default_to_none = true
-id = "vEGkaTAcalE_jyESTha-abhidyEyakAbhiSEkaH_(mutyala-kavacam)"
+id = "vEGkaTAcalE_jyESThAbhiSEkaH_(mutyala)"
 tags = [ "AndhraTempleFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-anchor_festival_id = "vEGkaTAcalE_jyESTha-abhidyEyakAbhiSEkaH_(svarNa-kavacam)"
+anchor_festival_id = "vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)"
 offset = -1
 jsonClass = "HinduCalendarEventTiming"
 

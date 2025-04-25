@@ -1,0 +1,19 @@
+default_to_none = true
+id = "tRzUr-pUram"
+tags = [ "TamilnaduTempleFestivals", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 11
+kaala = "रात्रिमानम्"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Thrissur Pooram is Kerala's most spectacular temple festival, celebrated annually at the Vadakkunnathan Temple in Thrissur during the Malayalam month of Medam (April-May). Introduced in 1796 by Shakthan Thampuran, the Maharaja of Cochin, it features grand processions of caparisoned elephants (each carrying an idol of a deity from participating temples), the vibrant Kudamattom ceremony (exchange of colorful umbrellas), electrifying percussion ensembles like Panchavadyam and Ilanjithara Melam, and dazzling fireworks displays. Ten temples participate in this 36-hour celebration, showcasing Kerala's rich cultural heritage."
+
+[names]
+sa = [ "तृशूर् पूरं",]

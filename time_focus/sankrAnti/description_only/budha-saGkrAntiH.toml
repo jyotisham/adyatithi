@@ -1,0 +1,14 @@
+default_to_none = true
+id = "budha-saGkrAntiH"
+tags = [ "Sankranti",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Transition of Mercury from one Rashi to another."
+
+[names]
+sa = [ "बुध-सङ्क्रान्तिः",]
