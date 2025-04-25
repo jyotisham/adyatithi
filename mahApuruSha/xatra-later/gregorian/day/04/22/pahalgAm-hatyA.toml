@@ -1,0 +1,26 @@
+id = "pahalgAm-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 4
+anga_number = 22
+year_start = 2026
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+5 jihAdi-s murdered over 27 Hindu male tourists in Baisaran valley, Pahalgam, Anantnag at around 2:30 PM. These included a Navy officer and an IB officer. A local poney operator who tried to help was killed.
+
+They confirmed Hindu religion by making them recite Islamic kalima verse, checking ID cards, looking for uncircumcised penises.  
+When a wife asked to be killed like her husband, she was told that an she was being spared so she could "narrate the horrors" to PM Narendra Modi.
+
+The place could only be accessed by pony - so it was chosen. The attackers had stocked up dry fruits and medicines. They did a recce of Pahalgam with the help of some locals.
+
+Saifullah Kasuri (alias Khalid), a top LeT commander, was the mastermind. Of the 4, 2 were kAshmIri muslims (Aashif shaikh, Adil), 2 pAkistAni pAshto speaking muslims (Asif Fauji). They were traced to safe houses in Muzaffarabad and Karachi.
+"""
+
+[names]
+sa = [ "पहल्-ग्राम-हत्या",]
