@@ -1,0 +1,22 @@
+default_to_none = true
+id = "kAJcI_71_jagadguru_zrI~satya_candrazEkharEndra_sarasvatI_Azrama-svIkAra-dinam"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 4
+kaala = "प्रातः"
+year_start = 5126
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`jagadguru zrI~satya-candrazEkharEndra-sarasvatI` was inducted into the `kAmakOTi-pITham` on Akshaya Tritiya day, conjoined with Budhavasara and Rohini nakshatram (a rare and special occurrence), 30th April 2025, `vizvAvasu` year, `mESa/vaizAkha mAsa zukla tRtIyA saumyavAsaraH rohiNI nakSatram`."
+
+[names]
+sa = [ "काञ्ची ७१ जगद्गुरु श्री-सत्य-चन्द्रशेखरेन्द्र-सरस्वती आश्रम-स्वीकार-दिनम्",]
