@@ -1,0 +1,23 @@
+default_to_none = true
+id = "kAJcI_70_jagadguru_zri~satya_candrazEkharEndra_sarasvatI_jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+shlokas = """
+सत्यनारायणक्षेत्रात् सत्यव्रतसमागतम्।
+आश्रये कामकोटीशं सत्यश्रीचन्द्रशेखरम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 24
+kaala = "प्रातः"
+year_start = 5101
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[names]
+sa = [ "काञ्ची ७१ जगद्गुरु श्री-सत्य-चन्द्रशेखरेन्द्र-सरस्वती जयन्ती",]

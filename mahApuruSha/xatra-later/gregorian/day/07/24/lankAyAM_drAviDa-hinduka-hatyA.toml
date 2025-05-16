@@ -1,0 +1,36 @@
+id = "lankAyAM_drAviDa-hinduka-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 7
+anga_number = 24
+year_start = 1983
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day started brutal killing, rape and plunder of tamiL hindus by sinhalese buddhists and Christians joined by some muslims.
+
+While preplanned and organized (with typed lists of properties and registered voters to target), it was triggered by LTTE ambush of a jeep in retaliation to rape of 3 tamil girls. Army, police, buddhist monks and general public participated.
+
+Particular highlights - 
+
+- On Jul 25, 53 tamil (mostly political) prisoners in Welikada prison were killed by sinhalas using knives and clubs; with warden collaboration.
+- On 27th, rAmanAthan and family (including an infant) were brutally killed, after scaring the mob away failed.
+
+Aftermath  
+According to the Tamil Centre for Human Rights (TCHR), 5,638 Tamils were massacred, 2,015 were injured, 466 were missing, 670 were raped, and 250,000 were internally displaced.
+
+Black July has become a time of mourning and remembrance amongst the Sri Lankan Tamil diaspora.
+
+Further such progroms occurred in the following years.
+
+**Context**  
+Sinhalese were jealous of colonial era Tamil success and dominance. So, they brought in the Sinhala Only Act 1956. By 1972, with the "policy of standardization", they restricted tamil entry to universities. There were riots and counter-riots; leading to tamil rebel groups.
+"""
+
+[names]
+sa = [ "लङ्कायां द्राविड-हिन्दुक-हत्या",]
