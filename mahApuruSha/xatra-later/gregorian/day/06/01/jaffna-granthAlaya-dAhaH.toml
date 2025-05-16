@@ -1,0 +1,29 @@
+id = "jaffna-granthAlaya-dAhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 1
+year_start = 1981
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day an organized sinhala mob, with police collaboration, burnt down the great Jaffna library with 97,000 books and irreplaceable manuscripts.
+
+**Aftermath**  
+In 1982, one year after the initial destruction, the community sponsored Jaffna Public Library Week and collected thousands of books.  
+In 1985, after an attack on a nearby police station by Tamil rebels, soldiers entered the partially restored building and set off bombs that shredded thousands of books yet again.  
+In 1998 under president Chandrika Kumaratunga, the government began the process to rebuild it with contributions from Sri Lankans and foreign governments.
+
+**Context**  
+Sinhalese were jealous of colonial era Tamil success and dominance. So, they brought in the Sinhala Only Act 1956. By 1972, with the "policy of standardization", they restricted tamil entry to universities. There were riots and counter-riots; leading to tamil rebel groups.
+
+Immediate trigger was the killing of two policemen the previous day by PLOTE gunmen. 4 people were killed in return; businesses burnt and a temple destroyed.
+"""
+
+[names]
+sa = [ "याल्पन-ग्रन्थालय-दाहः",]
