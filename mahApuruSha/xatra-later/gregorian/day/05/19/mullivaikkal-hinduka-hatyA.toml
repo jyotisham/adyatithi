@@ -1,0 +1,38 @@
+id = "mullivaikkal-hinduka-hatyA"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 5
+anga_number = 19
+year_start = 2009
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, remnants of LTTE territory were overrun by Lankan Sinhala military, culminating the months long massive massacre of Tamil Hindu civilians lured into "safe no-fire zones" and shelled / bombed. Remnants were raped, murdered and filmed by Lankan soldiers. The LTTE had used a fraction of these civilians as human shields, forced labor and child soldiers.
+
+In preperation for the slaughter, in Sep 2008, Lankans had ordered all international (including UN) observers out. They then made false promises of safe zones and not using heavy weapons. Then they closed in and slaughtered. 
+
+The SLA assault employed aerial bombardment, long-range artillery, howitzers and MBRLs as well as small mortars, RPGs and small arms fire, some of it fired from a close range. 
+
+Soldiers claimed that they had been ordered to kill all tamils, including civilians. Lankan Defence Secretary Gotabhaya Rajapaksa, President Rajapaksa's brother, was said to have given direct orders to army commanders at the battle front (Gen. Sarath Fonseka claimed it as well). He'd even foiled the leaders' surrender attempts.
+
+## Aftermath
+An internal UN report in 2012 revised that estimate to at least 70,000 civilians. Population data from the World Bank indicates that over 100,000 Tamils remain unaccounted for from the final months of the war.
+
+Survivors were forced into camps, many more died and were raped/ tortured.
+
+Some documentaries were made (eg. "No Fire Zone"), reports published. Lankan Tamils and diaspora commemorate the Mullivaikkal Remembrance Day. Perpetrators were not punished.
+
+Buddhist sinhalese harrassment of hindu tamils continued unabated over the next decades.
+
+
+**Context**  
+Sinhalese were jealous of colonial era Tamil success and dominance. So, they brought in the Sinhala Only Act 1956. By 1972, with the "policy of standardization", they restricted tamil entry to universities. There were riots and counter-riots; leading to tamil rebel groups. Added to this was old religious hatred of Hindus.
+"""
+
+[names]
+sa = [ "लङ्कायां द्राविड-हिन्दुक-हत्या",]
