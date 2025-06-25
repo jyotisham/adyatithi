@@ -1,0 +1,38 @@
+id = "khAlistAni-train-massacre-15"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 15
+year_start = 1991
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, sikh khAlistAnis massacred about a 100 hindus in two trains in Punjab.
+
+June 15, 1991. 9:35 PM, A train slows near Baddowal, Ludhiana. Terrorists hotwired the signal system to stop it. Then, like demons in the dark, they stormed in with Automatic rifles. AK-47s. And one deadly question: “Are you Hindu?”  
+62 passengers, mostly Hindus, were gunned down.
+ 40 more injured.
+Bodies slumped over benches. Mothers shielding children. Blood flooding the aisles.
+
+Different train near Qila Rajan, Ludhiana.
+Terrorists boarded the Dhuri-Hisar passenger train.
+This time, the attack was even more methodical.
+They separated Hindus from Sikhs. Forced the Hindus off the train.
+Then, like animals, lined them up on the tracks… and shot them dead.
+ 48 killed. 30 injured.
+
+That same day, Khalistani terrorists assassinated Jatinder Singh, an Assembly candidate from the All-India Sikh Students Federation (AISSF), inside a gurdwara in Ropar.
+He became the 21st political candidate killed in cold blood.
+
+**Context**  
+Punjab was already burning.
+By mid-June 1991, over 700 civilians had been killed in the run-up to elections. Army had been deployed. The State was under President’s Rule since 1987.
+"""
+
+[names]
+sa = [ "खालिस्तानी-रेल-हत्या-१५",]

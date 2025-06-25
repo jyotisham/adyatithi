@@ -1,0 +1,27 @@
+id = "khAlistAni-train-massacre-15"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 26
+year_start = 1991
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, sikh khAlistAnis massacred about a 49 hindus in a train in Punjab.
+
+They searched every compartment.
+Checked faces, Names, IDs.
+ 49 Hindus shot dead. 20 more injured.
+Six more gunmen joined in at Sohian crossing.
+Then they disappeared into the night. No arrests.
+
+The attackers were from the Khalistan Commando Force (KCF), a group funded and trained by Pakistan’s ISI.
+"""
+
+[names]
+sa = [ "खालिस्तानी-रेल-हत्या-१२",]
