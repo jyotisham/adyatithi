@@ -1,5 +1,5 @@
 default_to_none = true
-id = "tyAgarAja~jayantI"
+id = "tyAgarAja~janmadinam"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 references_secondary = [ "Vaidikasri May 2017",]
 shlokas = """
@@ -19,4 +19,4 @@ year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "त्यागराज-जयन्ती",]
+sa = [ "त्यागराज-जन्मदिनम्",]

@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zyAmA~zAstrI~jayantI"
+id = "muttusvAmI~dIkSita~janmadinam"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -7,13 +7,13 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "sidereal_solar_month"
 priority = "paraviddha"
-month_number = 1
+month_number = 12
 anga_type = "nakshatra"
 anga_number = 3
 kaala = "प्रातः"
-year_start = 4863
+year_start = 4875
 year_start_era = "kali"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "श्यामा-शास्त्री-जयन्ती",]
+sa = [ "मुत्तुस्वामि-दीक्षित-जन्मदिनम्",]
