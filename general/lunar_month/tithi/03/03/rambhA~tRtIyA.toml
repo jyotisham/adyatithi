@@ -12,7 +12,6 @@ shlokas = """
 भार्यां पुत्रं गृहं भोगान् कुलवृद्धिमवाप्नुयुः॥
 -स्मृति-कौस्तुभः
 सा पूर्वविद्धा ग्राह्या।
----
 """
 references_secondary = [ "Smriti Kaustubha p.118",]
 jsonClass = "HinduCalendarEvent"
