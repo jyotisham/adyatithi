@@ -1,0 +1,31 @@
+default_to_none = true
+id = "kArttika-mAsa-ArambhaH"
+tags = [ "SpecialDays", "SpecialPeriodStart",]
+shlokas = """
+कार्तिककृत्यं पुष्करपुराणे---
+तुलायां तिलतैलेन सायङ्कालसमागमे।
+आकाशदीपं यो दद्यान्मासमेकं दिनं प्रति॥
+महतीं श्रियमाप्नोति रूपसौभाग्यसम्पदम्।
+विष्णुः---
+कार्तिकं सकलं मासं प्रातःस्नायी जितेन्द्रियः।
+जपन्हविष्यभुग्दान्तः सर्वपापैः प्रमुच्यते॥
+वामनपुराणे---
+रजतं कनकं दीपान्मणिमुक्ताफलादिकम्।
+दामोदरस्य प्रीत्यर्थं प्रदद्यात्कार्तिके नरः॥ इति।
+"""
+references_primary = [ "Purushartha Chintamani (Anandashrama), p. 7-10",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`kArttika-mAsaH` begins today --- in the Puṣkara Purāṇa, it is said that during the month of Kārttika, at dusk when the Sun is in Tulā, if one offers a lamp (dīpa) in the sky (i.e., an outdoor or elevated lamp) fueled with sesame oil every evening for the entire month, one attains beauty and great prosperity. As stated by Viṣṇu, one who bathes early in the morning throughout the entire month of Kārttika, who is self-restrained, who performs japa, eats havis, and maintains a disciplined life, is freed from all sins. In the Vāmana Purāṇa, it is said that to please Dāmodara (Viṣṇu), one should donate silver, gold, lamps, gems, pearls, fruits, and the like during Kārttika."
+
+[names]
+sa = [ "कार्त्तिक-मास-आरम्भः",]

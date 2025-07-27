@@ -1,19 +1,19 @@
 default_to_none = true
-id = "vaizAkha-mAsa-samApanam"
+id = "bhAdrapada-mAsa-samApanam"
 tags = [ "SpecialDays", "SpecialPeriodEnd",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-month_number = 2
+month_number = 6
 anga_type = "tithi"
 anga_number = 30
 priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`vaizAkha-mAsaH` ends today"
+en = "`bhAdrapada-mAsaH` ends today"
 
 [names]
-sa = [ "वैशाख-मास-समापनम्",]
+sa = [ "भाद्रपद-मास-समापनम्",]

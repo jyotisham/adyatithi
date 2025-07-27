@@ -1,19 +1,19 @@
 default_to_none = true
-id = "vaizAkha-mAsa-samApanam"
+id = "jyaiShTha-mAsa-samApanam"
 tags = [ "SpecialDays", "SpecialPeriodEnd",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
-month_number = 2
+month_number = 3
 anga_type = "tithi"
 anga_number = 30
 priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`vaizAkha-mAsaH` ends today"
+en = "`jyaiShTha-mAsaH` ends today"
 
 [names]
-sa = [ "वैशाख-मास-समापनम्",]
+sa = [ "ज्यैष्ठ-मास-समापनम्",]

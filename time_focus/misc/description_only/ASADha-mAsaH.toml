@@ -1,0 +1,23 @@
+default_to_none = true
+id = "ASADha-mAsaH"
+tags = [ "SpecialDays", "SpecialPeriod",]
+shlokas = """
+आषाढकृत्यं महाभारते---
+आषाढमेकभक्तेन स्थित्त्वा मासमतन्द्रितः।
+बहुधान्यो बहुधनो बहुपुत्रश्च जायते॥
+वामनपुराणे---
+उपानद्युगलं छत्रं लवणामलकानि च।
+आषाढे वामनप्रीत्यै दातव्यानि तु भक्तितः॥ इति।
+"""
+references_primary = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`ASADha-mAsaH` begins today --- In the Mahābhārata, it is said that one who observes a disciplined ekabhakta (one meal a day) fast throughout the month of Āṣāḍha, without lethargy (atandritaḥ), will be blessed with abundant grain, wealth, and many children. In the Vāmana Purāṇa, it is said that, to please Vāmana in the month of Āṣāḍha, one should offer — with devotion — a pair of sandals, an umbrella, salt, and āmalaka fruits."
+
+[names]
+sa = [ "आषाढ-मासः",]

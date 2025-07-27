@@ -1,0 +1,27 @@
+default_to_none = true
+id = "pauSa-mAsa-ArambhaH"
+tags = [ "SpecialDays", "SpecialPeriodStart",]
+shlokas = """
+पौषकृत्यं महाभारते---
+पौषमासं तु कौन्तेय एकभक्तेन यः क्षिपेत्।
+सुभगो दर्शनीयश्च यशोभागी च जायते॥
+वामनपुराणे---
+प्रासादनगरादीनि गृहप्रावरणानि च।
+नारायणस्य तुष्ट्यर्थं पौषे देयानि यत्नतः॥ इति।
+"""
+references_primary = [ "Purushartha Chintamani (Anandashrama), p. 7-10",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`pauSa-mAsaH` begins today --- In the Mahābhārata, it is said that one who observes the month of Pauṣa with the discipline of ekabhakta (eating only once a day) becomes charming, pleasing to behold, and attains lasting fame. In the Vāmana Purāṇa, it is stated that during Pauṣa, one should diligently donate buildings, towns, and household furnishings (gṛha-prāvaraṇāni) to please Nārāyaṇa."
+
+[names]
+sa = [ "पौष-मास-आरम्भः",]
