@@ -2,6 +2,11 @@ default_to_none = true
 id = "mahAbharaNI"
 tags = [ "SpecialPuja", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Smriti Kaustubham p.274",]
+shlokas = """
+भरणी प्रेतपक्षे तु महती परिकीर्तिता।
+अस्यां श्राद्धं कृतं येन स गयाश्राद्धकृद्भवेत्॥ इति मात्स्योक्तेः।
+"""
 
 [timing]
 default_to_none = true
@@ -12,6 +17,9 @@ anga_type = "nakshatra"
 anga_number = 2
 kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Bharanī (nakṣatra) during Pitṛpakṣa is considered highly significant. By performing Shraaddha on this day, one attains the fruit of having performed a Gaya Shraaddham (as told in Matsya Puranam)."
 
 [names]
 sa = [ "महाभरणी",]
