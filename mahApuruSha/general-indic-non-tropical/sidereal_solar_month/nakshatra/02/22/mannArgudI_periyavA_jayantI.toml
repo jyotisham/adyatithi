@@ -1,0 +1,23 @@
+default_to_none = true
+id = "mannArgudI_periyavA_jayantI"
+tags = [ "MahapurushaEvents", "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 2
+anga_type = "nakshatra"
+anga_number = 22
+kaala = "साङ्गवः"
+year_start = 4916
+year_start_era = "kali"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Raju Sastrigal, or Brahmashri Tyāgarāja Makhi, popularly known as ‘Mannargudi Periyava’, was a revered scholar and a significant figure in the early 19th to early 20th century in Tamil Nadu. He was a grihastha (householder), not a sannyasi, which made it remarkable that he was addressed as ‘Periyava’ - in the words of the 68th Shankaracharya of the Kanchi Kamakoti Peetham, Shri Chandrashekharendra Sarasvati Swamigal. He hailed from the same clan as Appayya Dikshita, a prominent 16th-century Advaita scholar. Mannargudi Periyava was renowned as a scholar of repute, a great Śiva bhakta, and for his exemplary adherence to anushthanas. He ran a gurukulam (traditional school) where he trained numerous scholars (vidvāns), with even sanyasis learning from him, earning him the title of ‘Kulapati’. In 1887, during Queen Victoria’s Golden Jubilee, the British Government awarded him the title of ‘Maha Mahopadhyaya’ for his scholarship. He initially declined it out of humility, believing he did not deserve a title previously awarded to very great vidvāns. The award was eventually sent to his home by the District Collector. He was known for his dignified approach to scholarly debates. When a contemporary, Ramasubba Sastrigal, attacked Advaita, Sannyasam, and Shiva bhakti, Mannargudi Periyava countered his arguments in a book titled Durjanokti-nirasam without using any offensive language. His work Nyayendu Shekharam is a notable treatise that combines Vedanta and Tarka shastra (the science of logic and reasoning), often referred to as Nyaya Shastram. He wrote Nyayendu Shekharam to refute Nyaya Bhaskaram by Anantharyar, which had criticized Advaita. He named his work ‘Nyayendu’ (moon) to symbolize its ability to “cool the hearts” after the “sun” (Bhaskaram). In his humility, he considered the book to be a divine gift (Ishvara prasad), hence he chose ‘Indhu Shekhara’ (meaning ‘moon’ and associated with Ishvara) to be part of its title. Nyayendu Shekharam holds such importance that it is used for annual examinations by the Advaita Sabha of Kumbhaghonam, an institution established by the Paramaguru Swamigal (the 6th Chandrashekharendra Sarasvati, and the 65th Shankaracharya of the Kanchi Kamakoti Peetham) in 1894. He integrated a Pillaiyar Sruthi (hymn) into Nyayendu Shekharam, connecting Pillaiyar (Vinayaka) to Tarka Shastram. This hymn states that even those who worship other deities first offer prayers to Vigneshvara to remove obstacles."
+
+[names]
+ta = ["mannArgudI~periyavA~jayantI"]
+sa = [ "ब्रह्मश्री-त्यागराज-मखी-जयन्ती",]
