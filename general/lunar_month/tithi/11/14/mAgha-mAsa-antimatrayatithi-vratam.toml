@@ -2,7 +2,6 @@ default_to_none = true
 id = "mAgha-mAsa-antimatrayatithi-vratam"
 tags = [ "LessCommonFestivals",]
 references_primary = [ "Padma Puranam - Uttara Khanda - Adhyaya 221",]
-jsonClass = "HinduCalendarEvent"
 shlokas = """
 भृगुरुवाच---
 माघस्नानैर्विपन्नाशो माघस्नानैरघक्षयः।
@@ -36,6 +35,7 @@ shlokas = """
 सर्वेषां सर्ववर्णानामाश्रमाणां च सर्वदा। 
 माघस्नानं हि धर्मस्य धाराभिः खलु वर्षति॥८१॥
 """
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
