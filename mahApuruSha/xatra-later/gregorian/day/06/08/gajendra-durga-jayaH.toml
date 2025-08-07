@@ -1,0 +1,23 @@
+id = "gajendra-durga-jayaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 6
+anga_number = 8
+year_start = 1786
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On 8 June 1786, as part of a campaign against Tipu Sultan, Tukoji Rao Holkar captured Gajendragarh. Soon the Marathas captured Dharwad, Savanur, Adoni and Bahadur Vinda after a war.
+
+Aftermath
+
+Treaty of Gajendragad was signed in April 1787. Tribute was 48 lakh rupees indemnity plus 12 lakh annual, per sources.
+"""
+
+[names]
+sa = [ "गजेन्द्रदुर्ग-जयः",]
