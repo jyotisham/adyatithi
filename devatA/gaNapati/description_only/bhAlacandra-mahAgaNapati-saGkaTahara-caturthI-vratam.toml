@@ -1,5 +1,5 @@
 default_to_none = true
-id = "dvijapriya-mahAgaNapati_saGkaTahara-caturthI-vratam"
+id = "bhAlacandra-mahAgaNapati-saGkaTahara-caturthI-vratam"
 tags = [ "MonthlyVratam", "SankataharaChaturthiVratam",]
 shlokas = """
 गणाधिपस्त्वं देवेश चतुर्थ्यां पूजितो मया।
@@ -15,7 +15,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Special vrata day for Ganesha. In this month, Ganesha is worshipped as `dvijapriya-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, chanting the shloka mentioned."
+en = "Special vrata day for Ganesha. In this month, Ganesha is worshipped as `bhAlacandra-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, chanting the shloka mentioned."
 
 [names]
-sa = [ "द्विजप्रिय-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्",]
+sa = [ "भालचन्द्र-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्",]
