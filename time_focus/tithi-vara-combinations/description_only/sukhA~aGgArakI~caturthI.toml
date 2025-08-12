@@ -1,6 +1,7 @@
 default_to_none = true
 id = "sukhA~aGgArakI~caturthI"
 tags = [ "RareDays", "Combinations",]
+references_primary = [ "Bhavishya Puranam",]
 shlokas = """
 सुमन्तुरुवाच---
 सुखावहा च सुसुखा सौभाग्यकरणी परम्॥११॥

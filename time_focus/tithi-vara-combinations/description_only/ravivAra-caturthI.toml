@@ -1,8 +1,9 @@
 default_to_none = true
 id = "ravivAra-caturthI"
 tags = [ "RareDays", "Combinations",]
+references_primary = [ "Naradiya Puranam, Adhyaya 113",]
 shlokas = """
-नारदीयपुर्णे ११३.६०---
+नारदीयपुराणे ११३.६०---
 यस्मिन्कस्मिन्भवेन्मासि चतुर्थी रविवारयुक्।
 साङ्गारका वा विप्रेन्द्र सा विशेषफलप्रदा॥
 """

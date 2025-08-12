@@ -1,6 +1,7 @@
 default_to_none = true
 id = "bhAdrapdika-nAga-paJcamI"
 tags = [ "SpecialPuja"]
+references_primary = [ "Bhavishya Puranam",]
 shlokas = """
 सुमन्तुरुवाच
 तथा भाद्रपदे मासि पञ्चम्यां श्रद्वयान्वितः।
