@@ -1,5 +1,5 @@
 default_to_none = true
-id = "candra-grahaNam~(rAhugrasta)"
+id = "candra-grahaNam~(rAhumukhagrasta)"
 tags = [ "RareDays", "Eclipses",]
 jsonClass = "HinduCalendarEvent"
 
