@@ -1,5 +1,5 @@
 default_to_none = true
-id = "zrI-jayantI"
+id = "zrI-jayantI_nishIthe"
 tags = [ "Dashavataram", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
@@ -13,4 +13,4 @@ kaala = "निशीथः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "श्री-जयन्ती",]
+sa = [ "श्री-जयन्ती (निशीथ-कालानुसारम्)",]
