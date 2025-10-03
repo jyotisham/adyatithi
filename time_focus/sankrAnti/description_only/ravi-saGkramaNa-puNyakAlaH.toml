@@ -2,13 +2,18 @@ default_to_none = true
 id = "ravi-saGkramaNa-puNyakAlaH"
 tags = [ "SunSankranti", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+त्याज्याः सूर्यस्य सङ्क्रान्तेः पूर्वतः परतस्तथा॥५६-४४३
+विवाहादिषु कार्येषु नाड्यः षोडश षोडश।
+---नारद-पुराणम्
+"""
 
 [timing]
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "16 ghatikas on either side of the transition of the Sun are sacred for various observances. In addition to specific `puNyakAlas` like `SaDazIti`, `viSNupadI` etc., this is also useful, especially in cases where the other `puNyakAlas` are inconvenient for appropriate performance of rituals such as `snAna`, `dAna`, `tarpaNa`, etc."
+en = "16 ghatikas on either side of the transition of the Sun are sacred for various observances. In addition to specific `puNyakAlas` like `SaDazIti`, `viSNupadI` etc., this is also useful, especially in cases where the other `puNyakAlas` are inconvenient for appropriate performance of rituals such as `snAna`, `dAna`, `tarpaNa`, etc. Furthermore, as stated in Nārada Purāṇam, this span of time is to be precluded for auspicious activities such as vivāha-s etc."
 
 [names]
 sa = [ "रवि-सङ्क्रमण-पुण्यकालः",]

@@ -10,6 +10,9 @@ shlokas = """
 अमुख्या राशिसङ्क्रान्तिः तुल्यः कालविधिस्तयोः।
 स्नान-दान-जप-श्राद्ध-व्रत-होमादि-कर्मभिः।
 सुकृतं चल-सङ्क्रान्तौ अक्षयं पुरुषोऽश्नुते॥
+त्याज्याः सूर्यस्य सङ्क्रान्तेः पूर्वतः परतस्तथा॥५६-४४३
+विवाहादिषु कार्येषु नाड्यः षोडश षोडश।
+---नारद-पुराणम्
 """
 
 [timing]
@@ -23,7 +26,9 @@ While the `nirayana` `puNyakAla`-s are well known, marked by the transit of the 
 
 Many Dharma Shastra texts recognise the separate `puNyakAla`-s for both types of `saGkramaNa`-s. The vachanam of Jaabaali Maharshi is mentioned above, where he says that the `puNyakAla`-s are identical (in their reckoning) for both types of `saGkramaNa`-s. In the Pulastya Siddhanta, the anushthanas which are to be performed in this sayana punya kala just like nirayana are explicitly stated: `snAna`, `dAna`, `japa`, `zrAddha`, `vrata`, `hOma`, etc. In Kala Madhava, which is considered as the source text of the kala vicharas of the Dikshitiya, it is said in the 5th prakarana that,  meṣādi-saṅkrāntayo yasmin dine bhavanti tasmād dināt pūrvebhyaḥ ekādaśabhyo dinebhyaḥ prācīne dine, noting that Sayana Sankramanas occurred ~11 days before the day when the Mesha Sankramanas etc occur. Further references are seen in Dharma Sindhu first pariccheda, Jayasimha Kalpadruma sankranti nirnaya and Nirnaya Sindhu first pariccheda. There are also ample references in Vedas, illustrating how Ayana-s happened much later (in certain other eras), e.g. Shukla Yajur Veda Shatapatha Brahmana (Ekapaat Kanda 1/2/3), Nakshatra Sukta belonging to the Atharva Veda (Shaunaka Samhita 19/7/2), Maitrayaniya Aranyaka (6/14), and Taittiriya Brahmana (1/5/2).
 
-For a wonderfully detailed exposition on the topic, see https://sites.google.com/view/nakshatradarsha/dakshinayana-en and https://sites.google.com/view/nakshatradarsha/uttarayana-en ."""
+For a wonderfully detailed exposition on the topic, see https://sites.google.com/view/nakshatradarsha/dakshinayana-en and https://sites.google.com/view/nakshatradarsha/uttarayana-en .
+
+Furthermore, as stated in Nārada Purāṇam, this span of time is to be precluded for auspicious activities such as vivāha-s etc."""
 
 [names]
 sa = [ "सायन-रवि-सङ्क्रमण-पुण्यकालः",]
