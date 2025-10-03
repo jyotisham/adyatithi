@@ -2,7 +2,7 @@ default_to_none = true
 id = "jayA~mahAdvAdazI"
 tags = [ "RareDays", "Combinations",]
 jsonClass = "HinduCalendarEvent"
-references_primary = [ "`padma-purANam`",]
+references_primary = [ "Padma Puranam",]
 shlokas = """
 जया च विजया चैव जयन्ती पापनाशिनी।
 सर्वपापहराश्चैताः कर्तव्याः फलकाङ्क्षिभिः॥४॥

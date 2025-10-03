@@ -1,7 +1,7 @@
 default_to_none = true
 id = "pakSavardhinI~mahAdvAdazI"
 tags = [ "RareDays", "Combinations", "SpecialVratam",]
-references_primary = [ "`padma-purANam`",]
+references_primary = [ "Padma Puranam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 अमा वा यदि वा पूर्णा सम्पूर्णा जायते तदा।

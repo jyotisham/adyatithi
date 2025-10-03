@@ -1,7 +1,7 @@
 default_to_none = true
 id = "vijayA~zravaNa-mahAdvAdazI"
 tags = [ "RareDays", "Combinations", "SpecialVratam",]
-references_primary = [ "`padma-purANam`",]
+references_primary = [ "Padma Puranam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 जया च विजया चैव जयन्ती पापनाशिनी।
