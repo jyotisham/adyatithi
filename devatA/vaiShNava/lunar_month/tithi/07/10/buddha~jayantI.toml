@@ -10,11 +10,12 @@ shlokas = """
 श्रीवराह उवाच---
 मत्स्यं कूर्मं वराहं च नरसिंहं च वामनम्॥
 रामं रामं च कृष्णं च बुद्धं चैव च कल्किनम्।  
-एवं दशावतारांश्च पूजयेद् भक्तिसंयुतः॥२११-६९॥  
+एवं दशावतारांश्च पूजयेद् भक्तिसंयुतः॥२११-६९॥
+---वराह-पुराणम्
 पद्मपुराणे---
 मत्स्यं कूर्मं च वाराहं नारसिंहं च वामनम्।
 रामं रामं च कृष्णं च बुधं कल्किं नमोऽस्तु ते॥६-६६-५१॥
-स्मृतिमिक्ताफले---
+स्मृतिमुक्ताफले---
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
@@ -31,7 +32,7 @@ kaala = "सूर्यास्तमयः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Buddha Avatara day. In many reckonings of the Dashavataras of Mahavishnu, Buddha is considered. Quoted above are shlokas from Shri Varaha Puranam and Shrimad Bhagavatam. Note that Buddha is a ‘generic name’ for an enlightened person, and this Buddha is very much distinct from Gautama Buddha, who propounded the Bauddha mata/Buddhism."
+en = "Buddha Avatara day. In many reckonings of the Dashavataras of Mahavishnu, Buddha is considered. Quoted here are shlokas from Shrimad Bhagavatam, Varaha Puranam and Padma Puranam. Note that Buddha is a ‘generic name’ for an enlightened person, and this Buddha is very much distinct from Gautama Buddha, who propounded the Bauddha mata/Buddhism."
 
 [names]
 sa = [ "बुद्ध-जयन्ती",]
