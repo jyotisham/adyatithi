@@ -1,7 +1,7 @@
 default_to_none = true
 id = "kArttika-mAsa-antimatrayatithi-vrata-ArambhaH"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "Skanda Mahapuranam",]
+references_primary = [ "Skanda Puranam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 यास्तिस्रस्तिथयः पुण्या अन्तिके शुक्लपक्षके।

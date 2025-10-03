@@ -1,7 +1,7 @@
 default_to_none = true
 id = "vaizAkha-mAsa-antimatrayatithi-vrata-ArambhaH"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "Skanda Mahapuranam",]
+references_primary = [ "Skanda Puranam",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 यः माधवे वैशाखमासे, त्रयोदशीचतुर्दशीपूर्णिमासु तिथिषु स्नानादिकं करोति 
