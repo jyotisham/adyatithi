@@ -1,0 +1,32 @@
+id = "jackson-vadhaH"
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+month_type = "gregorian"
+anga_type = "day"
+month_number = 12
+anga_number = 21
+year_start = 1909
+year_start_era = "gregorian"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+On this day, 18 yo v1 Anant Lakshman Kanhere from konkaN killed British Nasik collector and torturer Jackson with a pistol sent by VD sAvarkar. He said -
+
+> “I carried out this auspicious act to take revenge for the oppression of Hindus by the British,” ...  
+> “In the people’s court, the penalty for treating Hindu people as worthless is death, and I did the honourable deed of handing Jackson such a punishment. I want to convey to the populace that such perpetrators should receive the harshest punishment possible in court “
+
+## Background
+Gangaram Marwadi had taken the oath of ‘Abhinav Bharat’, tested Anant's resolve by asking him to hold hot objects, and admitted him to the nAsik secret society.
+
+## Aftermath
+He said 
+
+> “I carried out this act on my own without anyone’s help or guidance,” 
+
+Ganu Vaidya and Dattu Joshi turned into amnesty witnesses. Consequently, Krushnaji Gopal Karve, Vinayak Narayan Deshpande, Shankarrao Soman, Wamanrao Joshi, and Ganu Vaidya were all arrested and tortured by policeman Alikhan and co. Guider went to England to look for sAvarkar.
+"""
+
+[names]
+sa = [ "राम-प्रसाद-हत्या",]
