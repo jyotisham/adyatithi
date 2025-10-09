@@ -26,7 +26,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Karkaṭa-Saṅkramaṇa Punyakala.  Perform danam of ghee, milk vessel, \"ghee cow\" and fruits. For `karkaTa-saGkramaNa`, the 30 ghatikas preceding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
+en = "Karkaṭa-Saṅkramaṇa Punyakala.  Perform danam of ghee, milk vessel, “ghee cow” and fruits. For `karkaTa-saGkramaNa`, the 30 ghatikas preceding the `saGkramaNa` form a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred."
 
 [names]
 sa = [ "कर्कट-सङ्क्रमण-पुण्यकालः",]
