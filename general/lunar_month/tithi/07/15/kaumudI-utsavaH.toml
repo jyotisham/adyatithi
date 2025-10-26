@@ -11,5 +11,8 @@ anga_type = "tithi"
 anga_number = 15
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "This is celebrated either on Sharat Pūrṇimā, or on the prathamā following Dīpāvalī."
+
 [names]
 sa = [ "कौमुदी-उत्सवः",]

@@ -1,6 +1,7 @@
 default_to_none = true
 id = "gOvardhana-pUjA"
 tags = [ "PuranaEvents", "CommonFestivals",]
+references_primary = [ "Skanda Puranam", "Naradiya Puranam, Adhyaya 110",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 गोवर्धन धराधार गोकुलत्राणकारक।
@@ -12,8 +13,16 @@ shlokas = """
 कर्तव्यमन्नकूटं तु गोवर्द्धनसमर्चने॥३६॥
 सायं गोभिः सह श्रीमद्गोवर्द्धनधराधरम्॥
 समर्च्य दक्षिणीकृत्य भुक्तिमुक्ती समाप्नुयात्॥३७॥
+स्कान्दे महापुराण एकाशीतिसाहस्र्यां संहितायां द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कार्तिकशुक्लप्रतिपन्माहात्म्यवर्णनं नाम दशमोऽध्याये---
+प्रातर्गोवर्धनः पूज्यो द्यूतं रात्रौ समाचरेत्॥२२॥
+भूषणीयास्तदा गावो वर्ज्या वहनदोहनात्॥२३॥
+गोवर्धन धराधार गोकुलत्राणकारक।
+विष्णुबाहुकृतोच्छ्राय गवां कोटिप्रदो भव॥२४॥
+या लक्ष्मीर्लोकपालानां धेनुरूपेण संस्थिता।
+घृतं वहति यज्ञार्थे मम पापं व्यपोहतु॥२५॥
+अग्रतः सन्तु मे गावो गावो मे सन्तु पृष्ठतः।
+गावो मे हृदयं सन्तु गवां मध्ये वसाम्यहम्॥२६॥
 """
-references_primary = [ "Naradiya Puranam, Adhyaya 110",]
 
 [timing]
 default_to_none = true
@@ -26,7 +35,7 @@ kaala = "मध्याह्नः"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Commemoration of Govardhana Leela of Krishna. Offer naivedyam to Bhagavan Krishna."
+en = """Observed on the day after `dIpAvalI`, on the , Govardhana Puja or `annakUTotsava` involves constructing and worshipping a symbolic mountain of food to honour the Govardhana Hill and Bhagavan Krishna. The rituals include preparing a vast array of cooked dishes and dairy products, with the goal of achieving all worldly and spiritual success. On this day, cows are decorated, and worshipped as a form of Lakshmi Devi, with devotees praying for the removal of sins and the attainment of mōksha."""
 
 [names]
 sa = [ "गोवर्धन-पूजा", "अन्नकूट्",]
