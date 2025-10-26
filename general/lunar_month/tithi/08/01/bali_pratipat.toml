@@ -1,0 +1,67 @@
+default_to_none = true
+id = "bali_pratipat"
+tags = [ "CommonFestivals",]
+references_primary = [ "Skanda Puranam"]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पूजां कुर्यात्ततः साक्षाद्भूमौ मण्डलके कृते।
+बलिमालिख्य दैत्येन्द्रं वर्णकैः पञ्चरङ्गकैः॥३९॥
+सर्वाभरणसम्पूर्णं विन्ध्यावलिसमन्वितम्।
+कूष्माण्डमयजम्भोरुमधुदानवसंवृतम्॥४०॥
+सम्पूर्णं कृष्टवदनं किरीटोत्कटकुण्डलम्।
+द्विभुजं दैत्यराजानं कारयित्वा स्वके पुनः॥४१॥
+गृहस्य मध्ये शालायां विशालायां ततोऽर्चयेत्।
+मातृभ्रातृजनैः सार्धं सन्तुष्टो बन्धुभिः सह॥४२॥
+कमलैः कुमुदैः पुष्पैः कह्लारै रक्तकोत्पलैः।
+गन्धपुष्पान्ननैवेद्यैः सक्षीरैर्गुडपायसैः॥४३॥
+मद्यमांससुरालेह्यचोष्यभक्ष्योपहारकैः।
+मन्त्रेणानेन राजेन्द्र समन्त्री सपुरोहितः।
+पूजां करिष्यते यो वै सौख्यं स्यात्तस्य वत्सरम्॥४४॥
+**बलिराज नमतुभ्यं विरोचनसुत प्रभो।
+भविष्येन्द्र सुराराते पूजेयं प्रतिगृह्यताम्॥४५॥**
+एवं पूजाविधानेन रात्रौ जागरणं ततः।
+कारयेद्वै क्षणं रात्रौ नटनृत्यकथानकैः॥४६॥
+लोकश्चापि गृहस्यान्ते सपर्यां शुक्लतण्डुलैः।
+संस्थाप्य बलिराजानं फलैः पुष्पैः प्रपूजयेत्॥४७॥
+बलिमुद्दिश्य वै तत्र कार्यं सर्वं च सुव्रत।
+यानि यान्यक्षयाण्याहुर्मुनयस्तत्त्वदर्शिनः॥४८॥
+यदत्र दीयते दानं स्वल्पं वा यदि वा बहु।
+तदक्षयं भवेत्सर्वं विष्णोः प्रीतिकरं शुभम्॥४९॥
+रात्रौ ये न करिष्यन्ति तव पूजां बले नराः।
+तेषां च श्रोत्रियो धर्मः सर्वस्त्वामुपतिष्ठतु॥५०॥
+विष्णुना च स्वयं वत्स तुष्टेन बलये पुनः।
+उपकारकरं दत्तमसुराणां महोत्सवम्॥५१॥
+एकमेवमहोरात्रं वर्षे वर्षे च कार्तिके।
+दत्तं दानवराजस्य आदर्शमिव भूतले॥५२॥
+यः करोति नृपो राज्ये तस्य व्याधिभयं कुतः।
+सुभिक्षं क्षेममारोग्यं तस्य सम्पदनुत्तमा॥५३॥
+नीरुजश्च जनाः सर्वे सर्वोपद्रववर्जिताः॥५४॥
+कौमुदी क्रियते यस्माद्भावं कर्तुं महीतले।
+यो यादृशेन भावेन तिष्ठत्यस्यां च सुव्रत।
+हर्षदुःखादिभावेन तस्य वर्षं प्रयाति हि॥५५॥
+रुदिते रोदितं वर्षं प्रहृष्टे तु प्रहर्षितम्।
+भुक्तौ भोग्यं भवेद्वर्षं स्वस्थे स्वस्थं भविष्यति॥५६॥
+वैष्णवी दानवी चेयं तिथिः प्रोक्ता च कार्तिके॥५७॥
+दीपोत्सवं जनितसर्वजनप्रमोदं
+कुर्वन्ति ये शुभतया बलिराजपूजाम्।
+दानोपभोगसुखबुद्धिमतां कुलानां
+हर्षं प्रयाति सकलं प्रमुदा च वर्षम्॥५८॥
+बलिपूजां विधायैवं पश्चाद्गोक्रीडनं चरेत्॥५९॥
+—इति श्रीस्कान्दे महापुराण एकाशीतिसाहस्र्यां संहितायां द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कार्तिकशुक्लप्रतिपन्माहात्म्यवर्णनं नाम दशमोऽध्यायः॥१०॥
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 8
+anga_type = "tithi"
+anga_number = 1
+kaala = "सूर्योदयः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """The devotee should draw a five-coloured picture of Rājā Bali, adorned with ornaments and surrounded by his attendants, and worship it at night with flowers, food offerings, and recitation of mantras along with family and relatives. After the worship, he should remain awake and celebrate through songs, dances, and storytelling. Common people too should offer rice, fruits, and flowers to Bali in their homes. Whatever is done in honor of Bali brings lasting merit and pleases Viṣṇu. Viṣṇu granted Bali one day and night in the month of Kārttika to be worshipped on earth, ensuring prosperity, health, and happiness to those who observe the festival. The state of mind or action on this day—joy or sorrow—determines one’s condition for the rest of the year! Those who joyfully celebrate the festival of lights and perform the sacred worship of King Bali will ensure that their families, endowed with generosity, happiness, pleasure, and wisdom, experience a year filled with continuous joy and prosperity."""
+
+[names]
+sa = [ "बलि-प्रतिपत्",]
