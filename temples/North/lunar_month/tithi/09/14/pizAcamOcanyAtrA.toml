@@ -1,6 +1,7 @@
 default_to_none = true
 id = "pizAcamOcanyAtrA"
-tags = [ "RareDays", "Combinations",]
+tags = [ "Temple Festivals",]
+references_primary = [ "Purushartha Chintamani p. 311",]
 shlokas = """
 मार्गशुक्लचतुर्दश्याम्---
 अद्य शुक्लचतुर्दश्यां मार्गे मासि तपोनिधे।
@@ -16,7 +17,6 @@ shlokas = """
 इति काशीतत्त्वप्रकाशिकायां स्कान्दसनत्कुमारसंहितावचनैः पिशाचमोचनयात्रोक्ता। तत्र
 ``पौर्वाह्णिकास्तु तिथयो देवकार्ये शुभप्रदाः॥'' इतिवचनात्पौर्वाह्णिकी चतुर्दशी ग्राह्या।
 """
-references_primary = [ "Smriti Kaustubham p.108",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
