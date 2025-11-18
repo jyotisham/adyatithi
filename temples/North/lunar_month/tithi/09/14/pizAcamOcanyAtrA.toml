@@ -1,0 +1,36 @@
+default_to_none = true
+id = "pizAcamOcanyAtrA"
+tags = [ "RareDays", "Combinations",]
+shlokas = """
+मार्गशुक्लचतुर्दश्याम्---
+अद्य शुक्लचतुर्दश्यां मार्गे मासि तपोनिधे।
+अत्र सानादिकं कार्य पैशाच्यपरिमोचनम्॥
+मार्गशुक्लचतुर्दश्यां कपर्दीश्वरसन्निधौ।
+मात्वाऽन्यत्रापि मरणान्न पैशाच्यमवाप्नुयात्॥
+इमां सांवत्सरी यात्रा ये करिष्यन्ति मानवाः।
+तीर्थप्रतिग्रहात् पापात् ते तरिष्यन्ति मानवाः॥
+पैशाचमोचने स्नात्वा कपर्दीशं समर्च्य च।
+कृत्वा तत्रान्नदानं च इहामुत्र च निर्भयः॥
+पिशाचमोचने तीर्थे लोष्टद्रोणं समुद्धरेत्।
+न पीड्यते परे लोके स्वल्पयाऽपि पिपासया॥
+इति काशीतत्त्वप्रकाशिकायां स्कान्दसनत्कुमारसंहितावचनैः पिशाचमोचनयात्रोक्ता। तत्र
+``पौर्वाह्णिकास्तु तिथयो देवकार्ये शुभप्रदाः॥'' इतिवचनात्पौर्वाह्णिकी चतुर्दशी ग्राह्या।
+"""
+references_primary = [ "Smriti Kaustubham p.108",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "paraviddha"
+month_number = 9
+anga_type = "tithi"
+anga_number = 14
+kaala = "पूर्वाह्णः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "O great ascetic, today, on the fourteenth tithi of the bright half, in the month of Mārgaśīrṣa, The bathing and other rites performed here lead to the deliverance from the state of a Pishācha. Having bathed near Kapardīśvara on the fourteenth tithi of the bright half of Mārgaśīrṣa, And dying even elsewhere, one does not attain the state of a Pishacha. Those humans who perform this annual journey (yātrā), Will overcome the sins incurred by accepting gifts/fees at a sacred place (tīrtha-pratigrahāt pāpāt). Having bathed at the Pishācha-Mochana Tīrtha, and having duly worshipped Kapardīśa (https://maps.app.goo.gl/tnyPhvCrr4etPC7o7), And having performed the offering of food (annadāna), one becomes fearless both here (in this world) and hereafter. At the Pishācha-Mochana Tīrtha, one should raise/take a 'loṣṭadroṇa' [a measure/amount of water]—in the other world, they are not tormented even by a slight thirst. Thus, the Pishācha-Mochana Yātrā (pilgrimage) is described by the verses of the Skanda Sanatkumāra Saṃhitā in the work Kāśī-Tattva-Prakāśikā. Since the tithis of the forenoon (pūrvāhṇa) are auspicious for rites concerning the gods, the Chaturdashī (fourteenth tithi) that prevails in the forenoon is to be taken for the observance of this yātrā."
+
+[names]
+sa = [ "पिशाचमोचनयात्रा",]
