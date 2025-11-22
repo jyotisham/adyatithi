@@ -1,0 +1,36 @@
+default_to_none = true
+id = "prapAdAnArambhaH"
+shlokas = """
+प्रपादानारम्भ उक्तोऽपरार्के---
+अतीते फाल्गुने मासि प्राप्ते चैत्रमहोत्सवे।
+पुण्येऽह्नि विप्रकथिते प्रपादानं समारभेत्। 
+तत्र मन्त्रः---
+प्रपेयं सर्वसामान्या भूतेभ्यः प्रतिपादिता।
+अस्याः प्रदानात् पितरस्तृप्यन्तु हि पितामहाः॥ इति।
+अनिवार्य ततो देयं जलं मासचतुष्टयम्। 
+प्रपां दातुमशक्तेन विशेषाद्धर्ममीप्सुना॥ 
+प्रत्यहं धर्मघटको वस्त्रसंवेष्टिताननः।
+ब्राह्मणस्य गृहे देयः शीतामलजलः शुचिः॥
+तत्र मन्त्रः-
+एष धर्मघटो दत्तो ब्रह्मविष्णुशिवात्मकः।
+अस्य प्रदानात् सकला मम सन्तु मनोरथाः॥ इति।
+अनेन विधिना यस्तु धर्मकुम्भं प्रयच्छति।
+प्रपादानफलं सोऽपि लभते नात्र संशयः॥ 
+---स्मृतिकौस्तुभे
+"""
+tags = [ "SpecialPeriodStart", "Danam"]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """With the beginning of Chaitra māsa, it is important to give water to the needy. Therefore, it is suggested that facilities be established for distributing water. On an auspicious day, suggested by a Vipra, one should begin the ‘water pavilion’ offering. The mantra for that is translated as: “This water pavilion is dedicated to all living beings in general. By the offering of this, may the ancestors and the grandfathers indeed be satisfied.” And thereafter, water must be given for four months [continuously/without fail]. By one who is unable to offer a water pavilion, especially if they desire Dharma (virtue), a pot of water (Dharmaghata), clean, containing cool and pure water, should be given daily to the house of a Brāhmaṇa, with the mouth of the pot wrapped in cloth. The mantra for that translateas as “This Pot of Virtue is offered; it is the essence of Brahma, Vishnu, and Shiva. By the offering of this, may all my wishes be fulfilled.” There is no doubt that the person who offers the Dharmakumbha by this prescribed method also attains the fruit of the water pavilion offering (Prapa-daana) [itself]."""
+
+[names]
+sa = [ "प्रपादान-आरम्भः",]
