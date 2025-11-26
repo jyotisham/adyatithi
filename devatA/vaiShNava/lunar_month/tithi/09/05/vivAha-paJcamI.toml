@@ -1,0 +1,20 @@
+default_to_none = true
+id = "vivAha-paJcamI"
+tags = [ "NorthIndiaTempleFestivals",]
+references_primary = [ "Shishtaachaara",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+priority = "puurvaviddha"
+month_number = 9
+anga_type = "tithi"
+anga_number = 5
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Widely celebrated in North India, Ayodhya etc., the `vivAha` dina of Sita–Rama."
+
+[names]
+sa = [ "विवाह-पञ्चमी",]
