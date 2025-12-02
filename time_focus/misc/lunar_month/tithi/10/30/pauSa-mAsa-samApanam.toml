@@ -1,5 +1,5 @@
 default_to_none = true
-id = "mAgha-mAsa-samApanam"
+id = "pauSa-mAsa-samApanam"
 tags = [ "SpecialDays", "SpecialPeriodEnd",]
 jsonClass = "HinduCalendarEvent"
 
@@ -13,7 +13,7 @@ priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`mAgha-mAsaH` ends today"
+en = "`pauSa-mAsaH` ends today"
 
 [names]
-sa = [ "माघ-मास-समापनम्",]
+sa = [ "पौष-मास-समापनम्",]
