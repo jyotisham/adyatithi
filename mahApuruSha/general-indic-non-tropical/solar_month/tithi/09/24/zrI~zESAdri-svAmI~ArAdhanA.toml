@@ -9,7 +9,7 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
+month_type = "solar_month"
 priority = "vyaapti"
 month_number = 9
 anga_type = "tithi"
