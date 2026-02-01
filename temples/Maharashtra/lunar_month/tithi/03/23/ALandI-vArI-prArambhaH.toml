@@ -1,0 +1,20 @@
+default_to_none = true
+id = "ALandI-vArI-prArambhaH"
+tags = [ "MaharashtraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 23
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """The Wari (pilgrimage) is a centuries-old tradition in Maharashtra, India, involving a ceremonial procession of devotees (Warkaris) accompanying the Padukas (symbolic footprints) of saints to the Vithoba temple in Pandharpur. The two most prominent processions originate from the towns of Dehu and Alandi.
+
+The procession of Sant Dnyaneshwar, affectionately known as Mauli (māūlī), begins one day later than the Dehu Yatra, from Āl̤andī on Jyeshtha Vadya Ashtami. This route is slightly shorter than the Dehu route but is equally arduous and spiritually significant. It often meets the Tukaram Pālkhī at specific junctures or converges near Pune before proceeding separately. Departing from the Samadhi Mandir, the Pālkhī moves to Pune, staying at the Pālkhī Vithoba Mandir in Bhavani Peth. The most visually dramatic leg of the journey follows as the devotees pull the heavy chariot up the steep Dive Ghat to reach Sāswaḍ, where the Pālkhī stays for two days. The route traverses the historic town of Jejuri—sacred to Lord Khandoba—and the village of Vālhe. Upon entering the Satara district, the procession halts at Loṇanda, famous for its unique sheep Ringan, and then Taraḍgaon. The journey continues through the princely town of Phalṭaṇ and onto Baraḍ. As it enters Solapur district, the halts include Nātepute, Māl̤shiras, and Vel̤āpūr, which hosts a spectacular Ringan. After a stop at Bhaṇḍīshegaon, the Mauli Pālkhī also arrives at Wākhari on Ashadhi Shuddha Dashami."""
+
+[names]
+sa = [ "आळन्दी-वारी-प्रारम्भः",]

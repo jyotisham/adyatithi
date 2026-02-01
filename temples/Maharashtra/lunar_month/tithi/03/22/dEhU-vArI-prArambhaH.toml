@@ -1,0 +1,20 @@
+default_to_none = true
+id = "dEhU-vArI-prArambhaH"
+tags = [ "MaharashtraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 22
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """The Wari (pilgrimage) is a centuries-old tradition in Maharashtra, India, involving a ceremonial procession of devotees (Warkaris) accompanying the Padukas (symbolic footprints) of saints to the Vithoba temple in Pandharpur. The two most prominent processions originate from the towns of Dehu and Alandi.
+
+The pilgrimage of Sant Tukaram Maharaj (Sant Tukārāma Mahārāj) begins in the holy town of Dehu (dehū) on the banks of the Indrayani (indrāyaṇī) river. On the auspicious day of Jyeshtha Vadya Saptami (jyeṣṭha vadya saptamī), the silver pādukās are placed in the Pālkhī, and the procession departs from the Inamdar Wada. The first night is spent nearby in Ākurḍī before the Wārkarīs enter Pune, resting at the Nivdunga Vitthal Mandir in Nana Peth. As the journey moves into the rural heartland, the procession halts successively at Loṇī Kāl̤bhor), Yavat, and Varvaṇḍ. A major milestone is reached at Bārāmatī, where the Pālkhī rests for a day. The spiritual energy intensifies at Sansar, famous for its first Riṅgaṇ ceremony, followed by stops at Anthurṇe and Nimgaon Ketki. The route then winds through Indapur and halts at Sarāṭī on the riverbank. Entering the Solapur district, the procession witnesses a grand Ringan at Aklūj, followed by halts at Borgaon and Pirachi Kuroli. Finally, on Ashadhi Shuddha Dashami, the procession reaches the convergence point of Wākharī."""
+
+[names]
+sa = [ "देहू-वारी-प्रारम्भः",]

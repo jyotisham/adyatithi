@@ -1,0 +1,16 @@
+default_to_none = true
+id = "ALandI-vArI-samApanam"
+tags = [ "MaharashtraTempleFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+anchor_festival_id = "ASADhI-vArI"
+offset = 0
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """On this day, From Wākharī, both the Āl̤andī and Dehu Pālkhīs—along with hundreds of others from across Maharashtra—walk the final stretch together to Panḍharpur. On this holy day of Ashadhi Ekadashi, the Wāri culminates. The pilgrims take a holy dip in the Chandrabhāgā river and complete the Pradakshina of the Vithoba temple, and of course, darshan of Bhagavan Viṭhobā, fulfilling their vow of the Wari."""
+
+[names]
+sa = [ "आळन्दी-वारी-समापनम्",]

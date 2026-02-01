@@ -169,6 +169,11 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/temples/Andhra"
 jsonClass = "RulesRepo"
 
 [[data]]
+name = "temples/Maharashtra"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/temples/Maharashtra"
+jsonClass = "RulesRepo"
+
+[[data]]
 name = "temples/Kerala"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/temples/Kerala"
 jsonClass = "RulesRepo"
