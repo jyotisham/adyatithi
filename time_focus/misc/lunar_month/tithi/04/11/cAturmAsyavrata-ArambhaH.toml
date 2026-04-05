@@ -1,7 +1,6 @@
 default_to_none = true
 id = "cAturmAsyavrata-ArambhaH"
 tags = [ "VratamStart", "SpecialPeriodStart", "CommonFestivals",]
-jsonClass = "HinduCalendarEvent"
 references_primary = [ "Smriti Kaustubham p.139-141",]
 shlokas = """
 रामार्चनचन्द्रिकायां---
@@ -64,20 +63,24 @@ shlokas = """
 तत्रैव---
 द्विदलं बहुबीजं च वृन्ताकं च विवर्जयेत्।
 जम्बीरं राजमाषांश्च मूलकं रक्तमूलकम्।
-कूष्माण्डं चेक्षुदण्डं च चातुर्मास्ये त्यजेद्बुधः।
+कूष्माण्डं चेक्षुदण्डं च चातुर्मास्ये त्यजेद् बुधः।
 बहुबीजग्रहणेन प्राप्तनिषेधस्यापि वृन्ताकस्य पुनर्वचनं दोषाधिक्यार्थम्। एवं रक्तमूलकस्यापि।
 """
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
 month_number = 4
 anga_type = "tithi"
-anga_number = 12
+anga_number = 11
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Chaaturmasya begins; 4 months; Pradakshina to Pippala; Deeparadhana in temple; Saraswati Pooja; 1st month no vegetables; 2nd month no curds; 3rd month no milk; 4th month no dals;"
+en = """
+The special Chaaturmasya vratam begins on Ekadashi, coinciding with Shayana Ekadashi. In each of the months, specific vratams are observed, with restrictions on various foods. On each of the next four shuddha dvadashis, beginning with tomorrow, a vratam starts. In `ASADha-zravaNa`, `zAkavratam` is observed; in `zravaNa--bhAdrapada`, `dadhi-vratam` is observed; in `bhAdrapada-Azvina`, `payO-vratam` is observed, and in `Azvina--kArtika`, `dvidala-vratam` is observed.
+Pradakshina to Pippala; Deeparadhana in temple; Saraswati Pooja.
+"""
 
 [names]
 sa = [ "चातुर्मास्यव्रत-आरम्भः",]
