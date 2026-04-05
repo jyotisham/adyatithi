@@ -1,6 +1,6 @@
 default_to_none = true
 id = "rAmEzvara-darzanam"
-tags = [ "OtherJayantis", "CommonFestivals",]
+tags = [ "CommonFestivals",]
 shlokas = """
 कृत्यसारसमुच्चये---
 अस्यामेव (ज्येष्ठमास-शुक्लदशम्यां दशहरा-दिने) सेतुबन्धे रामेश्वरदर्शनम्। अस्यां स्थापितत्वात्। तथा हि---
@@ -12,10 +12,8 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
-month_number = 3
-anga_type = "tithi"
-anga_number = 10
+anchor_festival_id = "dazaharA_or_gaGgAvataraNam_or_dazapApaharA~dazamI"
+offset = 0
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

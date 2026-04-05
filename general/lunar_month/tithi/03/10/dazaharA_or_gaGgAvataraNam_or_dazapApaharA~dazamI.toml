@@ -18,12 +18,14 @@ shlokas = """
 परद्रव्येष्वभिध्यानं मनसाऽनिष्टचिन्तनम्।
 वितथाभिनिवेशश्च मानसं त्रिाविधं स्मृतम्॥
 अस्यां गङ्गास्नाने सङ्कल्पः ॐ अद्येत्यादि दशविधपापक्षयकाले गङ्गायां स्नानमहं करिष्ये इति।
+
 """
 references_primary = [ "Nirnaya Sindu, Valmiki Ramayanam",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+adhika_maasa_handling = "adhika_if_exists"
 month_type = "lunar_month"
 month_number = 3
 anga_type = "tithi"
