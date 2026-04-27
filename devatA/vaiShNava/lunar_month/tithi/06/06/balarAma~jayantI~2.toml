@@ -1,0 +1,34 @@
+default_to_none = true
+id = "balarAma~jayantI~2"
+tags = [ "Dashavataram", "LessCommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+references_primary = [ "Garga Samhita 1.11.9",]
+shlokas = """
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+—स्मृतिमुक्ताफलम्
+अथ व्रजे पञ्चदिनेषु भाद्रे
+स्वातौ च षष्ठ्यां च सिते बुधे च।
+उच्चैर्ग्रहैः पंचभिरावृते च
+लग्ने तुलाऽऽख्ये दिनमध्यदेशे॥९॥
+प्रार्थनामन्त्रः—
+नमस्ते हलिनां श्रेष्ठ नमस्ते मुसलायुध।
+नमस्ते रेवतीकान्त नमस्ते भक्तवत्सल॥
+नमस्ते बलिनां श्रेष्ठ नमस्ते धरणीधर।
+प्रलम्बघ्न नमस्तेऽस्तु त्राहि मां कृष्णपूर्वज॥
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "tithi"
+anga_number = 6
+kaala = "मध्याह्नः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Jayanti of Balarama (Bhadrapada Shukla Shashthi variant), according to certain traditions (as per Garga Samhita)."
+
+[names]
+sa = [ "बलराम-जयन्ती",]

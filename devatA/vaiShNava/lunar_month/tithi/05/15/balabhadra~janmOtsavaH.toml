@@ -1,0 +1,26 @@
+default_to_none = true
+id = "balabhadra~janmOtsavaH"
+tags = [ "Dashavataram", "OdishaTempleFestivals",]
+references_secondary = [ "VrataNirnayaKalpavalli",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+—स्मृतिमुक्ताफलम्
+"""
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 15
+kaala = "साङ्गवः"
+priority = "paraviddha"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Janmotsava of Balabhadra (Balarama), as celebrated in Puri Jagannath temple and various temples of Northern India."
+
+[names]
+sa = [ "बलभद्र-जन्मोत्सवः",]

@@ -20,7 +20,7 @@ anga_number = 17
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Jayanti of Parashurama, who incarnated to destroy Dushta Kshatriyas."
+en = "Jayanti of Parashurama, who incarnated to destroy Dushta Kshatriyas, as per Southern Tradition (Smriti Muktaphalam)."
 
 [names]
-sa = [ "परशुराम-जयन्ती",]
+sa = [ "परशुराम-जयन्ती (द्रविड-सम्प्रदायः)",]

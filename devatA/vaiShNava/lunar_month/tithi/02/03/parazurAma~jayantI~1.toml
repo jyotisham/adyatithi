@@ -1,0 +1,28 @@
+default_to_none = true
+id = "parazurAma~jayantI~1"
+tags = [ "Dashavataram", "MajorFestivals",]
+shlokas = """
+अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
+उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
+—स्मृतिमुक्ताफलम्
+लक्ष्मीनारायणसंहिता/खण्डः १ (कृतयुगसन्तानः)/अध्यायः २६८---
+वैशाखस्य सिते पक्षे तृतीयायां पुनर्वसौ।
+जमदग्निगृहे प्रादुरासीत्परशुधृक् हरिः॥२२॥
+"""
+references_primary = [ "Lakshmi Narayana Samhita",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 3
+kaala = "मध्याह्नः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Jayanti of Parashurama, as given in Lakshmi Narayana Samhita."
+
+[names]
+sa = [ "परशुराम-जयन्ती",]

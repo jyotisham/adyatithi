@@ -1,8 +1,20 @@
 default_to_none = true
 id = "hala-SaSThI"
-tags = [ "Dashavataram", "LessCommonFestivals",]
-references_secondary = [ "Kielhorn (1897)",]
+tags = [ "Dashavataram", "LessCommonFestivals" ]
 jsonClass = "HinduCalendarEvent"
+references_primary = [ "Nirnaya Sindhu", "Dharma Sindhu" ]
+shlokas = """
+निर्णयसिन्धुः २ परिच्छेदः—
+अथ भाद्रपदकृष्णषष्ठी हलषष्ठी। सा च सप्तमीयुता ग्राह्या।
+धर्मसिन्धुः २ परिच्छेदः—
+भाद्रपदकृष्णषष्ठी हलषष्ठी ललहीछठ इति ख्याता।
+अत्र पुत्राणां दीर्घायुरारोग्यार्थं हलषष्ठीव्रतं स्त्रीभिः कार्यम्।
+प्रार्थनामन्त्रः—
+नमस्ते हलिनां श्रेष्ठ नमस्ते मुसलायुध।
+नमस्ते रेवतीकान्त नमस्ते भक्तवत्सल॥
+नमस्ते बलिनां श्रेष्ठ नमस्ते धरणीधर।
+प्रलम्बघ्न नमस्तेऽस्तु त्राहि मां कृष्णपूर्वज॥
+"""
 
 [timing]
 default_to_none = true
@@ -10,10 +22,12 @@ month_type = "lunar_month"
 month_number = 5
 anga_type = "tithi"
 anga_number = 21
+kaala = "मध्याह्नः" # पूजाव्रतेषु सर्वत्रमध्याह्नव्यापिनीतिथिः (default)
+priority = "paraviddha" # सप्तमीयुता ग्राह्या
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Birth of Balarama"
+en = "Hala Shashthi Vrata. THe plough is also worshipped by many. Women typically perform a vrata for the long life of their children."
 
 [names]
-sa = [ "हल-षष्ठी",]
+sa = [ "हल-षष्ठी/ललही-छठ", ]
