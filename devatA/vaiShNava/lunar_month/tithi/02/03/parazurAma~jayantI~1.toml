@@ -8,8 +8,16 @@ shlokas = """
 लक्ष्मीनारायणसंहिता/खण्डः १ (कृतयुगसन्तानः)/अध्यायः २६८---
 वैशाखस्य सिते पक्षे तृतीयायां पुनर्वसौ।
 जमदग्निगृहे प्रादुरासीत्परशुधृक् हरिः॥२२॥
+व्रतराजे—
+इयमेव तृतीया परशुरामजयन्ती॥ सा च प्रदोषव्यापिनी ग्राह्या।
+तदुक्तं भार्गवार्चनदीपिकायां स्कन्दभविष्ययोः—
+वैशाखस्य सिते पक्षे तृतीयायां पुनर्वसौ।
+निशायाः प्रथमे यामे रामाख्यः समये हरिः।
+स्वोच्चगैः षड्ग्रहैर्युक्ते मिथुने राहुसंस्थिते॥
+रेणुकायास्तु यो गर्भादवतीर्णो विभुः स्वयम्।
+दिनद्वये तद्व्याप्तावंशतः समव्याप्तौ च परा॥ अन्यथा पूर्वैव।
 """
-references_primary = [ "Lakshmi Narayana Samhita",]
+references_primary = [ "Vrata Raja p. 112", "Lakshmi Narayana Samhita",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -18,11 +26,12 @@ month_type = "lunar_month"
 month_number = 2
 anga_type = "tithi"
 anga_number = 3
-kaala = "मध्याह्नः"
+kaala = "प्रदोषः"
+priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Jayanti of Parashurama, as given in Lakshmi Narayana Samhita."
+en = "Jayanti of Parashurama, as given in Vrata Raja and Lakshmi Narayana Samhita."
 
 [names]
 sa = [ "परशुराम-जयन्ती",]
