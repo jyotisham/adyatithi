@@ -1,0 +1,30 @@
+default_to_none = true
+id = "tiruvaLLuva-nAyanmAr-jayantI"
+tags = [ "MahapurushaEvents",]
+shlokas = """
+पुण्ये वैशाखमासे यो मित्रर्क्षे समवातरत्।
+त्रिवर्गरूपिणीं वाचं ददौ यस्तं नमाम्यहम्॥
+धर्मार्थकामतत्त्वानां सारं यो व्यदधाद् भुवि।
+तं महाकविमीड्यं श्री-वल्लुवाख्यं मुनिं भजे॥
+वेदागमाविरोधेन सर्वलोकहिताय च।
+बोधयन्तं मुनिं वन्दे धर्मं चैव सनातनम्॥
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "sidereal_solar_month"
+priority = "paraviddha"
+month_number = 2
+anga_type = "nakshatra"
+anga_number = 17
+kaala = "साङ्गवः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """
+Tiruvaḷḷuva Nayanmar (or Tiruvaḷḷuvar) was born in Vaikasi month, Anuradha nakshatram. A veritable sage, he gave the world a "threefold speech" embodying dharma, artha, kāma, and who taught the eternal Sanātana dharma in a manner not contradicting the Vedas and Āgamas. The Tirukkuṟaḷ is a work of 1,330 couplets arranged in 133 chapters of ten couplets each. It is organized into three sections — aṟam, poruḷ, inbam. These correspond directly to three of the four Sanskrit puruṣārthas: dharma, artha, kāma. Tiruvaḷḷuvar is typically depicted (in older texts) with a tripuṇḍra (vibhūti marking) on the forehead and rudrākṣa beads — along with matted hair (jaṭā), the cin-mudrā, a seated ascetic posture, and disciples nearby, typical of sages/Rishis.
+"""
+
+[names]
+ta = [ "tiruvaLLuva nAyan2mAr jayantI",]
