@@ -1,8 +1,7 @@
 default_to_none = true
-id = "manvAdiH~(vaivasvataH~[7])"
+id = "manvAdiH~(sUrya-sAvarNiH~[8])"
 tags = [ "ManvadiDays",]
-references_primary = [ "`vaidyanAtha-dIkSitIyam`", "Purushartha Chintamani p. 507"]
-jsonClass = "HinduCalendarEvent"
+references_primary = [ "`vaidyanAtha-dIkSitIyam`", "Purushartha Chintamani p. 507",]
 shlokas = """
 स्मृत्यन्तरे---
 अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
@@ -30,7 +29,9 @@ shlokas = """
 स्नानं दानं जपो होमः पुण्यानन्त्याय कल्पते॥
 पुरुषार्थचिन्तामणौ मनुः---
 सहस्रगुणितं दानं भवेद्दत्तं युगादिषु।
-कर्म श्राद्धादिकं चैव तथा मन्वन्तरादिषु॥"""
+कर्म श्राद्धादिकं चैव तथा मन्वन्तरादिषु॥
+"""
+jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
@@ -44,4 +45,4 @@ adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]
-sa = [ "मन्वादिः-(वैवस्वतः-[७])",]
+sa = [ "मन्वादिः-(सूर्य-सावर्णिः-[८])",]
