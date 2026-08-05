@@ -16,6 +16,7 @@ month_number = 1
 anga_type = "tithi"
 anga_number = 10
 kaala = "मध्याह्नः" # पूजाव्रतेषु सर्वत्र मध्याह्नव्यापिनीतिथिः (default)
+priority = "paraviddha" # Doesn't matter for dashami. May have to account for first part of Madhyahna preferentially?
 jsonClass = "HinduCalendarEventTiming"
 
 [names]

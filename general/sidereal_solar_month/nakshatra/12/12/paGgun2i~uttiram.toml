@@ -10,7 +10,7 @@ priority = "paraviddha"
 month_number = 12
 anga_type = "nakshatra"
 anga_number = 12
-kaala = "प्रातः"
+kaala = "मध्याह्नः~(त्रेधा)" #Shaiva Kala Viveka - Tirtha Nakshatra Vidhi, Krodhi 5126 Sadas for Vaikasi Vishakham, and borrowing that here (5129 Plavanga Sadas)
 jsonClass = "HinduCalendarEventTiming"
 
 [names]

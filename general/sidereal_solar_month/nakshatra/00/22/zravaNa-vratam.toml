@@ -9,7 +9,7 @@ month_type = "sidereal_solar_month"
 month_number = 0
 anga_type = "nakshatra"
 anga_number = 22
-kaala = "सूर्योदयः"
+kaala = "साङ्गवः" # उदयत्रिमुहूर्तस्थं नक्षत्रं व्रतदानयोः
 priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
