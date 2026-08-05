@@ -7,6 +7,7 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "sidereal_solar_month"
 month_number = 11
+kaala = "मध्याह्नः~(त्रेधा)" #Shaiva Kala Viveka - Tirtha Nakshatra Vidhi, Krodhi 5126 Sadas for Vaikasi Vishakham, and borrowing that here (5129 Plavanga Sadas)
 anga_type = "nakshatra"
 anga_number = 10
 jsonClass = "HinduCalendarEventTiming"
