@@ -15,5 +15,8 @@ anchor_festival_id = "kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
 offset = -7
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Offering of arghya (a ceremonial water oblation) to sage Agastya, performed seven days before the Sun's transit into Kanyā (Virgo) rāśi, as prescribed in the Hemādri and Vratanirṇayakalpavallī."
+
 [names]
 sa = [ "अगस्त्यार्घ्यम्",]

@@ -9,5 +9,8 @@ anchor_festival_id = "makara-saGkramaNa-puNyakAlaH"
 offset = 1
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Kāṇum Poṅkal, observed after Makara Saṅkramaṇa, when family members and friends visit one another; traditionally regarded as a concluding day of the Poṅkal festivities."
+
 [names]
 ta = [ "kan2up~poGgal",]

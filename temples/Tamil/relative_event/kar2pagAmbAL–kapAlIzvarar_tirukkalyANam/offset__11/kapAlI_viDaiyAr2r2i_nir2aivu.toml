@@ -9,5 +9,8 @@ anchor_festival_id = "kar2pagAmbAL–kapAlIzvarar_tirukkalyANam"
 offset = 11
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Conclusion (niṟaivu) of the viḍaiyāṟṟi (valedictory send-off) rites, marking the end of the Kapālīśvarar temple's Paṅguni Brahmotsavam, eleven days after Tirukkalyāṇam."
+
 [names]
 ta = [ "kapAlI viDaiyAr2r2i nir2aivu",]
