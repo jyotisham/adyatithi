@@ -9,5 +9,8 @@ anchor_festival_id = "makara-saGkramaNa-puNyakAlaH"
 offset = -1
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Bhogi, the first day of the Tamil Poṅgal festival, observed on the day before Makara Saṅkramaṇa; old and unwanted belongings are discarded and burnt in bonfires."
+
 [names]
 ta = [ "bhOgi",]

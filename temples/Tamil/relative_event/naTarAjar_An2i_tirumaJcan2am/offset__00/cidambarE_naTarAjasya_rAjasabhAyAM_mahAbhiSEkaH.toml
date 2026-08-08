@@ -15,5 +15,8 @@ anchor_festival_id = "naTarAjar_An2i_tirumaJcan2am"
 offset = 0
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Mahābhiṣeka (ceremonial bath) of Naṭarāja performed in the Rājasabhā (Chit Sabhā) of the Chidambaram temple, the culminating rite of Āṇi Tirumañjanam."
+
 [names]
 sa = [ "चिदम्बरे नटराजस्य राजसभायां महाभिषेकः",]

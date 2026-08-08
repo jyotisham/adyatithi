@@ -9,5 +9,8 @@ anchor_festival_id = "taippUcam"
 offset = -1
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "First day of the teppotsavam (float festival) at the Kapālīśvarar temple, Mylapore, held the day before Taippūcam; the deities are taken in procession on a floating raft in the temple tank."
+
 [names]
 ta = [ "kapAlI teppOtsavam",]
