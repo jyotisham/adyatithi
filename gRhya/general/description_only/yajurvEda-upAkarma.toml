@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Date is computed in code (`UpakarmaFestivalAssigner.assign_yajurveda_upakarma`, in jyotisha) rather than by this file: zrAvaNa-pUrNimA at ghatikA 12 (start of madhyAhna), paraviddha. If that day has an eclipse (before relative ghatikA 45), saGkramaNa, or guru-mAudhya flaw, bhAdrapada-pUrNimA is tried next, then ASADha-pUrNimA; if all three are flawed, zrAvaNa-pUrNimA itself is used, performed zAntipUrvakam (`yajurvEda-upAkarma~zAntipUrvakam`)."
+en = "For general/non-bOdhAyana (kRSNa) Yajurveda zAkhA-s (eg. Apastamba, taittirIya). Date is computed in code (`UpakarmaFestivalAssigner.assign_yajurveda_upakarma`, in jyotisha) rather than by this file: zrAvaNa-pUrNimA at ghatikA 12 (start of madhyAhna), paraviddha. If that day has an eclipse (before relative ghatikA 45), saGkramaNa (including one falling the next day), or zukra-mAudhya flaw, bhAdrapada-pUrNimA is used instead (unconditionally, without re-checking it for the same flaws). If even bhAdrapada-pUrNimA can't be found, zrAvaNa-pUrNimA itself is used, performed zAntipUrvakam (`yajurvEda-upAkarma~zAntipUrvakam`). See also `zukla-yajurvEda-upAkarma` (zukla Yajurveda; switches to zukla-paJcamI instead) and `bOdhAyana-yajurvEda-upAkarma` (bOdhAyana zAkhA; switches to ASADha-pUrNimA instead)."
 sa = """
 
 ## आपस्तम्बसूत्रेषु
