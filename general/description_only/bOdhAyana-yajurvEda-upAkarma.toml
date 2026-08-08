@@ -8,7 +8,7 @@ default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "For followers of the bOdhAyana zAkhA of the kRSNa-yajurveda. Date is computed in code (`UpakarmaFestivalAssigner.assign_bodhaayana_upakarma`, in jyotisha): zrAvaNa-pUrNimA at ghatikA 12 (start of madhyAhna), paraviddha. If that day has an eclipse (before relative ghatikA 45), saGkramaNa (including one falling the next day), or zukra-mAudhya flaw, ASADha-pUrNimA is used instead (unconditionally, without re-checking it for the same flaws) -- unlike the general yajurvEda-upAkarma rule, which switches to bhAdrapada-pUrNimA instead. If even ASADha-pUrNimA can't be found, zrAvaNa-pUrNimA itself is used, performed zAntipUrvakam (`bOdhAyana-yajurvEda-upAkarma~zAntipUrvakam`)."
+en = "For followers of the bOdhAyana zAkhA of the kRSNa-yajurveda. Date is computed in code (`UpakarmaFestivalAssigner.assign_bodhaayana_upakarma`, in jyotisha): the chain zrAvaNa-pUrNimA -> ASADha-pUrNimA -> bhAdrapada-pUrNimA (each at ghatikA 12, start of madhyAhna, paraviddha; note ASADha comes before bhAdrapada here, unlike the general yajurvEda-upAkarma rule) is checked in order, and the first one with no eclipse (before relative ghatikA 45), saGkramaNa, or zukra-mAudhya flaw is used. If all three are flawed: a mAudhya-only flaw on zrAvaNa-pUrNimA is remediable, so it is used anyway, performed zAntipUrvakam (`bOdhAyana-yajurvEda-upAkarma~zAntipUrvakam`); but an eclipse/saGkramaNa flaw on zrAvaNa-pUrNimA has no such remedy, so ASADha-pUrNimA (the first switch in this chain) is used instead, accepted despite its own flaws."
 
 [names]
 sa = [ "बोधायन-यजुर्वेद-उपाकर्म",]
