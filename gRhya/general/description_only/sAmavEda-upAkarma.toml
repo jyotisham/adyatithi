@@ -1,0 +1,14 @@
+default_to_none = true
+id = "sAmavEda-upAkarma"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Date is computed in code (`UpakarmaFestivalAssigner.assign_saamopakarma`, in jyotisha) rather than by this file: the first occurrence of hasta-nakSatra in bhAdrapada-mAsa. (The switch rule for when this day has an eclipse/saGkrAnti/mAudhya flaw is not yet settled; see the TODO in that function.)"
+
+[names]
+sa = [ "सामवेद-उपाकर्म",]
