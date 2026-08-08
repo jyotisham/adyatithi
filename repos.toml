@@ -303,6 +303,11 @@ name = "time_focus/manvAdiH"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/manvAdiH"
 jsonClass = "RulesRepo"
 
+[[data]]
+name = "rare_days"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/rare_days"
+jsonClass = "RulesRepo"
+
 # [[data]]
 # name = "private"
 # base_url = "/"
