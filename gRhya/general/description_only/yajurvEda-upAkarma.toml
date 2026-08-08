@@ -5,15 +5,10 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
-month_type = "lunar_month"
-month_number = 5
-anga_type = "tithi"
-anga_number = 15
-kaala = "मध्याह्नः"
-priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
+en = "Date is computed in code (`UpakarmaFestivalAssigner.assign_yajurveda_upakarma`, in jyotisha) rather than by this file: zrAvaNa-pUrNimA at ghatikA 12 (start of madhyAhna), paraviddha. If that day has an eclipse (before relative ghatikA 45), saGkramaNa, or guru-mAudhya flaw, bhAdrapada-pUrNimA is tried next, then ASADha-pUrNimA; if all three are flawed, zrAvaNa-pUrNimA itself is used, performed zAntipUrvakam (`yajurvEda-upAkarma~zAntipUrvakam`)."
 sa = """
 
 ## आपस्तम्बसूत्रेषु
