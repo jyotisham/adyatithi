@@ -1,0 +1,20 @@
+default_to_none = true
+id = "anadhyAyaH-cAturmAsya-prathamA-sAmAnya-niyamAH"
+shlokas = """
+गौतमोऽपि—
+कार्तिकी फाल्गुन्याषाढी पौर्णमासीति तिस्रोऽष्टकास्त्रिरात्रमिति॥
+उक्तपौर्णमासीरारभ्य त्रिरात्रम्।
+"""
+references_primary = [ "Smriti Muktaphalam SVR p.  163",]
+tags = [ "Anadhyayana Days",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "One should not perform adhyayana for three days, commencing from the `pUrNimA` of the three months, `ASADha`, `kArtika` and `phAlguna`."
+
+[names]
+sa = [ "अनध्यायः",]
