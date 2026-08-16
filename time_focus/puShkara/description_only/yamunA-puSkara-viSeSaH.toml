@@ -1,0 +1,15 @@
+default_to_none = true
+id = "yamunA-puSkara-viSeSaH"
+tags = [ "RareDays", "Pushkara",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+# TODO: add a [description] section here (en = "...") with anything specific to the
+# यमुना river's puSkaram -- notable temples, ghats, or locations where its celebration is
+# especially observed. Picked up automatically by PushkaraFestivalInstance
+# (EclipticFestivalAssigner.set_jupiter_transits._get_river_legend in ecliptic.py) and shown
+# for all 4 (Adya/antya x ArambhaH/samApanam) instances of this river -- one file covers all
+# of them, no need for a file per role/stage.
