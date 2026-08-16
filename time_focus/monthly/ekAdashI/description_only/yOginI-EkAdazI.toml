@@ -1,0 +1,16 @@
+default_to_none = true
+id = "yOginI-EkAdazI"
+tags = [ "MonthlyVratam", "EkadashiVratam",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+# TODO: add a [description] section here (en = "...") with any genuine legend/story specific
+# to yOginI-EkAdazI beyond the shared EkAdazI-sAmAnya-niyamAH boilerplate (the paksha/month/
+# name-identifying opening sentence is already computed dynamically -- see
+# EkadashiFestivalInstance in jyotisha/panchaanga/temporal/festival/__init__.py), and/or a
+# `shlokas = """..."""` block if yOginI-EkAdazI has verses of its own beyond the shared block
+# (see e.g. ajA-EkAdazI.toml, AmalakI-EkAdazI.toml for the pattern). Picked up automatically
+# via TithiFestivalAssigner._get_ekadashi_rule_dict in tithi_festival.py.
