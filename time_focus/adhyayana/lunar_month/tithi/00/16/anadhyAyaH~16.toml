@@ -29,5 +29,8 @@ kaala = "साङ्गवः"
 priority = "paraviddha"
 jsonClass = "HinduCalendarEventTiming"
 
+[description]
+en = "Interestingly, Bhagavan Hanuman also remarks while describing the condition of Sita Devi to the rest of the vanaras and Rkshas that she was frail by nature, had further grown emaciated, owing to separation from her beloved Shri Rama, much like the `vidyA` of a scholar continuing his studies on a `pratipat`!"
+
 [names]
 sa = [ "अनध्यायः",]
