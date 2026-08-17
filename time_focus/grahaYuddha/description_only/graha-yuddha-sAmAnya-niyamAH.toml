@@ -1,0 +1,28 @@
+default_to_none = true
+id = "graha-yuddha-sAmAnya-niyamAH"
+tags = [ "RareDays", "GrahaYuddha",]
+shlokas = """
+भावाभावाय लोकानां कल्पनेयं प्रदर्शिता।
+स्वमार्गगाः प्रयान्त्येते दूरमन्योन्यमाश्रिताः॥
+--सूर्यसिद्धान्ते
+
+षण्मासं ग्रहभिन्नभं त्यज शुभे यौद्धं तथोत्पातभम्।
+--मुहूर्तचिन्तामणौ (नारदसंहितानुसारेण)
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = """A `graha-yuddha` (also called `amshu-vimarda`, "collision of rays") occurs when two of the five tArA grahas -- `budha`, `zukra`, `aGgAraka`, `bRhaspati`, `zanaizcara` -- come within 1 aMsha (60 kalA) of each other in longitude, close enough that they may be difficult to tell apart in the sky. It is called `yuddha` proper only when their discs actually touch/overlap; otherwise, `amshu-vimarda`.
+
+The Surya Siddhanta itself cautions that this matter is described only to indicate the auspicious/inauspicious effects for people -- in reality the grahas remain far apart from one another and continue along their own paths. This is not to be received with fear, but as an advance, compassionate intimation from those who calculated these movements accurately, meant to help people take protective measures in time.
+
+Classical texts (e.g. Brihat Samhita ch. 17) weigh both which graha is to the north and which is more prominent (nearer/brighter, of larger apparent diameter) in declaring a victor (`jayI`) of the yuddha; the defeated (`jita`) graha's significations are said to suffer for a particular section of society -- this is never a universal ill effect. The traditional response is to increase one's spiritual efforts: japa, homa, dAna and parAyaNa (especially of the Navagraha stotra), with higher AvRtti for the two grahas actually involved, particularly if the day also coincides with some other puNya kAla (e.g. a sAyana saGkramaNa).
+
+Per the Narada Samhita (as cited in Muhurta Chintamani), the nakshatra in which a graha-yuddha occurs should be avoided for auspicious functions (vivAha, upanayana etc.) for six months following the event. If this cannot be avoided, perform parihAra for candra-bala."""
+
+[names]
+sa = [ "ग्रहयुद्धसामान्यनियमाः",]
