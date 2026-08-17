@@ -1,0 +1,14 @@
+default_to_none = true
+id = "anadhyAyaH-nitya-tithi-sAmAnya-niyamAH"
+tags = [ "Anadhyayana Days",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Several tithis in a month are `nitya-anadhyayana` days, including `prathamA`, `aSTamI`, `caturdazI`, `amAvAsyA` and `pUrNimA`. Manu has said that performing adhyayana on these days destroys the Guru (Amavasya), Shishya (Chaturdashi) and the `vIrya` of the `brahma` (`vEda`) itself (Ashtami/Purnima). Similarly, Jabali Rishi has said that Adhyayana on `prathama` hurts the `buddhi` while `adhyayana` on `caturdazI` hurts the `brahma` (`vEda`) itself!"
+
+[names]
+sa = [ "अनध्यायः",]

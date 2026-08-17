@@ -21,8 +21,5 @@ anchor_festival_id = "zakradhvajotthApanam"
 offset = 0
 jsonClass = "HinduCalendarEventTiming"
 
-[description]
-en = "On the days when the flag of Indra is hoisted or taken down, one must observe `anadhyayana`."
-
 [names]
 sa = [ "अनध्यायः",]

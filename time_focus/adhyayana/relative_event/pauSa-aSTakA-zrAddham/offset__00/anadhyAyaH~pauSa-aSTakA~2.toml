@@ -1,12 +1,5 @@
 default_to_none = true
 id = "anadhyAyaH~pauSa-aSTakA~2"
-shlokas = """
-मार्गशीर्षे तथा पौषे माघमासे तथैव च॥७६॥
-तिस्रोऽष्टकाः समाख्याताः कृष्णपक्षेषु सूरिभिः।
----श्रीकूर्मपुराणे षट्‌साहस्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
-"""
-references_primary = [ "Kurma Puranam Adhyaya 14",]
-references_secondary = [ "Smriti Muktaphalam SVR p.  148",]
 tags = [ "Anadhyayana Days",]
 jsonClass = "HinduCalendarEvent"
 
@@ -15,9 +8,6 @@ default_to_none = true
 anchor_festival_id = "pauSa-aSTakA-zrAddham"
 offset = 0
 jsonClass = "HinduCalendarEventTiming"
-
-[description]
-en = "The three days around the Ashtaka Shraaddha of  `mArgazIrSa`, `pauSa` and `mAgha` month are `anadhyayana` days, where one is not supposed to learn the Vedas."
 
 [names]
 sa = [ "अनध्यायः",]
