@@ -1,0 +1,14 @@
+default_to_none = true
+id = "graha-bAlya-samApanam"
+tags = [ "RareDays", "GrahaMaudhya",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`{graha}`'s bAlya ends on {date}, regaining full strength. At this moment `{graha}` is at `{nakshatra}`-{pada} `{rashi}` (latitude {latitude} {lat_dir}, moving `{motion_sa}` ({motion_en})), magnitude {magnitude}, elongation {elongation} {elong_dir} of the Sun."
+
+[names]
+sa = [ "ग्रहबाल्यसमापनम्",]

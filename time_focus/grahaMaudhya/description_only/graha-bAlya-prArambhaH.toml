@@ -1,0 +1,14 @@
+default_to_none = true
+id = "graha-bAlya-prArambhaH"
+tags = [ "RareDays", "GrahaMaudhya",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "`{graha}` emerges from combustion into bAlya (infancy) on {date}. At this moment `{graha}` is at `{nakshatra}`-{pada} `{rashi}` (latitude {latitude} {lat_dir}, moving `{motion_sa}` ({motion_en})), magnitude {magnitude}, elongation {elongation} {elong_dir} of the Sun. A graha in bAlya is likewise considered to give reduced results, for {days} days, before regaining its full strength."
+
+[names]
+sa = [ "ग्रहबाल्यप्रारम्भः",]
