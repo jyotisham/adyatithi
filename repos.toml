@@ -306,6 +306,7 @@ jsonClass = "RulesRepo"
 [[data]]
 name = "time_focus/graha-maudhya"
 base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/graha-maudhya"
+jsonClass = "RulesRepo"
 
 [[data]]
 name = "time_focus/graha-yuddha"
