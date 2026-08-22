@@ -1,0 +1,14 @@
+default_to_none = true
+id = "candra-grahaNa-varNanam"
+tags = [ "RareDays", "Eclipses",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "{suffix_clause}Umbral magnitude: {magnitude} (parimāṇa ≈{parimana_angula} of the traditional 12 aṅgulas). Avoid food: {niyama_text} (from {niyama_yaamas} yaamas before the yaama of first contact, until the eclipse's end). Those with janma nakshatra `{shanti_nakshatra}` (preceding/grahaNa/succeeding), or `{anujanma_nakshatra}` (anujanma) or `{trijanma_nakshatra}` (trijanma) get ashubha phala and should consider graha-shanti next day. By rashi: `{rashi_more_ashubha}` get more ashubha phala, `{rashi_ashubha}` somewhat ashubha, `{rashi_shubha}` shubha phala. {cudamani_clause}{general_note}"
+
+[names]
+sa = [ "चन्द्रग्रहणवर्णनम्",]
