@@ -304,8 +304,8 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/manvAd
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "time_focus/grahaYuddha"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/grahaYuddha"
+name = "time_focus/graha-yuddha"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/time_focus/graha-yuddha"
 jsonClass = "RulesRepo"
 
 # [[data]]
