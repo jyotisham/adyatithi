@@ -11,6 +11,12 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 29
+vaara = "mangala"
+window = "sunrise_to_purvaahna"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]

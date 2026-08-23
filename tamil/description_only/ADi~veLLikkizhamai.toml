@@ -5,6 +5,9 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+month_type = "sidereal_solar_month"
+month_number = 4
+vaara = "shukra"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
