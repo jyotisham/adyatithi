@@ -14,6 +14,9 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+anga_type = "tithi"
+anga_number = 19
+vaara = "mangala"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
