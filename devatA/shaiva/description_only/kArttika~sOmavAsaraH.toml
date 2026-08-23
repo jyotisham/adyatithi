@@ -51,7 +51,7 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
-vara = 2
+vaara = "soma"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
