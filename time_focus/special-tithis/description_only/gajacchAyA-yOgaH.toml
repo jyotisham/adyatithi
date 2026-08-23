@@ -15,6 +15,28 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 jsonClass = "HinduCalendarEventTiming"
 
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "solar_nakshatra"
+anga_number = 13
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 10
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = 28
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "solar_nakshatra"
+anga_number = 13
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 13
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = 30
+
 [description]
 en = "A very special `yOga`, for doing Pitru Shraddha during Mahalaya Paksham. A man that performs a sraddha in the conjunction called Gajacchaya at a place that is fanned by the leaves of the Aswattha tree enjoys the fruits thereof, O Yudhishthira, for a hundred thousand kalpas."
 
