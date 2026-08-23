@@ -11,7 +11,18 @@ references_primary = [ "Skanda Puranam",]
 
 [timing]
 default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+window = "sunrise_to_sunset"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra_pada"
+anga_number = 108
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = 12
 
 [description]
 en = "When the last `pAda` of the Revati asterism is conjoined with Dvadashi tithi, it is not appropriate to break the fast---renders the vratam futile."
