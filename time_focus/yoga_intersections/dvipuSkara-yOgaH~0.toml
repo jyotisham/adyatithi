@@ -1,5 +1,5 @@
 default_to_none = true
-id = "dvipuSkara-yOgaH~2"
+id = "dvipuSkara-yOgaH~0"
 tags = [ "RareDays", "Combinations",]
 references_secondary = [ "SmritiMuktaPhalam Part 5, SVR",]
 jsonClass = "HinduCalendarEvent"
@@ -13,7 +13,19 @@ shlokas = """
 
 [timing]
 default_to_none = true
+window = "sunrise_to_next_sunrise"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = [ 5, 14, 23,]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 2, 7, 12, 17, 22, 27,]
+[[timing.intersection_groups.angas]]
+anga_type = "vaara"
+anga_number = "bhanu"
 
 [description]
 en = "When a `tripAdanakSatra` is conjoined with a `bhadrA tithi` i.e. `dvitIyA`, `saptamI` or `dvAdazI`, and this falls on a Tuesday, Sunday or Saturday, it is known as a `tripuSkara-yOgaH`. The `dvipuSkara` occurs when the `bhadrA tithi`s coincide with the same days as above, but with the `dvipAda` `nakSatra`s, which are `mRgazIrSa`, `citrA` and `dhaniSThA`. Like the `tripuSkara` which gives a three-fold multiplier for `zubha` and `azubha`, the `dvipuSkara` has a two-fold effect."
