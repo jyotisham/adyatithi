@@ -9,7 +9,16 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+window = "full_period"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "solar_nakshatra"
+anga_number = 16
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 3
 
 [description]
 en = "When the Sun is transiting through `vizAkhA`, and the moon, through `kRttikA`, a very special  `padmaka yOga` occurs, that is more difficult to obtain than `puSkara`."
