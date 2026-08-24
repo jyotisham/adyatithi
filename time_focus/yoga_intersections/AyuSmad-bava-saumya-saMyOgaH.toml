@@ -6,7 +6,19 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+window = "sunrise_to_sunset"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "yoga"
+anga_number = 3
+[[timing.intersection_groups.angas]]
+anga_type = "karana"
+anga_number = [ 2, 9, 16, 23, 30, 37, 44, 51,]
+[[timing.intersection_groups.angas]]
+anga_type = "vaara"
+anga_number = "saumya"
 
 [description]
 en = "A rare combination of `AyuSmAn yOga, bava karaNa` and `saumyavAsara`."
