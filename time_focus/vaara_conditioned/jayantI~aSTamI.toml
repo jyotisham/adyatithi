@@ -13,7 +13,18 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+window = "sunrise"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.angas]]
+anga_type = "nakshatra"
+anga_number = 2
+
+[[timing.angas]]
+anga_type = "tithi"
+anga_number = 8
 
 [description]
 en = "`saptamI tithi` on a Sunday is as sacred as a solar eclipse. Particularly good for worshipping Surya."

@@ -13,7 +13,16 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+vaara = "shani"
 jsonClass = "HinduCalendarEventTiming"
+
+[[timing.angas]]
+anga_type = "tithi"
+anga_number = [ 4, 19,]
+
+[[timing.angas]]
+anga_type = "nakshatra"
+anga_number = 2
 
 [description]
 en = "Bharani Nakshatram & Chaturthi tithi falling on a Saturday."
