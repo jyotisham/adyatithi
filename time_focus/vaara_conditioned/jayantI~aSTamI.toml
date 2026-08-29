@@ -15,7 +15,7 @@ jsonClass = "HinduCalendarEvent"
 default_to_none = true
 month_type = "lunar_month"
 month_number = 10
-window = "sunrise"
+kaala = "sunrise"
 jsonClass = "HinduCalendarEventTiming"
 
 [[timing.angas]]

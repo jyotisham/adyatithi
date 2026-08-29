@@ -13,7 +13,7 @@ default_to_none = true
 month_type = "lunar_month"
 month_number = 1
 vaara = "budha"
-window = "sunrise"
+kaala = "sunrise"
 jsonClass = "HinduCalendarEventTiming"
 
 [[timing.angas]]
