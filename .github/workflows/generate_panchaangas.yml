@@ -15,6 +15,14 @@ on:
         required: false
         description: 'Eg. 2023'
 
+# When multiple pushes to the same ref land close together, only the latest commit's build/deploy matters --
+# cancel any still-running older run on the same ref rather than letting it race an in-progress deploy for the
+# newer one (this workflow's `Deploy html`/`Deploy md` steps git-push-force to jyotisham/jyotisha's gh-pages/
+# generated-output branches, which can otherwise fail with "cannot lock ref" if two runs push at once).
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate:
 
