@@ -6,7 +6,7 @@ shlokas = """
 शक्रपातः आश्वयुक्छुक्लद्वादशी।
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  150",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

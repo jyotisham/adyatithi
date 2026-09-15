@@ -6,7 +6,7 @@ shlokas = """
 अनध्यायस्तु कर्तव्यो मन्वादिषु युगादिषु॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  155",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

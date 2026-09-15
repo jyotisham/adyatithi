@@ -6,7 +6,7 @@ shlokas = """
 तथाऽऽक्षयतृतीयायां शिष्यान्नाध्यापयेद् द्विजः॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  155",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,4 +1,5 @@
 id = "pravAsi-bhAratIya-divasam"
+tags = [ "MahapurushaEvents",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

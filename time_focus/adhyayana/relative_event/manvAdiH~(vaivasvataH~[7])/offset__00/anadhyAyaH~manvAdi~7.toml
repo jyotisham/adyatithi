@@ -10,7 +10,7 @@ shlokas = """
 माघमासे तु सप्तम्यां रथाख्यायां तु वर्जयेत्।
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  155",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
