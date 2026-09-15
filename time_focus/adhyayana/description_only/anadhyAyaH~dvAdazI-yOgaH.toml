@@ -6,7 +6,7 @@ shlokas = """
 द्वादश्यां संस्पृशेयुश्चेत्तत्रानध्ययनं विदुः॥
 """
 references_primary = ["Smriti Muktaphalam SVR p.  162"]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

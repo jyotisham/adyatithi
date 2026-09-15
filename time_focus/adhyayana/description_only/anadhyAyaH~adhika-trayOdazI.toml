@@ -7,7 +7,7 @@ shlokas = """
 अत्र त्रयोदशीवृद्ध्या दिनद्वये स्वाध्यायदिनत्वमापन्नाऽधिकेत्युच्यते।
 """
 references_primary = ["Smriti Muktaphalam SVR p.  160"]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

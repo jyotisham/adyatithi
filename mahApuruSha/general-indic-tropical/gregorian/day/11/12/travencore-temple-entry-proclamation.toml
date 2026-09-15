@@ -1,5 +1,5 @@
 id = "travencore-temple-entry-proclamation"
-tags = [ "MahapurushaEvents",]
+tags = [ "MahapurushaEvents", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

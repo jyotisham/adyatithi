@@ -18,7 +18,7 @@ shlokas = """
 प्रपादानफलं सोऽपि लभते नात्र संशयः॥ 
 ---स्मृतिकौस्तुभे
 """
-tags = [ "SpecialPeriodStart", "DanamDays",]
+tags = [ "SpecialPeriodStart", "DanamDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

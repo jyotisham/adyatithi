@@ -1,5 +1,6 @@
 default_to_none = true
 id = "pArvaNa-vratam_15"
+tags = [ "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

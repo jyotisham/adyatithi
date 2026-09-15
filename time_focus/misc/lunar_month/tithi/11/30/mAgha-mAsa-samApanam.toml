@@ -1,6 +1,6 @@
 default_to_none = true
 id = "mAgha-mAsa-samApanam"
-tags = [ "SpecialDays", "SpecialPeriodEnd",]
+tags = [ "SpecialDays", "SpecialPeriodEnd", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

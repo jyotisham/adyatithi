@@ -1,6 +1,6 @@
 default_to_none = true
 id = "candra-darzanam"
-tags = [ "ChandraDarshanam",]
+tags = [ "ChandraDarshanam", "LessCommonFestivals",]
 shlokas = """
 श्वेताम्बरः श्वेतविभूषणश्च
 श्वेतद्युतिर्दण्डधरो द्विबाहुः।

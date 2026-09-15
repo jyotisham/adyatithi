@@ -6,7 +6,7 @@ shlokas = """
 """
 references_primary = [ "Kurma Puranam Adhyaya 14",]
 references_secondary = [ "Smriti Muktaphalam SVR p.  148",]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

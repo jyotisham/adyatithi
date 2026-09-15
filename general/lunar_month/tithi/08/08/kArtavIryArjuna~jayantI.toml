@@ -1,6 +1,6 @@
 default_to_none = true
 id = "kArtavIryArjuna~jayantI"
-tags = [ "OtherJayantis",]
+tags = [ "OtherJayantis", "LessCommonFestivals",]
 references_secondary = [ "http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/",]
 jsonClass = "HinduCalendarEvent"
 

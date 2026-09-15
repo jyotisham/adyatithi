@@ -19,7 +19,7 @@ shlokas = """
 तस्माद्युक्तोऽप्यनध्याये नाधीयीत कदाचनेति॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p. 164",]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

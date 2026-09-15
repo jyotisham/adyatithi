@@ -16,7 +16,7 @@ shlokas = """
 प्रतिपत्पाठशीलस्य विद्येव तनुतां गता॥५-५९-३१॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  148",]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

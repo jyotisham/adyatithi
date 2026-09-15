@@ -1,6 +1,6 @@
 default_to_none = true
 id = "tiruvizalUr_gaGgAkarSaNa-mahOtsava-ArambhaH"
-tags = [ "MahapurushaEvents", "TamilnaduTempleFestivals",]
+tags = [ "MahapurushaEvents", "TamilnaduTempleFestivals", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 ईशे तस्य च नामनि प्रविमलं ज्ञानं तयोरूर्जितं

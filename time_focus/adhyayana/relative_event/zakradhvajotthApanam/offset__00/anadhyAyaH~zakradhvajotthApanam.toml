@@ -12,7 +12,7 @@ shlokas = """
 द्वादश्यां श्रवणं भाद्रे भरणी च महालये॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  150",]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

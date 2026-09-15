@@ -15,7 +15,7 @@ shlokas = """
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 """
-tags = [ "Dashavataram",]
+tags = [ "Dashavataram", "LessCommonFestivals",]
 references_primary = [ "Vaidyanatha Dikshitiyam (SVR) p.62",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"

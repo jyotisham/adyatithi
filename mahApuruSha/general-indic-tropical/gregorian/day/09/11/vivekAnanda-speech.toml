@@ -1,5 +1,5 @@
 id = "vivekAnanda-speech"
-tags = [ "MahapurushaEvents",]
+tags = [ "MahapurushaEvents", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

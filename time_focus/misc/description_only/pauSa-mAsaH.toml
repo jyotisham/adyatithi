@@ -1,6 +1,6 @@
 default_to_none = true
 id = "pauSa-mAsaH"
-tags = [ "SpecialDays", "SpecialPeriod",]
+tags = [ "SpecialDays", "SpecialPeriod", "LessCommonFestivals",]
 shlokas = """
 पौषकृत्यं महाभारते---
 पौषमासं तु कौन्तेय एकभक्तेन यः क्षिपेत्।

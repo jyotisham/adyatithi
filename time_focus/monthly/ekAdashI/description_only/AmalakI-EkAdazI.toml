@@ -42,7 +42,7 @@ shlokas = """फाल्गुने मासि शुक्लायाम�
 एकादशीसमं नास्ति व्रतं पापप्रणाशनम्॥११८॥
 ---श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 """
-tags = [ "MonthlyVratam", "EkadashiVratam",]
+tags = [ "MonthlyVratam", "EkadashiVratam", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

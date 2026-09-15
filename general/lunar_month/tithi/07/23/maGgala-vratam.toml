@@ -1,6 +1,6 @@
 default_to_none = true
 id = "maGgala-vratam"
-tags = [ "SpecialVratam",]
+tags = [ "SpecialVratam", "LessCommonFestivals",]
 references_primary = [ "Chaturvarga Chintamani",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"

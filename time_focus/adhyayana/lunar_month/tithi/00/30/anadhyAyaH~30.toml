@@ -11,7 +11,7 @@ shlokas = """
 पञ्चदश्यां चतुर्दश्यां अष्टम्यां राहुसूतके।
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  148",]
-tags = [ "AnadhyayanaDays"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
