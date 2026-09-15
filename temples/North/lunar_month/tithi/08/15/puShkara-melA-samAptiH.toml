@@ -1,6 +1,6 @@
 default_to_none = true
 id = "puShkara-melA-samAptiH"
-tags = [ "Pushkara", "RareDays",]
+tags = [ "Pushkara", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
