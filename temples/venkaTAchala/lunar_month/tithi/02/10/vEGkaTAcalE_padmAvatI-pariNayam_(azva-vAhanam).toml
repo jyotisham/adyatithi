@@ -1,6 +1,6 @@
 default_to_none = true
 id = "vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)"
-tags = [ "AndhraTempleFestivals", "LessCommonFestivals",]
+tags = [ "AndhraTempleFestivals", "LessCommonFestivals", "TempleFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
