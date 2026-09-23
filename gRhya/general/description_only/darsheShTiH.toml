@@ -1,6 +1,6 @@
 default_to_none = true
 id = "darsheShTiH"
-tags = [ "MonthlyFestivals",]
+tags = [ "MonthlyFestivals", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

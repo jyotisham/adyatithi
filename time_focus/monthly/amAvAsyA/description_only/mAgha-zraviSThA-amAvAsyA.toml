@@ -1,6 +1,6 @@
 default_to_none = true
 id = "mAgha-zraviSThA-amAvAsyA"
-tags = [ "AmavasyaDays",]
+tags = [ "AmavasyaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 विष्णुपुराणम्---

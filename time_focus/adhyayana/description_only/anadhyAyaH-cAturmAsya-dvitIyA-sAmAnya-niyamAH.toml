@@ -10,7 +10,7 @@ shlokas = """
 उक्तपौर्णमासीरारभ्य त्रिरात्रम्।
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  163",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

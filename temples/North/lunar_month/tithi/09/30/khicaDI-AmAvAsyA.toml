@@ -1,6 +1,6 @@
 default_to_none = true
 id = "khicaDI-AmAvAsyA"
-tags = ["KashmirTempleFestivals",]
+tags = [ "KashmirTempleFestivals", "LessCommonFestivals", "TempleFestivals",]
 jsonClass = "HinduCalendarEvent"
 references_secondary = ["https://twitter.com/CoreSharada/status/1744914263876227436"]
 

@@ -15,7 +15,7 @@ shlokas = """
 पक्षादिः प्रतिपत्, पक्षान्तः चतुर्दशी॥
 """
 references_primary = [ "Smriti Muktaphalam SVR p.  148",]
-tags = [ "Anadhyayana Days",]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

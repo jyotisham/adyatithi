@@ -1,6 +1,6 @@
 default_to_none = true
 id = "zarkarA-saptamI"
-tags = [ "SpecialPuja",]
+tags = [ "SpecialPuja", "LessCommonFestivals",]
 shlokas = """
 शर्करासप्तमीं वक्ष्ये सर्वकल्मषनाशिनीम्।
 माधवस्य सिते पक्षे सप्तम्यां श्रद्धयान्वितः॥

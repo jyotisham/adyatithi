@@ -1,6 +1,6 @@
 default_to_none = true
 id = "maNikarNikA-snAnam_or_vaikuNTha-caturdazI"
-tags = [ "SpecialSnanam",]
+tags = [ "SpecialSnanam", "LessCommonFestivals",]
 references_primary = [ "Skanda Puranam, Vaishnava Khanda, Adhyaya 25",]
 jsonClass = "HinduCalendarEvent"
 

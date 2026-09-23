@@ -1,6 +1,6 @@
 default_to_none = true
 id = "kar2avaigaL_pin2cen2r2u"
-tags = [ "TamilFestivals", "CommonFestivals",]
+tags = [ "TamilNaduFestivals", "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
