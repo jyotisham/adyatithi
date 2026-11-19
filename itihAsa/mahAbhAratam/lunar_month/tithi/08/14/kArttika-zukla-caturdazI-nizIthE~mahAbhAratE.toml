@@ -1,5 +1,5 @@
 default_to_none = true
-id = "kArttika-caturdazI-nizIthE~mahAbhAratE"
+id = "kArttika-zukla-caturdazI-nizIthE~mahAbhAratE"
 tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -19,17 +19,14 @@ references_primary = [ "Mahābhārata (Kumbhakonam recension) 2.24.34, 2.24.37, 
 default_to_none = true
 month_type = "lunar_month"
 month_number = 8
+anga_type = "tithi"
+anga_number = 14
 kaala = "निशीथः"
-window = "sunrise_to_next_sunrise"
 jsonClass = "HinduCalendarEventTiming"
 
-[[timing.intersection_groups]]
-[[timing.intersection_groups.angas]]
-anga_type = "tithi"
-anga_number = [ 14, 29,]
 
 [description]
 en = "As stated in the Mahābhārata:\n- Narrative: Jarāsandha desists exhausted on caturdaśī night and is slain by Bhīma that night (MBh 2.24.34, 2.24.37, 2.25.9, 2.25.10) +++(tithi derived: the fifteen-day bout began on the first of Kārtika (śukla pratipad, amānta), so its caturdaśī is śukla)+++"
 
 [names]
-sa = [ "महाभारते कार्त्तिक-चतुर्दशी",]
+sa = [ "महाभारते कार्त्तिक-शुक्ल-चतुर्दशी",]
