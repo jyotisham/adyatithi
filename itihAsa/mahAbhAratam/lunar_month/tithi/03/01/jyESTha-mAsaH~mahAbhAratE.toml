@@ -1,0 +1,32 @@
+default_to_none = true
+id = "jyESTha-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+ज्येष्ठामूलं तु यो मासमेकभक्तेन सङ्क्षिपेत् ।
+ऐश्वर्यमतुलं श्रेष्ठं पुमान्स्त्री वा प्रपद्यते॥१३-१६३-२४॥
+ज्येष्ठमासं तु यो विप्रो ह्येकभुक्तेन वर्तते ।
+विप्रमग्रासने कृत्वा भूमौ भुञ्जन्यथाविधि॥१४-११३-३३॥
+नमो ब्रह्मण्यदेवायेत्युच्चरन्मां समाहितः ।
+डम्भानृतविनिर्मुक्तस्तस्य पुण्यफलं शृणु॥१४-११३-३४॥
+चीर्णे चान्द्रायणे सम्यग्यत्पुण्यं समुदाहृतम् ।
+तत्पुण्यफलमासाद्य देवलोके महीयते॥१४-११३-३५॥
+अथोत्तरकुरौ वर्षे जायते निर्गतस्ततः ।
+ततश्चापि च्युतः कालादिह लोके द्विजो भवेत्॥१४-११३-३६॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.24, 14.113.33, 14.113.34, 14.113.35, 14.113.36",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of jyESTha (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of jyeṣṭha (MBh 13.163.24)\n- Observance: Ekabhakta through the month of jyeṣṭha (MBh 14.113.33, 14.113.34, 14.113.35, 14.113.36)"
+
+[names]
+sa = [ "महाभारते ज्येष्ठ-मासः",]

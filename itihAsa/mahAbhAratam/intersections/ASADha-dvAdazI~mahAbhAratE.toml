@@ -1,0 +1,36 @@
+default_to_none = true
+id = "ASADha-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+आषाढे मासि द्वादश्यां वामनेति च पूजयन् ।
+नरमेधमवाप्नोति पुण्यं च लभते महत्॥१३-१७१-१०॥
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+भीष्म उवाच
+शृणु राजन्यथा गीतं स्वयमेव स्वयम्भुवा ।
+यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥१३-१७१-२॥
+आषाढे वामनाख्यं मां द्वादश्यां समुपोष्य यः ।
+नरमेधस्य स फलं प्राप्नोति भरतर्षभ॥१४-११४-२४॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.10, 13.171.1, 13.171.2, 14.114.24",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Vāmana in āṣāḍha (MBh 13.171.10, 13.171.1, 13.171.2) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in āṣāḍha, worship Viṣṇu as Vāmana (MBh 14.114.24)"
+
+[names]
+sa = [ "महाभारते आषाढ-द्वादशी",]

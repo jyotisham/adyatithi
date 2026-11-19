@@ -1,0 +1,35 @@
+default_to_none = true
+id = "mArgazIrSa-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+मार्गशीर्षं तु वै मासमेकभक्तेन यः क्षिपेत् ।
+भोजयेच्च द्विजाञ्शक्त्या स मुच्येद्व्याधिकिल्बिषैः॥१३-१६३-१७॥
+सर्वकल्याणसम्पूर्णः सर्वौषधिसमन्वितः ।
+कृषिभागी बहुधनो बहुधान्यश्च जायते॥१३-१६३-१८॥
+मार्गशीर्षं तु यो मासमेकभुक्तेन वर्तते ।
+कामं क्रोधं च लोभं च परित्यज्य यथाविधि॥१४-११३-९॥
+स्नात्वा चादित्यरूपं मामर्ययेन्नियतेन्द्रियः ।
+जपेच्चैव च गायत्रीं मामिकां वाग्यतेन्द्रियः॥१४-११३-१०॥
+मासे परिसमाप्ते तु भोजयित्वा द्विजाञ्शुचिः ।
+तानर्चयति मद्भक्त्या तस्य पुण्यफलं शृणु॥१४-११३-११॥
+अग्निहोत्रे कृते पुण्यमाहिताग्नेस्तु यद्भवेत् ।
+तत्पुण्यं फलमासाद्य योनेनांऽबरशोभिना ।
+सह सप्तर्षिलोकेषु यथाकामं यथासुखम्॥१४-११३-१२॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.17, 13.163.18, 14.113.9, 14.113.10, 14.113.11, 14.113.12",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of mArgazIrSa (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of mārgaśīrṣa (MBh 13.163.17, 13.163.18)\n- Observance: Ekabhakta through the month of mārgaśīrṣa (MBh 14.113.9, 14.113.10, 14.113.11, 14.113.12)"
+
+[names]
+sa = [ "महाभारते मार्गशीर्ष-मासः",]

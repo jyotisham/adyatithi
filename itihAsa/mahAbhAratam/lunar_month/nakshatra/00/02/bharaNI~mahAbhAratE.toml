@@ -1,0 +1,30 @@
+default_to_none = true
+id = "bharaNI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+भरणीषु द्विजातिभ्यस्तिलधेनुं प्रदाय वै ।
+गाः सुप्रभूताः प्राप्नोति नरः प्रेत्य यशस्तथा॥१३-९९-३५॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+बहुकुप्यकृतं वित्तं विन्दते रेवतीं श्रितः ।
+अश्विनीष्वश्वान्विन्देत भरणीष्वायुरुत्तमम्॥१३-१३६-१४॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.35, 13.136.1, 13.136.14",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 2
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on bharaṇī (MBh 13.99.35)\n- Observance: Kāmya śrāddha on bharaṇī (MBh 13.136.1, 13.136.14)"
+
+[names]
+sa = [ "महाभारते भरणी",]

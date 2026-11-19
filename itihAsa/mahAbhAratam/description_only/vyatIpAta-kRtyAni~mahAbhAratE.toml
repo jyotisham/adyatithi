@@ -1,0 +1,30 @@
+default_to_none = true
+id = "vyatIpAta-kRtyAni~mahAbhAratE"
+tags = [ "MahaBharata", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+भगवानुवाच ।
+शृणुष्व राजन्विषुवे सोमार्कग्रहणेषु च ।
+व्यतीपातेऽयने चैव दानं स्यादक्षयं फलम्॥१४-११५-३॥
+युधिष्ठिर उवाच ।
+भगवंस्तव गायत्री जप्यते च कथं विभो ।
+किं वा तस्य फलं देव ममाचक्ष्व सुरेश्वर॥१४-११५-२७॥
+भगवानुवाच ।
+द्वादश्यां विषुवे चैव चन्द्रसूर्यग्रहे तथा ।
+अयने श्रवणे चैव व्यतीपाते तथैव च॥१४-११५-२८॥
+अश्वत्तदर्शने चैव तथा मद्दर्शनेऽपि च ।
+जप्या तु मम गायत्री चाथवाऽष्टाक्षरं नृप ।
+आर्जितं दुष्कृतं तस्य नाशयेन्नात्र संशयः॥१४-११५-२९॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 14.115.3, 14.115.27, 14.115.28, 14.115.29",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Observances on vyatīpāta in the Mahābhārata:\n- Observance: Dāna on vyatīpāta (MBh 14.115.3)\n- Observance: Vyatīpāta: japa of Viṣṇu-gāyatrī or aṣṭākṣara (MBh 14.115.27, 14.115.28, 14.115.29)"
+
+[names]
+sa = [ "महाभारतोक्तानि व्यतीपातकृत्यानि",]

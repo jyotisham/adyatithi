@@ -1,0 +1,32 @@
+default_to_none = true
+id = "vaizAkha-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+निस्तरेदेकभक्तेन वैशाखं यो जितेन्द्रियः ।
+नरो वा यदि वा नारी ज्ञातीनां श्रेष्ठतां व्रजेत्॥१३-१६३-२३॥
+वैशाखे यस्तु मासे वै ह्येकभुक्तेन वर्तते ।
+द्विजमग्रासने कृत्वा भुञ्जन्भूमौ च वाग्यतः॥१४-११३-२९॥
+नमो ब्रह्मण्यदेवायेत्यर्चयित्वा दिवाकरम् ।
+व्रतान्ते भोजयेद्विप्रांस्तस्य पुण्यफलं शृणु॥१४-११३-३०॥
+फलं यद्विधिवत्प्रोक्तमग्निष्टोमातिरात्रयोः ।
+तत्पुण्यफलमासाद्य देवलोके महीयते॥१४-११३-३१॥
+ततो हैमवते वर्षे जायते कालपर्ययात् ।
+तत्र प्रकामं क्रीडित्वा विप्रः पश्चाद्भविष्यति॥१४-११३-३२॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.23, 14.113.29, 14.113.30, 14.113.31, 14.113.32",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of vaizAkha (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of vaiśākha (MBh 13.163.23)\n- Observance: Ekabhakta through the month of vaiśākha (MBh 14.113.29, 14.113.30, 14.113.31, 14.113.32)"
+
+[names]
+sa = [ "महाभारते वैशाख-मासः",]

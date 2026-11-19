@@ -1,0 +1,27 @@
+default_to_none = true
+id = "kArttika-pUrNimA-nizIthE~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तेषां पुण्यतमा रात्रिः पर्वसन्धौ स्म शारदी ।
+तत्रैव वसतामासीत्कार्तिकी जनमेजय॥३-१८४-१६॥
+पुण्यकृद्भिर्महासत्वैस्तापसैः सह पाण्डवाः ।
+तत्सर्वं भरतश्रेष्ठ समूहुर्योगमुत्तमम्॥३-१८४-१७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 3.184.16, 3.184.17",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 15
+kaala = "निशीथः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Pāṇḍavas with ascetics keep the holy autumnal Kārtikī full-moon night at the parva-sandhi (MBh 3.184.16, 3.184.17)"
+
+[names]
+sa = [ "महाभारते कार्त्तिक-पूर्णिमा",]

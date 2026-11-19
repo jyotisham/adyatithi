@@ -1,0 +1,34 @@
+default_to_none = true
+id = "bhAdrapada-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+प्रौष्ठपादं तु यो मासमेकाहारो भवेन्नरः ।
+गवाढ्यं स्फीतमचलमैश्वर्यं प्रतिपद्यते॥१३-१६३-२७॥
+माघप्रोष्ठपदौ मासौ श्राद्धकर्मणि पूजितौ ।
+पक्षयोः कृष्णपक्षश्च पूर्वपक्षात्प्रशस्यते॥१३-२३८-७॥
+यस्तु भाद्रपदं मासमेकभुक्तेन वर्तते ।
+ब्रह्मचारी जितक्रोधः सत्यसन्धो जितेन्द्रियः॥१४-११३-४६॥
+विप्रमग्रासने कृत्वा पाकभेदविवर्जितः ।
+नमो ब्रह्मण्यदेवायेत्युक्त्वाऽस्य चरणौ स्पृशेत्॥१४-११३-४७॥
+तिलानपि घृतं वाऽपि व्रतान्ते दक्षिणां ददत् ।
+मद्भक्तस्य नरश्रेष्ठ तस्य पुण्यफलं शृणु॥१४-११३-४८॥
+यत्फलं विधिवत्प्रोक्तं राजसूयाश्वमेधयोः ।
+तत्पुण्यफलमासाद्य शक्रलोके महीयते॥१४-११३-४९॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.27, 13.238.7, 14.113.46, 14.113.47, 14.113.48, 14.113.49",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of bhAdrapada (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of bhādrapada (MBh 13.163.27)\n- Observance: Śrāddha in Proṣṭhapada (Bhādrapada) is praised (MBh 13.238.7)\n- Observance: Ekabhakta through the month of bhādrapada (MBh 14.113.46, 14.113.47, 14.113.48, 14.113.49)"
+
+[names]
+sa = [ "महाभारते भाद्रपद-मासः",]

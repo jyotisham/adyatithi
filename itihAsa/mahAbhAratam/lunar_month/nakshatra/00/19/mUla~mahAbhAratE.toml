@@ -1,0 +1,30 @@
+default_to_none = true
+id = "mUla~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+मूले मूलफलं दत्त्वा ब्राह्मणेभ्यः समाहितः ।
+पितॄन्प्रीणयते चापि गतिमिष्टां च गच्छति ।॥१३-९९-२४॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+मूले त्वारोग्यमृच्छेत यशोऽषाढासु चोत्तमम् ।
+उत्तरासु त्वषाढासु वीतशोकश्चरेन्महीम्॥१३-१३६-१०॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.24, 13.136.1, 13.136.10",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 19
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on mūla (MBh 13.99.24)\n- Observance: Kāmya śrāddha on mūla (MBh 13.136.1, 13.136.10)"
+
+[names]
+sa = [ "महाभारते मूलम्",]

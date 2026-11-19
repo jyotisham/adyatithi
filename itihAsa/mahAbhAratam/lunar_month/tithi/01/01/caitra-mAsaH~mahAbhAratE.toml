@@ -1,0 +1,30 @@
+default_to_none = true
+id = "caitra-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+चैत्रं तु नियतो मासमेकभक्तेन यः क्षिपेत् ।
+सुवर्णमणिमुक्ताढ्ये कुले महति जायते॥१३-१६३-२२॥
+चैत्रमासं तु यो राजन्नेकभुक्तेन वर्तते ।
+ब्रह्मचारी च मद्भक्त्या तस्य पुण्यफलं शृणु॥१४-११३-२६॥
+यदग्निहोत्रिणः पुण्यं यथोक्तं व्रतचारिणः ।
+तत्पुण्यफकलमासाद्य चन्द्रलोके महीयते॥१४-११३-२७॥
+ततोऽवतीर्णो जायेत वर्षे रमणके पुनः ।
+भुक्त्वा कामांस्ततस्तस्मिन्निह राजा भविष्यति॥१४-११३-२८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.22, 14.113.26, 14.113.27, 14.113.28",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of caitra (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of caitra (MBh 13.163.22)\n- Observance: Ekabhakta through the month of caitra (MBh 14.113.26, 14.113.27, 14.113.28)"
+
+[names]
+sa = [ "महाभारते चैत्र-मासः",]

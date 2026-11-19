@@ -1,5 +1,18 @@
 default_to_none = true
 id = "zravaNa-vratam"
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 14.114.14–15, 14.115.28",]
+shlokas = """
+भगवानुवाच ।
+पर्वद्वयं च द्वादश्यां श्रवणं च नराधिप ।
+मत्पञ्चमीति विख्यातां मत्प्रिया च विशेषतः॥१४-११४-१४॥
+तस्मात्तु ब्राह्मणश्रेष्ठैर्मन्निवेशितबुद्धिभिः ।
+उपवासस्तु कर्तव्यो मत्प्रियार्तं विशेषतः॥१४-११४-१५॥
+भगवानुवाच ।
+द्वादश्यां विषुवे चैव चन्द्रसूर्यग्रहे तथा ।
+अयने श्रवणे चैव व्यतीपाते तथैव च॥१४-११५-२८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
++++(Mahābhārata (Vaiṣṇava-dharma): upavāsa and japa on the Śravaṇa nakṣatra)+++
+"""
 tags = [ "SpecialVratam",]
 jsonClass = "HinduCalendarEvent"
 

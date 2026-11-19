@@ -1,0 +1,29 @@
+default_to_none = true
+id = "caitra-zukla-caturdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अश्वमेधमवाप्नोति कुलं चैव समुद्धरेत् ।
+ततो गच्छेत राजेन्द्र सङ्गमं लोकविश्रुतम्॥३-८०-१२५॥
+सरस्वत्या महापुण्यं केशवं समुपासते ।
+यत्र ब्रह्मादयो देवा ऋषयश्च तपोधनाः॥३-८०-१२६॥
+अभिगच्छन्ति राजेन्द्र चैत्रशुक्लचतुर्दशीम् ।
+तत्र स्नात्वा नरव्याघ्र विन्देद्बहुसुवर्णकम् ।
+सर्वपापविशुद्धात्मा ब्रह्मलोकं च गच्छति॥३-८०-१२७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 3.80.125, 3.80.126, 3.80.127",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 14
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Sarasvatī saṅgama (Keśava): bathe on Caitra śukla caturdaśī (MBh 3.80.125, 3.80.126, 3.80.127)"
+
+[names]
+sa = [ "महाभारते चैत्र-शुक्ल-चतुर्दशी",]

@@ -1,0 +1,37 @@
+default_to_none = true
+id = "mAgha-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+माघमासे तिलान्यस्तु ब्राह्मणेभ्यः प्रयच्छति ।
+सर्वसत्वसमाकीर्णं नरकं स न पश्यति॥१३-१०१-८॥
+पितृभक्तो माघमासं यः क्षिपेदेकभोजनः ।
+श्रीमत्कुले ज्ञातिमध्ये सुभगत्वं प्रपद्यते॥१३-१६३-२०॥
+माघप्रोष्ठपदौ मासौ श्राद्धकर्मणि पूजितौ ।
+पक्षयोः कृष्णपक्षश्च पूर्वपक्षात्प्रशस्यते॥१३-२३८-७॥
+माघमासं सदा यस्तु वर्तते चैकभुक्ततः ।
+मदर्चनपरो भूत्वा डम्भक्रोधविवर्जितः ।
+मामिकामपि सावित्रीं सन्ध्यायां तु जपेद्बुधः॥१४-११३-१८॥
+दत्त्वा दु दक्षिणामन्ते भोजयित्वा द्विजानपि ।MM-KK-14-03-113-019c	नमिस्करोति तान्भक्त्या मद्गतेनान्तरात्मना ।
+त्रिकालस्नानयुक्तस्य तस्य पुण्यफलं शृणु॥१४-११३-१९॥
+नीलकण्ठप्रयुक्तेन यानेनांऽबरशोभिना ।
+पितृलोकं व्रजेच्छ्रीमान्सेव्यमानोप्सरोणैः॥१४-११३-२०॥
+तत्र प्रकामं क्रीडित्वा भद्राश्वेषूपजायते ।
+ततश्च्युतश्चतुर्वेदी विप्रो भवति भूतले॥१४-११३-२१॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.101.8, 13.163.20, 13.238.7, 14.113.18, 14.113.19, 14.113.20, 14.113.21",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of mAgha (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Gift of sesame to brāhmaṇas in Māgha (MBh 13.101.8)\n- Observance: Ekabhakta through the month of māgha (MBh 13.163.20)\n- Observance: Śrāddha in Māgha is praised (MBh 13.238.7)\n- Observance: Ekabhakta through the month of māgha (MBh 14.113.18, 14.113.19, 14.113.20, 14.113.21)"
+
+[names]
+sa = [ "महाभारते माघ-मासः",]

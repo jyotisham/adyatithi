@@ -1,0 +1,32 @@
+default_to_none = true
+id = "pUrvASADhA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अथ पूर्वास्वषाढासु दधिपात्राण्युपोषितः ।
+कुलवृत्तोपसम्पन्ने ब्राह्मणे वेदपारगे॥१३-९९-२५॥
+प्रदाय जायते प्रेत्य कुले सुबहुगोधने ।
+उदमन्थं ससर्पिष्कं प्रभूतमधुफाणितम्॥१३-९९-२६॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+मूले त्वारोग्यमृच्छेत यशोऽषाढासु चोत्तमम् ।
+उत्तरासु त्वषाढासु वीतशोकश्चरेन्महीम्॥१३-१३६-१०॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.25, 13.99.26, 13.136.1, 13.136.10",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 20
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on pūrvāṣāḍhā (MBh 13.99.25, 13.99.26)\n- Observance: Kāmya śrāddha on pūrvāṣāḍhā (MBh 13.136.1, 13.136.10)"
+
+[names]
+sa = [ "महाभारते पूर्वाषाढा",]

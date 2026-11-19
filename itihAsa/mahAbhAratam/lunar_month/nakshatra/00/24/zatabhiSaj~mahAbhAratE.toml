@@ -1,0 +1,30 @@
+default_to_none = true
+id = "zatabhiSaj~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+गन्धाञ्शतभिषग्योगे दत्त्वा सागरुचन्दनान् ।
+प्राप्नोत्यप्सरसां सङ्घान्प्रेत्य गन्धांश्च शाश्वतान्॥१३-९९-३०॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+राज्यभागी धनिष्ठायां भवेत नियतं नरः ।
+नक्षत्रे वारुणे कुर्वन्भिषक्सिद्धिमवाप्नुयात्॥१३-१३६-१२॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.30, 13.136.1, 13.136.12",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 24
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on śatabhiṣaj (MBh 13.99.30)\n- Observance: Kāmya śrāddha on śatabhiṣaj (MBh 13.136.1, 13.136.12)"
+
+[names]
+sa = [ "महाभारते शतभिषक्",]

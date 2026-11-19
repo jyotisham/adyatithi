@@ -1,0 +1,28 @@
+default_to_none = true
+id = "jyESTha-amAvAsyA~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+ततस्ते तु यथाकालं कुन्तीपुत्रं युधिष्ठिरम् ।
+दीक्षयाञ्चक्रिरे विप्रा राजसूयाय भारत॥२-३६-४५॥
+`ज्येष्ठामूले अमावास्यां मृगाजिनसमावृतः ।
+रौरवाजिनसंवीतो नवनीताक्तदेहवान्'॥२-३६-४६॥
+दीक्षितः स तु धर्मात्मा धर्मराजो युधिष्ठिरः ।
+जगाम यज्ञायतनं वृतो विप्रैः सहस्रशः॥२-३६-४७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 2.36.45, 2.36.46, 2.36.47",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+anga_type = "tithi"
+anga_number = 30
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Yudhiṣṭhira's dīkṣā for the Rājasūya on the amāvāsyā of Jyeṣṭhāmūla (MBh 2.36.45, 2.36.46, 2.36.47) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "महाभारते ज्येष्ठ-अमावास्या",]
