@@ -9,7 +9,7 @@ shlokas = """
 पाकयज्ञविधानेन द्वादशैवाहुतीः पतिः॥६-१९-२२॥
 ---श्रीमद्भागवते महापुराणे
 """
-references_primary = [ "Śrīmad Bhāgavatam 6.19.21–22 (verse numbering of the skandha_N.json edition)",]
+references_primary = [ "Śrīmad Bhāgavatam 6.19.21–22 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 
 [timing]
 default_to_none = true

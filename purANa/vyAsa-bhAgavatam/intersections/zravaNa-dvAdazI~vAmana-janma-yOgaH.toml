@@ -9,7 +9,7 @@ shlokas = """
 विजया नाम सा प्रोक्ता यस्यां जन्म विदुर्हरेः॥८-१७-६॥
 ---श्रीमद्भागवते महापुराणे
 """
-references_primary = [ "Śrīmad Bhāgavatam 8.17.5–6 (verse numbering of the skandha_N.json edition)",]
+references_primary = [ "Śrīmad Bhāgavatam 8.17.5–6 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 
 [timing]
 default_to_none = true

@@ -7,7 +7,7 @@ shlokas = """
 पठन्ननश्नन् प्रयतः पूतो भवति पातकी॥१२-१२-५९॥
 ---श्रीमद्भागवते महापुराणे
 """
-references_primary = [ "Śrīmad Bhāgavatam 12.12.59 (verse numbering of the skandha_N.json edition)",]
+references_primary = [ "Śrīmad Bhāgavatam 12.12.59 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 
 [timing]
 default_to_none = true

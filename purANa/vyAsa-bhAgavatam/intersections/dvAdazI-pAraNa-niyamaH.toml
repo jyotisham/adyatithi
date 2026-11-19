@@ -9,7 +9,7 @@ shlokas = """
 यत् कृत्वा साधु मे भूयादधर्मो वा न मां स्पृशेत्॥९-६-२७॥
 ---श्रीमद्भागवते महापुराणे
 """
-references_primary = [ "Śrīmad Bhāgavatam 9.6.26–27 (verse numbering of the skandha_N.json edition)",]
+references_primary = [ "Śrīmad Bhāgavatam 9.6.26–27 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 
 [timing]
 default_to_none = true

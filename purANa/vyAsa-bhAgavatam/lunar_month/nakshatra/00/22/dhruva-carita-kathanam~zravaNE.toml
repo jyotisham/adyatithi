@@ -1,5 +1,5 @@
 default_to_none = true
-id = "dhruva-carita-kathanam~tithiSu"
+id = "dhruva-carita-kathanam~zravaNE"
 tags = [ "MonthlyFestivals", "Cat4",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -9,22 +9,19 @@ shlokas = """
 नेच्छंस्तत्राऽत्मनाऽऽत्मानं सन्तुष्ट इति सिध्यति॥४-१२-४९॥
 ---श्रीमद्भागवते महापुराणे
 """
-references_primary = [ "Śrīmad Bhāgavatam 4.12.48–49 (verse numbering of the skandha_N.json edition)",]
+references_primary = [ "Śrīmad Bhāgavatam 4.12.48–49 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 
 [timing]
 default_to_none = true
 month_type = "lunar_month"
 month_number = 0
-window = "sunrise_to_sunset"
+anga_type = "nakshatra"
+anga_number = 22
+adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
-[[timing.intersection_groups]]
-[[timing.intersection_groups.angas]]
-anga_type = "tithi"
-anga_number = [ 12, 15, 27, 30,]
-
 [description]
-en = "Narrate the Dhruva-carita to the faithful on pūrṇimā, sinīvālī (amāvāsyā) and dvādaśī (also on Śravaṇa, dinakṣaya, vyatīpāta, saṅkrānti and Sundays — see the companion entry for Śravaṇa)."
+en = "Narrate the Dhruva-carita on the Śravaṇa nakṣatra day."
 
 [names]
-sa = [ "ध्रुवचरितकथनम् (पौर्णमासी-सिनीवाली-द्वादशीषु)",]
+sa = [ "ध्रुवचरितकथनम् (श्रवणे)",]

@@ -334,8 +334,8 @@ base_url = "https://github.com/jyotisham/adyatithi/blob/master/itihAsa/vAlmIki-r
 jsonClass = "RulesRepo"
 
 [[data]]
-name = "itihAsa/bhAgavatam"
-base_url = "https://github.com/jyotisham/adyatithi/blob/master/itihAsa/bhAgavatam"
+name = "purANa/vyAsa-bhAgavatam"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/purANa/vyAsa-bhAgavatam"
 jsonClass = "RulesRepo"
 
 [[data]]
