@@ -1,0 +1,36 @@
+default_to_none = true
+id = "zrIrAma-janma-nakSatra-yOgaH"
+tags = [ "RareDays", "Combinations", "Ramayana", "Cat1",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+ततो यज्ञे समाप्ते तु ऋतूनां षट् समत्ययुः।
+ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ॥१-१८-८॥
+नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु पञ्चसु।
+ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह॥१-१८-९॥
+प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम्।
+कौसल्याजनयद् रामं दिव्यलक्षणसंयुतम्॥१-१८-१०॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 1.18.8–10",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+kaala = "मध्याह्नः"
+window = "sunrise_to_sunset"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = 9
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 7
+
+[description]
+en = "The exact combination of Śrī Rāma's birth as given by Vālmīki: Caitra navamī together with Punarvasu (aditi-daivatya), with Karkaṭa lagna rising — which in Caitra is around madhyāhna. Occurs only in some years (≈0.44 days/yr). +++(kāla derived from the lagna)+++"
+
+[names]
+sa = [ "श्रीरामजन्म-नक्षत्र-योगः",]

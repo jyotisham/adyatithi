@@ -1,0 +1,30 @@
+default_to_none = true
+id = "vRtra-vadha-AkhyAna-zravaNam~parvasu"
+tags = [ "MonthlyFestivals", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+इदं महाख्यानमशेषपाप्मनां प्रक्षालनं तीर्थपदानुकीर्तनम्।
+भक्त्युच्छ्रयं भक्तजनानुवर्णनं महेन्द्रमोक्षं विजयं मरुत्वतः॥६-१३-२२॥
+पठेयुराख्यानमिदं सदा बुधाः शृण्वन्त्यथो पर्वणि पर्वणीन्द्रियम्।
+धन्यं यशस्यं निखिलाघमोचनं रिपुञ्जयं स्वस्त्ययनं यथाऽऽयुषम्॥६-१३-२३॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 6.13.22–23 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+window = "sunrise_to_sunset"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 15, 30,]
+
+[description]
+en = "The wise should read and hear this narrative (Indra's victory over Vṛtra) on every parvan. +++(parvan taken as pūrṇimā and amāvāsyā)+++"
+
+[names]
+sa = [ "वृत्रवधाख्यान-श्रवणम् (पर्वसु)",]

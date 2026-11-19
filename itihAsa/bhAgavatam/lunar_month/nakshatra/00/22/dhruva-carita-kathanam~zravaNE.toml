@@ -1,0 +1,27 @@
+default_to_none = true
+id = "dhruva-carita-kathanam~zravaNE"
+tags = [ "MonthlyFestivals", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पौर्णमास्यां सिनीवाल्यां द्वादश्यां श्रवणेऽथ वा।
+दिनक्षये व्यतीपाते संक्रमेऽर्कदिनेऽपि वा॥४-१२-४८॥
+श्रावयेच्छ्रद्दधानानां तीर्थपादपदाश्रयः।
+नेच्छंस्तत्राऽत्मनाऽऽत्मानं सन्तुष्ट इति सिध्यति॥४-१२-४९॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 4.12.48–49 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 22
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Narrate the Dhruva-carita on the Śravaṇa nakṣatra day."
+
+[names]
+sa = [ "ध्रुवचरितकथनम् (श्रवणे)",]

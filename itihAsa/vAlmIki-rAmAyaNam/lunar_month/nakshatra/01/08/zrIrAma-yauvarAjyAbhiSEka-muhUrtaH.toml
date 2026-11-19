@@ -1,0 +1,32 @@
+default_to_none = true
+id = "zrIrAma-yauvarAjyAbhiSEka-muhUrtaH"
+tags = [ "PuranaEvents", "Ramayana", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+चैत्रः श्रीमानयं मासः पुण्यः पुष्पितकाननः।
+यौवराज्याय रामस्य सर्वमेवोपकल्प्यताम्॥२-३-४॥
+तस्मात् त्वं पुष्ययोगेन यौवराज्यमवाप्नुहि।
+कामतस्त्वं प्रकृत्यैव निर्णीतो गुणवानिति॥२-३-४१॥
+श्व एव पुष्यो भविता श्वोऽभिषेच्यस्तु मे सुतः।
+रामो राजीवपत्राक्षो युवराज इति प्रभुः॥२-४-२॥
+उदिते विमले सूर्ये पुष्ये चाभ्यागतेऽहनि।
+लग्ने कर्कटके प्राप्ते जन्म रामस्य च स्थिते॥२-१५-३॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 2.3.4, 2.3.41, 2.4.2, 2.15.3",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "nakshatra"
+anga_number = 8
+kaala = "मध्याह्नः"
+priority = "vyaapti"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Daśaratha fixed Śrī Rāma's installation as yuvarāja for the Puṣya day of Caitra, with Karkaṭa lagna (Rāma's janma-lagna) — around madhyāhna in Caitra. +++(kāla derived from the lagna)+++"
+
+[names]
+sa = [ "श्रीराम-यौवराज्याभिषेक-मुहूर्तः",]

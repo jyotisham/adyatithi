@@ -328,3 +328,12 @@ jsonClass = "RulesRepo"
 # base_url = "/"
 # jsonClass = "RulesRepo"
 
+[[data]]
+name = "itihAsa/vAlmIki-rAmAyaNam"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/itihAsa/vAlmIki-rAmAyaNam"
+jsonClass = "RulesRepo"
+
+[[data]]
+name = "itihAsa/bhAgavatam"
+base_url = "https://github.com/jyotisham/adyatithi/blob/master/itihAsa/bhAgavatam"
+jsonClass = "RulesRepo"

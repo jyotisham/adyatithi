@@ -1,0 +1,32 @@
+default_to_none = true
+id = "zravaNa-dvAdazI~vAmana-janma-yOgaH"
+tags = [ "RareDays", "Combinations", "Dashavataram", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+श्रोणायां श्रवणद्वादश्यां मुहूर्तेऽभिजिति प्रभुः।
+सर्वे नक्षत्रताराद्याश्चक्रुस्तज्जन्म दक्षिणम्॥८-१७-५॥
+द्वादश्यां सविताऽतिष्ठन्मध्यन्दिनगतो नृप।
+विजया नाम सा प्रोक्ता यस्यां जन्म विदुर्हरेः॥८-१७-६॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 8.17.5–6 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+kaala = "मध्याह्नः"
+window = "sunrise_to_sunset"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 22
+
+[description]
+en = "Vāmana was born on Śravaṇa-dvādaśī, at Abhijit muhūrta with the sun at the meridian. The Bhāgavata names neither month nor pakṣa (cf. `vAmana~jayantI`, kept in Bhādrapada śukla). ≈1.3 days/yr."
+
+[names]
+sa = [ "श्रवणद्वादशी (वामनजन्मयोगः)",]

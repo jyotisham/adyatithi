@@ -1,0 +1,30 @@
+default_to_none = true
+id = "dhruva-carita-kathanam~tithiSu"
+tags = [ "MonthlyFestivals", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पौर्णमास्यां सिनीवाल्यां द्वादश्यां श्रवणेऽथ वा।
+दिनक्षये व्यतीपाते संक्रमेऽर्कदिनेऽपि वा॥४-१२-४८॥
+श्रावयेच्छ्रद्दधानानां तीर्थपादपदाश्रयः।
+नेच्छंस्तत्राऽत्मनाऽऽत्मानं सन्तुष्ट इति सिध्यति॥४-१२-४९॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 4.12.48–49 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+window = "sunrise_to_sunset"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 15, 27, 30,]
+
+[description]
+en = "Narrate the Dhruva-carita to the faithful on pūrṇimā, sinīvālī (amāvāsyā) and dvādaśī (also on Śravaṇa, dinakṣaya, vyatīpāta, saṅkrānti and Sundays — see the companion entry for Śravaṇa)."
+
+[names]
+sa = [ "ध्रुवचरितकथनम् (पौर्णमासी-सिनीवाली-द्वादशीषु)",]
