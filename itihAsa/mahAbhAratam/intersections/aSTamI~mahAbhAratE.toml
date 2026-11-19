@@ -1,0 +1,30 @@
+default_to_none = true
+id = "aSTamI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+'तैलं जन्मदिनेऽष्टम्यां चतुर्दश्यां च पर्वसु ।'
+नक्षत्रे न च कुर्वीत यस्मिञ्जातो भवेन्नरः ।
+न प्रोष्ठपदयोः कार्यं तथाऽऽग्नेये च भारत॥१३-१६१-१३५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.161.135",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+window = "sunrise_to_next_sunrise"
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 8, 23,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: No oil on aṣṭamī (MBh 13.161.135) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "महाभारते अष्टमी",]

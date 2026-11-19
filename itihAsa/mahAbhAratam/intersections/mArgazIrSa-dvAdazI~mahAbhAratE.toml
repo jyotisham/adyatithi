@@ -1,0 +1,37 @@
+default_to_none = true
+id = "mArgazIrSa-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+द्वादश्यां कार्तिके मासि पूज्यो दामोदरेति च ।
+गवां यज्ञमवाप्नोति पुमान्स्त्री वा न संशयः॥१३-१७१-१४॥
+अर्चयेत्पुण्डरीकाक्षमेवं संवत्सरं तु यः ।
+जातिस्मरत्वं प्राप्नोति विन्द्याद्बहु सुवर्णकम्॥१३-१७१-१५॥
+अहन्यहनि तद्भावमुपेन्द्रं योऽधिगच्छति ।
+समाप्ते भोजयेद्विप्रानथवा दापयेद्धृतम्॥१३-१७१-१६॥
+अहोरात्रेण द्वादश्यां मार्गशीर्षेण केशवम् ।
+उपोष्य पूजयेद्यो मां सोऽस्वमेधफलं लभेत्॥१४-११४-१७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.1, 13.171.14, 13.171.15, 13.171.16, 14.114.17",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Keśava in mārgaśīrṣa (MBh 13.171.1, 13.171.14, 13.171.15, 13.171.16) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in mārgaśīrṣa, worship Viṣṇu as Keśava (MBh 14.114.17)"
+
+[names]
+sa = [ "महाभारते मार्गशीर्ष-द्वादशी",]

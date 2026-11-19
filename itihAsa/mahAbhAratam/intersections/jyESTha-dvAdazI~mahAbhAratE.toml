@@ -1,0 +1,36 @@
+default_to_none = true
+id = "jyESTha-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम् ।
+गवां मेधमवाप्नोति अप्सरोभिश्च मोदते॥१३-१७१-९॥
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+भीष्म उवाच
+शृणु राजन्यथा गीतं स्वयमेव स्वयम्भुवा ।
+यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥१३-१७१-२॥
+द्वादश्यां ज्येष्ठमासे तु मामुपोष्य त्रिविक्रमम् ।
+अर्ययेद्यः समाप्नोति गवां मेधफलं नृप॥१४-११४-२३॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.9, 13.171.1, 13.171.2, 14.114.23",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 3
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Trivikrama in jyeṣṭha (MBh 13.171.9, 13.171.1, 13.171.2) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in jyeṣṭha, worship Viṣṇu as Trivikrama (MBh 14.114.23)"
+
+[names]
+sa = [ "महाभारते ज्येष्ठ-द्वादशी",]

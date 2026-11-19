@@ -1,0 +1,35 @@
+default_to_none = true
+id = "kArttika-caturdazI-nizIthE~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तद्वृत्तं तु त्रयोदश्यां समवेतं महात्मनोः ।
+चतुर्दश्यां निशायां तु निवृत्तो मागधः क्लमात्॥२-२४-३४॥
+तस्मात्तेऽद्यैव कौन्तेय पीडनीयो जनाधिपः ।
+सममेतेन युध्यस्व बाहुभ्यां भरतर्षभ॥२-२४-३७॥
+प्रभञ्जनबलाविष्टो जरासन्धमरिन्दमः ।
+उत्क्षिप्य भ्रामयामास बलवन्तं महाबलः॥२-२५-९॥
+भ्रामयित्वा शतगुणं जानुभ्यां भरतर्षभ ।
+बभञ्ज पृष्टं सङ्क्षिप्य निष्पिष्य विननाद च॥२-२५-१०॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 2.24.34, 2.24.37, 2.25.9, 2.25.10",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+kaala = "निशीथः"
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 14, 29,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Jarāsandha desists exhausted on caturdaśī night and is slain by Bhīma that night (MBh 2.24.34, 2.24.37, 2.25.9, 2.25.10) +++(tithi derived: the fifteen-day bout began on the first of Kārtika (śukla pratipad, amānta), so its caturdaśī is śukla)+++"
+
+[names]
+sa = [ "महाभारते कार्त्तिक-चतुर्दशी",]

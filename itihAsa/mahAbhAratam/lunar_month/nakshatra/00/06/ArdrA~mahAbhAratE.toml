@@ -1,0 +1,37 @@
+default_to_none = true
+id = "ArdrA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+आर्द्रायां कृसरं दत्त्वा तिलमिश्रमुपोषितः ।
+नरस्तरति दुर्गाणि क्षुरधारांश्च पर्वतान्॥१३-९९-८॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+अपत्यकामो रोहिण्यां तेजस्कामो मृगोत्तमे ।
+क्रूरकर्मा ददच्छ्राद्धमार्द्रायां मानवो भवेत्॥१३-१३६-३॥
+स्थानं मे तत्र विहितं वीरस्थानमिति प्रिये ।
+कपालशतसम्पूर्णमभिरूपं भयानकम्॥१३-२०७-१५॥
+मध्याह्ने सन्ध्ययोस्तत्र नक्षत्रे रुद्रदेवते ।
+आयुष्कामैरशुद्धैर्वा न गन्तव्यमिति स्थितिः॥१३-२०७-१६॥
+पर्वद्वये चतुर्दश्यामष्टम्यां सन्ध्ययोर्द्वयोः ।
+आर्द्रायां जन्मनक्षत्रे विषुवे श्रवणेऽथवा ।
+ये ग्राम्यधर्मविरतास्ते नराः स्वर्गगाप्तिनः॥१४-१०६-१०८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.8, 13.136.1, 13.136.3, 13.207.15, 13.207.16, 14.106.108",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 6
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on ārdrā (MBh 13.99.8)\n- Observance: Kāmya śrāddha on ārdrā (MBh 13.136.1, 13.136.3)\n- Observance: Do not go to Śiva's vīrasthāna (śmaśāna) at midday, at the two sandhyās, or on Ārdrā (Rudra's nakṣatra) if desiring long life or impure (MBh 13.207.15, 13.207.16)\n- Observance: Abstain from intercourse on Ārdrā (MBh 14.106.108)"
+
+[names]
+sa = [ "महाभारते आर्द्रा",]

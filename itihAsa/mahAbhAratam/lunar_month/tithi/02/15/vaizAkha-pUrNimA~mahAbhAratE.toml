@@ -1,0 +1,37 @@
+default_to_none = true
+id = "vaizAkha-pUrNimA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशाख्यां पौर्णमास्यां तु तिलान्दद्याद्द्विजातिषु ।
+तिला भक्षयितव्याश्च सदा त्वालम्भनं च तैः ||॥१३-१०३-१८॥
+कार्यं सततमिच्छद्भिः श्रेयः सर्वात्मना गृहे ।
+तथाऽऽपः सर्वदा देयाः पेयाश्चैव न संशयः॥१३-१०३-१९॥
+वैशाखे मासि वैशाखे दिवसे पाण्डुनन्दन ।
+वैवस्वतं समुद्दिश्य परां भक्तिमुपागताः॥१४-१०३-७९॥
+अभ्यर्च्य विधिवद्विप्रांस्तिलान्गुडसमन्वितान् ।
+ये प्रयच्छन्ति विप्रेभ्यस्तेषां पुण्यफलं शृणु॥१४-१०३-८०॥
+गोप्रदानेन यत्पुण्यं विधिवत्पाण्डुनन्दन ।
+तत्पुण्यं समनुप्राप्तो यमलोके महीयते ।
+ततश्चापि च्युतः कालादिह राजा भविष्यति॥१४-१०३-८१॥
+तस्मिन्नेव दिने विप्रान्भोजयित्वा सुदक्षिणम् ।
+तोयपूर्णानि दिव्यानि भाजनानि दिशन्ति ये॥१४-१०३-८२॥
+ते यान्त्यादित्यवर्णाभैर्विमानैर्वरुणालयम् ।
+तत्र दिव्याङ्गनाभिस्तु रमन्ते कामकामिनः॥१४-१०३-८३॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.103.18, 13.103.19, 14.103.79, 14.103.80, 14.103.81, 14.103.82, 14.103.83",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 2
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Gift of sesame to dvijas on Vaiśākha full moon (MBh 13.103.18, 13.103.19)\n- Observance: Vaiśākha day: give sesame with jaggery to brāhmaṇas, intending Yama (MBh 14.103.79, 14.103.80, 14.103.81)\n- Observance: Same Vaiśākha day: feed brāhmaṇas and give water-filled vessels (MBh 14.103.79, 14.103.82, 14.103.83)"
+
+[names]
+sa = [ "महाभारते वैशाख-पूर्णिमा",]

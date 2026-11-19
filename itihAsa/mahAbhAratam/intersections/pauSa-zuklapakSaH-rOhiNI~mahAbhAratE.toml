@@ -1,0 +1,40 @@
+default_to_none = true
+id = "pauSa-zuklapakSaH-rOhiNI~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Vratam", "Cat2", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+ब्राह्मण उवाच
+श्रुत्वा पुरोहितेनोक्तं पाञ्चालः प्रीतिमांस्तदा ।
+घोषयामास नगरे द्रौपद्यास्तु स्वयंवरम्॥१-१८२-२८॥
+पुष्यमासे तु रोहिण्यां शुक्लपक्षे शुभे तिथौ ।
+दिवसैः पञ्चसप्तत्या भविष्यति न संशयः॥१-१८२-२९॥
+द्रव्यहीनाः कथं मर्त्या दरिद्राः साधुवर्तिनः ।
+प्राप्नुवन्तीह यज्ञस्य फलं केन च कर्मणा॥१३-१८९-४०॥
+पौषमासस्य शुक्ले वै यदा युज्येत रोहिणी ।
+तेन नक्षत्रयोगेन आकाशशयनो भवेत्॥१३-१८९-४४॥
+एकवस्त्रः शुचिः स्नातः श्रद्दधानः समाहितः ।
+सोमस्य रश्मयः पीत्वा महायज्ञफलं लभेत्॥१३-१८९-४५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 1.182.28, 1.182.29, 13.189.40, 13.189.44, 13.189.45",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 4
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Draupadī's svayaṃvara proclaimed for Pauṣa, śukla pakṣa, Rohiṇī, an auspicious tithi, 75 days hence (MBh 1.182.28, 1.182.29) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Pauṣa śukla with Rohiṇī: sleep under open sky drinking moonbeams (MBh 13.189.40, 13.189.44, 13.189.45) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "महाभारते पौष-शुक्लपक्षः-रोहिणी",]

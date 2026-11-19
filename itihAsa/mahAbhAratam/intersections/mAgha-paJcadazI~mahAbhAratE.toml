@@ -1,0 +1,31 @@
+default_to_none = true
+id = "mAgha-paJcadazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशाखमासस्य तु या तृतीयाऽनवद्याऽसौ कार्तिकशुक्लपक्षे ।
+नभस्यमासस्य च कृष्णपक्षे त्रयोदशी पञ्चदशी च माघे॥१४-११०-२८॥
+उपप्लवे चन्द्रमसो रवेश्च श्राद्धस्य कालो ह्ययनद्वये च ।
+पानीयमप्यत्र तिलैर्विमिश्रं दद्यात्पितृभ्यः प्रयतो मनुष्यः ।
+श्राद्धं कृतं तेन समासहस्रं रहस्यमेतत्पितरो वदन्ति॥१४-११०-२९॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 14.110.28, 14.110.29",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 15, 30,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on Māgha pañcadaśī (MBh 14.110.28, 14.110.29)"
+
+[names]
+sa = [ "महाभारते माघ-पञ्चदशी",]

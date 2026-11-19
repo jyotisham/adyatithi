@@ -1,7 +1,7 @@
 default_to_none = true
 id = "mAgha-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
-references_primary = [ "Satyavrata Smriti",]
+references_primary = [ "Satyavrata Smriti", "Mahābhārata (Kumbhakonam recension) 13.64.37–38",]
 references_secondary = [ "Vrata Nirnaya Kalpavalli",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -11,7 +11,14 @@ shlokas = """
 आरोग्यं परमाप्नोति सम्यक् स्नानेन मानवः॥
 भविष्ये---
 वैशाखी कार्तिकी माघी ह्याषाढ्यप्यतिपुण्यदाः।
-स्नानदानविहीना वै तासु रौरवगामिनः॥"""
+स्नानदानविहीना वै तासु रौरवगामिनः॥
+दशतीर्थसहस्राणि तिस्रः कोट्यस्तथाऽपराः ।
+समागच्छन्ति माघ्यां तु प्रयागे भरतर्षभ॥१३-६४-३७॥
+माघमासं प्रयागे तु नियतः संशितव्रतः ।
+स्नात्वा तु भरतश्रेष्ठ निर्मलः स्वर्गमाप्नुयात्॥१३-६४-३८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
++++(Mahābhārata: bathing at Prayāga on the Māghī, and through the month of Māgha)+++
+"""
 
 [timing]
 default_to_none = true

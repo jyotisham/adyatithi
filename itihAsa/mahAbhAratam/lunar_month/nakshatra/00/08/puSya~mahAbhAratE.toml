@@ -1,0 +1,30 @@
+default_to_none = true
+id = "puSya~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पुष्येण कनकं दत्त्वा कृतं वाऽकृतमेव च ।
+अनालोकेषु लोकेषु सोमवत्स विराजते॥१३-९९-१०॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+कृषिभागी भवेन्मर्त्यः कुर्वञ्श्राद्धं पुनर्वसौ ।
+पुष्टिकामोऽथ पुष्येण श्राद्धमीहेत मानवः॥१३-१३६-४॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.10, 13.136.1, 13.136.4",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 8
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on puṣya (MBh 13.99.10)\n- Observance: Kāmya śrāddha on puṣya (MBh 13.136.1, 13.136.4)"
+
+[names]
+sa = [ "महाभारते पुष्यः",]

@@ -1,0 +1,29 @@
+default_to_none = true
+id = "trayOdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अमावास्यां त्रयोदश्यां नवम्यां प्रतिपत्सु च ।
+तिथिष्वेतासु तुष्यन्ति दत्तेनेह पितामहाः॥१३-२३८-८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.238.8",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+window = "sunrise_to_next_sunrise"
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 13, 28,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on tithi 13 pleases the pitṛs (MBh 13.238.8)"
+
+[names]
+sa = [ "महाभारते त्रयोदशी",]

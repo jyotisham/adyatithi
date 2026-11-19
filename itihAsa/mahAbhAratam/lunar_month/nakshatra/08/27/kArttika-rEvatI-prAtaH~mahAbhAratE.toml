@@ -1,0 +1,33 @@
+default_to_none = true
+id = "kArttika-rEvatI-prAtaH~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+श्वोभूते धृतराष्ट्रस्य समीपं प्राप्य पाण्डव ।
+यतिष्ये प्रशमं कर्तुं युष्मदर्थमहापयन्॥५-७६-१५॥
+श्रीभगवानुवाच
+धर्म्यमस्मद्धितं चैव कुरूणां यदनामयम् ।
+एष यास्यामि राजानं धृतराष्ट्रमभीप्सया॥५-८२-५॥
+वैशम्पायन उवाच
+ततो व्यपेते तमसि सूर्ये विमल उद्गते ।
+मैत्रे मुहूर्ते सम्प्राप्ते मृद्वर्चिषि दिवाकरे॥५-८२-६॥
+कौमुदे मासि रेवत्यां शरदन्ते हिमागमे ।
+स्फीतसस्यसुखे काले कल्यः सत्ववतां वरः॥५-८२-७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 5.76.15, 5.82.5, 5.82.6, 5.82.7",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "nakshatra"
+anga_number = 27
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Kṛṣṇa sets out from Upaplavya as peace envoy: Kaumuda month, Revatī, Maitra muhūrta, end of śarad (MBh 5.76.15, 5.82.5, 5.82.6, 5.82.7)"
+
+[names]
+sa = [ "महाभारते कार्त्तिक-रेवती",]

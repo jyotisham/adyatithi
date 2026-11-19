@@ -1,0 +1,31 @@
+default_to_none = true
+id = "caitra-pUrNimA~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+ततोऽब्रवीन्महातेजा व्यासो धर्मात्मजं नृपम् ।
+यथाकालं यथायोगं सज्जाः स्म तव दीक्षणे॥१४-७२-१०॥
+अश्वश्चोत्सृज्यतामद्य पृथ्व्यामथ यथाक्रमम् ।
+सुगुप्तं चरतां चापि यथाशास्त्रं यथाविधि॥१४-७२-१२॥
+चैत्र्यां हि पौर्णमास्यां तु तव दीक्षा भविष्यति ।
+सम्भाराः सम्भ्रियन्तां च यज्ञार्थं पुरुषर्षभ॥१४-७२-४॥
+वैशम्पायन उवाच ।
+दीक्षाकाले तु सम्प्राप्ते ततस्ते सुमहर्त्विजः ।
+विधिवद्दीक्षयामासुरश्वमेधाय पार्थिवम्॥१४-७३-१॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 14.72.10, 14.72.12, 14.72.4, 14.73.1",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 1
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Yudhiṣṭhira's Aśvamedha dīkṣā on Caitra pūrṇimā; horse released by Vyāsa (MBh 14.72.10, 14.72.12, 14.72.4, 14.73.1)"
+
+[names]
+sa = [ "महाभारते चैत्र-पूर्णिमा",]

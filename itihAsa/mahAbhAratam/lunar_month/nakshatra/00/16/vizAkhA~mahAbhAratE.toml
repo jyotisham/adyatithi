@@ -1,0 +1,34 @@
+default_to_none = true
+id = "vizAkhA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+विशाखायामनड्वाहं धेनुं दत्त्वा च दुग्धदाम् ।
+सप्रासङ्गं च शकटं सधान्यं वस्त्रसंयुतम्॥१३-९९-१९॥
+पितॄन्देवांश्च प्रीणाति प्रेत्य चानन्त्यमश्नुते ।
+न च दुर्गाण्यवाप्नोति स्वर्गलोकं च गच्छति॥१३-९९-२०॥
+दत्त्वा यथोक्तं विप्रेभ्यो वृत्तिमिष्टां स विन्दति ।
+नरकादींश्च सङ्क्लेशान्नाप्नोतीति विनिश्चयः॥१३-९९-२१॥
+भीष्म उवाच
+यमस्तु यानि श्राद्धानि प्रोवाच शशबिन्दवे ।
+तानि मे शृणु काम्यानि नक्षत्रेषु पृथक्पृथक्॥१३-१३६-१॥
+बहुपुत्रो विशाखासु पुत्रमीहन्भवेन्नरः ।
+अनुराधासु कुर्वाणो राज्यचक्रं प्रवर्तयेत्॥१३-१३६-८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.99.19, 13.99.20, 13.99.21, 13.136.1, 13.136.8",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 16
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-dāna on viśākhā (MBh 13.99.19, 13.99.20, 13.99.21)\n- Observance: Kāmya śrāddha on viśākhā (MBh 13.136.1, 13.136.8)"
+
+[names]
+sa = [ "महाभारते विशाखा",]

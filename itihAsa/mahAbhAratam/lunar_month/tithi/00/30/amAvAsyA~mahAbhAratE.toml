@@ -1,0 +1,58 @@
+default_to_none = true
+id = "amAvAsyA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+श्राद्धस्य ब्राह्मणः कालः प्राप्तं दधि घृतं तथा ।
+सोमक्षयश्च मांसं च यदारण्यं युधिष्ठिर॥१३-६१-३४॥
+प्रभासे त्वेकरात्रेण अमावास्यां ममाहितः ।
+सिद्ध्यते तु महाबाहो यो नरो जायतेऽमरः॥१३-६४-५५॥
+अन्वाहार्यं महाराज पितॄणां श्राद्धमुच्यते ।
+तस्माद्विशेषविधिना विधिः प्रथमकल्पितः॥१३-१३४-६॥
+सर्वेष्वहःसु प्रीयन्ते कृते श्राद्धे पितामहाः ।
+'पिण्डान्वाहार्यकं श्राद्धं कुर्यान्मासानुमासिकम् ।
+पितृयज्ञं तु निर्वर्त्य विप्रश्चन्द्रक्षयेऽग्निमान्॥१३-१३४-७॥
+पिण्डानां मासिकश्राद्धमन्वाहार्यं विदुर्बुधाः ।
+तदामिषेण कुर्वीत प्रयतः प्राञ्जलिः शुचिः ॥'॥१३-१३४-८॥
+अमावास्यां तु निवपन्सर्वकामानवाप्नुयात्॥१३-१३४-१९॥
+अमावास्यां पौर्णमास्यां चतुर्दश्यां च जन्मनि ।
+अष्टम्यामथ द्वादश्यां ब्रह्मचारी सदा भवेत्॥१३-१६१-३०॥
+'अमावास्यामृते नित्यं दन्तधावनमाचरेत् ।
+इतिहासपुराणानि दानं वेदं च नित्यशः ।
+गायत्रीमननं नित्यं कुर्यात्सन्ध्यां समाहितः ॥'॥१३-१६१-४०॥
+नीलषण्डप्रमोक्षेण अमावास्यां तिलोदकैः ।
+वर्षासु दीपकैश्चैव पितॄणामनृणो भवेत्॥१३-१८८-७०॥
+अक्षयं निर्व्यलीकं च दानमेतन्महाफलम् ।
+अस्माकं परितोषश्च अक्षयः परिकीर्त्यते॥१३-१८८-७१॥
+अमावास्यां तु ये मर्त्याः प्रयच्छन्ति तिलोदकम् ।
+पात्रमौदुम्बरं गृह्य मधुमिश्रं तपोधन ।
+कृतं भवति तैः श्राद्धं सरहस्यं यथार्थवत्॥१३-१८८-७८॥
+हृष्टपुष्टमनास्तेषां प्रजा भवति नित्यदा ।
+कुलवंशस्य वृद्धिस्तु पिण्डदस्य फलं भवेत् ।
+श्रद्दधानस्तु यः कुर्यात्पितॄणामनृणो भवेत्॥१३-१८८-७९॥
+वनस्पतिं च यो हन्यादमावास्यामबुद्धिमान् ।
+अपि ह्येकेन पत्रेण लिप्यते ब्रह्महत्यया॥१३-१९०-३॥
+दन्तकाष्ठं तु यः खादेदमावास्यामबुद्धिमान् ।
+हिंसितश्चन्द्रमास्तेन पितरश्चोद्विजन्ति च॥१३-१९०-४॥
+हव्यं न तस्य देवाश्च प्रतिगृह्णन्ति पर्वसु ।
+कुप्यन्ते पितरश्चास्य कुले वंशोऽस्य हीयते॥१३-१९०-५॥
+अमावास्यां त्रयोदश्यां नवम्यां प्रतिपत्सु च ।
+तिथिष्वेतासु तुष्यन्ति दत्तेनेह पितामहाः॥१३-२३८-८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.61.34, 13.64.55, 13.134.6, 13.134.7, 13.134.8, 13.134.19, 13.161.30, 13.161.40, 13.188.70, 13.188.71, 13.188.78, 13.188.79, 13.190.3, 13.190.4, 13.190.5, 13.238.8",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "tithi"
+anga_number = 30
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on the new moon (somakṣaya) (MBh 13.61.34)\n- Observance: One night at Prabhāsa on amāvāsyā (MBh 13.64.55)\n- Observance: Monthly piṇḍānvāhāryaka śrāddha on amāvāsyā (MBh 13.134.6, 13.134.7, 13.134.8) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Śrāddha on amāvāsyā fulfils all desires (MBh 13.134.19)\n- Observance: Brahmacarya on tithi amāvāsyā (MBh 13.161.30)\n- Observance: No tooth-cleaning on amāvāsyā (MBh 13.161.40) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Tilodaka with honey in an udumbara vessel to pitṛs on amāvāsyā (MBh 13.188.70, 13.188.71, 13.188.78, 13.188.79) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Do not cut trees (even a leaf) on amāvāsyā (MBh 13.190.3) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Do not chew a tooth-stick on amāvāsyā (MBh 13.190.4, 13.190.5) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Śrāddha on tithi amāvāsyā pleases the pitṛs (MBh 13.238.8)"
+
+[names]
+sa = [ "महाभारते अमावास्या",]
