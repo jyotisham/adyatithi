@@ -1,6 +1,6 @@
 default_to_none = true
 id = "grahaNa-sAmAnya-niyamAH"
-references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 7.111.14; Śrīmad Bhāgavatam 10.70.1–2 (verse numbering of the skandha_N.json edition)", "Mahābhārata (Kumbhakonam recension) 3.81.192, 3.81.194, 3.81.195, 3.81.196, 14.110.27, 14.110.28, 14.110.29, 14.115.19, 14.115.20, 14.115.21, 14.115.53, 14.115.54",]
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 7.111.14; Śrīmad Bhāgavatam 10.70.1–2 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)", "Mahābhārata (Kumbhakonam recension) 3.81.192, 3.81.194, 3.81.195, 3.81.196, 14.110.27, 14.110.28, 14.110.29, 14.115.19, 14.115.20, 14.115.21, 14.115.53, 14.115.54",]
 shlokas = """
 गतानि तेन लोकेऽस्मिन् येन रामायणं श्रुतम्।
 हेमभारं कुरुक्षेत्रे ग्रस्ते भानौ प्रयच्छति॥७-१११-१४॥
