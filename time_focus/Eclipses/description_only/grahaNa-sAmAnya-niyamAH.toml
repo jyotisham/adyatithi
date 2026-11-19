@@ -1,5 +1,17 @@
 default_to_none = true
 id = "grahaNa-sAmAnya-niyamAH"
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 7.111.14; Śrīmad Bhāgavatam 10.70.1–2 (verse numbering of the skandha_N.json edition)",]
+shlokas = """
+गतानि तेन लोकेऽस्मिन् येन रामायणं श्रुतम्।
+हेमभारं कुरुक्षेत्रे ग्रस्ते भानौ प्रयच्छति॥७-१११-१४॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+श्रीशुक उवाच— अथैकदा द्वारवत्यां वसतो रामकृष्णयोः।
+सूर्योपरागः सुमहानासीत् कल्पक्षये यथा॥१०-७०-१॥
+तं ज्ञात्वा मनुजा राजन् पुरस्तादेव सर्वशः।
+स्यमन्तपञ्चकं क्षेत्रं जग्मुः श्रेयोविधित्सया॥१०-७०-२॥
+---श्रीमद्भागवते महापुराणे
++++(gift of gold at Kurukṣetra on a solar eclipse; pilgrimage to Syamantapañcaka at a solar eclipse)+++
+"""
 tags = [ "RareDays", "Eclipses",]
 jsonClass = "HinduCalendarEvent"
 

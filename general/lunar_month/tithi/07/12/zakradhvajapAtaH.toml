@@ -5,8 +5,13 @@ shlokas = """
 याज्ञवल्क्यः---
 त्वहोरात्रं शक्रपाते तथोच्छ्रये। [अनध्यायः]
 शक्रपातः --- आश्वयुक्छुक्लद्वादशी॥
+इन्द्रध्वज इवोद्धूतः पौर्णमास्यां महीतले।
+आश्वयुक्समये मासि गतश्रीको विचेतनः।
+बाष्पसंरुद्धकण्ठस्तु वाली चार्तस्वरः शनैः॥४-१६-३७॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
++++(In this Rāmāyaṇa simile Indra's banner is thrown down on the Āśvayuja pūrṇimā, not on dvādaśī)+++
 """
-references_primary = [ "Smriti Muktaphalam Part 1 (SVR), p. 150",]
+references_primary = [ "Smriti Muktaphalam Part 1 (SVR), p. 150", "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 4.16.37",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

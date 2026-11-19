@@ -1,0 +1,28 @@
+default_to_none = true
+id = "uttaraphalgunI~vivAha-prazastiH"
+tags = [ "Muhurta", "Ramayana", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+उत्तरे दिवसे ब्रह्मन् फल्गुनीभ्यां मनीषिणः।
+वैवाहिकं प्रशंसन्ति भगो यत्र प्रजापतिः॥१-७२-१३॥
+मघा ह्यद्य महाबाहो तृतीयदिवसे प्रभो।
+फल्गुन्यामुत्तरे राजंस्तस्मिन् वैवाहिकं कुरु।
+रामलक्ष्मणयोरर्थे दानं कार्यं सुखोदयम्॥१-७१-२४॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 1.71.24, 1.72.13",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 0
+anga_type = "nakshatra"
+anga_number = 12
+adhika_maasa_handling = "adhika_and_nija"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The wise commend a wedding on the latter Phalgunī (Uttara-phalgunī), presided over by Bhaga/Prajāpati — Janaka fixing the weddings of Rāma and his brothers."
+
+[names]
+sa = [ "उत्तरफल्गुनी — विवाहप्रशस्तिः",]

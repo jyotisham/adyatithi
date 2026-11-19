@@ -1,0 +1,33 @@
+default_to_none = true
+id = "ambarISa-dvAdazI-pAraNam~kArtikE"
+tags = [ "PuranaEvents", "Vratam", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+आरिराधयिषुः कृष्णं महिष्या तुल्यशीलया।
+युक्तः सांवत्सरं वीरो दधार द्वादशीव्रतम्॥९-६-१७॥
+व्रतान्ते कार्तिके मासि त्रिरात्रं समुपोषितः।
+स्नातः कदाचित् कालिन्द्यां हरिं मधुवनेऽर्चयत्॥९-६-१८॥
+मुहूर्तार्धावशिष्टायां द्वादश्यां पारणं प्रति।
+चिन्तयामास धर्मज्ञो द्विजैस्तद्धर्मसङ्कटे॥९-६-२६॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 9.6.17–18, 9.6.26 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+kaala = "प्रातः"
+window = "sunrise_to_sunset"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "Ambarīṣa concluded his year-long dvādaśī-vrata in Kārtika after a three-night fast, breaking it while half a muhūrta of dvādaśī remained. Pakṣa not stated."
+
+[names]
+sa = [ "अम्बरीषस्य द्वादशी-पारणम् (कार्तिके)",]

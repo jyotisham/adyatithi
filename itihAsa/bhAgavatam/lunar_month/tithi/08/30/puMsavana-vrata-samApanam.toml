@@ -1,0 +1,26 @@
+default_to_none = true
+id = "puMsavana-vrata-samApanam"
+tags = [ "VratamEnd", "SpecialPeriodEnd", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+एतेन पूजाविधिना मासान् द्वादश हायनम्।
+नीत्वा चोपरमेत् साध्वी कार्तिके चरमेऽहनि॥६-१९-२१॥
+श्वो भूतेऽप उपस्पृश्य कृष्णमभ्यर्च्य पूर्ववत्। पयःशृृतेन जुहुयाच्चरुणा सह सर्पिषा।
+पाकयज्ञविधानेन द्वादशैवाहुतीः पतिः॥६-१९-२२॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 6.19.21–22 (verse numbering of the skandha_N.json edition)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 30
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The Puṃsavana vrata ends on the last day of Kārtika (amāvāsyā, amānta); the concluding homa is offered the next morning."
+
+[names]
+sa = [ "पुंसवनव्रत-समापनम्",]

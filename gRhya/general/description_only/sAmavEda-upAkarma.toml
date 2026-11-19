@@ -1,5 +1,12 @@
 default_to_none = true
 id = "sAmavEda-upAkarma"
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 4.28.54",]
+shlokas = """
+मासि प्रौष्ठपदे ब्रह्म ब्राह्मणानां विवक्षताम्।
+अयमध्यायसमयः सामगानामुपस्थितः॥४-२८-५४॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
++++(Rāmāyaṇa: the adhyāya (upākarma) season of the Sāmagas falls in Prauṣṭhapada)+++
+"""
 tags = [ "CommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
