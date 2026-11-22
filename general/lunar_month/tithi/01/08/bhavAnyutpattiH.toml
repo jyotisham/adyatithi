@@ -1,8 +1,19 @@
 default_to_none = true
 id = "bhavAnyutpattiH"
 tags = [ "CommonFestivals",]
+references_primary = [ "Nirnaya Sindhu (Chaitra; page not recorded)",]
 references_secondary = [ "Kielhorn (1897)",]
 jsonClass = "HinduCalendarEvent"
+shlokas = """
+निर्णयसिन्धौ---
+तत्र नवमीयुता ग्राह्या।
+ब्रह्मवैवर्ते---
+अष्टमी नवमीयुक्ता नवमी चाष्टमीयुता।
+
+काशीखण्डे---
+भवानीं यस्तु पश्येत शुक्लाष्टम्यां मधौ नरः।
+न जातु शोकं लभते सदानन्दमयो भवेत्॥
+"""
 
 [timing]
 default_to_none = true
