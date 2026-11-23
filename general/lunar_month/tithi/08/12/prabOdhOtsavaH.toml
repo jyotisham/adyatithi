@@ -1,7 +1,7 @@
 default_to_none = true
 id = "prabOdhOtsavaH"
 tags = [ "CommonFestivals",]
-references_primary = [ "Tithitattva (via Shabdakalpadruma)", "Vrataraja"]
+references_primary = [ "Vrataraja",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 अथ कार्तिकशुक्लैकादश्यां प्रबोधविधिः॥
@@ -48,11 +48,6 @@ shlokas = """
 अहं ददानीति च पुण्यहेतोर्ज्जागृष्व जागृष्व च लोकानाथ॥
 उत्तिष्ठोत्तिष्ठ गोविन्द त्यज निद्रां जगत्पते।
 त्वया चोत्थीयमानेन उत्थितं भुवनत्रयम्॥
-(Quoted in the Śabdakalpadruma from Tithitattva, as printed there; लोकानाथ is unmetrical and should be checked against Tithitattva.)
-
-उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज।
-उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु॥
-(Veṅkaṭeśa-suprabhāta v. 2, used in current practice as a prabodhana prārthanā. No Purāṇa or nibandha prescribing it for this day was found.)
 """
 
 [timing]
