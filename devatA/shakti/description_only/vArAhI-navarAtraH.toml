@@ -1,6 +1,6 @@
 default_to_none = true
 id = "vArAhI-navarAtraH"
-tags = [ "Navaratri", "SpecialPeriod",]
+tags = [ "Navaratri", "SpecialPeriod", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 वन्दे वाराहवक्त्रां वरमणिमकुटां विद्रुमश्रोत्रभूषाम्

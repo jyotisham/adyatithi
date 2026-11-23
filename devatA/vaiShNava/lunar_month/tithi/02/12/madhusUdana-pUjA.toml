@@ -1,6 +1,6 @@
 default_to_none = true
 id = "madhusUdana-pUjA"
-tags = [ "SpecialVratam",]
+tags = [ "SpecialVratam", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 वैशाखमासि द्वादश्यां पूजयेन्मधुसूदनम्।

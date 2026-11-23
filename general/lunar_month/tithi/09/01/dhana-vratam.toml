@@ -1,6 +1,6 @@
 default_to_none = true
 id = "dhana-vratam"
-tags = [ "SpecialVratam",]
+tags = [ "SpecialVratam", "LessCommonFestivals",]
 shlokas = """
 अथ मार्गसिताद्यायां धनव्रतमनुत्तमम्।
 नक्तं विष्ण्वर्चनं होमैः सौवर्णीं हुतभुक्तनुम्॥३८॥

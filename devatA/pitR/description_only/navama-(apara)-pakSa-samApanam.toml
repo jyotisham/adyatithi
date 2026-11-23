@@ -1,6 +1,6 @@
 default_to_none = true
 id = "navama-(apara)-pakSa-samApanam"
-tags = [ "SpecialPeriodStart",]
+tags = [ "SpecialPeriodStart", "LessCommonFestivals",]
 references_primary = [ "Smriti Muktaphalam Shraddha Kanda Uttarabhaga",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """

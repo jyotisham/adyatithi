@@ -1,6 +1,6 @@
 default_to_none = true
 id = "puraTTAci~can2ikkizhamai"
-tags = [ "MonthWeekdayFestivals",]
+tags = [ "MonthWeekdayFestivals", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

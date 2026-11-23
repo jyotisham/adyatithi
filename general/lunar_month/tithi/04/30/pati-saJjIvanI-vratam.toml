@@ -1,6 +1,6 @@
 default_to_none = true
 id = "pati-saJjIvanI-vratam"
-tags = [ "SpecialVratam",]
+tags = [ "SpecialVratam", "LessCommonFestivals",]
 references_primary = [ "Skanda Puranam",]
 references_secondary = [ "https://hindupad.com/pathi-sanjeevani-vrata/",]
 jsonClass = "HinduCalendarEvent"

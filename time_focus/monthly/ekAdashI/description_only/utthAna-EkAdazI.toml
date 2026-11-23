@@ -51,7 +51,7 @@ shlokas = """पक्षे पक्षे च कर्तव्यमेक�
 जागृष्व जागृष्व च लोकनाथ॥
 उत्तिष्ठोत्तिष्ठ गोविन्द त्यज्य निद्रां जगत्पते।
 त्वया चोत्थीयमानेन उत्थितं भुवनत्रयम्॥"""
-tags = [ "MonthlyVratam", "EkadashiVratam",]
+tags = [ "MonthlyVratam", "EkadashiVratam", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,5 +1,6 @@
 default_to_none = true
 id = "pUrNamAseShTiH"
+tags = [ "MonthlyFestivals",]
 references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 1.53.24; Śrīmad Bhāgavatam 11.18.8 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
 shlokas = """
 दर्शश्च पौर्णमासश्च यज्ञाश्चैवाप्तदक्षिणाः।
@@ -9,7 +10,6 @@ shlokas = """
 चातुर्मास्यानि च मुनेराम्नातानि च नैगमैः॥११-१८-८॥
 ---श्रीमद्भागवते महापुराणे
 """
-tags = [ "MonthlyFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

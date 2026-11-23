@@ -1,6 +1,6 @@
 default_to_none = true
 id = "jayA-vratam"
-tags = [ "SpecialVratam",]
+tags = [ "SpecialVratam", "LessCommonFestivals",]
 shlokas = """
 कार्तिके शुक्कपञ्चम्यां जयाव्रतमनुत्तमम्।
 कर्तव्यं पापनाशाय श्रद्धया द्विजसत्तम॥५३॥

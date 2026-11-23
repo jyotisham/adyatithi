@@ -1,6 +1,6 @@
 default_to_none = true
 id = "darbha-saGgrahaH_ArtavaH_11"
-tags = [ "SpecialDays",]
+tags = [ "SpecialDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

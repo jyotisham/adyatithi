@@ -8,7 +8,7 @@ shlokas = """
 तदा पूर्वतिथौ रात्रौ नाधीयीतेति निश्चयः॥
 """
 references_primary = ["Smriti Muktaphalam SVR p.  148"]
-tags = ["Anadhyayana Days"]
+tags = [ "AnadhyayanaDays", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

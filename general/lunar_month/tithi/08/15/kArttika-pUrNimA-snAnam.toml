@@ -1,7 +1,7 @@
 default_to_none = true
 id = "kArttika-pUrNimA-snAnam"
 tags = [ "SpecialSnanam",]
-references_primary = [ "Satyavrata Smriti", "Mahābhārata (Kumbhakonam recension) 3.80.32, 3.80.37, 3.80.115",]
+references_primary = [ "Satyavrata Smriti", "Mahābhārata (Kumbhakonam recension)",]
 references_secondary = [ "Vrata Nirnaya Kalpavalli",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
@@ -19,7 +19,7 @@ shlokas = """
 सरस्वत्यां महाराज शतं संवत्सरं च ते ।
 दृश्यन्ते भरतश्रेष्ठ वृत्तां वै कार्तिकीं सदा॥३-८०-११५॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
-+++(Mahābhārata: Puṣkara on the Kārttikī; bathing at Śaśayāna on the Sarasvatī when the Kārttikī comes)+++
+(Mahābhārata: Puṣkara on the Kārttikī; bathing at Śaśayāna on the Sarasvatī when the Kārttikī comes)
 """
 
 [timing]

@@ -1,6 +1,6 @@
 default_to_none = true
 id = "mArgazIrSa-mAsa-ArambhaH"
-tags = [ "SpecialDays", "SpecialPeriodStart",]
+tags = [ "SpecialDays", "SpecialPeriodStart", "LessCommonFestivals",]
 shlokas = """
 मार्गशीर्षकृत्यं भारते---
 मार्गशीर्षं तु यो मासमेकभक्तेन सङ्क्षिपेत्।

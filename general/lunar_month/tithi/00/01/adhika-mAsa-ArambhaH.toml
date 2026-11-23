@@ -34,7 +34,7 @@ shlokas = """
 पुत्रपौत्राभिवृद्ध्यर्थं तव दास्यामि भास्कर॥
 ---स्मृतिकौस्तुभम्
 """
-tags = [ "SpecialFestivals", "SpecialPeriodStart",]
+tags = [ "SpecialFestivals", "SpecialPeriodStart", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

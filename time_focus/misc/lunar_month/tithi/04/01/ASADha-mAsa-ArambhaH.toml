@@ -1,6 +1,6 @@
 default_to_none = true
 id = "ASADha-mAsa-ArambhaH"
-tags = [ "SpecialDays", "SpecialPeriodStart",]
+tags = [ "SpecialDays", "SpecialPeriodStart", "LessCommonFestivals",]
 shlokas = """
 आषाढकृत्यं महाभारते---
 आषाढमेकभक्तेन स्थित्त्वा मासमतन्द्रितः।

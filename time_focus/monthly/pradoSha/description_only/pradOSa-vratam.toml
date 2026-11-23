@@ -25,7 +25,7 @@ shlokas = """
 प्रदोषव्रतानुष्ठानमिति सिद्धमिति विभावनीयमिति दिक्। 
 """
 # Second shloka is from https://archive.org/stream/siva-rahasyam-amsa-11-series-no.-522-thanjavur-sarasvati-mahal-series/Siva%20Rahasyam%20Amsa%2011%20Series%20No.%20522-%20Thanjavur%20Sarasvati%20Mahal%20Series_djvu.txt
-tags = [ "MonthlyVratam", "PradoshaVratam",]
+tags = [ "MonthlyVratam", "PradoshaVratam", "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

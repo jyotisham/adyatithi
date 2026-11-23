@@ -1,6 +1,6 @@
 default_to_none = true
 id = "bhAdrapada-mAsaH"
-tags = [ "SpecialDays", "SpecialPeriod",]
+tags = [ "SpecialDays", "SpecialPeriod", "LessCommonFestivals",]
 shlokas = """
 भाद्रपदकृत्यं महाभारते---
 प्रौष्ठपद्ये तु यो मासे एकाहारो भवेन्नरः।

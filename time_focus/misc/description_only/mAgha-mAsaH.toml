@@ -1,6 +1,6 @@
 default_to_none = true
 id = "mAgha-mAsaH"
-tags = [ "SpecialDays", "SpecialPeriod",]
+tags = [ "SpecialDays", "SpecialPeriod", "LessCommonFestivals",]
 shlokas = """
 देवैस्तेजः परिक्षिप्तं माघमासे स्वकं जले।
 तस्माज्जलं माघमासे पावनं हि विशेषतः॥
