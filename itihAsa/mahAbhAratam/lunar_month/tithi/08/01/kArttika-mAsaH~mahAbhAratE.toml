@@ -1,0 +1,35 @@
+default_to_none = true
+id = "kArttika-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+कार्तिकं तु नरो मासं यः कुर्यादेकभोजनम् ।
+शूरश्च बहुभार्यश्च कीर्तिमांश्चैव जायते॥१३-१६३-२९॥
+न शक्नुयादपि तथा कौमुदीमासमेव च ।
+जन्मनक्षत्रतिथिषु सदा पर्वसु रात्रिषु ।
+वर्जनीयं तथा मांसं परत्र हितमिच्छता॥१३-२३३-१४॥
+कार्तिकाद्यास्तु ये मासा द्वादशैव प्रकीर्तिताः ।
+तेष्वेकबुक्तनियमः सर्वेषामुच्यते मया॥१४-११३-४॥
+कार्तिके यस्तु वै मासे नन्दायां संयतेन्द्रियः ।
+एकभुक्तेन मद्भक्तो मासमेकं तु वर्तते॥१४-११३-५॥
+जलं वा न पिबेन्मासे नान्तरं भोजनात्परम् ।
+आदित्यरूपं मां नित्यमर्चयन्सुसमाहितः॥१४-११३-६॥
+व्रतान्ते भोजयेद्विप्रान्दक्षिणां सम्प्रदाय च ।
+क्रोधलोभविनिर्मुक्तस्तस्य पुण्यफलं शृणु॥१४-११३-७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.29, 13.233.14, 14.113.4, 14.113.5, 14.113.6, 14.113.7",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of kArttika (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of kārtika (MBh 13.163.29)\n- Observance: Abstain from meat in the Kaumudī month (MBh 13.233.14)\n- Observance: Ekabhakta through the month of kārtika (MBh 14.113.4, 14.113.5, 14.113.6, 14.113.7)"
+
+[names]
+sa = [ "महाभारतोक्ताः कार्त्तिक-मास-नियमाः",]

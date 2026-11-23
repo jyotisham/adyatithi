@@ -1,0 +1,24 @@
+default_to_none = true
+id = "payOvrata-pUrva-snAnam~sinIvAlI"
+tags = [ "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+सिनीवाल्यां मृदालिप्य स्नायात् क्रोडविदीर्णया।
+यदि लभ्येत वै स्रोतस्येतं मन्त्रमुदीरयेत्॥८-१५-२६॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 8.15.26 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 30
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On the sinīvālī (amāvāsyā) preceding the Phālguna śukla Payovrata, bathe after smearing with earth dug by a boar — preparation for `aditi-payOvrata-ArambhaH`."
+
+[names]
+sa = [ "पयोव्रत-पूर्वस्नानम् (सिनीवाली)",]

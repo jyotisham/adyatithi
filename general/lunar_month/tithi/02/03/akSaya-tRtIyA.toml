@@ -86,8 +86,25 @@ shlokas = """
 अस्यां जपहोमादिकृत्येऽपि वक्ष्यमाणयुगादिवन्निर्णयः॥
 ...
 देवा विभक्तदिनपूर्वार्दैकदेशव्यापिना दिनये चेत्त्रिमुहाधिकव्याप्तिसत्त्वे परा॥ त्रिमुहूर्तन्यूनत्वे पूर्वा॥
+
+धर्मघटदानम्---
+प्रत्यहं धर्मघटकः कर्पटावेष्टिताननः।
+ब्राह्मणस्य गृहे नेयः शीतामलजलः शुचिः॥१८॥
+...
+एष धर्मघटो दत्तो ब्रह्मविष्णुशिवात्मकः।
+अस्य प्रदानात्सफला मम संतु मनोरथाः॥
+---भविष्यपुराणे उत्तरपर्वणि १७२.१८-२१
++++(The chapter places the daily dharmaghaTa with the prapA begun in caitra, not on this tithi alone. Some sources give a second form ending तृप्यन्तु पितरोऽपि पितामहाः, whose second half is from the prapA verse in the same chapter, 172.9-10.)+++
+
+धर्म त्वं घटरूपेण ब्रह्मणा निर्मितः पुरा।
+त्वयि दत्तेऽक्षया लोका मम सन्तु निरामयाः॥
+यथा त्वं शीतलो नित्यं संपूर्णः शीतवारिणा।
+तथा मां सुरशार्दूल शीतलं कुरु धर्मराट्॥
+पानीयं प्राणिनां प्राणाः पानीयं पावनं महत्।
+पानीयस्य प्रदानेन तृप्तिर्भवतु शाश्वती॥
++++(Given in the Śabdakalpadruma s.v. dharmaghaTa as part of a vrata procedure. No Purāṇa is named there.)+++
 """
-references_primary = [ "Smriti Kaustubha p.109-110"]
+references_primary = [ "Smriti Kaustubha p.109-110", "Bhavishya Puranam, Uttara Parva, Adhyaya 172.18-21",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

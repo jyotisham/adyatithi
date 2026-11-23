@@ -1,0 +1,54 @@
+default_to_none = true
+id = "manasA-pUjA"
+tags = [ "SpecialPuja",]
+references_primary = [ "Devi Puranam and Padma Puranam (as quoted in Shabdakalpadruma s.v. nAgapaJcamI)", "Brahmavaivarta Puranam, Prakriti Khanda, Adhyaya 45.15-17",]
+shlokas = """
+देवीपुराणे---
+सुप्ते जनार्द्दने कृष्णे पञ्चम्यां भवनाङ्गने।
+पूजयेन्मनसादेवीं स्नुहीविटपसंस्थिताम्॥
+पद्मनाभे गते शय्यां देवैः सर्व्वैरनन्तरम्।
+पञ्चम्यामसिते पक्षे समुत्तिष्ठति पन्नगी॥
+देवीं सम्पूज्य नत्वा च न सर्पभयमाप्नुयात्।
+पञ्चम्यां पूजयेन्नागाननन्ताद्यान् महोरगान्॥
+क्षीरं सर्पिस्तु नैवेद्यं देयं सर्पविषापहम्॥
++++(As quoted in the Śabdakalpadruma, which gives this pañcamī as आषाढी कृष्णा पञ्चमी.)+++
+
+मनसाध्यानम्, पद्मपुराणे---
+देवीमम्बामहीनां शशधरवदनां चारुकान्तिं वदान्यां
+हंसारूढामुदारामरुणितवसनां सर्व्वदां सर्व्वदैव।
+स्मेरास्यां मण्डिताङ्गीं कनकमणिगणैर्नागरत्नैरनेकै-
+र्वन्देऽहं साष्टनागामुरुकुचयुगलां भोगिनीं कामरूपाम्॥
+
+पुराणान्तरे---
+अनन्तो वासुकिः पद्मो महापद्मोऽथ तक्षकः।
+कुलीरः कर्कटः शङ्खो ह्यष्टौ नागाः प्रकीर्त्तिताः॥
++++(Also quoted in the Vācaspatya from Tithitattva. Some copies read कुलिकः. Some sources attribute it to Matsya Purāṇa.)+++
+योऽसौ चानन्तरूपेण ब्रह्माण्डं सचराचरम्।
+पुष्पवद्धारयेन्मूर्ध्नि तस्मै नित्यं नमो नमः॥
++++(Source not traced; current in various sources.)+++
+
+ब्रह्मवैवर्ते प्रकृतिखण्डे---
+ॐ नमो मनसायै।
+जरत्कारुर्जगद्गौरी मनसा सिद्धयोगिनी।
+वैष्णवी नागभगिनी शैवी नागेश्वरी तथा॥१५॥
+जरत्कारुप्रियाऽऽस्तीकमाता विषहरीति च।
+महाज्ञानयुता चैव सा देवी विश्वपूजिता॥१६॥
+द्वादशैतानि नामानि पूजाकाले च यः पठेत्।
+तस्य नागभयं नस्ति तस्य वंशोद्भवस्य च॥१७॥
++++(Also Devībhāgavata 9.47.51 ff. नस्ति as printed on Wikisource.)+++
+"""
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+anga_type = "tithi"
+anga_number = 20
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Worship of manasA devI on the kRSNa paJcamI after hari-zayana, with the eight nAgas. Offer milk and ghee."
+
+[names]
+sa = [ "मनसापूजा",]

@@ -1,0 +1,36 @@
+default_to_none = true
+id = "Azvayuja-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+द्वादश्यामाश्विने मासि पद्मनाभेति चार्चयन् ।
+गोसहस्रफलं पुण्यं प्राप्नुयान्नात्र संशयः॥१३-१७१-१३॥
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+भीष्म उवाच
+शृणु राजन्यथा गीतं स्वयमेव स्वयम्भुवा ।
+यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥१३-१७१-२॥
+द्वादश्यामाश्वयुङ्मासे पद्मनाभमुपोष्य माम् ।
+अर्चयेद्यः समाप्नोति गोसहस्रफलं नृप॥१४-११४-२७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.13, 13.171.1, 13.171.2, 14.114.27",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Padmanābha in āśvayuja (MBh 13.171.13, 13.171.1, 13.171.2) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in āśvayuja, worship Viṣṇu as Padmanābha (MBh 14.114.27)"
+
+[names]
+sa = [ "महाभारतोक्ताः आश्वयुज-द्वादशी-नियमाः",]

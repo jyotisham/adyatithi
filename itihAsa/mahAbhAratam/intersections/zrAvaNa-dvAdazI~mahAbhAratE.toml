@@ -1,0 +1,38 @@
+default_to_none = true
+id = "zrAvaNa-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अहोरात्रेण द्वादश्यां श्रावणे मासि श्रीधरम् ।
+पञ्चयज्ञानवाप्नोति विमानस्थश्च मोदते॥१३-१७१-११॥
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+भीष्म उवाच
+शृणु राजन्यथा गीतं स्वयमेव स्वयम्भुवा ।
+यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥१३-१७१-२॥
+द्वादश्यां श्रावणे मासि श्रीधराख्यमुपोष्य माम् ।
+पूजयेद्य समाप्नोति पञ्चयज्ञफलं नृप॥१४-११४-२५॥
+श्रावणेऽप्येवमेवं मामर्चयेद्भक्तिमान्नरः ।
+मम सालोक्यमाप्नोति नात्र कार्या विचारणा॥१४-११४-३०॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.11, 13.171.1, 13.171.2, 14.114.25, 14.114.30",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Śrīdhara in śrāvaṇa (MBh 13.171.11, 13.171.1, 13.171.2) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in śrāvaṇa, worship Viṣṇu as Śrīdhara (MBh 14.114.25)\n- Observance: Śrāvaṇa dvādaśī: worship Viṣṇu likewise (MBh 14.114.30)"
+
+[names]
+sa = [ "महाभारतोक्ताः श्रावण-द्वादशी-नियमाः",]

@@ -1,0 +1,34 @@
+default_to_none = true
+id = "zrAvaNa-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+श्रावणं नियतो मासमेकभक्तेन यः क्षिपेत् ।
+रूपद्रविणसम्पन्नः सुखी भवति नित्यशः ।
+बहुभार्यो बहुधनो बहुपुत्रश्च जायते॥१३-१६३-२६॥
+श्रावणं यः क्षिपेन्मासमेकभुक्तेन वर्तते ।
+नमो ब्रह्मण्यदेवायेत्युक्त्वा मामर्चयेत्सदा ।
+विप्रमाग्रासने कृत्वा भूमौ भुञ्जन्यथाविधि॥१४-११३-४२॥
+पायसेनार्चयन्विप्राञ्जितक्रोधो जितेन्द्रियः ।
+लोभमोहविनिर्मुक्तस्तस्य पुण्यफलं शृणु॥१४-११३-४३॥
+कपिलादानस्य यत्पुण्यं विधिदत्तस्य पाण्डव ।
+तत्पुण्यं समनुप्राप्य शक्रलोके महीयते॥१४-११३-४४॥
+ततश्चापि च्युत कालात्कुशद्वीपे प्रजायते ।
+तत्र प्रकामं क्रीडित्वा विप्रो भवति मानुषे॥१४-११३-४५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.26, 14.113.42, 14.113.43, 14.113.44, 14.113.45",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of zrAvaNa (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of śrāvaṇa (MBh 13.163.26)\n- Observance: Ekabhakta through the month of śrāvaṇa (MBh 14.113.42, 14.113.43, 14.113.44, 14.113.45)"
+
+[names]
+sa = [ "महाभारतोक्ताः श्रावण-मास-नियमाः",]

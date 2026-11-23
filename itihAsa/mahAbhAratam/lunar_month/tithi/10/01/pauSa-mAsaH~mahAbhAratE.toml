@@ -1,0 +1,40 @@
+default_to_none = true
+id = "pauSa-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पौषमासं तु कौन्तेय भक्तेनैकेन यः क्षिपेत् ।
+सुभगो दर्शनीयश्च यशोभागी च जायते॥१३-१६३-१९॥
+चत्वरे वा सभायां वा विस्तीर्णे वा सभाङ्गणे ।
+कृत्वाऽग्निकुण्डं विपुलं स्थण्डिलं वा युधिष्ठिर॥१४-१०३-५२॥
+तत्राग्निं चतुरो मासाञ्ज्वालयेद्यस्तु भक्तिमाम् ।
+समाप्तेषु च मासेषु पौष्यादिषु ततो द्विजान्॥१४-१०३-५३॥
+भोजयेत्पायसं मृष्टं मद्गतेनान्तरात्मना ।
+दक्षिणां च यथाशक्ति ब्राह्मणेभ्यो निवेदयत्॥१४-१०३-५४॥
+एवमग्निं तु यः कुर्यान्नित्यमेवार्चयेत्तु माम् ।
+तस्य पुण्यफलं यद्वै तन्निबोध युधिष्ठिर॥१४-१०३-५५॥
+पौषमासं क्षिपेदेवमेकभुक्तेन यो नरः ।
+अर्चयन्नेव मां नित्यं मद्गतेनान्तरात्मना॥१४-११३-१४॥
+अहिंसासत्यसहितः क्रोधहर्षविवर्जितः ।
+एवं युक्तस्य राजेन्द्र शृणु यत्फलमुत्तमम्॥१४-११३-१५॥
+विप्रातिथ्यसहस्रेषु यत्पुण्यं समुदाहृतम् ।
+तत्पुण्यं समनुप्राप्य शक्रलोके महीयते॥१४-११३-१६॥
+अवतीर्णस्ततः कालादिलावर्षेषु जायते ।
+तत्र स्थित्वा चिरं कालमस्मिन्विप्रो भविष्यति॥१४-११३-१७॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.19, 14.103.52, 14.103.53, 14.103.54, 14.103.55, 14.113.14, 14.113.15, 14.113.16, 14.113.17",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of pauSa (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of pauṣa (MBh 13.163.19)\n- Observance: Keep a public fire burning for four months from Pauṣa, then feed brāhmaṇas pāyasa (MBh 14.103.52, 14.103.53, 14.103.54, 14.103.55)\n- Observance: Ekabhakta through the month of pauṣa (MBh 14.113.14, 14.113.15, 14.113.16, 14.113.17)"
+
+[names]
+sa = [ "महाभारतोक्ताः पौष-मास-नियमाः",]

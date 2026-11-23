@@ -1,0 +1,31 @@
+default_to_none = true
+id = "mArgazIrSa-mUla~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+अङ्गानां रूपसौभाग्यं प्रियं चैव कथं भवेत् ।
+धर्मार्थकामसंयुक्तः सुखभागी कथं भवेत्॥१३-१७२-२॥
+भीष्म उवाच
+मार्गशीर्षस्य मासस्य चन्द्रे मूलेन संयुते ।
+पादौ मूलेन राजेन्द्र जङ्घायामथ रोहिणीम्॥१३-१७२-३॥
+अश्विन्यां सक्थिनी चैव ऊरू चाषाढयोस्तथा ।
+गुह्यं तु फाल्गुनी विद्यात्कृत्तिका कटिकास्तथा॥१३-१७२-४॥
+नाभिं भाद्रपदे विद्याद्रेवत्यामक्षिमण्डलम् ।
+पृष्ठमेव धनिष्ठासु अनुराधोत्तरास्तथा॥१३-१७२-५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.172.2, 13.172.3, 13.172.4, 13.172.5",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+anga_type = "nakshatra"
+anga_number = 19
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Nakṣatra-aṅga (rūpa-saubhāgya) vrata begun in Mārgaśīrṣa with Moon in Mūla (MBh 13.172.2, 13.172.3, 13.172.4, 13.172.5) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "नक्षत्राङ्ग-व्रत-आरम्भः (मार्गशीर्षे मूले)",]

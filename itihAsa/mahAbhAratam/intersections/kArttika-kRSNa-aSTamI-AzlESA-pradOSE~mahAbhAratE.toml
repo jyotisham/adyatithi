@@ -1,0 +1,39 @@
+default_to_none = true
+id = "kArttika-kRSNa-aSTamI-AzlESA-pradOSE~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+दिग्गजा ऊचुः
+कार्तिके मासि चाश्लेषा बहुलस्याष्टमी शिवा ।
+तेन नक्षत्रयोगेन यो ददाति गुडौदनम् ।
+इमं मन्त्रं जपञ्छ्राद्धे यताहारो ह्यकोपनः॥१३-१९५-७॥
+बलदेवप्रभृतयो ये नागा बलवत्तराः ।
+अनन्ता ह्यक्षया नित्यं भोगिनः सुमहाबलाः॥१३-१९५-८॥
+तेषां कुलोद्भवा ये च महाभूता भुजङ्गमाः ।
+ते मे बलिं प्रयच्छन्तु बलतेजोभिवृद्धये॥१३-१९५-९॥
+एवमुक्त्वा बलिं तत्र वल्मीके तु निवेदयेत्॥१३-१९५-११॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.195.7, 13.195.8, 13.195.9, 13.195.11",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+kaala = "प्रदोषः"
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 23,]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 9
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Kārtika kṛṣṇa-aṣṭamī with Āśleṣā: guḍa-odana and nāga bali at an anthill after sunset (MBh 13.195.7, 13.195.8, 13.195.9, 13.195.11) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "नाग-बलिः (कार्त्तिक-कृष्णाष्टम्याम् आश्लेषायाम्)",]

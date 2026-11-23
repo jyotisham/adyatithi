@@ -1,0 +1,33 @@
+default_to_none = true
+id = "kArttika-pUrNimA-prAtaH~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+धृतराष्ट्रो महाराजो वनवासाय दीक्षितः ।
+गमिष्यति वनं राजन्नागतां कार्तिकीमिमाम्॥१५-१२-३॥
+स त्वां कुरुकुलश्रेष्ठ किञ्चिदर्थमभीप्सति ।
+श्राद्धमिच्छति दातुं स गाङ्गेयस्य महात्मनः॥१५-१२-४॥
+द्रोणस्य सोमदत्तस्य बाह्लीकस्य च धीमतः ।
+पुत्राणां चैव सर्वेषां ये चान्ये सुहृदो हताः ।
+यदि चाप्यनुजानीषे सैन्धवापशदस्य च॥१५-१२-५॥
+वैशम्पायन उवाच ।
+ततः प्रभाते राजा स धृतराष्ट्रोऽम्बिकासुतः ।
+आनाय्य पाण्डवान्वीरान्वनवासे कृतक्षणः॥१५-१६-१॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 15.12.3, 15.12.4, 15.12.5, 15.16.1",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 15
+kaala = "प्रातः"
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Dhṛtarāṣṭra departs for the forest on Kārtikī (full moon) after an iṣṭi (MBh 15.12.3, 15.12.4, 15.12.5, 15.16.1)"
+
+[names]
+sa = [ "धृतराष्ट्रस्य वनप्रस्थानम्",]

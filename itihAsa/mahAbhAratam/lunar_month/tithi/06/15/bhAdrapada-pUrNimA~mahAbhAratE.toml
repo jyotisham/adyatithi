@@ -1,0 +1,24 @@
+default_to_none = true
+id = "bhAdrapada-pUrNimA~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तस्मा आङ्गिरसः कश्चिद्ददौ गां शर्करीं शुभाम् ।
+वर्षासु पश्चिमे मासि पौर्णमास्यां शुचिव्रतः॥१३-१२०-१२॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.120.12",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: An Āṅgirasa gives the cow Śarkarī to Sumitra on the full moon of the last rainy month (MBh 13.120.12)"
+
+[names]
+sa = [ "प्रौष्ठपदी — शर्करी-गोदानम्",]

@@ -1,7 +1,7 @@
 default_to_none = true
 id = "brahmaputrasnAnam"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "Krtyasarasamucchaya p. 3",]
+references_primary = [ "Krtyasarasamucchaya p. 3", "Nirnaya Sindhu (Chaitra; page not recorded)",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 स्कान्दे---
@@ -12,6 +12,11 @@ shlokas = """
 ॐ ब्रह्मपुत्र महाभाग शन्तनोः कुलसम्भव।
 अमोघागर्भसम्भत पापं लौहित्य मे हर॥
 इति पठित्वा स्नायात्।
+
+निर्णयसिन्धौ तिथितत्त्वे कालिकापुराणे---
+चैत्रं तु सकलं मासं शुचिः प्रयतमानसः।
+लौहित्यतोये यः स्नायात्स कैवल्यमवाप्नुयात्॥
++++(Nirnaya Sindhu gives the first verse above also from Kalika Purana, via Tithitattva, not Skanda.)+++
 """
 
 [timing]

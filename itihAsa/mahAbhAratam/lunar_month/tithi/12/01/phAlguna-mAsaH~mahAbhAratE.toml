@@ -1,0 +1,33 @@
+default_to_none = true
+id = "phAlguna-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+भगदैवतमासं तु एकभक्तेन यः क्षिपेत् ।
+'सुभगो दर्शनीयश्च यशोभागी च जायते ।'
+स्त्रीषु वल्लभतां याति वश्याश्चास्य भवन्ति ताः॥१३-१६३-२१॥
+यश्चरेत्फाल्गुनं मासमेकभुक्तो जितेन्द्रियः ।
+नमो ब्रह्मण्यदेवायेत्येतन्मन्त्रं जपेत्सदा॥१४-११३-२२॥
+पायसं भोजयेद्विप्रान्व्रतान्ते संयतेन्द्रियः ।
+मदर्चनपरोऽक्रोधस्तस्य पुण्यफलं शृणु॥१४-११३-२३॥
+विमानं सारसैर्युक्तमारूढः कामगामि च ।
+नक्षत्रलोके रमते नक्षत्रसदृशाकृतिः॥१४-११३-२४॥
+ततश्चापि च्युतः कालात्केतुमालेषु जायते ।
+तत्र प्रकामं क्रीडित्वा मानुषेषु मुनिर्भवेत्॥१४-११३-२५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.21, 14.113.22, 14.113.23, 14.113.24, 14.113.25",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of phAlguna (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of phālguna (MBh 13.163.21)\n- Observance: Ekabhakta through the month of phālguna (MBh 14.113.22, 14.113.23, 14.113.24, 14.113.25)"
+
+[names]
+sa = [ "महाभारतोक्ताः फाल्गुन-मास-नियमाः",]

@@ -1,0 +1,28 @@
+default_to_none = true
+id = "zrEyaH-kAlAH~saptama-skandhE"
+tags = [ "RareDays", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+कुर्यादपरपक्षीयं मासि प्रोष्ठपदे द्विजः।
+श्राद्धं पित्रोर्यथावित्तं तद्बन्धूनां च वित्तवान्॥७-१४-२०॥
+अयने विषुवे कुह्वां व्यतीपाते दिनक्षये।
+चन्द्रादित्योपरागे च द्वादश्यां श्रवणेषु च॥७-१४-२१॥
+तृतीयायां शुक्लपक्षे नवम्यामथ कार्तिके।
+चतसृष्वप्यष्टकासु हेमन्ते शिशिरे तथा॥७-१४-२२॥
+माघे च सितसप्तम्यां मघाराकासमागमे।
+राकया वाऽनुमत्या वा मासर्क्षाणि युतान्यपि॥७-१४-२३॥
+द्वादश्यामनुराधा स्यात् श्रवणस्तिस्र उत्तराः।
+तिसृष्वेकादशी चासु जन्मर्क्षं सौम्ययोगयुक्॥७-१४-२४॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 7.14.20–24 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
+
+[timing]
+default_to_none = true
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Times declared most auspicious for snāna, japa, homa, vrata, worship of gods and pitṛs, and dāna: ayana, viṣuva, kuhū (amāvāsyā), vyatīpāta, dinakṣaya, solar/lunar eclipses, dvādaśī, Śravaṇa, śukla tṛtīyā, Kārtika (śukla) navamī, the four aṣṭakās, hemanta and śiśira, Māgha śukla saptamī, Maghā with pūrṇimā, pūrṇimā/anumati joined with the month's eponymous nakṣatra, dvādaśī with Anurādhā/Śravaṇa/the three Uttarās, ekādaśī with these, and one's janma-nakṣatra with a saumya yoga. Whatever is done then becomes imperishable."
+
+[names]
+sa = [ "श्रेयःकालाः (भागवते सप्तमस्कन्धे)",]

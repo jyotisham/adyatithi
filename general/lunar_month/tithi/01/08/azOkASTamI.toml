@@ -1,7 +1,7 @@
 default_to_none = true
 id = "azOkASTamI"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "Purushartha Chintamani (Anandashrama) p. 138",]
+references_primary = [ "Purushartha Chintamani (Anandashrama) p. 138", "Nirnaya Sindhu (Chaitra; page not recorded)",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 ब्रह्मोवाच---
@@ -12,6 +12,11 @@ shlokas = """
 त्वामशोक हराभीष्ट  मधुमाससमुद्भव।
 पिबामि शोकसन्तप्तो मामशोकं सदा कुरु॥
 ---गरुड-पुराणात्
++++(Nirnaya Sindhu gives the first verse from Linga Purana via Hemadri, and reads the mantra as त्वामशोक नराभीष्टं मधुमाससमुद्भवम्।)+++
+
+निर्णयसिन्धौ पृथ्वीचन्द्रोदये विष्णुः---
+पुनर्वसुबुधोपेता चैत्रे मासि सिताष्टमी।
+प्रातस्तु विधिवत्स्नात्वा वाजपेयफलं लभेत्॥
 """
 
 [timing]

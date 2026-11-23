@@ -1,0 +1,26 @@
+default_to_none = true
+id = "kArttika-kRSNa-prathamA~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तेषां पुण्यतमा रात्रिः पर्वसन्धौ स्म शारदी ।
+तत्रैव वसतामासीत्कार्तिकी जनमेजय॥३-१८४-१६॥
+तमिस्राभ्युदये तस्मिन्धौम्येन सह पाण्डवाः ।
+सूतैः पौरोगवैः साकं काम्यकं प्रययुर्वनम्॥३-१८४-१८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 3.184.16, 3.184.18",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 8
+anga_type = "tithi"
+anga_number = 16
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: At the onset of the dark half after Kārtikī, Pāṇḍavas with Dhaumya set out for Kāmyaka (MBh 3.184.16, 3.184.18)"
+
+[names]
+sa = [ "पाण्डवानां काम्यकवन-प्रस्थानम्",]

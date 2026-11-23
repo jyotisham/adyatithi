@@ -1,0 +1,32 @@
+default_to_none = true
+id = "phAlguna-aSTamI-rOhiNI~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat1",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशम्पायन उवाच
+अष्टमेऽहनि रोहिण्यां प्रयाताः फाल्गुनस्य ते ।
+वारणावतमासाद्य ददृशुर्नागरं जनम्॥१-१५७-३३॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 1.157.33",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 8, 23,]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 4
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Pāṇḍavas depart for/reach Vāraṇāvata on the eighth day of Phālguna under Rohiṇī (MBh 1.157.33)"
+
+[names]
+sa = [ "पाण्डवानां वारणावत-प्रयाणम्",]

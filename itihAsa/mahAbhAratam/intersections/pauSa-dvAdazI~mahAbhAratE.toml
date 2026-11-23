@@ -1,0 +1,36 @@
+default_to_none = true
+id = "pauSa-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तथैव पौषमासे तु पूज्यो नारायणेति च ।
+वाजपेयमवाप्नोति सिद्धिं च परमां व्रजेत्॥१३-१७१-४॥
+[*युधिष्ठिर उवाच
+सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम् ।
+यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥१३-१७१-१॥
+भीष्म उवाच
+शृणु राजन्यथा गीतं स्वयमेव स्वयम्भुवा ।
+यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥१३-१७१-२॥
+द्वादश्यां पुष्यमासे तु नाम्ना नारायणं तु माम् ।
+उपोष्य पूजयेद्यो मां वाजिमेधफलं लभेत्॥१४-११४-१८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.171.4, 13.171.1, 13.171.2, 14.114.18",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 10
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 12, 27,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Dvādaśī worship of Nārāyaṇa in pauṣa (MBh 13.171.4, 13.171.1, 13.171.2) +++(passage marked additional in the Kumbhakonam text)+++\n- Observance: Dvādaśī fast in pauṣa, worship Viṣṇu as Nārāyaṇa (MBh 14.114.18)"
+
+[names]
+sa = [ "महाभारतोक्ताः पौष-द्वादशी-नियमाः",]

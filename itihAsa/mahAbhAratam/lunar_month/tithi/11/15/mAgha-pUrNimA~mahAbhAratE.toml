@@ -1,0 +1,28 @@
+default_to_none = true
+id = "mAgha-pUrNimA~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+तस्य नित्यं सदाषाढ्यां माघ्यां च बहवो द्विजाः ।
+ईप्सितं भोजनवरं लभन्ते सत्कृतं तथा॥१२-१७०-१७॥
+पुरा प्रभासे ऋषयः समग्राः समेता वै मन्त्रममन्त्रयन्त ।
+चराम सर्वां पृथिवीं पुण्यतीर्थां तन्नः कामं हन्त गच्छाम सर्वे॥१३-१४३-३॥
+जग्मुः पुरस्कृत्य महानुभावं शतक्रतुं वृत्रहणं नरेन्द्राः ।
+तीर्थानि सर्वाणि परिभ्रमन्तो माघ्यां ययुः कौशिकीं पुण्यतीर्थाम्॥१३-१४३-६॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 12.170.17, 13.143.3, 13.143.6",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Virūpākṣa's recurring feast for brāhmaṇas on Māghī (pūrṇimā) (MBh 12.170.17)\n- Narrative: Ṛṣis and royal sages on tīrtha-yātrā reach the Kauśikī on the Māgha full moon (MBh 13.143.3, 13.143.6)"
+
+[names]
+sa = [ "माघी — विरूपाक्षस्य ब्राह्मणभोजनम्, ऋषीणां कौशिकी-गमनं च",]

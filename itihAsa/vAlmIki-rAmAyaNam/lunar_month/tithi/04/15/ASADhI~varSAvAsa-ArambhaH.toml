@@ -1,0 +1,24 @@
+default_to_none = true
+id = "ASADhI~varSAvAsa-ArambhaH"
+tags = [ "SpecialPeriodStart", "Ramayana", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+निवृत्तकर्मायतनो नूनं संचितसंचयः।
+आषाढीमभ्युपगतो भरतः कोसलाधिपः॥४-२८-५५॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 4.28.55",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 4
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "On the Āṣāḍhī (Āṣāḍha pūrṇimā), having finished outdoor work and laid in stores, the householder/king enters the rainy-season observance — as Rāma says Bharata will have done."
+
+[names]
+sa = [ "आषाढी (वर्षावास-आरम्भः)",]

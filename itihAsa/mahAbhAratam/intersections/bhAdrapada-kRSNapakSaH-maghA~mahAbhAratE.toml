@@ -1,0 +1,37 @@
+default_to_none = true
+id = "bhAdrapada-kRSNapakSaH-maghA~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+एते दोषा मया प्रोक्तास्त्रिषु यः पादमुत्सृजेत् ।
+विश्वामित्र उवाच
+श्रूयतां परमं गुह्यं रहस्यं धर्मसंहितम् ।
+परमान्नेन यो दद्यात्पितॄणामौपहारिकम्॥१३-१८९-३१॥
+गजच्छायायां पूर्वस्यां कुतपे दक्षिणामुखः ।
+यदा भाद्रपदे मासि भवते बहुले मघा॥१३-१८९-३२॥
+श्रूयतां तस्य दानस्य यादृशो गुणविस्तरः ।
+कृतं तेन महच्छ्राद्धं वर्षाणीह त्रयोदश॥१३-१८९-३३॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.189.31, 13.189.32, 13.189.33",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 10
+
+[description]
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha with paramānna when Maghā falls in Bhādrapada kṛṣṇa-pakṣa (MBh 13.189.31, 13.189.32, 13.189.33) +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "महाभारतोक्ताः भाद्रपद-कृष्णपक्ष-मघा-नियमाः",]

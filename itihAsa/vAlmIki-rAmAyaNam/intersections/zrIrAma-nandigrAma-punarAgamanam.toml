@@ -1,0 +1,31 @@
+default_to_none = true
+id = "zrIrAma-nandigrAma-punarAgamanam"
+tags = [ "PuranaEvents", "Ramayana", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+पूर्णे चतुर्दशे वर्षे पञ्चम्यां लक्ष्मणाग्रजः।
+भरद्वाजाश्रमं प्राप्य ववन्दे नियतो मुनिम्॥६-१२४-१॥
+तां गङ्गां पुनरासाद्य वसन्तं मुनिसंनिधौ।
+अविघ्नं पुष्ययोगेन श्वो रामं द्रष्टुमर्हसि॥६-१२६-५४॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 6.124.1, 6.126.54",]
+
+[timing]
+default_to_none = true
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = 8
+[[timing.intersection_groups.angas]]
+anga_type = "tithi"
+anga_number = [ 6, 21,]
+
+[description]
+en = "Śrī Rāma reached Bharadvāja's āśrama on pañcamī at the completion of the fourteenth year; Hanumān tells Bharata he will see Rāma 'tomorrow, under Puṣya'. Hence Puṣya on the following (ṣaṣṭhī) day. The pakṣa and month are not stated. +++(ṣaṣṭhī derived: day after pañcamī)+++"
+
+[names]
+sa = [ "श्रीरामस्य नन्दिग्रामे पुनरागमनम्",]

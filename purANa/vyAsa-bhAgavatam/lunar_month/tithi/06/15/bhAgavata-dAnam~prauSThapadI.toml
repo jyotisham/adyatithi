@@ -1,0 +1,24 @@
+default_to_none = true
+id = "bhAgavata-dAnam~prauSThapadI"
+tags = [ "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+प्रौष्ठपद्यां पौर्णमास्यां हेमसिंहसमन्वितम्।
+ददाति यो भागवतं स याति परमां गतिम्॥१२-१३-१२॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 12.13.12 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Gifting the Bhāgavata with a golden lion on the Prauṣṭhapada (Bhādrapada) pūrṇimā leads to the highest goal."
+
+[names]
+sa = [ "भागवतदानम् (प्रौष्ठपदी पौर्णमासी)",]

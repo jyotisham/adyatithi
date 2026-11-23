@@ -1,0 +1,25 @@
+default_to_none = true
+id = "indradhvaja-pAtaH~AzvayujI"
+tags = [ "LessCommonFestivals", "Ramayana", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+इन्द्रध्वज इवोद्धूतः पौर्णमास्यां महीतले।
+आश्वयुक्समये मासि गतश्रीको विचेतनः।
+बाष्पसंरुद्धकण्ठस्तु वाली चार्तस्वरः शनैः॥४-१६-३७॥
+---श्रीमद्वाल्मीकीये रामायणे (गीताप्रेस-संस्करणम्)
+"""
+references_primary = [ "Śrīmad Vālmīki-Rāmāyaṇa (Gita Press) 4.16.37",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+anga_type = "tithi"
+anga_number = 15
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Vālmīki compares the fallen Vālī to Indra's banner thrown down on the Āśvayuja pūrṇimā — attesting that observance on the full moon (cf. `zakradhvajapAtaH`, kept on dvādaśī)."
+
+[names]
+sa = [ "इन्द्रध्वज-पातः (आश्वयुजी)",]

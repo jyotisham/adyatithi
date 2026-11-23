@@ -1,0 +1,34 @@
+default_to_none = true
+id = "phAlguna-pUrvaphalgunI+uttaraphalgunI-madhyAhnE~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+वैशम्पायन उवाच ।
+एवमुक्ता ततः शक्रमाजुहाव यशस्विनी ।
+अथाजगाम देवेन्द्रो जनयामास चार्जुनम्॥१-१३२-१६॥
+`उत्तराभ्यां तु पूर्वाभ्यां फल्गुनीभ्यां ततो दिवा ।
+जातस्तु फाल्गुने मासि तेनासौ फल्गुनःस्मृतः'॥१-१३२-१७॥
+यस्मिन्नृक्षे समुत्पन्नः पार्थस्तस्य च धीमतः ।
+तस्मिन्नुत्तरफल्गुन्यां प्रवृत्ते स्वस्तिवाचने॥१-१३४-१२॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 1.132.16, 1.132.17, 1.134.12",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 12
+kaala = "मध्याह्नः"
+window = "sunrise_to_next_sunrise"
+jsonClass = "HinduCalendarEventTiming"
+
+[[timing.intersection_groups]]
+[[timing.intersection_groups.angas]]
+anga_type = "nakshatra"
+anga_number = [ 11, 12,]
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: Birth of Arjuna by day under the Phalgunīs in Phālguna month (MBh 1.132.16, 1.132.17, 1.134.12) +++(kāla: \"by day\" (divā), taken as the madhyāhna window)+++ +++(passage marked additional in the Kumbhakonam text)+++"
+
+[names]
+sa = [ "अर्जुन-जन्म (फाल्गुने फल्गुनीषु)",]

@@ -1,5 +1,6 @@
 default_to_none = true
 id = "bhISmASTamI"
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 12.46.3–4",]
 tags = [ "SpecialPuja", "CommonFestivals", "CommonFestivals",]
 references_secondary = [ "Smriti Kaustubha p.480", "Laugakshi Smriti", "Padma Puranam"]
 shlokas = """
@@ -32,6 +33,12 @@ shlokas = """
 प्रार्थना---
 भीष्मः शान्तनवो वीरः सत्यवादी जितेन्द्रियः।
 आभिरद्भिरवाप्नोतु पुत्रपौत्रोचिताः क्रियाः॥
+प्रवृत्तमात्रे त्वयनमुत्तरेण दिवाकरे ।
+`शुक्लपक्षस्य चाष्टम्यां माघमासस्य पार्थिव॥१२-४६-३॥
+प्राजापत्ये च नक्षत्रे मध्यं प्राप्ते दिवाकरे ।'
+समावेशयदात्मानमात्मन्येव समाहितः॥१२-४६-४॥
+---महाभारते (कुम्भघोण-संस्करणम्)
++++(Mahābhārata: Bhīṣma composed himself and gave up the body when uttarāyaṇa had just begun, on Māgha śukla aṣṭamī, in the Prājāpatya (Rohiṇī) nakṣatra, the sun at the meridian. These two verses are in a passage the Kumbhakonam text marks as additional)+++
 """
 jsonClass = "HinduCalendarEvent"
 

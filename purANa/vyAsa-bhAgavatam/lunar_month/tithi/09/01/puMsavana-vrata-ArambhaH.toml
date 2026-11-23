@@ -1,0 +1,26 @@
+default_to_none = true
+id = "puMsavana-vrata-ArambhaH"
+tags = [ "VratamStart", "SpecialPeriodStart", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+श्रीशुक उवाच— शुक्ले मार्गशिरे पक्षे योषिद् भर्तुरनुज्ञया।
+आरभेत व्रतमिदं सार्वकामिकमादितः॥६-१९-२॥
+निशम्य मरुतां जन्म ब्राह्मणाननुमन्त्र्य च।
+स्नात्वा शुक्लदती शुक्ले वसीतालङ्कृताम्बरे॥६-१९-३॥
+---श्रीमद्भागवते महापुराणे
+"""
+references_primary = [ "Śrīmad Bhāgavatam 6.19.2–3 (Mādhva recension: adhyāya division of the Madhva tradition, e.g. 22 adhyāyas in Skandha 8 and 105 in Skandha 10)",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 9
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "The twelve-month Puṃsavana vrata (for a wife, with her husband's consent) begins in the bright fortnight of Mārgaśīrṣa. +++(आदितः — taken as śukla pratipad)+++"
+
+[names]
+sa = [ "पुंसवनव्रत-आरम्भः",]

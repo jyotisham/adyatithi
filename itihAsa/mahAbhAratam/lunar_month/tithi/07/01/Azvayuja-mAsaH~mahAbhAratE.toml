@@ -1,0 +1,35 @@
+default_to_none = true
+id = "Azvayuja-mAsaH~mahAbhAratE"
+tags = [ "MahaBharata", "Vratam", "Cat4",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+घृतं मासे आश्वयुजि विप्रभ्यो यः प्रयच्छति ।
+तस्मै प्रयच्छतो रूपं प्रीतौ देवाविहाश्विनौ॥१३-१००-१०॥
+तथैवाश्वयुजं मासमेकभक्तेन यः क्षिपेत् ।
+प्रज्ञावान्वाहनाढ्यश्च बहुपुत्रश्च जायते॥१३-१६३-२८॥
+यश्चाप्याश्वयुजं मासमेकभुक्तेन वर्तते ।
+मद्गायत्रीं जपेद्भक्त्या मद्गतेनान्तरात्मना ।
+द्विसन्ध्यं वा त्रिसन्ध्यं वा शतमष्टोत्तरं तु वा॥१४-११३-५१॥
+विप्रमग्रासने कृत्वा संयतेन्द्रियमानसः ।
+व्रतान्ते भोजयेद्विप्रांस्तस्य पुण्यफलं शृणु॥१४-११३-५२॥
+अश्वमेधस्य यत्पुण्यं विधिवत्पाण्डुनन्दन ।
+तत्पुण्यफलमासाद्य मम लोके महीयते॥१४-११३-५३॥
+ततश्चापि च्युतः कालाच्छ्वेतद्वीपे प्रजायते ।
+तत्र भुक्त्वा च भोगांश्च ततो विप्रवरो भवेत्॥१४-११३-५४॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.100.10, 13.163.28, 14.113.51, 14.113.52, 14.113.53, 14.113.54",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 7
+anga_type = "tithi"
+anga_number = 1
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "Throughout the month of Azvayuja (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Gift of ghee to brāhmaṇas in Āśvayuja (MBh 13.100.10)\n- Observance: Ekabhakta through the month of āśvayuja (MBh 13.163.28)\n- Observance: Ekabhakta through the month of āśvayuja (MBh 14.113.51, 14.113.52, 14.113.53, 14.113.54)"
+
+[names]
+sa = [ "महाभारतोक्ताः आश्वयुज-मास-नियमाः",]
