@@ -106,7 +106,7 @@ The chapter places the daily dharmaghaTa with the prapA begun in caitra, not on 
 
 Given in the Śabdakalpadruma s.v. dharmaghaTa as part of a vrata procedure. No Purāṇa is named there.
 """
-references_primary = [ "Smriti Kaustubha p.109-110", "Bhavishya Puranam, Uttara Parva, Adhyaya 172.18-21",]
+references_primary = [ "Smriti Kaustubham p.109-110", "Bhavishya Puranam, Uttara Parva, Adhyaya 172.18-21",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

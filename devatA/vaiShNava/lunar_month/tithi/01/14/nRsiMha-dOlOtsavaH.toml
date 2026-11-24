@@ -6,7 +6,7 @@ shlokas = """
 दक्षिणाभिमुखं देवं दोलमानं सुरेश्वरम्।
 सम्पूजितं सकृदृष्ट्वा सर्वपापैः प्रमुच्यते॥
 """
-references_primary = [ "Smriti Kaustubham p.90",]
+references_primary = [ "Smriti Kaustubham p.104-105",]
 tags = [ "LessCommonFestivals",]
 jsonClass = "HinduCalendarEvent"
 

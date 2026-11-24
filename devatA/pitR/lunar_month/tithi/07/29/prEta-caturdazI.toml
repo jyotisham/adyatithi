@@ -1,7 +1,7 @@
 default_to_none = true
 id = "prEta-caturdazI"
 tags = [ "LessCommonFestivals",]
-references_primary = [ "Vrata Chudamani", "Smriti Kaustubha p. 371"]
+references_primary = [ "Vrata Chudamani", "Smriti Kaustubham p.371"]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 ज्योतिर्निबन्धे---

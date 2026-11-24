@@ -1,7 +1,7 @@
 default_to_none = true
 id = "kaTadAnOtsavaH"
 tags = [ "DanamDays", "LessCommonFestivals",]
-references_secondary = [ "Smriti Kaustubham",]
+references_secondary = [ "Smriti Kaustubham p.240",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

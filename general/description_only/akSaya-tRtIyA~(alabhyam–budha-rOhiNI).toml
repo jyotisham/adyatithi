@@ -72,7 +72,7 @@ shlokas = """
 कोकामुखे तु कौशिक्यां स्नात्वा स्वर्गे वसेन्नरः॥
 ॐ अद्येत्यादि अश्वमेधफलप्ताप्तिकामः कौशिक्यां स्नानमहं करिष्ये इति तृतीयायां सङ्कल्पः।
 """
-references_primary = [ "Smriti Kaustubha p.109-110"]
+references_primary = [ "Smriti Kaustubham p.109-110"]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
