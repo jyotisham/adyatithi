@@ -22,7 +22,7 @@ shlokas = """
 इमां सांवत्सरीं पूजां भगवन् परिपूरय॥
 ---स्मृतिकौस्तुभे
 """
-references_primary = [ "Smriti Kaustubham p.101", "Smriti Kaustubham p.101-103",]
+references_primary = [ "Smriti Kaustubham p.101-103",]
 tags = ["LessCommonFestivals"]
 jsonClass = "HinduCalendarEvent"
 
