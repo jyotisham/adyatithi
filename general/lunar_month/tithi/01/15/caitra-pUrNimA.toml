@@ -1,6 +1,16 @@
 default_to_none = true
 id = "caitra-pUrNimA"
 tags = [ "PurnimaDays", "CommonFestivals",]
+shlokas = """
+विष्णुस्मृतौ---
+चैत्री चित्रायुता चेत्स्यात्तस्यां चित्रवस्त्रप्रदानेन सौभाग्यमाप्नोति।
+
+वायुपुराणे---
+संवत्सरकृतार्चायाः साफल्यायाखिलान् सुरान्।
+दमनेनार्चयेच्चैत्र्यां विशेषेण सदाशिवम्॥
+---स्मृतिकौस्तुभे
+"""
+references_primary = [ "Smriti Kaustubham p.106",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

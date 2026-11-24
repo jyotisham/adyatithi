@@ -2,7 +2,7 @@ default_to_none = true
 id = "bhavAnyutpattiH"
 tags = [ "CommonFestivals",]
 references_primary = [ "Nirnaya Sindhu (Chaitra; page not recorded)",]
-references_secondary = [ "Kielhorn (1897)",]
+references_secondary = [ "Kielhorn (1897)", "Smriti Kaustubham p.94",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 निर्णयसिन्धौ---
@@ -13,6 +13,11 @@ shlokas = """
 काशीखण्डे---
 भवानीं यस्तु पश्येत शुक्लाष्टम्यां मधौ नरः।
 न जातु शोकं लभते सदानन्दमयो भवेत्॥
+
+काशीखण्डे---
+चैत्राष्टम्यां महायात्रा भवान्याः कारयेत्सुधीः।
+अष्टाधिकाः प्रकर्तव्याः शतकृत्वः प्रदक्षिणाः॥
+---स्मृतिकौस्तुभे
 """
 
 [timing]
