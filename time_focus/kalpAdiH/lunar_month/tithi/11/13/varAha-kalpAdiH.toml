@@ -14,7 +14,7 @@ shlokas = """
 कल्पानामादयो ह्येता दत्तस्याक्षय्यकारकाः॥
 ---मत्स्यपुराणे
 """
-references_primary = [ "Smriti Kaustubham p.87--88",]
+references_primary = [ "Smriti Kaustubham p.87-88",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

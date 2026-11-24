@@ -34,7 +34,7 @@ shlokas = """
 इति चार्घ्यं समर्प्याथ पश्चात्स्नानं समाचरेत्।
 ---स्कन्दपुराणे वैष्णवखण्डे वैशाखमासमाहात्म्ये ४
 """
-references_secondary = [ "Smriti Kaustubha p.107",]
+references_secondary = [ "Smriti Kaustubham p.107",]
 references_primary = [ "Padma Puranam, Patala Khanda, Adhyaya 95.6-11", "Skanda Puranam, Vaishnava Khanda, Vaishakha Masa Mahatmya, Adhyaya 4.33-37",]
 jsonClass = "HinduCalendarEvent"
 

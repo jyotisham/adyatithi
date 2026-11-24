@@ -1,7 +1,7 @@
 default_to_none = true
 id = "mArgazIrSa-pUrNimA"
 tags = [ "PurnimaDays", "LessCommonFestivals",]
-references_primary = [ "Smriti Kaustubha p.306",]
+references_primary = [ "Smriti Kaustubham p.430",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

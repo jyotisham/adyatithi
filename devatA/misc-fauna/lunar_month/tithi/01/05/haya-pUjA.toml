@@ -26,7 +26,7 @@ shlokas = """
 लभते साऽथवा सोऽपि स्वमनोरथजं फलम्॥
 ---मदनरत्ने पाद्मे पातालखण्डे (स्मृति-कौस्तुभे)
 """
-references_primary = [ "Smriti Kaustubham p.92--93",]
+references_primary = [ "Smriti Kaustubham p.92-93",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

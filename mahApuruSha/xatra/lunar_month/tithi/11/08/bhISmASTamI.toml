@@ -2,7 +2,7 @@ default_to_none = true
 id = "bhISmASTamI"
 references_primary = [ "Mahābhārata (Kumbhakonam recension) 12.46.3–4",]
 tags = [ "SpecialPuja", "CommonFestivals", "CommonFestivals",]
-references_secondary = [ "Smriti Kaustubha p.480", "Laugakshi Smriti", "Padma Puranam"]
+references_secondary = [ "Smriti Kaustubham p.480", "Laugakshi Smriti", "Padma Puranam"]
 shlokas = """
 माघमासि सिताष्टम्यां सलिले भीष्मतर्पणम्।
 श्राद्धं च ये नराः कुर्युस्ते स्युः सन्ततिभागिनः॥
