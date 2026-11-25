@@ -1,0 +1,26 @@
+default_to_none = true
+id = "RgvEda-upAkarma"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "nakshatra"
+anga_number = 22
+kaala = "मैत्रः"
+priority = "paraviddha"
+nirnaya = "upaakarma"
+jsonClass = "HinduCalendarEventTiming"
+
+[timing.nirnaya_options]
+maudhya_graha = "guru"
+on_flaw = "chain"
+fallbacks = [ { month_number = 6, anga_type = "tithi", anga_number = 5, kaala = "मध्याह्नः" }, { month_number = 4, anga_type = "tithi", anga_number = 5, kaala = "मध्याह्नः" },]
+
+[description]
+en = "The first zravaNa-nakSatra of zrAvaNa-mAsa (at the maitra muhUrta, paraviddha); if that day has an eclipse (before relative ghaTikA 45), a saGkramaNa, or a guru mAudhya/bAlya/vArdhakya flaw, the chain continues with bhAdrapada zukla-paJcamI, then ASADha zukla-paJcamI (each at madhyAhna, paraviddha), and the first unflawed day is used. If all three are flawed: a primary day with only a mAudhya-type flaw is used anyway, performed zAntipUrvakam (`RgvEda-upAkarma~zAntipUrvakam`); otherwise the first fall-back found is used despite its flaws. Date is decided by the `upaakarma` nirNaya procedure in jyotisha (`jyotisha/panchaanga/temporal/festival/nirnaya/upaakarma.py`), with the primary day in `[timing]` and the fall-backs in `[timing.nirnaya_options]`."
+
+[names]
+sa = [ "ऋग्वेद-उपाकर्म",]
