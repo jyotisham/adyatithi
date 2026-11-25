@@ -12,10 +12,21 @@ jsonClass = "HinduCalendarEvent"
 
 [timing]
 default_to_none = true
+month_type = "lunar_month"
+month_number = 6
+anga_type = "nakshatra"
+anga_number = 13
+kaala = "मध्याह्नः"
+priority = "paraviddha"
+nirnaya = "upaakarma"
 jsonClass = "HinduCalendarEventTiming"
 
+[timing.nirnaya_options]
+maudhya_graha = "maGgala"
+on_flaw = "keep"
+
 [description]
-en = "Date is computed in code (`UpakarmaFestivalAssigner.assign_saamopakarma`, in jyotisha) rather than by this file: the first occurrence of hasta-nakSatra in bhAdrapada-mAsa. (The switch rule for when this day has an eclipse/saGkrAnti/mAudhya flaw is not yet settled; see the TODO in that function.)"
+en = "The first hasta-nakSatra of bhAdrapada-mAsa (at madhyAhna, paraviddha). The switch rule for when this day has an eclipse/saGkrAnti/maGgala-mAudhya flaw is not yet settled, so the day is kept even then (`on_flaw = \"keep\"`). Date is decided by the `upaakarma` nirNaya procedure in jyotisha (`jyotisha/panchaanga/temporal/festival/nirnaya/upaakarma.py`), with the primary day in `[timing]` and the fall-backs in `[timing.nirnaya_options]`."
 
 [names]
 sa = [ "सामवेद-उपाकर्म",]

@@ -13,6 +13,7 @@ A repository to host details of many festivals/observances of Indian hindus
 - Paths for independently determined festivals: `[repository_root]/[month_type]/[anga_type]/[month_num]/[anga_num]/[festival_id].toml`, where month_type is one of `[lunar_month, solar_sidereal_month, tropical]`, and anga_type is one of `[day, tithi, nakshatra, yoga, karana]`.
 - Paths for relatively determined festivals: `[repository_root]/[anchor_festival_id]/offset__[day]/[festival_id].toml`, where offset `day` may be negative.
 - There is provision for giving information about festivals without specifying timing (because complicated timing is more easily specified as code). In such a case, path will be `[repository_root]/description_only/[arbitrary_path]/[festival_id].toml`.
+- Festivals whose day is decided by a named procedure in jyotisha (`[timing] nirnaya = "..."`, with the procedure's parameters in `[timing.nirnaya_options]`; see `jyotisha/panchaanga/temporal/festival/nirnaya/`) go to `[repository_root]/nirnaya/[festival_id].toml`. Their other timing fields describe the primary day, which the procedure may move. No other part of the festival engine reads them.
 
 One can run the migrator script (jyotisha/panchaanga/temporal/festival/rules/migrator.py) to fix the path automatically.
 

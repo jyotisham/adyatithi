@@ -1,0 +1,26 @@
+default_to_none = true
+id = "zukla-yajurvEda-upAkarma"
+tags = [ "CommonFestivals",]
+jsonClass = "HinduCalendarEvent"
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 5
+anga_type = "tithi"
+anga_number = 15
+kaala = "मध्याह्नः"
+priority = "paraviddha"
+nirnaya = "upaakarma"
+jsonClass = "HinduCalendarEventTiming"
+
+[timing.nirnaya_options]
+maudhya_graha = "zukra"
+on_flaw = "switch"
+fallbacks = [ { anga_number = 5 },]
+
+[description]
+en = "For zukla Yajurveda zAkhA-s (eg. mAdhyandina, kANva). zrAvaNa-pUrNimA at madhyAhna, paraviddha -- same primary as the (kRSNa) yajurvEda-upAkarma rule. If that day has an eclipse (before relative ghaTikA 45), saGkramaNa, or zukra mAudhya/bAlya/vArdhakya flaw, zukla-paJcamI of zrAvaNa is used instead (without re-checking it for the same flaws) -- like a single switch, rather than a pUrNimA of a different masa as in the (kRSNa) yajurvEda-upAkarma / bOdhAyana-yajurvEda-upAkarma rules. Date is decided by the `upaakarma` nirNaya procedure in jyotisha (`jyotisha/panchaanga/temporal/festival/nirnaya/upaakarma.py`), with the primary day in `[timing]` and the fall-backs in `[timing.nirnaya_options]`."
+
+[names]
+sa = [ "शुक्ल-यजुर्वेद-उपाकर्म",]
