@@ -1,6 +1,7 @@
 default_to_none = true
 id = "madhusUdana-pUjA"
 tags = [ "SpecialVratam", "LessCommonFestivals",]
+references_primary = [ "Smriti Kaustubham p.114",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 वैशाखमासि द्वादश्यां पूजयेन्मधुसूदनम्।
