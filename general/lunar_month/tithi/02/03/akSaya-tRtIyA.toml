@@ -105,8 +105,17 @@ The chapter places the daily dharmaghaTa with the prapA begun in caitra, not on 
 पानीयस्य प्रदानेन तृप्तिर्भवतु शाश्वती॥
 
 Given in the Śabdakalpadruma s.v. dharmaghaTa as part of a vrata procedure. No Purāṇa is named there.
+
+निर्णयामृते देवीपुराणे---
+तृतीयायां तु वैशाखे रोहिण्यृक्षे प्रपूज्य तु।
+उदकुम्भप्रदानेन शिवलोके महीयते॥
+
+विष्णुपुराणे---
+पानीयमप्यत्र तिलैर्विमिश्रं दद्यात्पितृभ्यः प्रयतो मनुष्यः।
+श्राद्धं कृतं तेन समाः सहस्रं रहस्यमेतन्मुनयो वदन्ति॥
+---स्मृतिकौस्तुभे
 """
-references_primary = [ "Smriti Kaustubham p.109-110", "Bhavishya Puranam, Uttara Parva, Adhyaya 172.18-21",]
+references_primary = [ "Smriti Kaustubham p.109-112", "Bhavishya Puranam, Uttara Parva, Adhyaya 172.18-21",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -1,7 +1,7 @@
 default_to_none = true
 id = "kaliyugAdiH"
 tags = [ "YugadiDays", "LessCommonFestivals",]
-references_primary = [ "`vaidyanAtha-dIkSitIyam`", "Purushartha Chintamani p. 507"]
+references_primary = [ "`vaidyanAtha-dIkSitIyam`", "Purushartha Chintamani p. 507", "Smriti Kaustubham p.110-112",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 स्मृत्यन्तरे---
@@ -23,7 +23,21 @@ shlokas = """
 स्नानं दानं जपो होमः पुण्यानन्त्याय कल्पते॥
 पुरुषार्थचिन्तामणौ मनुः---
 सहस्रगुणितं दानं भवेद्दत्तं युगादिषु।
-कर्म श्राद्धादिकं चैव तथा मन्वन्तरादिषु॥"""
+कर्म श्राद्धादिकं चैव तथा मन्वन्तरादिषु॥
+
+भविष्ये---
+द्वे शुक्ले द्वे तथा कृष्णे युगादी कवयो विदुः।
+शुक्ले पूर्वाह्निके ज्ञेये कृष्णे चैवापराह्निके॥
+
+पुलस्त्यः---
+अयनद्वितये श्राद्धं विषुवद्वितये तथा।
+युगादिषु च सर्वासु पिण्डनिर्वपणादृते॥
+
+स्मृतिचन्द्रिकायाम् (अधिमासे)---
+युगादिकं मासिकं च श्राद्धं चापरपक्षिकम्।
+मन्वादिकं तैर्थिकं च कुर्यान्मासद्वयेऽपि च॥
+---स्मृतिकौस्तुभे
+"""
 
 [timing]
 default_to_none = true

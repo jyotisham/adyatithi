@@ -9,6 +9,7 @@ shlokas = """
 वैशाखस्य सिते पक्षे स यात्यच्युतमन्दिरम्।
 """
 references_primary = [ "Dharma Sindhu p.38",]
+references_secondary = [ "Smriti Kaustubham p.109",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

@@ -33,8 +33,18 @@ shlokas = """
 गृहाणार्घ्यं मया दत्तं यथोक्तफलदो भव॥३६॥
 इति चार्घ्यं समर्प्याथ पश्चात्स्नानं समाचरेत्।
 ---स्कन्दपुराणे वैष्णवखण्डे वैशाखमासमाहात्म्ये ४
+
+वामनपुराणे---
+मासमेवं बहिः स्नात्वा नद्यादौ विमले जले।
+एकादश्यां वा द्वादश्यां पौर्णमास्यामथापि वा।
+उपोष्य नियतो भूत्वा कुर्यादुद्यापनं बुधः॥
+
+अशक्तस्तु---
+वैशाख्यां विधिना स्नात्वा भोजयेद्ब्राह्मणान्दश।
+कृसरं सर्वपापेभ्यो मुच्यते नात्र संशयः॥
+---स्मृतिकौस्तुभे
 """
-references_secondary = [ "Smriti Kaustubham p.107",]
+references_secondary = [ "Smriti Kaustubham p.107", "Smriti Kaustubham p.116",]
 references_primary = [ "Padma Puranam, Patala Khanda, Adhyaya 95.6-11", "Skanda Puranam, Vaishnava Khanda, Vaishakha Masa Mahatmya, Adhyaya 4.33-37",]
 jsonClass = "HinduCalendarEvent"
 
